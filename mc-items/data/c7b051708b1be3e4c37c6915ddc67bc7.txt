@@ -1,0 +1,525 @@
+
+
+
+
+海晶灯 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			海晶灯
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+海晶灯
+
+
+
+
+
+
+
+
+类型
+
+发光方块
+
+
+
+受重力影响
+
+否
+
+
+
+透明
+
+是
+
+
+
+亮度
+
+15
+
+
+
+爆炸抗性
+
+1.5
+
+
+
+硬度
+
+0.3
+
+
+
+开采工具
+
+任何工具
+
+
+
+可再生
+
+是
+
+
+
+可堆叠
+
+可以（64）
+
+
+
+可燃烧
+
+否
+
+
+
+首次出现
+
+详见历史
+
+
+
+掉落物
+
+海晶砂粒 (2–3)
+
+
+
+数据值
+
+DEC:&#160;169 HEX:&#160;A9 BIN:&#160;10101001
+
+
+
+名称
+
+sea_lantern
+
+
+
+
+海晶灯(Sea Lantern)是一个仅在海底遗迹生成的光源。
+
+
+
+目录
+
+
+1 获取
+
+1.1 自然生成
+1.2 合成
+
+
+2 用途
+
+2.1 作为光源
+
+
+3 历史
+4 画廊
+5 参考
+
+
+
+获取[编辑 | 编辑源代码]
+自然生成[编辑 | 编辑源代码]
+海晶灯会在海底遗迹中自然生成并用来照明。它们只能被带有精准采集附魔的工具采集，否则只会掉落2-3个海晶砂粒（使用时运工具最高可以达到5个）。
+合成[编辑 | 编辑源代码]
+
+
+材料
+合成配方
+
+
+
+海晶砂粒&#160;+
+海晶碎片
+
+
+
+
+
+
+用途[编辑 | 编辑源代码]
+作为光源[编辑 | 编辑源代码]
+海晶灯放出亮度为15的光，是游戏中最高亮度的方块之一。它与萤石，红石灯，南瓜灯和信标释放出的亮度一样。
+历史[编辑 | 编辑源代码]
+
+
+正式版本
+
+
+1.8
+2014年5月17日
+第一个海晶灯的预览图像在Jeb的Instagram页面上被发表。
+
+
+2014年5月29日
+Jeb将这个新方块命名为“Sea Lantern”。
+
+
+2014年6月11日
+Jeb放出了新的海晶灯的材质。
+
+
+14w25a
+添加了海晶灯。
+
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+海晶灯的第一张截图，图中还有海晶石。
+
+
+
+
+
+
+
+
+
+上一张图片的加亮版本。
+
+
+
+
+参考[编辑 | 编辑源代码]
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=海晶灯&amp;oldid=114038”					
+				分类：可再生资源方块Planned blocksHESI-Block-Unchecked隐藏分类：Building block recipeRecipe using Prismarine CrystalsRecipe using Prismarine Shard				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語PolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月30日 (星期六) 12:54。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

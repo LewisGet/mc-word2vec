@@ -1,0 +1,734 @@
+
+
+
+
+压力板 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			压力板
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+压力板
+
+
+
+
+
+
+
+
+类型
+
+非固体方块
+
+
+
+受重力影响
+
+否
+
+
+
+透明
+
+是
+
+
+
+亮度
+
+无
+
+
+
+爆炸抗性
+
+2.5
+
+
+
+硬度
+
+0.5
+
+
+
+开采工具
+
+
+
+
+
+可再生
+
+是
+
+
+
+可堆叠
+
+可以 (64)
+
+
+
+可燃烧
+
+否
+
+
+
+首次出现
+
+Alpha 1.0.1
+
+
+
+掉落物
+
+自身
+
+
+
+数据值
+
+
+石质压力板
+DEC:&#160;70 HEX:&#160;46 BIN:&#160;01000110
+
+
+木质压力板
+DEC:&#160;72 HEX:&#160;48 BIN:&#160;01001000
+
+
+
+
+名称
+
+
+石质
+stone_pressure_plate
+木质
+wooden_pressure_plate
+
+
+
+
+
+压力板(Pressure Plate)是一种可以放在方块上表面的开关。如果使用导线将压力板与物体连接（或者放在能被激活的方块的侧面），当压力板被玩家或生物（也有可能是掉落的物品。详见下文）踩下时会提供电能给供能目标，离开压力板后压力板会弹起，恢复到不供电状态。压力板是游戏里现有的六种开关之一。
+石质压力板可以被镐采集。
+
+
+
+目录
+
+
+1 合成
+2 触发
+3 你知道吗
+4 画廊
+5 历史
+6 另见
+
+
+
+合成[编辑 | 编辑源代码]
+压力板有两种质地：石质和木质，分别由石头与木板合成。压力板经常被放在门前以自动开、关门。
+
+
+名称
+材料
+合成配方
+
+
+
+石质压力板
+
+
+石头
+
+
+
+
+
+
+
+木质压力板
+
+
+任何木板
+
+
+
+
+
+
+触发[编辑 | 编辑源代码]
+压力板会在下列任一情况下被触发：
+
+被实体踩下时。
+玩家飞到压力板上足够近的距离。在多人游戏中，压力板的“触发半径”要更大一些——也就是说你不可能在非疾跑的情况下通过跳过压力板来避免触发它。
+掉落的物品（就是你可以捡起来的）落到木质压力板上时（石质的不会受影响）。沙子或沙砾落到压力板上时会转化为掉落的物品，然而除非压力板四周有墙面，否则转化的掉落的物品无法精准地落到压力板上。
+矿车：
+
+任何种类的矿车都能触发木质压力板。
+玩家或是生物乘坐矿车时也可以触发石质压力板（但动力矿车与运输矿车无法驱动石质压力板）。
+除非矿车具有很高的动能，否则矿车驶过压力板时会停在压力板上。（因为压力板不是铁轨）（用探测铁轨可达到传送电能又不致于截停矿车的效果）
+只要建造两到三个成功的可以作为对角线走向的铁轨弯道，矿车驶过其弯道部分时能够激活铁轨邻近的压力板（就像是矿车的边角扫过了压力板一样）。（应当建造至少两个弯道使矿车经过时沿对角线行驶，这样矿车边缘就能扫到铁轨外面了。如果只建造一个弯道，那么矿车只会直接转90度，不会有任何过渡的动作。）
+
+
+钓鱼竿
+
+钓鱼竿可以激活木质压力板。（详见 这个视频)
+
+
+箭（只能触发木质压力板）：
+
+箭可以直接激活木质压力板，直到其消失或被玩家回收。
+
+
+
+压力板经常用于制作陷阱。例如你可以将压力板依附方块的下方放置TNT，成为一个简易的地雷。沙漠神殿中有天然的压力板TNT陷阱。
+压力板也可以用于确保你忘记关门的情况下门也会自动关闭。但别忘了最好只在门的内侧放置压力板。
+你知道吗[编辑 | 编辑源代码]
+
+如果你尝试在压力板上放置蛋糕，蛋糕看上去就像悬在空中一样。
+由于栅栏是透明方块，放在栅栏上的压力板无法激活毗邻栅栏侧面的红石线。
+在NPC村庄中听到的一些“恐怖的”声音仅仅是村民无意中激活了他们的压力板桌子。
+压力板的侧面是可以放置画的，使得其像是放在空气中一样。
+压力板能被放置在漏斗之上。石质压力板并不影响漏斗收集其上的物品。
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Beta 1.8中位于栅栏上方的压力板
+
+
+
+
+
+
+
+
+
+压力板在NPC村庄里被摆放为桌子的形状
+
+
+
+
+
+历史[编辑 | 编辑源代码]
+
+
+Alpha
+
+
+1.0.1
+File:Grid Stone Pressure Plate pre 1.9.pngFile:Grid Wooden Pressure Plate pre 1.9.png Added pressure plates.
+
+
+Beta
+
+
+1.3
+Pressure plates only require two wood planks/stone to craft; previous versions required three (this recipe now creates wooden or stone slabs).
+
+
+1.5
+Stone pressure plates are now used to craft detector rails.
+
+
+1.6
+Wooden plates no longer require a pickaxe to be successfully extracted; before they used to. Both types of plates can also be recovered by destroying the block they are on.
+
+
+Pressure plates may no longer be placed on leaf blocks. Pressure plates placed on leaf blocks prior to this update will drop when stepped on and may be recollected.
+
+
+1.8
+Pressure plates are placeable on fences, though they are not functional as pressure plates in this configuration.
+
+
+正式版本
+
+
+1.0.0
+Beta 1.9-pre2
+Pressure plates now function when placed on top of fences.
+
+
+1.3.1
+12w23a
+Wooden pressure plates can be activated by arrows.
+
+
+1.9
+15w31a
+ Now have a slightly flatter look in the inventory.
+
+
+15w43a
+Wood pressure plates are given a different, slightly more high-pitched activation sound, so that they no longer match the sound of stone pressure plates.
+
+
+携带版（Alpha）
+
+
+0.13.0
+build 1
+Added pressure plates. Stone pressure plates are used to craft detector rails.
+
+
+主机版
+
+
+TU1
+Added pressure plates.
+
+
+TU5
+Pressure plates are placeable on fences.
+
+
+TU14
+Wooden pressure plates can be activated by arrows.
+
+
+另见[编辑 | 编辑源代码]
+
+开关
+拉杆
+按钮
+充能铁轨
+测重压力板
+
+
+
+
+编辑
+ 红石
+
+
+红石电路
+
+
+时钟电路
+逻辑电路
+记忆电路
+传输电路
+脉冲电路
+杂项电路
+
+
+
+
+优秀教程
+
+
+高级红石电路
+基本逻辑门
+方块更新感应器(BUD)
+机械
+活塞电路
+
+
+
+
+电源
+
+
+红石块
+按钮
+阳光传感器
+探测铁轨
+拉杆
+压力板
+红石火把
+陷阱箱
+绊线钩
+
+绊线
+
+
+测重压力板
+
+
+
+
+传输元件
+
+
+红石比较器
+红石中继器
+红石线
+
+
+
+
+机械元件
+
+
+命令方块
+投掷器
+发射器
+门
+栅栏门
+漏斗
+音符盒
+活塞
+
+粘性活塞
+
+
+铁轨
+
+充能铁轨
+激活铁轨
+
+
+红石灯
+TNT
+活板门
+
+
+
+
+杂项
+
+
+红石矿石
+
+
+
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=压力板&amp;oldid=113793”					
+				分类：更新 infobox 历史可再生资源含有受损文件链接的页面方块Mechanics隐藏分类：Redstone recipeRecipe using StoneRecipe using Wood Planks				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月30日 (星期六) 12:42。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

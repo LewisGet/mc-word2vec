@@ -1,0 +1,619 @@
+
+
+
+
+睡莲 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			睡莲
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的（部分）内容需要被翻译。
+你可以帮助我们来翻译此页面
+
+
+
+
+
+
+
+此页面的部分内容由于太久没更新而已过期。
+你可以帮助我们来更新此页面
+
+
+
+
+睡莲
+
+
+
+
+
+
+
+
+类型
+
+固体方块
+
+
+
+受重力影响
+
+否
+
+
+
+透明
+
+是
+
+
+
+亮度
+
+无
+
+
+
+爆炸抗性
+
+0
+
+
+
+硬度
+
+0
+
+
+
+开采工具
+
+任何工具
+
+
+
+可再生
+
+是
+
+
+
+可堆叠
+
+可以 (64)
+
+
+
+可燃烧
+
+否
+
+
+
+首次出现
+
+[[版本记录|见历史]]
+
+
+
+掉落物
+
+自身
+
+
+
+数据值
+
+DEC:&#160;111 HEX:&#160;6F BIN:&#160;01101111
+
+
+
+名称
+
+waterlily
+
+
+
+
+睡莲(Lily Pad)是一种生长在沼泽生物群系的水上的可收集方块。
+
+
+
+目录
+
+
+1 放置
+2 应用
+3 历史
+4 你知道吗
+5 画廊
+6 引用
+7 另请参阅
+
+
+
+放置[编辑 | 编辑源代码]
+睡莲只能被放置在水源或者一个涌泉之上。睡莲占用的是水上方的方块而不是水方块的一部分。这里还有一个放置时的BUG，那就是：偶尔在放置睡莲后，它会在邻近的一个方块上同时出现一个额外的睡莲；然而，当你要去挖取旁边的睡莲时，它便被破坏消失了。
+睡莲的朝向是固定的，而不受到玩家放置方向的影响。也就是说，重放一个睡莲，它的方向不会改变。
+倘若把一片睡莲放在水源，并且水源的下方是空的（也就是说，水会向下流动，正下方没有别的水源或方块），同时你指向的是一个固体方块，那么水源就会消失，并且使得睡莲掉落为物品。
+应用[编辑 | 编辑源代码]
+睡莲一种主要用途是在水上创造可行走的路径，而不需用方块建造桥梁。这在穿越海洋或河流时很有用；在农场中更是可以在用水使泥土湿润后，放上睡莲，便能直接走着去种地，而不用蹚水。而在正式版1.1后耕地不再那么轻易地被人的行走或者疾跑踩坏，所以这方法很实用。
+另一个重要的用途，睡莲也可以用来建造浮空的平台，或者水上基地。简而言之，玩家就先向水上放置睡莲，尔后就可以直接将方块放到睡莲上去，而不需要去寻找近处的固体方块来弄延伸梁了。
+将岩浆倒在睡莲之上也是有可能的。岩浆会将睡莲破坏，但同时又在水上产生了一个直径五米的大石盘。恢复这样的岩浆需要巧妙地行走和一些方块，但还是可以实现的。
+正式版1.2.5或之前的多人生存模式下，睡莲可以当作“水雷”使用——因为船只碰上睡莲就会散架，况且睡莲的颜色并不那么容易被发觉。因此这可以摧毁岛居或者水下的玩家的士气，对海洋生态系统的玩家也有威胁。
+历史[编辑 | 编辑源代码]
+&lt;--睡莲在Beta 1.9 pre-release中添加。在Beta 1.9 Pre-releases 1-5里，睡莲只可以放在沼泽水上，并不可以在上面行走。在那时当你破坏了睡莲你不能再放回去。但当到了Beta 1.9 Pre-release 6，睡莲变为固体。这表示实体可以和睡莲互动：箭能射中它，生物能在上面行走，而且船会撞上它。和火把，台阶，和其他的非固体一样，它会导致下落的沙子和沙砾变成掉落物。但是玩家不能游过睡莲来到水面上。
+在快照12w21a中，船不会因为撞到睡莲导致船损坏，而是轻易地摧毁睡莲。
+在快照13w36a中，睡莲作为宝藏，有几率在钓鱼时钓起。--&gt;
+
+
+正式版本
+
+
+1.0.0
+Beta 1.9-pre1
+Added lily pads. Lily pads are non-solid, and can only be placed in swamplands.
+
+
+Until 1.9, they were the shortest block in the game, at 1⁄64 of a block tall.
+
+
+Beta 1.9-pre6
+Lily pads are now solid blocks.
+
+
+1.3.1
+12w21a
+Boats no longer break when they collide at high speed with lily pads. Instead, the lily pad is destroyed.
+
+
+1.7.2
+13w36a
+Lily pads can be caught in fishing as treasure.
+
+
+1.8
+14w25a
+Lily pads are now brighter in the inventory.
+
+
+1.9
+15w43a
+Lily pads can now be placed on ice and frosted ice.
+
+
+15w45a
+Height of the lily pad was increased from 1⁄4 of a pixel (1⁄64 of a block) to 1 pixel (1⁄16 of a block).
+
+
+15w49a
+Height of the lily pad was decreased from 1 pixel (1⁄16 of a block) to 15⁄16 of a pixel (15⁄256 of a block), and the width was changed to be inset from three edges of the block by 1 pixel (1⁄16 of a block).
+
+
+15w50a
+Added sound: block.waterlily.place.
+
+
+16w04a
+Height of the lily pad is increased to 11⁄2 pixels (3⁄32 of a block), and is now inset 1 pixel (1⁄16 of a block) on all sides.
+
+
+携带版（Alpha）
+
+
+0.9.0
+build 1
+Added lily pads.
+
+
+build 3
+Lily pads are now brighter in the inventory.
+
+
+0.11.0
+build 1
+Lily pads can be caught in fishing as treasure.
+
+
+主机版
+
+
+TU7
+CU1
+1.0
+Patch 1
+Added lily pads.
+
+
+你知道吗[编辑 | 编辑源代码]
+
+睡莲底下的水一结冰，睡莲就会掉下来。
+睡莲会被掉落，当水流到其上时。这个特性可用于攀岩，方法就是：先在峭壁上放水，上放睡莲，然后站到睡莲上，在头上再放水，这样水就会将睡莲冲掉，捡起后，利用水梯特性可继续上爬。
+
+
+怪物无法在睡莲上生成。
+睡莲同样可能在地下湖的水面上产生。
+从水下看时，睡莲可能并不会清晰可见。
+就像台阶一样，任何放置在睡莲上方的方块看起来都是浮空的。即使睡莲并不占据整个方块的空间，它仍然是一个方块，没有其他方块可以占据它的位置。
+在Xbox 360版本中，在沼泽中的睡莲可能会扩散到旁边的针叶林水域中，而后者可能结冻，这样睡莲便生成在冰上。
+睡莲有时会取代掉水方块的位置。仅当水方块下面也是水方块，而玩家透过水方块，对着旁边的固体方块放置睡莲的时候这才会发生。
+当睡莲的放置不是取代其他方块时，玩家的手臂不会挥动。
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+沼泽生物群系的一些睡莲
+
+
+
+
+
+2011-10-02 09.14.24.png
+
+睡莲生成在沼泽生物群落的洞穴下
+
+
+
+
+
+
+
+
+
+流动的水上的4片睡莲
+
+
+
+
+
+
+
+
+
+在一个西瓜和南瓜农场里，睡莲用作走道
+
+
+
+
+引用[编辑 | 编辑源代码]
+
+另请参阅[编辑 | 编辑源代码]
+
+叶子
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=睡莲&amp;oldid=112553”					
+				分类：含有受损文件链接的页面待翻译条目待更新条目更新 infobox 历史可再生资源方块				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisItaliano日本語한국어PolskiРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月21日 (星期四) 09:18。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

@@ -1,0 +1,541 @@
+
+
+
+
+末地石砖 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			末地石砖
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+末地石砖
+
+
+
+
+
+
+
+
+类型
+
+固体方块
+
+
+
+受重力影响
+
+否
+
+
+
+透明
+
+否
+
+
+
+亮度
+
+否
+
+
+
+爆炸抗性
+
+4
+
+
+
+硬度
+
+0.8
+
+
+
+开采工具
+
+
+
+
+
+可再生
+
+是
+
+
+
+可堆叠
+
+是(64)
+
+
+
+可燃烧
+
+否
+
+
+
+首次出现
+
+详见历史
+
+
+
+掉落物
+
+自身
+
+
+
+数据值
+
+DEC:&#160;206 HEX:&#160;CE BIN:&#160;11001110
+
+
+
+名称
+
+end_bricks
+
+
+
+
+末地石砖（End Stone Bricks）是末地石的石砖版本。
+
+
+
+目录
+
+
+1 获取
+
+1.1 合成
+1.2 天然生成
+
+
+2 用法
+3 历史
+4 漏洞
+
+
+
+获取[编辑 | 编辑源代码]
+末地石砖可以被任何镐子所开采。如果不用镐子开采，将不会掉落任何的东西。
+
+
+方块
+末地石砖
+
+
+硬度
+0.8
+
+
+工具
+
+
+
+挖掘用时[注 1]
+
+
+徒手
+4
+
+
+木质
+0.65
+
+
+石质
+0.35
+
+
+铁质
+0.2
+
+
+钻石质
+0.2
+
+
+金质
+0.1
+
+
+
+↑ 没有附魔的工具的破坏时间，单位：秒。
+
+合成[编辑 | 编辑源代码]
+
+
+材料
+合成配方
+
+
+
+末地石
+
+
+4
+
+
+
+天然生成[编辑 | 编辑源代码]
+末地石砖可以在末地城里找到。
+用法[编辑 | 编辑源代码]
+末地石砖主要用来装饰，与其他砖块类型方块相似。但是与末地石不同，末地石砖的爆炸抗性、硬度仅仅为末地石的十五分之四。
+历史[编辑 | 编辑源代码]
+
+
+正式版本
+
+
+1.9
+2015年6月22日
+Jeb在Instagram发布了一张末地石砖的图片，并附上了“MINECON 2015 HYPE!”文字。
+
+
+15w31a
+添加末地石砖。
+
+
+未来
+
+
+1.10
+16w20a
+移除末地石砖的合成配方。
+
+
+漏洞[编辑 | 编辑源代码]
+有关于“末地石砖”的漏洞由漏洞追踪器维护。请在此汇报漏洞。
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=末地石砖&amp;oldid=117987”					
+				分类：可再生资源PC版即将到来方块隐藏分类：Building block recipeRecipe using End Stone				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月23日 (星期一) 22:58。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+
