@@ -1,0 +1,787 @@
+
+
+
+
+硬化粘土 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			硬化粘土
+									
+									来自Minecraft Wiki
+								（重定向自染色粘土）
+												
+					跳转至：					导航、					搜索
+				
+				
+硬化粘土
+
+
+
+
+
+
+
+
+
+
+类型
+
+固体方块
+
+
+
+受重力影响
+
+否
+
+
+
+透明
+
+否
+
+
+
+亮度
+
+否
+
+
+
+爆炸抗性
+
+30
+
+
+
+硬度
+
+1.25
+
+
+
+开采工具
+
+
+
+
+
+可再生
+
+否
+
+
+
+可堆叠
+
+是（64）
+
+
+
+可燃烧
+
+否
+
+
+
+首次出现
+
+详见历史
+
+
+
+掉落物
+
+自身
+
+
+
+数据值
+
+
+染色黏土
+DEC:&#160;159 HEX:&#160;9F BIN:&#160;10011111
+
+
+硬化黏土
+DEC:&#160;172 HEX:&#160;AC BIN:&#160;10101100
+
+
+
+
+名称
+
+
+硬化粘土
+hardened_clay
+染色粘土
+stained_hardened_clay
+
+
+
+
+
+ 硬化粘土（Hardened clay）为一种爆炸抗性和其他的岩石类方块相同的方块。硬化粘土可以被染色，变成染色粘土（Stained Clay）。染色粘土有16种颜色，与染色羊毛的颜色数量是相同的，尽管染色粘土的颜色有点偏橙色。
+
+
+
+目录
+
+
+1 获得
+
+1.1 自然生成
+1.2 烧炼
+1.3 合成
+
+
+2 用途
+3 数据值
+
+3.1 方块数据
+3.2 方块状态
+
+
+4 历史
+5 漏洞
+6 画廊
+7 参考
+
+
+
+获得[编辑 | 编辑源代码]
+硬化粘土和染色粘土能被任何镐挖掘，如果不用镐挖掘，则不掉落任何东西。
+自然生成[编辑 | 编辑源代码]
+红色、橙色、黄色、棕色、白色和浅灰色染色粘土生成在平顶山，这里也产生大量的硬化粘土，蓝色和橙色染色粘土也能在沙漠神殿被发现。
+
+
+方块
+硬化粘土
+染色粘土
+
+
+硬度
+1.25
+
+
+工具
+
+
+
+挖掘用时[注 1]
+
+
+徒手
+6.25
+
+
+木质
+0.95
+
+
+石质
+0.5
+
+
+铁质
+0.35
+
+
+钻石质
+0.25
+
+
+金质
+0.2
+
+
+
+↑ 没有附魔的工具的破坏时间，单位：秒。
+
+烧炼[编辑 | 编辑源代码]
+
+
+名称
+材料
+烧炼配方
+
+
+
+硬化粘土
+
+
+粘土块&#160;+
+任何燃料
+
+
+
+
+
+
+合成[编辑 | 编辑源代码]
+
+
+材料
+合成配方
+
+
+
+硬化粘土&#160;+
+任何染料
+
+
+8888888888888888
+
+
+
+用途[编辑 | 编辑源代码]
+硬化粘土和染色粘土拥有中上等的爆炸抗性，不像普通的粘土块，1层硬化粘土或染色粘土能从1米外的爆炸，保护后面的方块，但是在过程中会被破坏。
+数据值[编辑 | 编辑源代码]
+硬化粘土的 ID 名称为minecraft:stained_hardened_clay。硬化粘土也有将来代替方块数据的方块状态。
+方块数据[编辑 | 编辑源代码]
+
+
+
+DV
+描述
+
+
+
+0
+白色染色粘土
+
+
+
+1
+橙色染色粘土
+
+
+
+2
+品红色染色粘土
+
+
+
+3
+淡蓝色染色粘土
+
+
+
+4
+黄色染色粘土
+
+
+
+5
+黄绿色染色粘土
+
+
+
+6
+粉红色染色粘土
+
+
+
+7
+灰色染色粘土
+
+
+
+8
+淡灰色染色粘土
+
+
+
+9
+青色染色粘土
+
+
+
+10
+紫色染色粘土
+
+
+
+11
+蓝色染色粘土
+
+
+
+12
+棕色染色粘土
+
+
+
+13
+绿色染色粘土
+
+
+
+14
+红色染色粘土
+
+
+
+15
+黑色染色粘土
+
+
+方块状态[编辑 | 编辑源代码]
+
+
+名称
+值
+描述
+
+
+&#160;color
+white
+orange
+magenta
+lightBlue
+yellow
+lime
+pink
+gray
+silver
+cyan
+purple
+blue
+brown
+green
+red
+black
+硬化粘土的颜色。
+“silver”指的是淡灰色。
+
+
+历史[编辑 | 编辑源代码]
+
+
+正式版本
+
+
+2013年4月24日
+Dinnerbone公布的硬化粘土首张截图
+
+
+1.6.1
+13w17a
+硬化粘土加入游戏。
+
+
+13w19a
+加入硬化粘土的颜色变种—染色粘土。
+
+
+1.7.2
+13w36b
+硬化粘土和染色粘土生成在平顶山生物群系。
+
+
+1.8
+14w03a
+在沙漠神殿中，染色粘土替代了羊毛。
+
+
+携带版（Alpha）
+
+
+0.9.0
+build 1
+添加了硬化和染色粘土。
+
+
+build 11
+硬化粘土现在能合成染色粘土。
+
+
+硬化粘土现在能通过烧炼粘土块获得。
+
+
+主机版
+
+
+TU19
+添加了硬化和染色粘土。
+
+
+漏洞[编辑 | 编辑源代码]
+有关于“硬化粘土”的漏洞由漏洞追踪器维护。请在此汇报漏洞。
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Dinnerbone公布的硬化粘土首张截图。
+
+
+
+
+
+
+
+
+
+13w17a，展示硬化粘土。
+
+
+
+
+
+
+
+
+
+13w19a，展示硬化粘土和羊毛。 注意红色羊毛后的Grum 。
+
+
+
+
+
+
+
+
+
+染色羊毛和染色粘土的对比。
+
+
+
+
+
+
+
+
+
+13w37a，展示了在平顶山生物群系的硬化粘土和染色粘土。
+
+
+
+
+参考[编辑 | 编辑源代码]
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=硬化粘土&amp;oldid=114200”					
+				分类：不可再生资源方块隐藏分类：Building block recipeRecipe using Hardened ClayRecipe using Bone MealRecipe using Orange DyeRecipe using Magenta DyeRecipe using Light Blue DyeRecipe using Dandelion YellowRecipe using Lime DyeRecipe using Pink DyeRecipe using Gray DyeRecipe using Light Gray DyeRecipe using Cyan DyeRecipe using Purple DyeRecipe using Lapis LazuliRecipe using Cocoa BeansRecipe using Cactus GreenRecipe using Rose RedRecipe using Ink Sac				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月30日 (星期六) 13:01。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

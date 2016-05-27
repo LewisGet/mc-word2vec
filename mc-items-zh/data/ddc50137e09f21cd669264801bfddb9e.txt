@@ -1,0 +1,500 @@
+
+
+
+
+空气 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			空气
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+空气
+
+
+类型
+
+非固体方块
+
+
+
+受重力影响
+
+N/A
+
+
+
+透明
+
+是
+
+
+
+亮度
+
+否
+
+
+
+爆炸抗性
+
+0
+
+
+
+硬度
+
+0
+
+
+
+开采工具
+
+无
+
+
+
+可再生
+
+N/A
+
+
+
+可堆叠
+
+N/A
+
+
+
+可燃烧
+
+N/A
+
+
+
+首次出现
+
+详见历史
+
+
+
+掉落物
+
+N/A
+
+
+
+数据值
+
+DEC:&#160;0 HEX:&#160;00 BIN:&#160;0000
+
+
+
+名称
+
+air
+
+
+
+
+空气（Air）是 Minecraft 用来区分空间未被占用的方块。
+
+
+
+目录
+
+
+1 获取
+
+1.1 自然生成
+
+
+2 用途
+3 历史
+4 漏洞
+5 引用
+
+
+
+获取[编辑 | 编辑源代码]
+不能将空气放在物品栏里，并且只能够通过放置/移除方块来摧毁/创建空气方块。
+自然生成[编辑 | 编辑源代码]
+多数的结构生成在空气里。空气也生成在未被任何方块占用的空间里。
+用途[编辑 | 编辑源代码]
+空气和其他非固体方块是唯一在玩家和生物穿过时不会窒息的空间。
+历史[编辑 | 编辑源代码]
+
+
+Indev
+
+
+?
+空气影响水平方向上邻近的液体方块。如果空气接触到液体方块，有 ⅔ 的几率液体方块会消失并让液体后退，有 ⅓ 的几率液体方块会填充空气，让液体流动。
+
+
+正式版本
+
+
+1.7.2
+13w38b
+空气成为了方块[1]并且可以放在物品栏里。它拥有一个丢失的材质 。
+
+
+13w38c
+空气没法再被放在物品栏中了，但实际上还是能够被玩家手持。
+
+
+携带版（Alpha）
+
+
+0.1.0
+空气加入到了游戏中。
+
+
+0.6.0
+添加了天空。
+
+
+主机版
+
+
+TU1
+CU1
+1.00
+Patch 1
+空气加入到了游戏中。
+
+
+漏洞[编辑 | 编辑源代码]
+有关于“空气”的漏洞由漏洞追踪器维护。请在此汇报漏洞。
+引用[编辑 | 编辑源代码]
+
+↑ https://twitter.com/Dinnerbone/status/381055646806077440
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=空气&amp;oldid=112313”					
+				分类：无法判断是否为可再生资源含未知版本的History模版方块Blocks				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月19日 (星期二) 11:45。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

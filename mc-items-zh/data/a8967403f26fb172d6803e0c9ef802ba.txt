@@ -1,0 +1,505 @@
+
+
+
+
+金块 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			金块
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				该文章是关于金块的。  关于相关的矿石，请参阅金矿石。  关于相关的矿锭，请参阅金锭。  关于相关的矿粒，请参阅金粒。
+
+金块
+
+
+
+
+
+
+
+
+类型
+
+固体方块
+
+
+
+受重力影响
+
+否
+
+
+
+透明
+
+否
+
+
+
+亮度
+
+否
+
+
+
+爆炸抗性
+
+30
+
+
+
+硬度
+
+3
+
+
+
+开采工具
+
+
+
+
+
+可再生
+
+是
+
+
+
+可堆叠
+
+是 (64)
+
+
+
+可燃烧
+
+否
+
+
+
+首次出现
+
+Classic 0.0.20
+
+
+
+掉落物
+
+自身
+
+
+
+数据值
+
+DEC:&#160;41 HEX:&#160;29 BIN:&#160;00101001
+
+
+
+名称
+
+gold_block
+
+
+
+
+金块（Blocks of Gold，又称Gold Blocks）是用于贮存金锭的固体方块，现在只会生成在海底遗迹中。
+金块可以与金锭相互合成，这种特性使得金块十分适合贮存金锭。在正式版1.1之前，金块也用于合成金苹果；自12w21a之后，金块可用于合成附魔金苹果。
+金块的爆炸抗性很弱，开采大约只需要1秒。只有使用铁质或者更高的镐才能成功开采金块。用低级镐会导致无法掉落任何金块。
+
+
+
+目录
+
+
+1 合成
+2 作为合成材料
+3 历史
+4 你知道吗
+5 画廊
+
+
+
+合成[编辑 | 编辑源代码]
+
+
+材料
+合成配方
+
+
+
+金锭
+
+
+
+
+
+
+作为合成材料[编辑 | 编辑源代码]
+
+
+名称
+材料
+合成配方
+
+
+
+金锭
+
+
+金块
+
+
+9
+
+
+
+历史[编辑 | 编辑源代码]
+金块起初拥有不同的材质。其材质先后从生存测试0.26中的变到万圣节更新的如今材质。Classic中为。
+在生存测试中，金块可直接由开采金矿石得到。生存测试早期，金块可抵挡爆炸。
+从Beta 1.9pre5之后，材质被改成了现在的样子。
+你知道吗[编辑 | 编辑源代码]
+
+在Classic中金块的材质看起来很像烈焰人的头部。
+现在钻石块的材质和金块的材质相同，只是颜色不同而已。
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+金块的原材质。
+
+
+
+
+
+方块
+
+参见：Template:Blocks/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=金块&amp;oldid=101497”					
+				分类：更新 infobox 历史可再生资源方块BlocksManufactured blocksOre隐藏分类：Building block recipeRecipe using Gold Ingot				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年1月28日 (星期四) 18:05。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+
