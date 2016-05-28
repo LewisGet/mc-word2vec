@@ -1,0 +1,697 @@
+
+
+
+
+Windows 10版 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			Windows 10版
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+Windows 10版
+
+
+
+
+
+开发作者
+
+ Mojang AB
+
+
+
+运行平台
+
+
+
+
+
+编写语言
+
+C++
+
+
+
+最新版本
+
+0.14.3
+
+
+
+发布日期
+
+数字版 - Windows Store
+2015年7月29日
+
+
+
+年龄分级
+
+ESRB：E10+[1]
+
+
+
+程序大小
+
+79.34 - 80.3 MB
+
+
+
+授权协议
+
+私有软件
+
+
+
+开源情况
+
+否
+
+
+
+外部链接
+
+
+Store
+反馈站点
+
+
+
+
+
+Minecraft: Windows 10版是一个已经发布的携带版的分支版本，运行于Windows 10平台。[2][3] [4]它包含与携带版相同的内容，以及一些额外内容[5]， 并且能够在诸如HoloLens之类的设备上运行。[6][7][8]
+此版本在2015年7月4日宣布。Beta版于2015年7月29日在Windows Store发布，价格为6.42英镑、9.99美元、9.89欧元或62人民币。购买过PC版的玩家可以免费获得Windows 10版，并且Windows10版能与对应的携带版进行局域网联机。[2]
+
+
+
+目录
+
+
+1 开发
+2 游戏内容
+3 其他平台
+
+3.1 Microsoft HoloLens
+3.2 Oculus Rift
+3.3 Gear VR
+
+
+4 参考
+
+
+
+开发[编辑 | 编辑源代码]
+早在Mojang博客的官方宣告出现之前，微软就释出各种有关Minecraft在HoloLen上的宣传影片[9]稍后的2015电子娱乐展上，Lydia Winters与某微软员工分别使用Surface Pro与HoloLens展出了在Windows 10平台上运行的Minecraft并与之互动。[10]
+Minecon 2015上，有关于Windows 10版开发进程的消息又被放出，并解释其发布的原因：由于微软通用应用框架不支持Java程序，故不可能将Java版作为通用应用。[8]
+Beta版本还在开发过程中，且启用了官方Windows 10版Minecraft反馈网站来提供建议。[11]
+游戏内容[编辑 | 编辑源代码]
+
+主条目： 携带版游戏内容
+
+在携带版特性以外，Windows 10版也可以通过Xbox Live与最多7人进行在线游戏，或使用在即将到来的Pocket Realms与携带版玩家一起游戏。[12]。
+另一些额外独占特性包括多控制计划，一个玩家反馈特性，使用系统内建GameDVR来记录并分享游戏内容。[2][13]
+其他平台[编辑 | 编辑源代码]
+Microsoft HoloLens[编辑 | 编辑源代码]
+
+
+
+
+E3 2015上的Minecraft HoloLens版，在一张桌子上运行于“实感”模式呈现出Lydia Winters的世界。
+
+
+在微软的Windows 10会后，Jens Bergensten最早发推宣布Holograpic版的Minecraft将被开发是在2015年1月21日。他表示两个Minecraft项目将进行，其中一个是“玩具”，另一个则“更接近游戏”。[14]
+E3 2015展会的微软展区中可以看见正在演示Windows 10版Minecraft的HoloLens与Surface Pro 3在同步运行。[10]
+有两种模式已被展出，其一为“墙壁”模式，玩家可以使用Xbox控制器来互动，常规的Minecraft世界将被全息映射进一堵墙。玩家可以调整视野范围并锁定，使得玩家可以左右观察，类似不需要控制器的窗口模式。[15]另一个为“实感”模式，玩家可以不使用控制器，并将3D世界映射到一个现实物件上，例如一张桌子。
+实感模式下，玩家可以使用声控命令或者手势等头戴机械支持的方式与世界交互。它是可能的目标语音命令的地图的特定区域对他们的一瞥, 例如，直接在一个对象，使用一个命令，如“Lighting bolt”会召唤一道闪电。另一个例子是能力的“标记”区域通过看一个对象创建一个垂直的光束，类似信标。语音命令还可以用来改变世界的视图，并允许以下一种模式，如“关闭”或“概述”改变如何关闭相机是球员的球员。可以用像是用智能手机一样的用手势放大与缩小世界的视图。
+Oculus Rift[编辑 | 编辑源代码]
+2015年9月15日，Minecraft将适配Oculus Rift的消息被放出。此版本是Windows 10版的分支，在包括全部既有特性之余，还将会是完整的3D。此版本将在Windows Store和Oculus Store发售，计划在2016年春季发布。[16][17]
+Gear VR[编辑 | 编辑源代码]
+在携带版问答直播中，Minecraft被宣布将在Gear VR平台发布。此版本与Oculus Rift版特性一致。[18][19]
+
+参考[编辑 | 编辑源代码]
+
+↑ Minecraft: Windows 10 Edition Beta ESRB Rating
+↑ 2.0 2.1 2.2 https://mojang.com/2015/07/announcing-minecraft-windows-10-edition-beta/
+↑ https://twitter.com/_tomcc/status/617337976239091712
+↑ 商店页面：https://www.microsoft.com/store/apps/Minecraft-Windows-10-Edition-Beta/9NBLGGH2JHXJ
+↑ https://www.reddit.com/r/Minecraft/comments/3c3e5m/announcing_minecraft_windows_10_edition_beta/csry0j5
+↑ https://www.reddit.com/r/Minecraft/comments/3c3e5m/announcing_minecraft_windows_10_edition_beta/csry0j5
+↑ https://twitter.com/_tomcc/status/617337976239091712
+↑ 8.0 8.1 http://www.twitch.tv/mojang/v/6949826
+↑ https://www.youtube.com/watch?v=aThCr0PsyuA
+↑ 10.0 10.1 https://www.youtube.com/watch?v=3TJEuSiMo0A&amp;t=1h42m53s
+↑ http://minecraft.uservoice.com
+↑ https://www.youtube.com/watch?v=szAKnJLmCKU
+↑ https://twitter.com/_tomcc/status/617334672272588800
+↑ https://twitter.com/jeb_/status/557993513976344577
+↑ http://www.engadget.com/2015/07/08/minecraft-hololens-minecon/
+↑ https://twitter.com/oculus/status/647103412576718848
+↑ http://news.xbox.com/2015/09/games-minecraft-windows-10-edition-coming-to-oculus-rift?linkId=17303547
+↑ http://youtube.com/v/Qnhm9YY0rZ8
+↑ https://twitter.com/_tomcc/status/654805345198469120
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Windows_10版&amp;oldid=114878”					
+				分类：Minecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						EnglishEspañol日本語PolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月2日 (星期一) 06:51。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

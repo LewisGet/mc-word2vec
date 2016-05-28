@@ -1,0 +1,1660 @@
+
+
+
+
+Minecraft启动器 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Minecraft启动器
+									
+									来自Minecraft Wiki
+								（重定向自启动器）
+												
+					跳转至：					导航、					搜索
+				
+				
+Minecraft 启动器
+
+
+
+
+
+当前版本
+
+1.6.61
+
+
+
+平台
+
+Windows, Mac OS X, Linux
+
+
+
+
+Minecraft 启动器是一个提供登录和下载功能的前端界面，但是它独立于客户端。它负责下载主要 Java 包，包括 minecraft.jar 和 LWJGL，以及保存代码和例如材质的游戏资源。这也有点像一个基础的、简单的和易破解的第一次登录时强制让用户登录到一个付费账户的角色。可以使用启动器来运行所有版本的 Minecraft，然而一些版本并未包括在启动器中，例如 Indev、Minecraft 2.0和任何 Beta 1.9 预发布版。
+
+
+
+目录
+
+
+1 行为
+
+1.1 功能
+
+1.1.1 Time Machine
+
+
+
+
+2 命令行用法
+3 历史
+
+3.1 启动器
+
+
+4 画廊
+5 参考
+6 另见
+
+
+
+行为[编辑 | 编辑源代码]
+
+
+
+
+在用户未登录时启动器显示的登录屏幕。
+
+
+每次启动器运行时，它都会检查在储存着 Minecraft 文件的一个特殊文件夹——.minecraft。它检查“launcher_profiles.json”的文件作为启动器的登录凭据。如果文件没找到、被损坏或没有用户登录，用户必须使用有效付费账号来进行登录，否则用户将只能够游玩演示版或购买游戏。
+当登录后，启动器会首先尝试验证登录。如果有效的“launcher_profiles.json”文件存在，且在最后一次关闭时进行了登录，但是没有网络连接，启动器将会启动一个“Play offline”（离线模式）模式。如果成功连接到网络，启动器将会把最新版本的“versions”文件夹与服务器的最新发布的版本进行比较。当“profile options”（配置选项）的“Use latest version”（使用最新版本）被选择时，如果选择的版本不存在，或版本需要进行更新，启动器将会下载所有最新的 Minecraft 组件以及 Java 二进制文件。它也会将 Assets 文件夹里的所有东西都进行同步。（详见资源包）
+最后，一旦成功安装或更新之后，启动器将会启动“minecraft.jar”（通过“javaw.exe”，Oracle 的 Java 虚拟机运行）。在缺失“.jar”的文件的情况下仍然可以启动，在这种情况下，启动器会自动下载缺失文件，但是如果没有网络连接，则会停止下载。
+当前，Minecraft 只支持英语，用户不能够选择首选语言。
+功能[编辑 | 编辑源代码]
+
+
+管理多个配置文件（储存在“launcher_profiles.json”）。每个配置文件都可以控制：
+
+游戏版本。包括使用已过时的预览版本和之前的预发布版。你也可以手动添加较旧/自定义的版本。 [1]查看这个视频来获取说明。
+在游戏内使用的 Mojang 账户。
+Java 命令行参数（例如堆大小）
+游戏目录（硬盘上储存游戏文件的地方）
+等等。
+
+
+启动器不会在硬盘上储存你的密码。启动器会使用一个“刷新令牌”进行验证。
+启动器的自动更新。
+更新库的能力，例如 LWJGL。
+离线模式。（第一次启动需要一个网络连接来下载所需资源）
+通过 Hopper 向 Mojang 报告崩溃。
+通过索引数据库的崩溃信息来提供如何修复漏洞。
+
+Time Machine[编辑 | 编辑源代码]
+
+
+
+
+配置文件中可用的 Alpha 和 Beta 版本。
+
+
+启动器拥有游玩 Alpha 和 Beta 版游戏的能力。当前，Alpha、Beta 和所有的正式版本都能够游玩。4个 Pre-classic 版本、4个 Classic 版本，以及一个 Infdev 版本都添加在“old-alpha version”中。[2] 然而，Indev仍然没被加入。
+进度
+
+注意：这个列表只是列出了在启动器中至少找不到的一个版本（2010-06-18 的 Infdev，还有秘密周五更新 1）。
+
+可以通过点击“Edit Profile”按钮或创建新的 Profile 来下载旧版本。在“Version Selection”中允许通过点击对应的框来使用 Alpha 和 Beta 版本。下一步，从下拉菜单中选择需要的版本，并保存 Profile。
+然而，这些版本都非常旧了，并且可能是不受支持的。任何的漏洞、故障、缺失的功能或不稳定的崩溃将不会被解决，因为只支持最新版本。Mojang 强烈建议你将这些版本储存在不同的文件夹里来避免损坏。[3]
+
+命令行用法[编辑 | 编辑源代码]
+MinecraftDev.jar （所有系统）：
+
+java -cp Minecraft.jar net.minecraft.bootstrap.Bootstrap &lt;username&gt; &lt;server:port&gt;
+
+因为启动器是与 Minecraft 1.6 一起发布的，因此启动器里还有其他的命令。如果输入下面的命令，这些命令将会显示出来。
+
+java -jar Minecraft.jar -help
+
+
+历史[编辑 | 编辑源代码]
+
+
+Alpha
+
+
+1.0.0
+最初版本。在这个版本里，用户可以选择当前版本和 Infdev 版本。
+
+
+当第一次运行客户端时，需要一个网络连接来检查更新，之后就会支持离线游戏了。
+
+
+允许使用命令行参数启动游戏。使用格式：java -cp Minecraft.jar net.minecraft.LauncherFrame 用户名 密码 将会允许在不加入到服务器的情况下进行登录，当格式为 java -cp minecraft.jar net.minecraft.LauncherFrame 用户名 密码 serveraddress:portnumber 就会允许加入到一个服务器。
+
+
+1.2.2
+命令行参数格式改变。
+
+
+Beta
+
+
+1.3
+（客户端/启动器更新）添加官方链接、社区链接和 Twitter 链接。
+
+
+添加命令行参数支持。
+
+
+正式版本
+
+
+1.1
+发布于2011年2月21日。[6]
+
+
+现在使用新的 Minecraft Logo。
+
+
+添加通过命令行参数自动登录到游戏的能力。
+
+
+添加小更新系统，这个系统只会更新已更改的文件、引导用户进行更新、允许使用 HTTPS 登录来使用更安全的连接、以及提供用户界面的改进。一个暗中进行的技术性预览已由 Notch 在2011年2月18日发布。[4]
+
+
+连接到 Minecraft 安装目录，以方便访问。
+
+
+在 Options 对话框下面添加 Force Update 按钮。
+
+
+启动器支持在程序内通过叫 MCUpdate 的 Tumblr 博客查看更新日志，并且支持命令行参数。[5]
+
+
+1.2.1
+为 Mac OS X 用户适当选择64位 Java 安装。[7]
+
+
+1.3.2
+为未付费用户添加启动演示模式的能力。.
+
+
+1.6.1
+13w16a
+添加了新启动器。查看下面的启动器历史。
+
+
+启动器[编辑 | 编辑源代码]
+
+
+启动器版本
+发布日期
+更新详情
+
+
+1.6.61
+2016年3月3日
+
+
+游戏会话ID（Game Session ID）现在在启动游戏时的游戏输出栏中被隐藏，显示为Session ID is &lt;censored&gt;
+
+
+
+
+1.6.59
+2016年2月25日
+
+
+未知
+
+
+
+
+1.6.51
+2016年2月4日
+
+
+未知
+
+
+
+
+1.6.48
+2015年10月9日
+
+
+未知
+
+
+
+
+1.6.44
+2015年9月11日
+
+
+添加关于新OSX安装器的信息（仅在OSX显示）
+
+
+
+
+1.6.19
+2015年7月24日
+
+
+添加Windows 10支持
+
+
+
+
+1.6.13
+2015年7月1日
+
+
+现在启动器会在游戏目录下创建“server-resource-packs”文件夹
+
+
+
+
+1.6.11
+2015年1月30日
+
+
+自动安装Java 8[8]
+
+
+
+
+1.5.5
+2014年12月16日
+
+
+未知
+
+
+
+
+1.5.4
+2014年12月12日
+
+
+添加引导程序
+使用Mojang自带Java而非系统Java启动游戏
+
+
+
+
+1.5.3
+2014年9月1日
+
+
+未知
+
+
+
+
+1.5.2
+2014年7月29日
+
+
+现在用单个每次游戏启动时的Game Output选项卡
+
+
+
+
+1.5.1
+2014年7月29日
+
+
+修复启动器卡在加载界面的问题[9]
+
+
+
+
+1.5
+2014年7月28日
+
+
+Development Console选项卡被重命名为Launcher Log
+你现在能同时运行多个Minecraft，要求用不同账号
+如果Minecraft已经被打开，Play按钮会改成Already Playing...
+添加了新选项卡Game Output (你的用户名)，在你打开游戏后出现
+
+
+
+
+1.4.7
+2014年7月25日
+
+
+在打开游戏前预先准备库文件
+
+
+
+
+1.4.6
+2014年7月25日
+
+
+在资料编辑器中添加了一些命令行
+添加了版本继承[10]
+
+
+
+
+1.4.5
+2014年7月25日
+
+
+修复MCL-2444 - 改变Event Dispatch Thread上的游戏启动
+添加“Switch users”按钮以使切换用户更方便
+
+
+
+
+1.4.4
+2014年7月19日
+
+
+修复MCL-2494 – 启动器1.4.2中可能的崩溃?
+
+
+
+
+1.4.2
+2014年5月2日
+
+
+显示下载进度条
+修复MCL-2350 – 内存占用渐渐升高
+移除按钮“Local Version Editor (NYI)”
+自动清理无用库
+
+
+
+
+1.3.11
+2014年3月12日
+
+
+更新日志网页的网页框架现在尽可能使用JavaFX
+档案资料现在以字母表顺序排列
+
+
+
+
+1.3.10
+2014年1月23日
+
+
+库文件现在使用SHA-1验证
+
+
+
+
+1.3.9
+2014年1月14日
+
+
+更新漏洞追踪器链接
+
+
+
+
+1.3.8
+2014年1月8日
+
+
+在“Play Demo”按钮下为试玩账号添加“(Why can I only play demo?)”链接，点击会进入这里。
+
+
+
+
+1.3.7
+2013年12月12日
+
+
+未知
+
+
+
+
+1.3.6
+213年12月5日
+
+
+修复MCL-1895 – 无法离线玩Minecraft 1.3.5，启动时世界崩溃
+
+
+
+
+1.3.5
+2013年12月4日
+
+
+使用新的Assets Management System重新安排库文件夹[11]
+
+
+
+
+1.3.4
+2013年11月26日
+
+
+下载大文件会更快[12]
+
+
+
+
+1.3.3
+2013年11月20日
+
+
+（有可能）绑定Mojang与Twitch账号[13]
+
+
+
+
+1.3.2
+2013年11月8日
+
+
+添加完成工作的时间统计
+更快的资源下载[14]
+
+
+
+
+1.3.1
+2013年10月29日
+
+
+速度提升
+Basic read-only popup on version list tab
+Misc fixes and cleanups
+
+
+
+
+1.2.8
+2013年10月25日[来源请求]
+
+
+未知
+
+
+
+
+1.2.7[来源请求]
+2013年10月18日
+
+
+Added an open game directory button in the profile editor.
+
+
+
+
+1.2.6[来源请求]
+2013年10月17日
+
+
+未知
+
+
+
+
+1.2.5[来源请求]
+September 23, 2013
+
+
+在点击“Play”之后，不再显示开发人员控制台。[来源请求]
+
+
+
+
+1.2.4[来源请求]
+2013年9月19日
+
+
+未知
+
+
+
+
+1.2.3[15]
+September 12, 2013
+
+
+你现在可以使用启动器从任何地方登出 (MCL-1270)
+
+
+
+
+1.2.2[16]
+September 3, 2013
+
+
+修复 (MCL-1461) 使启动器长时间地加载
+
+
+
+
+1.2.1 (Files uploaded)[17]
+August 6, 2013
+
+
+5个旧的Minecraft版本，从Classic到Pre-classic已经被推送到启动器
+
+
+
+
+1.2.1 (Files uploaded)[18][19]
+August 6, 2013
+
+
+新增Alpha版本
+
+
+
+
+1.2.1
+August 2, 2013
+
+
+新增一个关于使用Beta, Alpha, 和快照版本的警告
+
+
+
+
+1.2
+August 1, 2013
+
+
+新增"Time Machine" 功能来使用Beta版本.
+
+已包括 Alpha 的一个选项，但版本仍未开放下载。
+
+
+同时允许玩家游玩 1.2.5-1.4.7 版本。
+
+
+
+
+1.1.4
+July 31, 2013
+
+
+一些小的文本更新
+
+
+
+
+1.1.3[20]
+July 27, 2013
+
+
+修复在Intel HDXXXX芯片下的低帧率问题
+
+
+
+
+1.1.2
+July 22, 2013
+
+
+修复 MCL-1241 - 在1.1.1中只能在离线模式下启动游戏
+
+
+
+
+1.1.1
+July 19, 2013
+
+
+新的启动器界面以及登录界面
+启动器现在会在游戏窗口打开后自动关闭
+
+
+
+
+1.0.10
+July 12, 2013
+
+
+更好的Hopper支持
+客户端崩溃会被标记为公开的
+
+目前还未为这些事做任何东西
+
+
+添加了一个选项到Profile来禁用Hopper支持
+只有在Hopper被关闭或启动器无法连接到Hopper时会直接报告到bug追踪系统
+
+Hopper 不会发送崩溃报告到bug追踪系统如果游戏打了Mod
+
+
+
+
+
+
+1.0.9
+July 10, 2013
+
+
+添加新的崩溃报告系统支持, Hopper[21]
+
+任何客户端崩溃都会自动提交崩溃报告
+
+
+
+
+
+
+1.0.8 OS X (Re-upload)[22]
+July 9, 2013
+
+
+修复启动器 无法在OS X 10.5.8 (Leopard)上运行1.6.2
+
+
+
+
+1.0.8 OS X (Re-upload)[23]
+July 8, 2013
+
+
+修复启动器 无法在OS X 10.5.8 (Leopard)上运行1.6.2
+
+
+
+
+1.0.8
+July 2, 2013
+
+
+启动器现在拥有高清图标[来源请求]
+Mac OS X 10.5.8 用户在等待 LWJGL 修复期间关闭了 Minecraft 1.6.1 ，然而 1.5.2 没被影响。[24]
+
+
+
+
+1.0.7
+July 2, 2013
+
+
+添加自动关闭 loginbug 的能力。|MCL-590}}&lt;/ref&gt;
+
+
+
+
+1.0.6
+July 1, 2013
+
+
+
+修复漏洞：
+
+
+
+
+MCL-92 – 启动窗口大小不适合整个GUI
+MCL-227 – Play button 不在窗口中 @ Linux
+MCL-262 – 文本不适合窗口
+MCL-287 – 启动器界面限制了外观，不可以选择版本 - 不能进入选项卡
+MCL-596 – 新的Mac启动器中的不正确版本
+MCL-696 – 没有在“Edit Profile”中见到改变内存的选项。
+
+
+
+
+
+
+
+1.0.5
+July 1, 2013
+
+
+Profile Editor中新增'snapshot'设置, 启用/禁用快照
+'Minecraft.exe'(启动器) 已经完成数字签证. (MCL-546)
+
+
+
+
+1.0.4
+June 28, 2013
+
+
+Profile Editor中新增'resolution'设置
+
+
+
+
+1.0.3
+June 27, 2013
+
+
+
+Bug fixes:
+
+
+
+
+MCL-587 – 未付费游戏可以游玩无限制版游戏。
+MCL-600 – 启动器在你使用用户名而非邮箱登录时给出错误的提示信息
+
+
+
+
+
+
+
+1.0.2
+2013年6月27日
+
+
+未知
+
+
+
+
+
+1.0.1
+June 26, 2013
+
+
+Yggdrasil 验证恢复
+
+修复 MCL-568 – 迁移账户 - 不能在 1.0.1 启动器中登录 1.6 预发布版。
+
+
+
+
+
+
+1.0.0
+June 26, 2013
+
+
+启动器降级到1.0.0
+因为登录错误而禁用Yggdrasil
+
+
+
+
+1.0.1
+June 26, 2013
+
+
+启用Yggdrasil（一个新的验证系统）
+更加安全且更多功能
+
+
+
+
+1.0
+2013年6月25日
+
+
+未知
+
+
+
+
+0.9.5
+2013年6月18日
+
+
+未知
+
+
+
+
+0.9.4
+June 18, 2013
+
+
+在Profile Selection Panel中新增"New Profile"和"Edit Profile"按钮
+
+
+
+
+0.9.3
+2013年6月14日
+
+
+未知
+
+
+
+
+0.9.2
+2013年6月13日
+
+
+未知
+
+
+
+
+0.9.1
+June 10, 2013
+
+
+Fixed: MCL-412 – OS X： Exception in thread "main" java.lang.NoClassDefFoundError: net/minecraft/client/main/Main
+
+
+
+
+0.9
+June 10, 2013
+
+
+现在拥有了Profile Editor选项卡.
+
+通过双击你的Profile并且在下拉列表中修改版本来选择游戏版本
+
+
+改变 Version Selector 区域。
+
+
+
+
+0.8.3
+2013年6月7日
+
+
+未知
+
+
+
+
+0.8.2
+2013年5月27日
+
+
+未知
+
+
+
+
+0.8.1
+May 21, 2013
+
+
+当选择一个快照版本时，客户端窗口使用工作台的图标作为主窗口的图标；启动器窗口仍然使用草方块图标。
+
+在 Windows 上，使用默认 Java 图标来选择正式版本。
+
+
+
+
+
+
+0.8
+2013年5月20日
+
+
+未知
+
+
+
+
+0.7.2
+2013年5月15日
+
+
+未知
+
+
+
+
+0.7
+May 13, 2013
+
+
+启动器降级到0.7
+
+
+
+
+0.7.1
+2013年5月4日
+
+
+未知
+
+
+
+
+0.7
+2013年5月2日
+
+
+未知
+
+
+
+
+0.6
+2013年4月25日
+
+
+未知
+
+
+
+
+0.5
+2013年4月23日
+
+
+在版本选择中加入了Minecraft 1.5.1
+
+
+
+
+0.4
+2013年4月23日
+
+
+重启崩溃报告
+
+
+
+
+
+0.3
+2013年4月22日
+
+
+添加Local Version Editor (NYI)选项卡
+添加检查服务器状态的窗口
+修复小漏洞
+
+
+
+
+0.2
+2013年4月19日
+
+
+添加Development Console选项卡
+修复游戏启动的问题
+
+
+
+
+0.1
+2013年4月18日
+
+
+.minecraft目录结构改变：
+
+“assets”文件夹：存储语言文件和声音文件
+
+所有的音乐文件都用.ogg格式取代了.mus格式
+
+
+“library”文件夹：存储Java库文件，比如LWJGL和jinput.jar
+“versions”文件夹：存储每个版本的“versions.json”（元数据）和minecraft.jar的文件夹（名称是其版本号，比如13w16a是“versions/13w16a/13w16a.jar”）
+
+
+
+
+
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+
+第一个启动器。
+
+
+
+
+
+
+
+
+
+第二个启动器。你可以看见旧的 Minecraft logo。
+
+
+
+
+
+
+
+
+
+第三个启动器。
+
+
+
+
+
+
+
+
+
+第四个启动器。
+
+
+
+
+
+
+
+
+
+1.2 版本的启动器。
+
+
+
+
+
+
+
+
+
+启动器启动后的 Development Console 标签。
+
+
+
+
+
+
+
+
+
+Local Version Editor (NYI) 标签。
+
+
+
+
+
+
+
+
+
+如果你的启动器没有更新时显示的错误信息。
+
+
+
+
+参考[编辑 | 编辑源代码]
+
+↑ https://twitter.com/Dinnerbone/status/344164561701724160
+↑ https://twitter.com/Dinnerbone/status/364762596387205120
+↑ https://help.mojang.com/customer/portal/articles/1475923-changing-game-versions
+↑ https://twitter.com/notch/status/38621269331025921
+↑ http://mcupdate.tumblr.com/post/3427294253/welcome-to-the-new-minecraft-launcher
+↑ http://notch.tumblr.com/post/3428176687/server-downtime-and-a-new-launcher
+↑ http://www.mojang.com/2012/03/minecraft-1-2-is-out/
+↑ https://twitter.com/Dinnerbone/status/561096640086700032
+↑ https://twitter.com/Dinnerbone/status/494220782244208640
+↑ https://twitter.com/Dinnerbone/status/492715318645882880
+↑ https://twitter.com/Dinnerbone/status/408246271921901568
+↑ https://twitter.com/Dinnerbone/status/405366855785021440
+↑ https://twitter.com/Dinnerbone/status/403111179859812352
+↑ https://twitter.com/Dinnerbone/status/402434001451098112
+↑ https://twitter.com/Marc_IRL/status/378280823180361729
+↑ https://twitter.com/Dinnerbone/status/374887108932288512
+↑ https://twitter.com/Dinnerbone/status/365040968644296705
+↑ https://twitter.com/Dinnerbone/status/364699262233223169
+↑ https://twitter.com/_grum/status/364699271708151808
+↑ https://twitter.com/_grum/status/361126093777936384
+↑ http://hopper.minecraft.net/
+↑ https://twitter.com/Dinnerbone/status/354595929925496832
+↑ https://twitter.com/Dinnerbone/status/354351963288248321
+↑ https://twitter.com/Dinnerbone/status/352109843731070976
+
+另见[编辑 | 编辑源代码]
+
+辅助程序与编辑器
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Minecraft启动器&amp;oldid=113706”					
+				分类：来源请求MinecraftGameplayGame terms				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishFrançais日本語NederlandsРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月30日 (星期六) 12:39。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

@@ -1,0 +1,837 @@
+
+
+
+
+Xbox 360版 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Xbox 360版
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				该文章是关于Xbox 360版的。  关于通常说的主机版，请参阅主机版。  关于适配于移动设备，请参阅携带版。  关于本游戏的概述，请参阅Minecraft。  关于此版本的版本记录，请参阅主机版版本记录.
+
+Xbox 360版
+
+
+
+
+
+开发作者
+
+ Mojang AB
+ 4J Studios
+
+
+
+运行平台
+
+ Xbox 360
+
+
+
+编写语言
+
+C++[1]
+
+
+
+最新版本
+
+TU35
+
+
+
+发布日期
+
+数字版 - 商城
+2012年5月9日
+实体光碟 - DVD
+2013年6月4日
+
+
+
+年龄分级
+
+（在线互动不影响评级）
+PEGI：7+[2]
+ESRB：E10+[3]
+ACB：PG[4]
+
+
+
+程序大小
+
+113.21 MB
+
+
+
+授权协议
+
+私有
+
+
+
+开源情况
+
+否
+
+
+
+外部链接
+
+
+Xbox商城页面
+Xbox Live页面
+
+
+
+
+
+
+
+
+
+美国实体版封面。
+
+
+Minecraft：Xbox 360版是Xbox 360版本的Minecraft，由4J Studios在Mojang与Microsoft Studios的协同下开发。[5]此版本在2011 E3展会上由Notch与微软宣布，最终在2012年5月9日与一个免费试玩版一同在Xbox Live Arcade发布，售价为19.99美元。
+
+
+
+目录
+
+
+1 实体光盘
+2 开发
+3 功能
+4 MineCon
+5 发布
+6 控制
+
+6.1 Xbox 360 控制器操作
+
+
+7 版本记录
+8 你知道吗
+9 引用
+
+
+
+实体光盘[编辑 | 编辑源代码]
+在2013年6月4日，微软发布了第一款Minecraft Xbox 360版的零售光盘，并且免费赠送金级会员。定价为$19.99，与Xbox Arcade版相同。除了光盘，这个版本与下载版本无异。两个版本在Xbox Live上下载或购买的日期和版本没有任何差别。这个版本在支持Xbox Live的地区或国家发售。
+开发[编辑 | 编辑源代码]
+Notch确认它会是Xbox版的设计师，就像PE一样，但是他不会参与代码的编写工作。 [6] 稍后Notch宣布开发Xbox版的将会是4J Studios团队。 [7][8] 在2011年9月7日，Daniel Kaplan 发过一篇关于他收到的Xbox版早期版本的推文[9] Xbox版本的在线游戏兼容PC的在线游戏服务器，你同样也可以使用的在PC上使用的ID。[来源请求] 此外，与PC版一样，更新是免费的。
+功能[编辑 | 编辑源代码]
+这个版本的游戏将会与PC版十分接近[10] 但是它会有一些独占的功能：
+
+玩家可以选择[11] 使用Kinect来协助进行游戏[12]
+Xbox版不会使用标准的合成面板而是使用独占的方式，但还是会与PC中2x2或3x3的合成公式类似。面板将不会要求你把物品放置在合适的位置，而是询问你想要合成什么，告诉你合成某个方块需要的物品，如果你有，他就会提供产品。
+它将有一个有特色的分屏界面[13] 无论有2个还是最多4个玩家，也都可以在分屏中玩多人游戏模式。
+
+MineCon[编辑 | 编辑源代码]
+Xbox 360版在Minecon 2011中被作为一个试玩版展示，并且被标注为'正在制作中'，4J 工作室已经确认，由于没有饥饿条，Xbox 360版已经拥有全部在Minecraft PC版在Beta 1.8之前的所有功能。但是目前不确定的是他们是否会增加1.8中的功能。[来源请求] IGN为Minecon制作了一个视频 这里 显示Xbox 360版本的画质极为接近PC。
+发布[编辑 | 编辑源代码]
+Minecraft已于2012年春天登陆XBox 360平台。[14]
+控制[编辑 | 编辑源代码]
+
+主条目： 控制#Xbox 360 版
+
+Xbox 360 控制器操作[编辑 | 编辑源代码]
+默认设置中,控制提示总是在HUD上。
+
+基本操作
+
+A - 跳跃(在创造模式时双击飞行)
+B - 丢弃
+X - 打开合成菜单
+Y - 打开物品栏
+LT - 放置方块/使用物品
+RT - 挖掘/使用 方块/物品
+LB/RB - 变更手持的方块
+摇杆 - 观察/移动
+左摇杆(按下) - 在创造模式飞行时下降/潜行[15]
+左摇杆(迅速向前移动两次)疾跑
+右摇杆(按下) - 变更视角
+
+
+
+
+界面操作 (合成/烧炼/酿造/物品栏)
+
+A - 捡起/放下 物品
+B - 关闭界面
+X - 拿起一半数量/显示关于被选择方块/物品的信息
+Y - 快速移动
+摇杆 - 移动光标/更改选择的物品
+
+
+
+版本记录[编辑 | 编辑源代码]
+
+主条目： Xbox 360版版本记录
+
+你知道吗[编辑 | 编辑源代码]
+
+4J Studios公司负责将其移植到Xbox 360, 该公司也曾负责移植其他的电视游戏，如PS3平台上的《上古卷轴4：湮没》。
+传言称Xbox版本的升级会比PC版本的相应升级晚一到两个月。
+2011年11月，Xbox Arcade下载选项中出现了Minecraft条目，尽管只能下载到其预告片，但其游戏的评分非常高，以至于让Xbox社区认为这个游戏的Xbox版本已经上市。
+这里也有Minecraft主题的Xbox Live虚拟人偶道具。包括Minecraft衬衫、宠物、物品、道具、头套仪表盘、玩家图片。所有的这些价格都在$1/£0.69到$2.99/£1.99的范围内。
+虽然没有正当修改游戏的方法，但你可以通过破解做到。你必须注意在你使用mod时有可能被BAN掉。
+
+引用[编辑 | 编辑源代码]
+
+↑ http://www.totalxbox.com/41893/features/minecraft-xbox-360-the-five-greatest-technical-challenges/
+↑ Minecraft: Xbox 360 Edition PEGI Rating
+↑ Minecraft: Xbox 360 Edition ESRB Rating
+↑ Minecraft: Xbox 360 Edition ACB Rating
+↑ http://marketplace.xbox.com/en-US/Product/Minecraft/66acd000-77fe-1000-9115-d802584111f7
+↑ http://notch.tumblr.com/post/6385865216/post-e3-information-dump
+↑ http://twitter.com/notch/status/81124564104515584
+↑ http://twitter.com/notch/status/81124399985598464
+↑ http://twitter.com/Kappische/status/111533621449461761
+↑ http://twitter.com/notch/status/77817236391346177
+↑ http://twitter.com/notch/status/77817236391346177
+↑ http://www.ifc.com/news/2011/06/e3-2011-minecraft-kinect-xbox-360.php
+↑ http://twitter.com/jeb_/status/145846150505832448
+↑ http://www.gamespot.com/pc/adventure/minecraft/news/6342148/minecraft-for-xbox-360-pushed-to-spring-2012
+↑ http://www.gamefront.com/minecraft-xbox-360-controls-are-surprisingly-not-terrible/
+
+
+
+ 主机版
+
+
+平台版本
+
+
+ Xbox 360版
+ Xbox One版
+ PlayStation 3版
+ PlayStation 4版
+ PlayStation Vita版
+ Wii U版
+
+
+
+
+开发
+
+
+版本记录
+未来展望
+独有特性
+已移除特性
+
+
+
+
+技术性
+
+
+已知漏洞
+
+
+
+
+独有特性
+
+
+分屏
+教程
+
+地点
+
+
+
+
+
+DLC
+
+
+皮肤包
+混搭套件
+材质包
+
+
+
+
+世界类型
+
+
+典型
+小
+中
+大
+下界超平坦
+
+
+
+
+方块/物品
+
+
+刷怪蛋
+
+驴
+骡
+
+
+
+
+
+
+实体
+
+
+ 末影酸
+
+
+
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Xbox_360版&amp;oldid=111362”					
+				分类：来源请求Minecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyar日本語NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月11日 (星期一) 09:59。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

@@ -1,0 +1,1843 @@
+
+
+
+
+主机版版本记录 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			主机版版本记录
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的（部分）内容需要被翻译。
+你可以帮助我们来翻译此页面
+
+
+
+
+
+
+
+此页面的部分内容由于太久没更新而已过期。
+你可以帮助我们来更新此页面
+
+
+
+
+
+
+这不是官方的版本记录与更新日志。若需官方列表，请访问4JStudios的论坛帖子Xbox 360、Xbox One、PlayStation 3、PlayStation 4、PlayStation Vita或Wii U版，Mojang网站或PlayXBLA网站。
+
+
+该文章是关于既有主机版更新的。  关于未来更新，请参阅主机版未来展望。
+下方的列表以正式版和对应PC版开发周期排序。(?)符号代表版本的信息是猜测，可能有偏差。已知漏洞可在此查询。
+注释：
+
+TU表示Xbox 360所用的Title Update
+CU表示Xbox One所用的Content Update
+Patch用于PS3、PS4、PSVita与Wii U（可添加特性）
+
+
+
+
+
+目录
+
+
+1 2016
+2 2015
+
+2.1 TU25/CU14/1.17
+2.2 CU13
+2.3 TU24/CU12/1.16
+2.4 TU23/CU11/1.15
+2.5 TU22/CU10
+2.6 TU21/CU9/1.14
+2.7 TU20/CU8/1.13
+
+
+3 2014/2013
+
+3.1 TU19/CU7/1.12
+3.2 TU16
+3.3 TU15
+3.4 TU14
+3.5 TU13
+3.6 TU12
+
+
+4 参考
+
+
+
+
+2016[编辑 | 编辑源代码]
+
+
+版本与日期
+更新内容
+
+
+
+
+
+
+
+
+TU34
+
+2016年4月6日
+CU22
+
+2016年4月6日
+1.25
+
+2016年4月6日
+Patch 4
+
+2016年4月6日
+
+
+添加Story Mode皮肤包
+添加6个成就（仅Xbox和PS）
+添加成就系统（仅Wii U）
+在声音选项中添加“Minecraft声音”选项
+在创造模式与超平坦菜单中加入巨型蘑菇方块
+优化分屏控制
+
+
+
+修复漏洞
+
+
+
+
+Fixed a memory issue causing “加载失败”的提示 (只在PS3出现).
+Fix for issue where the Ender Dragon would be immune to attacks
+修复史莱姆不生成在某些沼泽和史莱姆区块的问题。
+Fix for Potion of Swiftness, Potion of Slowness and Speed bonus of Beacon having no effect on the player.
+Fix for teleporting a player while they are sleeping in a Bed not working properly.
+Fix for some chunks in the Overworld not generating for clients of a multiplayer game.
+Fix for issue where Experience Orbs could not be obtained by some trades with Villagers.
+Fix for Thorns enchantment not affecting players.
+Fix for MCCE #747 - TNT cannon not working.
+Fix for MCCE #659 - Doors have a weird texture on top when open (And other sides).
+Fix for MCCE #1854 - Grass positioning is perfect.
+Fix for MCCE #1826 - White tulip description incorrect.
+Fix for MCCE #1756 - Witch Hut Bounding Box Too Small.
+Fix for MCCE #1260 - Submerged Witch Huts.
+Fix for MCCE #483 - Camera jitter and player unable to move when looking at chest you are standing on.
+Fix for MCCE #863 - The map does not work as it should (unless "View Hand" is turned on).
+Fix for MCCE #1757 - Slimes spawning in witch huts.
+Fix for MCCE #1739 - No icon in item frame map.
+Fix for MCCE #1803 - Item frames vanishing in very strange draw distance.
+
+
+
+
+
+
+
+TU33
+
+2016年2月25日
+CU21
+
+2016年2月25日
+1.24
+
+2016年2月25日
+Patch 3
+
+2016年2月26日
+
+
+添加Biome Settlers Skin Pack 1
+（仅Wii U）版本更新到等同于PC1.8.8，见下面
+
+
+
+漏洞修复
+
+
+
+
+Fix for MCCE #1460 &amp; #910 - 守卫者不会生成
+Fix for MCCE #917 - Incorrect attack damage shown on tooltips with enchantments.
+Fix for MCCE #868 - Redstone clocks get stuck on when changing dimension.
+Fix for Animals in Love Mode lacking heart particles for the duration of Love Mode.
+Fix for 史莱姆生成在下界.
+
+
+
+
+
+
+
+TU32
+
+2016年2月12日
+CU20
+
+2016年2月12日
+1.23
+
+2016年2月10日
+
+
+
+漏洞修复
+
+
+
+
+Fix for MCCE #48 - Water Spreading Creates New Source Blocks.
+Fix for MCCE #571 - Interface Opacity and Tooltip Opacity issues. (PS Vita only)
+Fix for MCCE #772 - Animals get stuck in corners of fence-type blocks.
+Fix for MCCE #817 - Map walls are broken with Dec 2015 update. (Xbox One only)
+Fix for MCCE #826 - Beacon height limit.
+Fix for MCCE #829 - The end build limit is smaller.
+Fix for MCCE #831 - Player skin is the default skin when holding a map.
+Fix for MCCE #856 - Red sandstone stairs texture incorrect.
+Fix for MCCE #863 - The map does not work as it should (unless "View Hand" is turned on).
+Fix for MCCE #865 - Rabbits only appear to spawn naturally in snow biomes.
+Fix for MCCE #878 - Book and Quill saving issue. Opening and closing an edited (not signed) writeable book deletes the saved pages.
+Fix for MCCE #833 - When Interface opacity is down, hotbar faded tools won’t show their durability.
+Fix for MCCE #885 &amp; #886 - Feather Falling enchantment does not reduce falling damage &amp; Ender pearl Damage.
+Fix for MCCE #962 - Slime Spawning (Increase to Slime Spawning).
+Fix for MCCE #1009 - Skulls in the inventory and held in first person are oversized.
+Fix for MCCE #1024 - Raw fish and raw salmon have the same texture in the Natural Texture Pack.
+Fix for MCCE #1072 - In the City Texture Pack it shows smooth red sandstone as a rough block but when you place it, it is smooth.
+Fix for MCCE #1091 - Some fire caused by Ghast's Fireball explosion is not displayed.
+Fix for MCCE #1127 - Wolfs default collar colour had changed (Orange -&gt; Red).
+Fix for MCCE #1142 - Minecraft Capes using incorrect texture.
+Fix for MCCE #1192 Texture under the bed is the texture of the top of the bed.
+Fix for MCCE #1202 - Map dark when facing north or south.
+Fix for MCCE #1214 - Texture of any potion turns black while holding it in the End or Nether.
+Fix for MCCE #1349 - Penned animals de-spawn when leaving the chunk.
+Fix for MCCE #1366 - When placing a torch under water to reset / refill your air meter will often (about 50% of the time) cause a crash.
+Fix for MCCE #1367 - Melon farm with piston causes crash.
+Fix for MCCE #1415 &amp; #1403 - Hunger meter always regenerates when switching from peaceful to any other difficulty.
+Fix for MCCE #1434 - Fishing Rod Bobber Sticks to Walls!
+Fix for MCCE #1455 - Piston/slime block duplication.
+Fix for MCCE #1457 - TNT can destroy blocks placed well beyond the world border.
+Fix for MCCE #1476 - Skin Pack 6: Faith Connors' Mirror's Edge Skin First Person View Bugged? (Xbox 360 only)
+Fix for MCCE #1488 - ‘Getting an Upgrade’ trophy/achievement fails to unlock while crafting a stone pickaxe using classic crafting.
+Fix for crash when Ender Chest is mined for a few seconds.
+Fix for an intermittent crash when placing beds on snow.
+Fix for a crash when a Superflat World session with a combination of multiple Planks or Wood, Lava and Air Layers is saved.
+Fix for a crash after destroying blocks and exploring a Superflat World with multiple Sand, Air and TNT Layers.
+Improved random seed generator to select worlds with a better spread of biomes.
+Fix for Villagers not harvesting crops from Farmlands created by the player.
+Fix for glass not being able to be broken by hand in Adventure Mode.
+Fix for an issue where the user renames a ‘Spawn Egg’ and places it in water, causing debug text to be displayed.
+Fix for an issue when the "Body Guard" trophy/achievement does not unlock as expected when the Iron Golem is built in a certain way.
+Fix for an issue where a player cannot see other players after dying and respawning.
+Fix for an issue where baby horses appear to be adults after feeding with one golden carrot.
+Fix for issue where two Primary Powers can be applied to the Player's character through the Beacon UI.
+Fix for an issue where a Torch and a Redstone Torch have two hitboxes.
+Fix for de-spawn protections not being applied to baby animals created with Spawn Eggs.
+Fix for issue where item quantity for Bottle o' Enchanting, Nether Star, Enchanted Golden Apple and strength indicator for Potions are not affected by Interface Opacity when in the Quick Select.
+Fix for Death Message with incorrect text is displayed when the player is killed with a named weapon.
+Fix for worlds generating slightly differently every time even with the same seed.
+Fix for issue where Leather Clothes, Spawn Eggs and Potions are displayed improperly when the player is above 256 blocks or is in a place where there is no source of daylight.
+Fix for Doors, Trapdoors and Fence Gates missing a sound effect when closing.
+Fix for issue where opening certain menus does not cancel the eating, drinking or bow charging animations.
+Fixed an issue where items that have no custom names were not showing up in edit text field in the Anvil.
+Fix for Ocelots not sprinting away from the player.
+Fix for Pistons and objects pushed by them having corrupted, black textures while animating.
+Fix for falling Gravel, Sand and Red Sand blocks displaying with very dark textures.
+Fix for issue where texture pack changes to vanilla Minecraft textures if the player joins a friend's session.
+Added first person rendering of additional skin parts for the left and right arms.
+Fix for an issue when in a Split-screen session where at least one player does not get Critical Hit particles.
+Fix for seeing through the base of falling blocks.
+Fix for missing mining animation for Skulls, Heads, Signs, Chests and Beacons.
+Fix for issue where changing the Interface Opacity to specific values causes visual issues with the item and button icons on the HUD.
+Fix for issue when travelling directly north or south in a Minecart where the player automatically turns to face eastwards.
+Fix for missing tooltip for 'Exit' / 'Dismount' actions.
+Fix for Guardians not being spawned around Ocean Monuments on a Superflat World.
+Fix for City Texture Pack missing textures for multiple kinds of doors while holding in the player’s hand
+告示牌上的字不显示。
+Fix for Cows needing to take 11 hits with hand or 3 hits with any Sword to be killed.
+Fix for Clownfish description displaying incorrect information.
+Fix to update the sponge texture. (PS3 only)
+Fix for the tutorial message about boats shows the wrong button prompt for exiting the boat. (PS4 only)
+Fix to allow saves that had been well explored to save player state again. (只在PS4和Xbox One出现)
+Fix for 金苹果的 regeneration animation not being smooth. (只在Xbox 360版出现)
+Fix for issues using certain symbols while renaming items on the Anvil. (Xbox 360 only)
+Fixed an issue unlocking the ‘Iron Belly' trophy. (excludes Xbox One)
+Fix for 'Acquire Hardware' achievement not unlocking when an ingot is removed by the Quick Move button. (Xbox One only)
+Fix for 'Delicious Fish' achievement being able to be be unlocked without cooking a Raw Fish. (Xbox One only)
+Fix for a crash when adding a Split-screen Client on the host’s console while the game player slots are full. (Xbox One only)
+
+
+
+
+
+
+
+—
+—
+—
+Patch 2
+
+2016年1月27日
+
+
+
+漏洞修复
+
+
+
+
+Fix for a problem with the analog sticks when using 3rd party Pro controllers.
+Fix for a crash after playing for an extensive time.
+Fix for a hang when losing internet connection while in an online game.
+Fix for a graphical issue when looking through opaque colored Glass Blocks.
+Fix to enable Game Chat through the gamepad even if it isn’t being used by one of the active players.
+Fix for an issue when disabling the Game Chat option while in an online game.
+Fix for an issue with the Game Chat option in splitscreen.
+Fix for an issue with input when a splitscreen player is using the system keyboard.
+Fix for an issue when copying saves with no space available.
+Fix for issues when the user deletes one of the Favorite Mii characters.
+Display Japanese names for DLC in the in-game shop in Japan, rather than English names.
+Fix for a graphical corruption issue in the in-game Skin Selector menu.
+Fix for an issue with the flowing water texture in the Festive Mash-up Pack.
+Fixed issue with the left stick input while in Edit Layer and Add Layer in the Superflat World creation menu.
+Corrected some text in the eManual.
+
+
+
+
+
+
+
+2015[编辑 | 编辑源代码]
+
+
+版本与日期
+更新内容
+
+
+
+
+
+
+
+
+TU31
+
+2015年12月18日
+CU19
+
+2015年12月18日
+1.22
+2015年12月18日
+
+2015年12月21日
+Patch 3
+
+2016年2月26日
+
+（等同于1.8.8）
+
+新内容
+
+
+物品
+
+盔甲架、生兔肉、熟兔肉、兔肉煲、生羊肉、熟羊肉、兔子脚、兔子皮、跳跃药水、水肺药水、鲑鱼、熟鲑鱼、小丑鱼、河豚鱼、蒲公英、罂粟（替代玫瑰）、兰花、绒球葱、茜草花、郁金香、法兰西菊、向日葵、欧丁香、玫瑰从、牡丹、双草丛、大型蕨、海晶砂粒、海晶碎片
+
+
+仅创造模式：兔、末影螨、守卫者刷怪蛋
+方块
+
+灰化土、花岗岩、磨制花岗岩、安山岩、磨制安山岩、闪长岩、磨制闪长岩、海晶石、暗海晶石、海晶石砖、红沙、红沙石、平滑红沙石、錾制红沙石、红沙石楼梯、海晶灯、湿海绵、粘液块、砂土、浮冰、金合欢树苗、深色橡木树苗
+
+
+生物
+
+末影螨、守卫者、远古守卫者、兔、鸡骑士
+
+
+生物群系
+
+平顶山、大型针叶林、黑森林、白桦林、森林、热带草原、峭壁+、深海、无雪针叶林与20个技术性生物群系
+
+
+结构
+
+海底遗迹
+
+
+附魔
+
+海之眷顾、饵钓、深海漫步者
+
+
+
+
+更改
+
+
+钓鱼
+
+现在有颗粒效果 - 水的气泡会走在玩家的钓鱼钩前。这是鱼的外观** New items can be caught from fishing
+
+宝藏：附魔钓鱼竿、附魔弓、附魔书、命名牌、绊线钩、睡莲与鞍.
+垃圾：损坏的钓鱼竿、水瓶、腐肉、string, leather, bowl, stick, bone, tripwire hook, ink sac and damaged leather boots.
+
+
+
+
+附魔
+
+Now consumes lapis lazuli and has been rebalanced.
+Enchanted books can receive multiple enchants at once.
+
+
+Nether portal
+
+New nether portal building rules: Any rectangular shape from 4x5 to 23x23
+If the portal in the nether is big enough, ghasts can travel through.
+Will now be activated by any fire block within the frame.
+
+
+方块
+
+发射器 现在可以放置 南瓜 或者 凋灵骷髅头颅 来生成 铁傀儡, 雪傀儡 和 凋零, provided the body is built in a valid configuration.
+铁砧 repairing has been rebalanced.
+苔石, mossy stone bricks and chiseled stone bricks are now obtainable via crafting.
+Cracked stone bricks and sponges are now obtainable via smelting.
+When a furnace runs out of fuel, the smelting progress will rewind at 2× speed.
+Empty furnaces will only accept fuel and empty buckets in the fuel slot.
+Item frames now emit a redstone signal, and can rotate in 8 directions.
+Redstone comparators can now detect the rotation of an item in an item frame and output an equivalent power signal.
+按钮 can now be placed on the top and bottom of blocks.
+Powered activator rails now dismount entities riding minecarts.
+Cauldrons with water in them will put out burning entities, taking away one water level each time.
+When harvested with Silk Touch enchantment, huge mushrooms now drop blocks with corresponding mushroom texture (red or brown) on all sides, rather than the one with spores.
+海绵 are now obtainable in survival mode, and now soak up contiguous water source blocks out to a taxicab distance of 5 when placed, thereupon turning into a new wet sponge.
+甘蔗 color is affected by the biome color (similar to leaves, grass and vines).
+
+
+Items
+
+Added flint and steel and fire charge sound effect when igniting blocks.
+Arrows decelerate much more quickly underwater, and extinguish if on fire.
+Updated audio for minecarts.
+
+
+生物
+
+大部分生物现在可以游泳
+Skeletons flee from wolves.
+Creepers, skeletons, wither skeletons and zombies drop their heads when killed by charged creepers.
+Spiders no longer see players through solid blocks.
+Babies' growth can be accelerated by feeding them.
+Baby zombies now drop experience.
+Creepers can now be ignited with flint and steel.
+Adult zombie pigmen will forgive after a short time (and lose the aggro speed boost), but will continue to attack until the player escapes their aggro distance.
+Witches can now drink and drop potions of water breathing.
+Sheep now drop mutton when they die.
+Updated sounds for cows and mooshrooms.
+Villagers have additional professions and trades, will now harvest crops if they are farmers, will only breed when willing and will turn into witches when struck by lightning.
+
+
+世界生成
+
+Melons can now be found in jungle biomes similar to pumpkins.
+Swamp biomes now spawn with blue orchid flowers, and the coast is covered in staggered dirt block with lily pads between them.
+Plains biomes now generate with azure bluets, oxeye daises, tulips and double tall grass.
+Extreme hills biomes now have snow at higher elevations, gravel, flat valleys near sea level and are slightly higher.
+海洋 biomes contains only gravel on the floor instead of sand, dirt and gravel.
+Desert temples now spawn with stained clay instead of dyed wool.
+
+
+创建新的教程世界
+
+
+
+漏洞修复
+
+
+
+
+Fix for players adding additional layers above the maximum height in Superflat.
+
+
+
+
+
+
+
+TU30
+
+2015年10月23日
+CU18
+
+2015年10月23日
+1.21
+
+2015年10月23日
+Patch 1
+
+2015年12月17日
+
+
+新内容
+
+
+为Halloween 2015 Mash-up Pack中的火把添加彩色光照
+添加Halloween Mashup Pack试用包（除Xbox 360）
+添加Star Wars Prequel Skin Pack试用包（除Xbox 360）
+向Halo Mash-Up Pack添加8个皮肤（仅Xbox One）
+
+
+
+
+TU29
+
+2015年9月11日
+CU17
+
+2015年9月16日
+1.20
+
+2015年9月23日
+—
+
+
+添加Doctor Who Skin Pack Bundle试用包（仅PS平台）
+添加了奖杯，加入其他平台已有的内容（仅PS3）
+
+
+
+漏洞修复
+
+
+
+
+Fixed a memory leak causing frame rate issues.
+Fixed an issue changing game mode in an offline game (Xbox 360 only).
+Fixed an issue causing signs to go blank for network players.
+
+
+
+
+
+
+
+TU28
+
+2015年8月28日
+CU16
+
+2015年8月28日
+1.19
+
+2015年8月28日
+—
+
+
+新内容（仅PS）
+
+
+添加Star Wars Classic Skin Pack试用内容
+添加Star Wars Rebels Skin Pack试用内容
+
+修改
+
+更改海绵的材质，与PC版同步
+
+
+
+漏洞修复
+
+
+
+
+Optimised water rendering
+Fix for some instability when adding and removing players from a game.
+Fix for particle effects not displaying at high altitudes.
+Fix for an issue where the Fuel meter in a Furnace could be reset when using a Lava Bucket.
+Fix for an ingredient added to a Beacon interface would be lost when entering/leaving the End or the Nether.
+Fix for an issue when renaming a world save and quickly loading the world.
+Fix for an issue where the tick rate in a chunk would run too fast when the chunk was unloaded and then reloaded (MC-MCCE-390).
+Fix for Enable Flying host option causing healing to revert to classic mode.
+Fix for an issue with a Potion of Swiftness not working for splitscreen players.
+Fix for ‘Can Build And Mine’ privilege stopping players using potions.
+Fix for ‘Can Build And Mine’ privilege stopping players equipping armor from the hotbar.
+Fix for putting out fires with buckets of water making a wood breaking sound.
+Fixed an issue with Iron Golems trying to give a flower to a villager, but the flower not being present.
+Fix for a problem with water flickering at a distance when using the Natural Texture Pack.
+Fix for a problem unlocking the Enchanter achievement when using Classic Crafting.
+Fixed an issue where low opacity settings would cause the Ender Dragon and Wither health bars to be displayed inconsistently.
+
+
+
+
+
+
+
+TU27
+
+2015年7月24日
+CU15
+
+2015年7月24日
+1.18
+
+2015年7月24日
+—
+
+新内容
+
+常规
+
+添加Greek Mythology Mash-up包试用内容（除Xbox 360）
+
+
+方块与物品
+
+仅创造模式：合欢木与暗橡木木头、木板、栅栏、栅栏门、门、台阶、楼梯
+
+
+
+
+
+漏洞修复
+
+
+
+
+Fixed a crash when approaching villages, desert temples and jungle temples if the save that was loaded had a partially discovered Village/Temple in it. (excludes Xbox 360)
+Fixed an issue with wolves not taking damage properly.
+Fixed an issue with disabling weather cycle and saving causing other host options to be wrongly set. (PS3 and PS4 only)
+MC-MCCE-68 - The crafting recipe for dispensers accepts damaged bows.
+MC-MCCE-69 - The crafting recipe for carrot on a stick accepts damaged fishing rods.
+MC-MCCE-154 - Players without privledges can make your pet stand up.
+MC-MCCE-318 - Leads stay on fences when the animal is killed.
+MC-MCCE-351 - Location-based crashes.
+MC-MCCE-421 - Oak Door recipe only gives 1 door instead of 3.
+MC-MCCE-447 - Closing game on PS4 after loading a game. (about 5 minutes after loading world.)
+MC-MCCE-452 - Playing on creative world makes the game randomly close. (PS3 and PS4)
+MC-MCCE-497 - Lead role issue with new fences
+
+
+
+
+
+
+
+TU26
+
+2015年7月3日
+—
+—
+—
+
+
+
+漏洞修复
+
+
+
+
+Fixed a problem when deleting or renaming a save.
+Fixed an issue with stacking doors.
+Fixed an issue with the Set Day button in the Host Options menu.
+Fixed an issue stopping players removing Leads from Fences.
+Fixed Minecart with TNT having no igniting animation.
+Fixed an issue with Mobs being unable to pass through an open Iron Door.
+Fixed an issue where reaching the maximum spawn limit of villagers prevents spawning baby villagers after some of the villagers die.
+Fixed doors being destroyed when placing them on an upper Slab.
+Fixed an issue where players with no privileges could make tamed Wolves stand up.
+Fixed an issue where players with no privileges could kill Snow Golems.
+Stopped players being able to destroy Minecarts when ‘Can Build and Mine’ privilege is disabled.
+Stopped players being able to open Minecart with Chest, Minecart with Hopper, and Saddlebags when ‘Can Open Containers’ privilege is disabled.
+
+
+
+
+
+
+
+TU25
+
+2015年7月1日
+CU14
+
+2015年7月1日
+1.17
+
+2015年7月1日
+—
+
+TU25/CU14/1.17[编辑 | 编辑源代码]
+（等同于PC版1.6.4 - 1.8）
+新内容：
+
+方块与物品
+
+栅栏
+
+橡木栅栏，云杉木栅栏，白桦木栅栏，雨林木栅栏
+
+
+栅栏门
+
+橡木栅栏门，云杉木栅栏门，白桦木栅栏门，雨林木栅栏门
+
+
+门
+
+橡木门，云杉木门，白桦木门，雨林木门
+
+
+铁活板门
+反向阳光传感器
+书与笔
+染色玻璃
+染色玻璃板
+
+
+其他
+
+添加自定义超平坦用户界面，允许玩家自定义超平坦世界生成
+添加新的游戏内选项来更改游戏模式，难度设定，时间，玩家生成位置，启用或禁用洞穴环境音效和天气设定
+将Load/Join界面改为Create/Load/Join
+将游戏模式选择改为滑块
+添加经典合成选项，使得玩家可以与PC版一样合成物品，可以在UI设置菜单中启用/禁用
+为书与笔加入USB键盘适配
+为书与笔加入聊天键盘适配（Xbox）
+添加 LittleBigPlanet™ 混聚包试用内容（PlayStation 3/4 和 PS Vita）
+
+
+
+修复了33个漏洞
+
+
+
+—
+CU13
+
+2015年5月14日
+—
+—
+
+CU13[编辑 | 编辑源代码]
+
+
+漏洞修复
+
+
+
+
+Fixed an issue causing flying animals in a split-screen offline game.
+Fixed a memory leak causing crashes after prolonged play sessions.
+Fixed a problem with baby villagers collision height.
+Fixed a few issues with players joining a network game.
+MC-MCCE-27 - Item Drop Visual Bug
+MC-MCCE-36 - Mining Blocks don't drop blocks sometimes
+MC-MCCE-84 - Breaking blocks will send their drops vertically (like an item elevator)
+MC-MCCE-102 - Incorrect TNT explosion range
+MC-MCCE-103 - Objects that are released penetrate the ground
+MC-MCCE-119 - Item drops from Blocks Spawning Far from Block
+MC-MCCE-141 - Blocks disappearing when mined
+MC-MCCE-160 - Animals able to walk through solid blocks yet still in the pen.
+
+
+
+
+
+
+
+TU24
+
+April 29, 2015
+CU12
+
+April 29, 2015
+1.16
+
+April 29, 2015
+—
+
+TU24/CU12/1.16[编辑 | 编辑源代码]
+Additions
+
+Added the Alex skin and some variations of it to the default skins.
+Added new music. (360)
+Added new achievements. (360)
+Added The Simpsons Skin Pack trial content.
+
+Changes (excludes 360)
+
+Brought forward change so that shrubs can be placed in flower pots.
+Changed music tracks played in Creative mode and on front-end menus to match Java version.
+
+
+
+Bug fixes (PS3 only)
+
+
+
+
+MC-MCCE-14 - Cannot look around
+MC-MCCE-63 - Texture packs not working
+
+
+
+
+
+
+
+TU23
+
+March 25, 2015
+CU11
+
+March 25, 2015
+1.15
+March 25, 2015
+—
+
+TU23/CU11/1.15[编辑 | 编辑源代码]
+Additions
+
+Added Pattern texture pack trial content. (excludes Xbox 360)
+Added Mass Effect mash-up trial content. (PS Only)
+
+
+
+Bug fixes
+
+
+
+
+Fix for a split-screen crash after prolonged gameplay.
+Fix for an issue causing client players to hang when creating a Wither.
+Fix for a crash when a player is fishing.
+MC-MCCE-23 - Split screen: Flying mobs and invisible mobs
+MC-MCCE-41 - Skeletons shoot to fast
+MC-MCCE-58 - Player cannot move head, only body, and has no inventory bar. / Update resets all configuration options
+MC-MCCE-79 - Villagers
+MC-MCCE-95 - Mobs will walk through walls while in split screen
+MC-MCCE-132 - My sister and I were on our Xbox 1,and she was lost,so I teleported her to where I was so she'd be safe from all the mobs,and all of a sudden,it started to glitch out on us.
+MC-MCCE-136 - Missing texture
+MC-MCCE-137 - strange sound when loading. game shakes. animals move sideways and/or disappear
+MC-MCCE-229 - In a two player game all the animals, villagers and mobs behave erratically or become invisible.
+
+
+
+
+
+
+
+TU22
+
+February 27, 2015
+CU10
+
+February 25, 2015
+—
+
+TU22/CU10[编辑 | 编辑源代码]
+Tweaks
+
+Added Quick Move to the horse inventory.
+Added "Where are we now" music disc in Survival mode.
+Updated lapis lazuli block texture.
+
+
+
+Bug fixes
+
+
+
+
+Fixed issue placing pistons, dispensers and droppers.
+Made some fixes to player privileges.
+Corrected baby zombie hit boxes size.
+Fix for a bug where a chest didn't disappear when destroyed.
+Fix for player sometimes taking fall damage while in a boat.
+Fixed an issue where a player's wolves could teleport to them when they were in a boat, and kill them.
+
+
+
+
+
+
+
+TU21
+
+February 11, 2015
+CU9
+
+February 11, 2015
+1.14
+
+February 11, 2015
+—
+
+TU21/CU9/1.14[编辑 | 编辑源代码]
+Tweaks
+
+Increased minecart limit.
+Crafting a map now produces an Empty Map.
+
+
+
+Bug fixes
+
+
+
+
+More Redstone fixes.
+Stopped tamed horses despawning when they are in a fenced-off area.
+Fixed a crash with a Noteblock.
+Fixed an issue with village generation.
+Fixed an issue with Witch Huts allowing other mobs to spawn in them after a reload.
+Fixed an issue where Blaze Spawners and Chests don’t appear in the Nether after a Nether Reset.
+Fixed a crash with Minecarts travelling through Nether Portals.
+Fixed a problem causing clouds to look 2D (PSVita)
+
+
+
+
+
+
+
+TU20
+
+January 23, 2015
+CU8
+
+January 23, 2015
+1.13
+
+January 23, 2015
+—
+
+TU20/CU8/1.13[编辑 | 编辑源代码]
+
+
+Bug fixes
+
+
+
+
+
+Bug fixes
+
+
+
+Xbox 360版：修复了28个漏洞。 Xbox One版：修复了30个漏洞。 PlayStation 3版：修复了28个漏洞。 PlayStation 4版：修复了28个漏洞。 PlayStation Vita版：修复了27个漏洞。
+
+
+
+
+
+
+
+
+
+2014/2013[编辑 | 编辑源代码]
+
+
+版本
+PC的等同版本
+发布时间
+更新内容
+
+
+Xbox 360 - TU19
+
+Xbox One - CU7
+
+PS3, PS4 &amp; PSVita - 1.12
+1.4.2 - 1.6.4
+Xbox One &amp; Xbox 360 - 2014年12月18日
+
+PS4, PS3 &amp; PSVita - 2014年12月20日
+
+TU19/CU7/1.12[编辑 | 编辑源代码]
+新内容：
+
+方块&amp;物品：
+
+硬化粘土
+染色粘土
+煤炭块
+干草块
+激活铁轨
+紅石块
+陽光传感器
+投掷器
+漏斗
+漏斗礦車
+TNT礦車
+紅石比較器
+测重压力板
+信标
+陷阱箱
+烟花火箭
+烟火之星
+下界之星
+拴绳
+马铠
+命名牌
+馬 刷怪蛋
+
+
+生物：
+
+凋灵
+凋灵骷髅
+女巫
+蝙蝠
+马
+
+驴
+骡
+
+
+
+
+游戏内容：
+
+冒险模式
+新增一些新音效。
+现在可以生成有裝備武器或防具的僵尸和骷髅
+生物、物品和投掷物现在可以通过传送门。
+可以給生物命名。
+
+
+地形生成：
+
+沼泽小屋
+将原来的 教程 世界用新世界替换。
+
+
+UI：
+
+信标接口
+马接口
+漏斗的接口
+烟花的接口
+添加一些死亡信息。
+
+
+Xbox One Only:添加语言选择
+选项：'
+
+日夜交替
+保持物品栏信息
+
+
+生物的选项
+
+Tile drop
+重新生成的选项
+
+
+语言： '
+
+仅Xbox One：添加希腊语
+
+
+
+修改：
+
+方块和物品：
+
+红石中继器可以被锁定
+骨粉 不会一下子把农作物催生到成熟
+发射器可以面对任何方向
+吃了金苹果会有额外的短时间的吸收。
+
+
+游戏内容：
+
+玩家在一个地方滞留了越长时间，攻击型生物就越少几率生成。
+
+
+
+修复了1个漏洞
+
+
+
+TU16
+Xbox 360 - 1.6.2[1]
+Playstation 3 - 1.06[2]
+
+Xbox 360 - 2014年5月19日
+
+PlayStation 3 - 2014年5月28日
+
+TU16[编辑 | 编辑源代码]
+新内容：
+
+可破坏的基岩（最底基岩破坏不了）
+
+Xbox 360版：修复了19个漏洞
+PlayStation 3版：修复了20个漏洞
+
+
+
+TU15
+Xbox 360 - 1.6.1[3]
+Playstation 3 - 1.05[4]
+
+Xbox 360 - 2014年4月11日
+
+PlayStation 3 - 2014年4月15日
+
+TU15[编辑 | 编辑源代码]
+更改：
+
+将僵尸的稀有掉落改为萝卜，马铃薯与铁锭。
+物品栏中修复物品不再允许有附魔的工具被修复（因为你会丢失附魔）。
+
+Xbox 360版：修复了24个漏洞
+PlayStation 3版：修复了25个漏洞
+
+
+
+TU14
+Xbox 360 - 1.6
+Playstation 3 - 1.0.4[5]
+1.3.1
+Xbox 360 - 2014年3月26日
+
+PlayStation 3 - 2014年3月27日
+
+
+TU14[编辑 | 编辑源代码]
+新内容:
+
+添加绿宝石
+添加绿宝石矿石
+添加绿宝石块
+添加末影箱
+添加绊线钩
+添加附魔金苹果
+添加铁砧
+添加花盆
+添加圆石墙
+添加苔石墙
+添加凋灵
+添加马铃薯
+添加烤马铃薯
+添加毒马铃薯
+添加胡萝卜
+添加金萝卜
+添加萝卜钓竿
+添加南瓜派
+添加夜视药水
+添加隐身药水
+添加下界石英
+添加下界石英矿石
+添加下界石英块
+添加石英楼梯
+添加石英台阶
+添加錾制石英块
+添加竖纹石英块
+添加附魔书
+添加地毯
+添加了蝙蝠
+添加了錾制与平滑的沙石
+添加了僵尸村民
+添加了结构：沙漠神殿、沙漠村庄、丛林神庙
+添加村民交易
+添加铁砧的界面
+木头现在能够侧面朝上放置
+改变了台阶的位置与台阶上方块的位置
+改变了颠倒台阶与楼梯的位置
+木按钮与压力板能被弓箭激活了
+你现在能给皮革盔甲染色了
+你现在能给狼的项圈染色了
+你现在能用胡胡萝卜钓竿控制猪了
+添加了不同职业的村民
+刷怪蛋生成的村民拥有随机职业
+村民在被伤害，交易与闲逛的时候发出声音了
+幼小生物现在能手持刷怪蛋右击生物生成
+熔炉现在能把木制工具作为燃料
+精准采集附魔的工具能够采集冰与玻璃（板）了
+下界生物能够在主世界的下界传送门附近生成了
+爬行者与蜘蛛对于最后一个攻击他们的玩家有敌意
+创造模式中，生物被玩家攻击以后过一会就会恢复中立
+移除了水下的击退效果
+僵尸正在破坏的门现在显示裂缝
+下界中的冰会融化
+暴露在雨中的炼药锅现在会充满水
+活塞的状态更新需要以前两倍的时间
+有鞍的猪死了会掉落鞍
+末路之地里天空颜色改变
+可以放置线（针对绊线钩）
+雨水会穿过树叶
+树叶可以放置在别的方块的底部
+不同难度下，TNT的威力不同
+更改了书的合成公式
+船现在会摧毁莲叶，而不是被莲叶摧毁
+猪会掉落更多猪排
+超平坦地形里史莱姆生成量减少
+爬行者的爆炸威力和难度有关，同时提升了爬行者爆炸的击退效果
+修正了末影人的下巴问题
+主机管理可以设置其他玩家的飞行隐身之类效果
+增加传送玩家的功能
+岩浆桶在煮完矿之后会归还铁桶
+开局奖励箱里面东西更多了
+学习世界里面增加了新教程
+更新了学习世界里唱片机的位置
+添加了新的语言
+
+丹麦语，芬兰语，南美洲西班牙语，荷兰，挪威语，波兰语，瑞典语和土耳其语
+
+
+细微的网络问题修复
+
+修复12个BUG
+
+以及渲染性能的提升
+
+
+
+
+TU13
+1.2.3 (?)
+2013/10/2
+
+TU13[编辑 | 编辑源代码]
+修复了31个漏洞
+
+
+
+Playstation 3 - 1.03[6]
+
+Playstation 3 - 2014年1月21日
+
+修复了13个漏洞
+
+
+
+Playstation 3 - 1.02[7]
+
+Playstation 3 - 2013年12月26日
+
+修复了2个漏洞
+
+
+
+Playstation 3 - 1.01[8]
+
+Playstation 3 - 2013年12月17日
+
+修复了2个漏洞
+
+
+
+1.5
+(TU12)[9]
+1.2.3[10]
+2013/8/23
+
+TU12[编辑 | 编辑源代码]
+常规:
+
+支持材质包[11]
+支持混合主题包[12]
+
+“混合主题包” 是资源包（材质、BGM 等）与“主题世界”（世界数据）的集合，能将《Minecraft》做出另一款游戏的样子。同时确认 Mash-Up Packs 的完整版本将会付费。[13]
+
+
+升级了教程世界。[14]
+在皮肤选择器（Skin Selector）菜单中添加收藏夹（Favorites）栏以存储最近使用的皮肤。[15]
+1.3.1 添加：放置船与矿车至发射器。[16]
+新的周围山洞声效。、[16]
+新的生物AI。[16]
+给生物添加了稀有掉落物。[16]
+村民在自己村庄中有空位的情况下会繁殖。[16]
+僵尸围城偶尔会在晚上出现。[16]
+僵尸现在能破坏门了。[16]
+梯子的合成配方现在能够获得的梯子数不是 2 个，而是 3 个。=[16]
+在草上放置方块，方块会将草替换。[16]
+岩浆现在拥有微弱的隆隆声效。 now has a faint rumbling sound effect, and large particles that hop out of the lava produce a popping sound.[16]
+沙漠水井现在在沙漠罕见地生成。[16]
+Increased max boats in a world to 40.[16]
+当在地狱中时, 雪傀儡像在沙漠中一样融化死亡。[16]
+废弃矿井 can generate with wooden bridges now when generated over a cave or over top another tunnel.[16]
+Doors have been updated so that double doors work better with 红石.[16]
+
+世界生成:
+
+建筑高度限制从128增加到了256.[17]
+添加了热带生物群系. [18]
+
+1.3.1 feature: Cocoa pods grow on jungle trees[19]
+
+
+
+新物品:
+
+热带木头, 木板, 楼梯, 树叶, 树苗 [18]
+可可豆[19]
+石砖 (creative only)[20]
+红石灯 [18]
+1.4.2 feature: Mob head (创造模式独有; there are Wither Skeleton heads, although Wither Skeletons have not been introduced to the game.)[20][21]
+豹猫 的生成蛋[16]
+Retextured Armor to allow it to be dyed, but did not implement dyed armor
+
+新生物:
+
+铁傀儡[18]
+豹猫和豹猫[18]
+儿童村民[16]
+
+修改:
+
+船将会在重击岸边时被破坏
+Dropped items will spin around(Like Blocks)
+村民现在会开门了.
+半砖 和 楼梯 可以倒放了.[18][22]
+
+1.3.1 feature: Items can be placed directly on upside down slabs and stairs.[18]
+
+
+1.4.2 feature: 更新皮革武器的材质
+1.4.2 feature: Corner stairs automatically change its shape[23]
+1.4.6 feature: Dropped items are rendered in 3D[20]
+1.5.2 feature: Updated textures which includes,new
+
+textures for lava,leather armor and raw food.
+
+
+
+更早的日志
+
+
+见此。
+
+
+参考[编辑 | 编辑源代码]
+
+
+↑ http://www.minecraftforum.net/topic/1274802-mcxbla-title-update-change-logs-title-update-16/
+↑ http://www.computerandvideogames.com/465258/minecraft-ps3-patch-106-released/
+↑ http://www.trueachievements.com/n16610/minecraft-title-update-15-out-today.htm
+↑ http://www.minecraftforum.net/topic/2298418-minecraft-playstation-3-edition-patch-change-logs-105/
+↑ http://www.playstationlifestyle.net/2014/03/20/minecraft-ps3-edition-patch-1-04tu14-notes-revealed/
+↑ http://www.playstationlifestyle.net/2014/01/21/minecraft-ps3-edition-patch-1-03-out-now-in-europe-north-american-release-to-follow/
+↑ http://www.playstationlifestyle.net/2013/12/21/minecraft-ps3-patch-1-02-out-now-fixes-chat-audio-and-some-other-issues/
+↑ http://www.playstationlifestyle.net/2013/12/17/minecraft-ps3-edition-patch-1-01-already-out-fixes-some-problems-found-late-in-certification/
+↑ https://twitter.com/4JStudios/status/327338765381152768
+↑ https://twitter.com/4JStudios/status/336489154600906753
+↑ https://twitter.com/4JStudios/status/350290653307084801
+↑ https://twitter.com/4JStudios/status/360361438247788547
+↑ https://twitter.com/4JStudios/status/362898395595149312
+↑ https://twitter.com/4JStudios/status/342046811411861504
+↑ https://twitter.com/4JStudios/status/360421202394759169
+↑ 16.00 16.01 16.02 16.03 16.04 16.05 16.06 16.07 16.08 16.09 16.10 16.11 16.12 16.13 16.14 16.15 16.16 http://www.minecraftforum.net/topic/1274802-mcxbla-title-update-change-logs-title-update-12/
+↑ https://twitter.com/4JStudios/status/339749732123545600
+↑ 18.0 18.1 18.2 18.3 18.4 18.5 18.6 https://twitter.com/4JStudios/status/339703176313835522
+↑ 19.0 19.1 https://twitter.com/4jsteve/status/340018868502265856
+↑ 20.0 20.1 20.2 https://twitter.com/4JStudios/status/358237917518376961
+↑ https://twitter.com/4JStudios/status/358247710584868867
+↑ https://twitter.com/4JStudios/status/339748673518981121
+↑ https://twitter.com/4JStudios/status/348046311234342912
+
+
+
+
+ 主机版
+
+
+平台版本
+
+
+ Xbox 360版
+ Xbox One版
+ PlayStation 3版
+ PlayStation 4版
+ PlayStation Vita版
+ Wii U版
+
+
+
+
+开发
+
+
+版本记录
+未来展望
+独有特性
+已移除特性
+
+
+
+
+技术性
+
+
+已知漏洞
+
+
+
+
+独有特性
+
+
+分屏
+教程
+
+地点
+
+
+
+
+
+DLC
+
+
+皮肤包
+混搭套件
+材质包
+
+
+
+
+世界类型
+
+
+典型
+小
+中
+大
+下界超平坦
+
+
+
+
+方块/物品
+
+
+刷怪蛋
+
+驴
+骡
+
+
+
+
+
+
+实体
+
+
+ 末影酸
+
+
+
+
+
+
+
+
+
+版本记录
+
+
+PC版
+
+
+
+版本记录
+
+
+Pre-classic
+Classic
+
+ 生存测试
+
+
+Indev
+ Infdev
+Alpha
+ Beta
+
+预发布版
+
+
+Minecraft 1.0
+
+预览版本
+
+
+
+
+
+
+
+未来展望
+提及特性
+
+天域
+Plugin API
+
+
+未使用的特性
+已移除的特性
+ 彩蛋
+
+
+
+
+携带版
+
+
+ Alpha
+未来展望
+提及特性
+已移除的特性
+未使用的特性
+独有特性
+预览版本
+
+
+
+
+主机版
+
+
+版本记录
+未来展望
+提及特性
+独有特性
+已移除的特性
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=主机版版本记录&amp;oldid=112678”					
+				分类：待翻译条目待更新条目Version				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月22日 (星期五) 14:05。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

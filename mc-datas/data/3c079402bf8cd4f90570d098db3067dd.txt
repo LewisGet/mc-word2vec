@@ -1,0 +1,665 @@
+
+
+
+
+演示模式 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			演示模式
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+
+加载演示世界时的画面。
+
+
+演示模式是提供给尚未购买Minecraft，但想要试玩的一个演示版本。演示模式被设计用于代替已经过期的PC Gamer Minecraft 演示版。
+Minecraft演示模式可以通过注册一个Mojang帐号并登陆Minecraft启动器来免费玩到。
+
+
+
+目录
+
+
+1 功能
+2 限制
+3 历史
+4 你知道吗
+5 画廊
+6 另见
+
+
+
+功能[编辑 | 编辑源代码]
+演示模式用于在玩家决定是否要购买Minecraft之前提供试玩的机会，同时也可以测试你的机器能否流畅地运行这款游戏。玩家可以在单一的世界中游玩100分钟（5个游戏日），在此之后地图就会被锁定，只能重置才能重新开始游戏。
+虽然演示模式不会到期，但是它有诸多限制，毕竟它只是给玩家体验一下Minecraft。
+限制[编辑 | 编辑源代码]
+以下限制条件将会出现在演示模式中：
+
+只有一个预设的世界存档并且种子被锁定为-343522682。
+
+生成世界时的种子不能修改，意味着玩家的出生点和生成的建筑等每次都是一模一样的。
+
+
+通常只能玩到生存模式。
+
+但是，可以打开局域网世界并开启作弊，这样就能输入/gamemode 1进入创造模式了。
+也可以用其它工具修改level.dat来改变游戏模式。
+
+
+不能进入多人游戏，不过局域网世界可以。
+游戏时间被限制为5个游戏日（现实时间的100分钟）。当时间用尽后，玩家仍然可以游荡在这个世界，但不能交互。重置世界的同时也会重置计时器。
+
+历史[编辑 | 编辑源代码]
+
+
+正式版本
+
+
+12w16a
+加入演示模式。在每周快照中，minecraft.jar必须直接用-demo参数启动。
+
+
+1.3.2
+玩家可以在浏览器上游玩演示模式。
+
+
+1.6.2
+最新的启动器（1.3.4）允许没有购买Minecraft的玩家玩演示模式。
+
+
+你知道吗[编辑 | 编辑源代码]
+
+无论有没有购买游戏，都能玩演示模式。
+可以在演示模式的游戏上安装MOD。
+服务器可以附加--demo参数启动（技术上，这就是启动器干的事）。所有进入服务器的玩家都会看见演示模式的消息。
+如果你尝试用没有购买过Minecraft的帐号在启动器中玩1.3之前的演示模式，你会玩到完整版。
+在完整版的世界生成设定中的种子一栏输入“North Carolina”会产生和演示模式一样的种子。
+如果不点击“保存并返回标题画面”退出游戏就不会保存。
+如果你把Minecraft的快捷方式和文件夹转移到另一个硬盘或其它存储介质上，它仍旧是演示模式，然后你之前的存档都不见了。
+在1.9之前，你可以通过开启作弊后在创造模式中传送到世界边境外来打开服务器列表。由于会话无效（invalid session），还是不能进入服务器。
+如果该世界被设定为允许作弊，玩家可以使用/time set 0来将时间设置到0。它同样对计时器有效，会重置时间到0，从而允许玩家无限次重复玩游戏.这显示了演示模式的计时器与游戏的自然递增计时器相同。并且Jeb曾经承认该事实。
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+演示模式的世界。
+
+
+
+
+
+
+
+
+
+演示模式的主菜单。
+
+
+
+
+
+
+
+
+
+奖励箱内部的物品。
+
+
+
+
+另见[编辑 | 编辑源代码]
+
+演示模式/位置（英文）
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=演示模式&amp;oldid=116195”					
+				分类：MinecraftGameplay				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishFrançais日本語한국어NederlandsРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月14日 (星期六) 00:37。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

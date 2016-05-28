@@ -1,0 +1,1492 @@
+
+
+
+
+主机版 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			主机版
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的（部分）内容需要被翻译。
+你可以帮助我们来翻译此页面
+
+
+
+
+
+
+我们需要您帮助我们提供一些成就的中文译名
+
+
+
+主机版
+
+
+
+
+
+开发作者
+
+ Mojang AB
+ 4J Studios
+
+
+
+运行平台
+
+    
+
+
+
+编写语言
+
+C++
+
+
+
+最新版本
+
+
+Xbox 360 - TU35
+Xbox One - CU23
+PS3 - 1.26
+PS4 - 1.26
+PSVita - 1.26
+Wii U - Patch 4
+
+（等同于PC版：1.8.8）
+
+
+
+发布日期
+
+Xbox 360
+2012年5月9日
+2013年6月4日（光碟形式）
+Xbox One
+2014年9月5日
+2014年11月18日（蓝光光碟）
+PlayStation 3
+2013年12月17日
+2014年5月14日（蓝光光碟）
+PlayStation 4
+2014年9月5日
+2014年10月3日（蓝光光碟）
+PlayStation Vita
+2014年10月14日[1]
+2014年11月11日（卡带形式）[2]
+
+
+
+年龄分级
+
+（无在线分数）
+PEGI: 7+[3]
+ESRB: E10+[4]
+
+
+
+程序大小
+
+Xbox® 360:113.21MB
+Xbox® One:553.09MB
+PlayStation® 3:103MB
+PlayStation® 4:215.3MB
+PlayStation® Vita:157MB
+
+
+
+授权协议
+
+私有软件
+
+
+
+开源情况
+
+不可用
+
+
+
+外部链接
+
+
+Xbox（360）商店
+Xbox（One）商店
+PlayStation® 3商店
+PlayStation® 4商店
+PlayStation® Vita商店
+
+
+
+
+
+
+主机版指可在游戏主机上游玩的Minecraft，均由4J Studios开发。其适配：
+
+Xbox 360
+Xbox One
+PlayStation 3
+PlayStation 4
+PlayStation Vita
+Wii U
+
+
+主机版引入了新的特性，比如更简单的合成系统，游戏内的教程，同屏幕内的多人游戏（除了PlayStation Vita），也有通过PlayStation Network（仅在PS4上需要PlayStation Plus会员）或Xbox Live（需要Xbox Live Gold会员）实现的最多8人同时在线的多人游戏。就像其他的游戏一样，后续更新会被免费提供。
+
+
+
+目录
+
+
+1 游戏内容
+2 与PC版的区别
+3 成就与奖杯
+4 你知道吗
+5 参考
+
+
+
+游戏内容[编辑 | 编辑源代码]
+
+
+
+
+Xbox 360版的一张游戏截图。
+
+
+游戏的目的同原本的电脑版和携带版游戏一样，即玩家可以在沙盒的虚拟环境之下建造。这里没有预设的目标，玩家可以自己制定自己的目标。
+在很多部分当中，主机版的游戏和电脑版游戏除了几个微小的差别之外几乎相同，[5]但一度当电脑版是 1.2.5的时候，Xbox 360版的内容相当于电脑版的Beta 1.6.6。
+与PC版的区别[编辑 | 编辑源代码]
+
+主条目： 主机版独有特性
+
+与电脑版1.8的区别包括：
+
+The game features splitscreen functionality,[6] however an HDTV with a Component or HDMI cable is required for split-screen play. Split-screen functionality works with a VGA connection to a PC monitor as well as HDMI-to-DVI cables to a PC monitor. Up to 4 players can play in split screen, as well as the possibility to play 8-person online multiplayer game modes in split-screen. The "PlayStation Vita Edition" only supports up to 2-4 players online and Ad-Hoc support.
+The game includes an automatic 合成 system where you do not have to place the blocks in the grid. However, there is an option to use the PC crafting.
+The Console Edition includes a tutorial mode not included in the PC version of the game. This tutorial leads the player through the basics of 挖掘 and placing 方块, 合成, as well as 造他们的新房子 to survive the 夜晚, 钓鱼, 附魔, 药水酿造, and more.[7]
+Many blocks/items use outdated sounds.
+在开始一个新世界时，玩家便会拿到一张地图。
+For the Xbox 360, PlayStation 3, the PlayStation Vita and Wii U, the world size is limited to 864×864 blocks. Because the outer-most block is unusable on each side of the map, it is effectively 862×862 blocks that can be used. The worlds on the Xbox One and PlayStation 4 can be up to 5000×5000.
+下界 is limited in size and because of this the movement distance in the Nether vs. the Overworld is 1:3 versus 1:8 in the PC version. Consequently the Nether is limited to about 288×288 for the PS3, PS4 and Wii U versions. 末路之地 also uses the aforementioned size.
+Skins can only be chosen from those available as default or from downloadable content.
+Breeding and utility mob spawning works the same as the PC version with the exception of limiting tamed 狼 and 雪傀儡 populations to 16. If the player attempts to tame or breed a 17th wolf, it will be killed by other wolves, and if a player attempts to build a 17th snow golem, upon placing the pumpkin all three blocks will break, dropping one pumpkin and eight snowballs. Also, wolf pups are born with full health and reach adulthood without player input.
+The edge of the world cannot be mined and is completely sea. The edge of the map is a strip of water surrounding the map followed by an invisible barrier in which all players cannot gain access to. This can cause problems as sometimes chests in 废弃矿井 generate at the edge of the map, causing the player to make and place a new chest next to said chest in order to access all the previously inaccessible items.
+Creative mode flying does not conserve momentum, meaning if you sprint and stop quickly, you will not drift to another block.
+The 末影龙 has a different fighting style and when at low health will hover above the ground spewing out acid.
+两个被铁栏杆保护的末影水晶。
+当创建一个超平坦世界，下界也会是平坦的。
+地狱疣随机在下界中的灵魂沙上生成，而在电脑版中，它只在下界要塞生成。
+下界的边缘是基岩。
+The PlayStation Vita Edition has Ad-Hoc support like an offline multiplayer service. It can be toggled on or off (Online or Ad-Hoc), and is also similar to LAN servers but without internet connection.
+The Wii U version currently does not support leaderboards.
+
+成就与奖杯[编辑 | 编辑源代码]
+
+主条目： 成就
+
+
+
+图标
+成就
+游戏内简介
+前提成就
+实际需求（如果与简介不同）
+版本限制
+Xbox点数
+奖杯类型 (PS)
+
+
+PC
+Xbox
+PS
+Pocket
+Wii U
+
+
+
+打开物品栏
+按“ Y/△”来打开你的物品栏。
+—
+打开你的物品栏。
+简介会与设置的物品栏键所相符。
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+获得木头
+摧毁树木直到跳出一个木头方块。
+打开物品栏
+从地上捡起一个木头方块。
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+这是？工作台！
+用四个木板来制作一个工作台。
+获得木头
+
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+耕种时间到！
+使用木板和木棍来制作木锄。
+这是？工作台！
+从工作台的输出栏取得任何种类的锄。
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+烤面包
+用小麦来做面包。
+耕种时间到！
+从工作台的输出栏取得面包。
+是
+是
+是
+是
+是
+20G
+银
+
+
+
+蛋糕是个谎言
+小麦、糖、牛奶和鸡蛋！
+耕种时间到！
+从工作台的输出栏取得蛋糕。
+是
+是
+是
+是
+是
+40G
+银
+
+
+
+出击时间到！
+使用木板和木棍来制作一把木剑！
+这是？工作台！
+从工作台的输出栏取得任何种类的剑。
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+怪物猎人
+攻击并消灭一只怪物。
+出击时间到！
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+斗牛士
+获得一些皮革。
+出击时间到！
+从地上捡起皮革。
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+当猪飞的时候！
+骑着猪从悬崖上飞下。
+斗牛士
+使用鞍骑上猪，然后让猪受到至少2 (Heart.svg)的掉落伤害（最少要 从6格高掉落）。
+是
+是
+是
+是
+是
+40G
+金
+
+
+
+采矿时间到！
+使用木板和木棍来制作木镐。
+这是？工作台！
+从工作台的输出栏取得任何种类的镐。
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+获得升级
+制作一把更好的镐。
+采矿时间到！
+从工作台的输出栏取得除木镐外的镐
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+“热”门话题
+用八个圆石来制作一个熔炉。
+采矿时间到！
+从工作台的输出栏取得熔炉。
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+美味的鱼儿
+抓了鱼儿然后烤！
+“热”门话题
+从熔炉的输出栏取得熟鱼。
+是
+是
+是
+是
+是
+15G
+银
+
+
+
+来硬的
+冶炼出一块铁锭。
+“热”门话题
+从熔炉的输出栏取得铁锭。
+是
+是
+是
+是
+是
+15G
+银
+
+
+
+在铁路上
+通过矿车旅行，移动到至少离出发点500米的位置。
+来硬的
+用矿车移动到至少离出发点500m远的地方。距离是按直线计算的。
+是
+是
+是
+是
+是
+40G
+金
+
+
+
+我们需要再深入些
+建造一个通往下界的传送门。
+钻石！
+进入下界传送门。
+是
+是
+是
+是
+是
+40G
+银
+
+
+
+MOAR Tools
+所有工具类型各合成一个（镐、铲、斧和锄)。
+这是？工作台！
+
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+Dispense With This
+合成一个发射器。
+来硬的
+
+是
+是
+是
+是
+是
+20G
+银
+
+
+
+Leader Of The Pack
+驯养五只狼。
+—
+不必在一局游戏里，多次游戏或者载入旧存档都会计算在这个成就里。
+是
+是
+是
+是
+是
+30G
+银
+
+
+
+狙击手的对决
+用弓箭从50米外干掉一只骷髅。
+怪物猎人
+从水平距离50个方块外用弓箭杀死一个骷髅或凋灵骷髅。
+是
+是
+是
+是
+是
+30G
+银
+
+
+
+钻石！
+用你的铁镐，挖一些钻石吧。
+来硬的
+从地上捡起一颗钻石。
+是
+是
+是
+是
+是
+20G
+金
+
+
+
+见鬼去吧！
+用一团火球干掉一只恶魂。
+我们需要再深入些
+用恶魂的火球杀死恶魂。
+是
+是
+是
+是
+是
+30G
+金
+
+
+
+与火共舞
+得到烈焰人的烈焰棒。
+我们需要再深入些
+从地上捡起烈焰棒。
+是
+是
+是
+是
+是
+20G
+银
+
+
+
+本地的酿造厂
+酿造一瓶药水。
+与火共舞
+从酿造台的输出栏取得药水。将药水放入再取出也能达标。
+是
+是
+是
+是
+是
+15G
+银
+
+
+
+结束了？
+找到“末地”。
+与火共舞
+进入末地传送门。
+是
+是
+是
+是
+是
+20G
+金
+
+
+
+结束了。
+击败末影龙。
+结束了？
+从末路之地进入返回传送门。
+是
+是
+是
+是
+是
+40G
+金
+
+
+
+附魔师
+使用书、黑曜石以及钻石来制作一个附魔台。
+钻石！
+从工作台的输出栏取得附魔台。
+是
+是
+是
+是
+是
+20G
+银
+
+
+
+Awarded All Trophies
+获得所有奖杯。
+其他所有成就。
+
+是
+是
+是
+是
+是
+—
+白金
+
+
+
+赶尽杀绝
+在一击内造成9颗心的伤害。
+附魔师
+伤害可以施加给任何生物，即使那个生物的生命值低于9颗心。
+是
+是
+是
+是
+是
+30G
+青铜
+
+
+
+图书管理员
+建造一些书架来强化你的附魔台。
+附魔师
+从工作台的输出栏取得书架。
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+探索的时光
+发现17个（共23个）不同的生物群系
+结束了？
+到访17个不同的生物群系，不一定要在同一个世界达成此成就。
+是
+是
+是
+是
+是
+40G
+银
+
+
+
+种群恢复
+喂小麦来繁殖出1头牛。
+斗牛士
+让两头牛或哞菇繁殖。
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+给你钻石！
+向一名玩家投掷钻石
+钻石！
+用你的“丢弃物品键”丢弃一颗钻石(默认是)。另一个玩家或可捡
+起物品的生物（如僵尸或僵尸猪人）必须捡起钻石。如果是玩家捡起了
+，钻石会在物品栏中创造新的一叠。
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+Pork Chop
+煮熟并吃一块猪排。
+—
+
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+Passing the Time
+游玩了100天。
+游玩100个 Minecraft 天，在现实世界中约等于33个小时。
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+The Haggler
+挖到或购买30个绿宝石。
+可以跨世界达成该成就。
+
+是
+是
+是
+是
+是
+30G
+银
+
+
+
+Pot Planter
+合成并放置一个花盆。
+—
+
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+It's a Sign!
+合成并放置一个告示牌。
+—
+
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+Iron Belly
+使用腐肉停止饥饿。
+吃1个腐肉。
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+Have a Shearful Day
+使用剪刀为羊剪毛。
+—
+
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+Rainbow Collection
+收集16种不同颜色的羊毛。
+—
+
+是
+是
+是
+是
+是
+30G
+银
+
+
+
+Stayin' Frosty
+当拥有抗火效果时在岩浆里游泳。
+—
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+Chestful of Cobblestone
+挖到 1728 个圆石，并将它们放进箱子里。
+—
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+Renewable Energy
+使用木炭烧炼木头来获得更多的木炭。
+—
+
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+
+Music to my Ears
+在唱片机里播放一张唱片。
+—
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+Body Guard
+创造一个铁傀儡。
+—
+
+是
+是
+是
+是
+是
+20G
+青铜
+
+
+
+Iron Man
+穿上整套的铁护甲。
+—
+
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+Zombie Doctor
+治愈一个僵尸村民。
+向僵尸村民扔治愈药水并给予它一个金苹果（对着僵尸村民并手持金苹果，按下左键）
+
+是
+是
+是
+是
+是
+40G
+金
+
+
+
+Lion Tamer
+驯服一只豹猫。
+—
+
+是
+是
+是
+是
+是
+15G
+青铜
+
+
+
+Archer
+用箭杀死一只爬行者。
+—
+
+是
+是
+是
+是
+是
+10G
+青铜
+
+
+你知道吗[编辑 | 编辑源代码]
+
+开发Minecraft主机版的公司4J Studios也只做其他几个电子游戏，如为Xbox Live Arcade制作的“班卓熊大冒险”“Banjo Tooie”，和“Perfect Dark”以及为PS3制作的“上古卷轴IV：湮没”
+Notch说Xbox 360是Minecraft主机版唯一的提供商。[8]然而，索尼后来宣布会有PS3，PS4，和Vita的版本发布。[9][10]
+没有办法在主机版上合法地安装Mod，但是可以破解去安装。注意：如果你试用Mod，你可能会被封禁。
+
+参考[编辑 | 编辑源代码]
+
+↑ https://twitter.com/4JStudios/status/519987042139525120
+↑ https://twitter.com/playstation/status/520567552490352641
+↑ Minecraft: Xbox 360版PEGI评分
+↑ Minecraft: Xbox 360版ESRB评分
+↑ https://twitter.com/notch/status/77817236391346177
+↑ https://twitter.com/jeb_/status/145846150505832448
+↑ https://www.youtube.com/watch?v=fc2DJczzYZ0
+↑ https://twitter.com/notch/status/128564849809694720
+↑ https://twitter.com/notch/status/369892812185436160
+↑ https://twitter.com/4JStudios/status/370111405216649216
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=主机版&amp;oldid=116994”					
+				分类：待翻译条目Minecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月18日 (星期三) 13:32。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

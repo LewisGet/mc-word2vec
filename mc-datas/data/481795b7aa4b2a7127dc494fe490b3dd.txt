@@ -1,0 +1,839 @@
+
+
+
+
+携带版Alpha 0.15.0 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			携带版Alpha 0.15.0
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+Alpha 0.15.0
+
+
+发布日期
+
+?
+
+
+
+预览版本
+
+查看全部
+
+开发版
+
+build 1
+build 2
+
+
+
+
+
+
+
+◄◄ Alpha 0.14.0
+◄ Alpha 0.14.3
+
+
+
+
+
+该文章是关于携带版的。  关于其他版本，请参阅版本记录（消歧义）。
+Alpha 0.15.0是暂未确定发布日期的下一个Minecraft：携带版更新。
+
+
+
+目录
+
+
+1 新内容
+2 更改
+3 计划新内容
+
+3.1 常规
+3.2 方块
+3.3 物品
+3.4 生物
+
+
+4 计划更改
+
+4.1 物品栏
+4.2 世界生成
+
+4.2.1 生物
+
+
+
+
+5 计划修复
+6 参考
+
+
+
+新内容[编辑 | 编辑源代码]
+
+Realms[1][2]
+
+
+在0.15.0正式发布前供免费试用[1]
+
+
+菜单界面
+
+
+Realms按钮
+
+取代原先的选项按钮
+
+
+
+更改[编辑 | 编辑源代码]
+
+菜单界面
+
+
+选项按钮现改为一个图标
+
+移动到屏幕右下方语言按钮的旁边
+
+
+
+计划新内容[编辑 | 编辑源代码]
+常规[编辑 | 编辑源代码]
+
+或有Mod API[3]
+资源包[3][4]
+命令[3]
+
+方块[编辑 | 编辑源代码]
+
+红石系方块
+
+命令方块[5]
+活塞与粘性活塞[6]
+
+版本独有：新动画；活塞臂根部比尾部略粗
+版本独有：可以推动像箱子这样的方块实体[7]
+
+
+
+
+
+物品[编辑 | 编辑源代码]
+
+胡萝卜钓竿
+拴绳
+命名牌
+生羊肉[8]
+火焰弹[9]
+刷怪蛋
+
+马[9]
+
+
+
+生物[编辑 | 编辑源代码]
+
+村民
+
+版本独有：对话[10]
+
+
+穿着破烂衣服、像骷髅的生物（浪壳）[11]
+尸壳
+
+计划更改[编辑 | 编辑源代码]
+物品栏[编辑 | 编辑源代码]
+
+新滚动条[9]
+
+世界生成[编辑 | 编辑源代码]
+
+版本独有：或有新生物群系[12]
+版本独有：或有新村庄种类。[13]
+丛林神庙
+
+生物[编辑 | 编辑源代码]
+
+骷髅有了与PC版相同的AI
+
+计划修复[编辑 | 编辑源代码]
+修复了3个漏洞（英文）
+参考[编辑 | 编辑源代码]
+
+↑ 1.0 1.1 “We just released Realms MCPE Alpha on Android, it will be free for a while for anyone that helps us test it&#160;:) http://mojang.com/2016/04/were-working-on-minecraft-realms-for-pocket-and-win-10/” – @tomcc_
+↑ “People, the 0.15 Alpha is just for Realms, there are no 0.15 features like Pistons! They will come later&#160;:)” – @tomcc_
+↑ 3.0 3.1 3.2 https://twitter.com/_tomcc/status/714851653027897345
+↑ https://twitter.com/_tomcc/status/700363975947472896
+↑ https://twitter.com/_tomcc/status/714851653027897345
+↑ https://twitter.com/darngeek/status/707618294996606976
+↑ “Thank you all so much for the 100K followers! Here is another little teaser: so many possibilities&#160;:D” – @darngeek
+↑ https://twitter.com/argo_major/status/708438322314485760
+↑ 9.0 9.1 9.2 “Hmm. There seems to be something different here...” – @argo_major
+↑ https://twitter.com/_tomcc/status/700755708367630336
+↑ “What are these? http://i.imgur.com/aN7rBGU.png Based on work by @argo_major, aimed for MCPC 1.10 and MCPE 0.15.0” – @jeb_，2016年4月11日
+↑ https://twitter.com/_tomcc/status/700486491898654720
+↑ https://twitter.com/jeb_/status/717703877525692420
+
+
+
+Minecraft携带版版本
+
+
+版本
+
+
+ 携带版
+ Windows 10版 Beta
+
+Microsoft Holo Lens
+Oculus Rift
+Gear VR
+
+
+
+
+
+
+开发周期
+
+
+Alpha
+版本记录
+
+预览版本
+
+
+
+
+
+
+先行
+
+
+Pre-release
+
+
+
+
+ 0.1
+
+
+0.1
+0.1.1
+0.1.2
+0.1.3
+
+
+
+
+ 0.2
+生存更新
+
+
+0.2.0
+0.2.1
+
+alpha 2
+
+
+
+
+
+
+ 0.3
+
+
+0.3.0
+0.3.2
+0.3.3
+
+
+
+
+ 0.4
+
+
+0.4.0
+
+rev 2
+
+
+
+
+
+
+ 0.5
+
+
+0.5.0
+
+
+
+
+ 0.6
+
+
+0.6.0
+0.6.1
+
+
+
+
+ 0.7
+
+
+0.7.0
+0.7.1
+0.7.2
+0.7.3
+0.7.4
+0.7.5
+0.7.6
+
+
+
+
+ 0.8
+
+
+
+0.8.0
+
+
+build 2
+build 3
+build 4
+build 5
+build 6
+build 7
+build 8
+
+
+
+
+
+0.8.1
+0.8.2
+
+
+
+
+ 0.9
+
+
+
+0.9.0
+
+
+build 1
+build 2
+build 3
+build 4
+build 5
+build 6
+build 7
+build 8
+build 9
+build 10
+build 11
+build 12
+
+
+
+
+
+0.9.1
+0.9.2
+0.9.3
+0.9.4
+0.9.5
+
+
+
+
+ 0.10
+
+
+
+0.10.0
+
+
+build 1
+build 2
+build 3
+build 4
+build 5
+build 6
+build 7
+build 8
+build 9
+
+
+
+
+
+0.10.1
+0.10.2
+0.10.3
+0.10.4
+0.10.5
+
+
+
+
+ 0.11
+
+
+
+0.11.0
+
+
+build 1
+build 2
+build 3
+build 4
+build 5
+build 6
+build 7
+build 8
+build 9
+build 10
+build 11
+build 12
+build 13
+build 14
+
+
+
+
+
+0.11.1
+0.11.2
+
+
+
+
+ 0.12
+
+
+0.12.0
+0.12.0.1
+
+
+
+0.12.1
+
+
+build 1
+build 2
+build 3
+build 4
+build 5
+build 6
+build 7
+build 8
+build 9
+build 10
+build 11
+build 12
+build 13
+
+
+
+
+
+0.12.2
+0.12.3
+
+
+
+
+ 0.13
+
+
+
+0.13.0
+
+
+build 1
+build 2
+build 3
+build 4
+build 5
+
+
+
+
+
+0.13.1
+0.13.2
+
+
+
+
+ 0.14
+
+
+
+0.14.0
+
+
+build 1
+build 2
+build 3
+build 4
+build 5
+build 6
+build 7
+
+
+
+
+
+0.14.1
+0.14.2
+0.14.3
+
+
+
+
+ 0.15
+
+
+
+0.15.0
+
+
+build 1
+build 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=携带版Alpha_0.15.0&amp;oldid=118456”					
+				分类：携带版版本				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						English日本語Português do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月28日 (星期六) 07:12。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

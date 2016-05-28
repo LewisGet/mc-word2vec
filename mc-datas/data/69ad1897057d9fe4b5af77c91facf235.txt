@@ -1,0 +1,1668 @@
+
+
+
+
+Minecraft: Story Mode - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			Minecraft: Story Mode
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的（部分）内容需要被翻译。
+你可以帮助我们来翻译此页面
+
+
+
+
+Minecraft: Story Mode
+
+
+
+
+
+
+开发作者
+
+ Mojang AB
+ Telltale Games
+
+
+
+运行平台
+
+
+
+
+
+
+
+编写语言
+
+Telltale Tool
+
+
+
+最新版本
+
+iOS：1.3
+Android：1.26
+Amazon：1.00
+
+
+
+发布日期
+
+
+
+第一章
+
+
+PC/Mac, PS3, PS4
+2015年10月13日
+Xbox 360, Xbox One
+2015年10月14日
+iOS, Android, Fire OS
+2015年10月15日
+Windows 10
+2015年12月16日
+Wii U
+2016年1月21日
+PSVita
+即将宣布
+
+
+
+
+第二章
+
+
+PC/Mac, PS3, PS4, Xbox 360, Xbox One
+2015年10月27日
+iOS, Android, Fire OS
+2015年10月29日
+Windows 10
+2015年12月16日PSVita 和 Wii U
+即将宣布
+
+
+
+
+第三章
+
+
+PC/Mac, PS3, PS4, Xbox 360, Xbox One, iOS, Android, Fire OS
+2015年11月24日
+Windows 10
+2015年12月16日PSVita 和 Wii U
+即将宣布
+
+
+
+
+第四章
+
+
+iOS
+2015年12月17日
+PC/Mac, PS3, PS4, Xbox 360, Xbox One, Android, Fire OS, Windows 10
+2015年12月22日PSVita 和 Wii U
+即将宣布
+
+
+
+
+第五章
+
+
+PC/Mac, PS3, PS4, Xbox 360, Xbox One, iOS, Android, Fire OS
+2016年3月29日
+PSVita 和 Wii U
+即将宣布
+
+
+
+
+第六章 (DLC)
+
+
+2016夏天[1]
+
+
+
+
+第七章 (DLC)
+
+
+2016[2]
+
+
+
+
+第八章 (DLC)
+
+
+2016[2]
+
+
+
+
+Season Pass Disc
+
+
+北美
+2015年10月27日
+欧洲
+2015年10月30日
+
+
+
+
+
+年龄分级
+
+ESRB：E10+[3]
+PEGI：12+[4]
+USK: 6[5]
+ACB：PG[6]
+OFLC：PG-VL （1-2章）[7]
+OFLC：PG-V （3-4章）[8]
+GSRR: 輔導級(12+)[9]
+Apple：9+[10]
+Google：10+岁任何人[11]
+Amazon：建议在指导下[12]
+Windows：10+岁任何人[13]
+
+
+
+程序大小
+
+PC: 3.61 GB[note 1][note 2]
+Mac: 3.87 GB[note 1][note 2]
+PS3: 3.1 GB[note 1][note 2]
+PS4: 4.21 GB[note 1][note 2]
+Xbox 360: 3.53 GB[note 1][note 2]
+Xbox One: 5.05 GB[note 1][note 2]
+Wii U: 572 MB[note 1][note 2]
+iOS: 1.03 GB[note 1][note 2]
+Android: 因设备而异
+Amazon: 709.8 - 737.9 MB[note 1][note 2]
+Windows 10: 2.56 GB[note 1][note 2]
+
+
+
+授权协议
+
+私有
+
+
+
+开源情况
+
+否
+
+
+
+外部链接
+
+
+官方网站
+官方论坛
+Telltale Store
+Steam Store
+PlayStation 3 Store
+PlayStation 4 Store
+Xbox 360 Marketplace
+Xbox One Marketplace
+Nintendo eShop
+App Store
+Google Play
+Amazon Appstore
+Windows 10 Store
+
+
+
+
+注释
+
+
+↑ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 大小取决于创建了多少个存档。
+↑ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 总大小并未包含可下载内容（DLC）。
+
+
+
+
+
+
+
+
+“
+我们与Mojang的优秀团队为了使这一故事与Minecraft在全球的既有粉丝自然贴合而通力合作。化身为Jesse的玩家将会在围绕冒险、生存的故事中开拓出一条自己的道路；所有这些都由明星云集的团队生动地呈现。这些都通过体验Telltale的引导下的游戏与亲临横跨下界、边境之地、末路之地等地的故事来实现，我们已经迫切地想要粉丝们来探索拥有全新体验的、深受欢迎的那个Minecraft。
+„
+
+
+
+——Kevin Bruner评论于Minecraft: Story Mode[14]
+
+
+
+Minecraft: Story Mode（Minecraft：故事模式）是一个持续发展中的、以沙盒电子游戏Minecraft为基础的可点击、叙事性和生动的冒险电子游戏。它在2015年10月在多个平台发布，PlayStation Vita和Wii U平台的版本则会在较后的日子发布。 [15]这游戏由Minecraft的开发者Mojang AB与Telltale Games合作开发。游戏的音乐由美国加州一个以大气音乐为基础的乐队Anadel创作。[16]这游戏继承Telltale在以往的游戏的故事形式，玩家的选择和行动对后面的故事元素有着重要的影响。
+
+
+
+目录
+
+
+1 游戏内容
+2 剧情
+
+2.1 第一章：岩石之令
+2.2 第二章：集结号令
+2.3 第三章：终望之地
+2.4 第四章：方块与困难之地
+2.5 第五章：奔赴前线！
+
+
+3 配音员表
+
+3.1 Jesse和他的小伙伴
+3.2 “岩石之令”的成员
+3.3 其他人物
+
+
+4 发展
+5 章节
+
+5.1 补充的分集
+
+
+6 预告片
+
+6.1 MineCon 2015 预告片
+6.2 第一章-“岩石之令”预告片
+6.3 第二章-“集结号令”预告片
+6.4 第三章-“终望之地”预告片
+6.5 第四章-“方块与困难之地”预告片
+6.6 第五章-“奔赴前线”预告片
+
+
+7 成就
+8 系统要求
+
+8.1 最低要求
+8.2 推荐要求(PC)
+
+
+9 支持的语言
+10 画廊
+
+10.1 第一章：岩石之令
+10.2 第二章：集结号令
+10.3 第三章：终望之地
+10.4 第四章：方块与困难之地
+10.5 第五章: 奔赴前线!
+
+
+11 外部链接
+12 引用
+
+
+
+游戏内容[编辑 | 编辑源代码]
+Minecraft: Story Mode是一个持续发展中的、以沙盒电子游戏Minecraft为基础的可点击、叙事性和生动的冒险电子游戏，它类似于Telltale 以前的游戏如 Tales from the Borderlands。玩家可以收集物品，解决谜题，以及通过对话树与非玩家角色进行交谈来了解故事和决定下一步要做什么。像其它的 Telltale Games 一样，玩家的决定将会影响未来的章节故事元素。[17]不过，Minecraft: Story Mode被认为是一个合家欢的游戏，所以玩家所做的决定仍然是关键且感性的，但并不涉及成熟的意象或主题。[17] Minecraft作为这个游戏的核心内容，各种工艺制作和建筑元素都包括在游戏中。 [17] 游戏还将新的特征与原来的主题混合带来一个新颖的Minecraft游戏体验。[18]
+
+
+
+
+一些在故事模式出现的角色(从左到右): Petra, Axel, Jesse, Olivia, Reuben和Lukas
+
+
+
+
+
+
+
+在故事模式中，玩家必须选择Jesse，即主角的外貌。玩家除了可以选择主角的性别之外，也可以选择主角的肤色。 故事模式里已提供6种样貌供玩家选择，三个为男性而另三个则为女性。肤色为白人肤色、亚洲肤色及黑人肤色
+
+
+
+剧情[编辑 | 编辑源代码]
+
+
+
+
+
+剧透警告！ 本段落包含 Minecraft: Story Mode 本篇的详细内容，在实际游玩前阅读可能会降低您在游玩时的乐趣。
+
+
+
+
+第一章：岩石之令
+
+
+主条目： Minecraft: Story Mode/EP1 [编辑]
+
+
+
+
+
+
+第二章：集结号令
+
+
+主条目： Minecraft: Story Mode/EP2 [编辑]
+
+
+
+
+
+
+第三章：终望之地
+
+
+主条目： Minecraft: Story Mode/EP3 [编辑]
+
+
+
+
+
+
+第四章：方块与困难之地
+
+
+主条目： Minecraft: Story Mode/EP4 [编辑]
+
+
+
+
+
+
+第五章：奔赴前线！
+
+
+主条目： Minecraft: Story Mode/EP5 [编辑]
+
+
+
+
+配音员表[编辑 | 编辑源代码]
+Jesse和他的小伙伴[编辑 | 编辑源代码]
+Patton Oswalt饰Jesse（男性），一个Minecraft的超级大粉丝，同时也是整个故事中的主人公。[19]
+Catherine Taber饰Jesse（女性）[20]
+Dee Bradley Baker饰Reuben，Jesse的宠物猪。
+Brian Posehn饰Axel，对朋友非常忠实，但行为冲动。[19][21]
+Ashley Johnson饰Petra，是一个坚强、精明的人，对朋友关切保护。[19][21]
+Martha Plimpton饰Olivia，很自信和机智，但没有耐心。[19][21]
+Scott Porter饰Lukas，“豹猫”的成员，之后跟Jesse和他/她的群体同行。[22]
+“岩石之令”的成员[编辑 | 编辑源代码]
+Dave Fennoy饰Gabriel，一名出现于EnderCon的强力战士。[19]
+Grey Griffin饰Ellegaard，未知的机智的红石工程师。[22]
+Corey Feldman饰Magnus，比较难寻找，一个令人印象深刻的破坏者，欣赏破坏的“艺术”。[22]
+John Hodgman饰Soren，建筑师，是最难寻找的人，失踪了一段时间。[22]
+Paul Reubens饰Ivor，曾经是“岩石之令”的成员，不信任Gabriel，誓言破坏Minecraft的世界。[22]
+其他人物[编辑 | 编辑源代码]
+Billy West饰解说员、Siggie 以及男粉丝[22]
+G.K. Bowes饰Maya、Ivy、以及女粉丝
+Phil LaMarr饰Gill，“豹猫”的成员。
+Matthew Mercer饰Aiden、Otis、Schoolboy、TNT Dustin以及第二个破坏者
+Jason Topolski饰Usher, Disco Mickey以及第五个破坏者
+Erin Yvette饰“末影嘉年华”竞争的播音员、Mabel、Farmer Gloria以及第一个破坏者
+Lydia Winters饰他自己
+Owen Hill饰他自己
+Ursula Taherian 饰 Nohr
+Sam Riegel 饰第三个破坏者
+Michael Gambino 饰 Calvin 和第四个破坏者
+A.J. Riebli III 饰死亡碗的发布者
+发展[编辑 | 编辑源代码]
+
+
+“
+在一些互动的故事中给玩家机会去探索自己独特的Minecraft所有的解释。 他们制作了一个遵循Minecraft逻辑的情节，但仍然能感觉到最初的气息。它实际上很滑稽。而且那头猪也很可爱。
+„
+
+
+
+——Owen Hill评论于Minecraft: Story Mode[14]
+
+
+
+Minecraft: Story Mode的创意来自于2012年年底，当时Telltale正在为《无主之地 传说》工作。The idea of developing stories around other established video game franchises led the team to brainstorm the idea for a Minecraft-related game, given that the game was essentially a "blank canvas" for storytelling, according to Job Stauffer, and would create an interesting challenge.[17] Telltale在GDC2013上与Mojang商谈成功，并在这不久后就开始字幕工作。[17] Stauffer指出Microsoft的收购并不是促进商谈的因素，他们与Mojang的合作早在收购之前就开始了。[17]
+Telltale不想颠覆玩家心中已有的角色形象，所以创建了以Jesse为主的新角色，而非使用已有的Steve和Alex作为游戏主角。[23] 游戏中其他的主要角色大致上按照普通玩家在Minecraft中的喜好来创建，比如喜欢建造，喜欢战斗，甚至喜欢恶搞其他玩家。[24]游戏不会尝试提供任何Minecraft中已有事物的背景概念，即使这是游戏中的元素，来避免与玩家们制作的同人作品产生冲突。[24]
+Stauffer表示Minecraft: Story Mode将像《七宝奇谋》和《捉鬼敢死队》一样是家庭友好型游戏。[17]预期的游戏分级在PG-13或PEGI-12左右。[24]游戏的许多配音演员都是20世纪80年代时的校友，如Corey Feldman就曾出演过《七宝奇谋》。游戏里也有许多对这类电影的引用内容。[24] Stauffer认为即使Telltale近期的游戏是像《行尸走肉》这样的成熟的游戏，他们最初的冒险游戏如《Sam &amp; Max》和《Strong Bad's Cool Game for Attractive People》都是家庭友好的，Minecraft: Story Mode也会“有我们基因的一部分”。Minecraft: Story Mode的目标是让所有玩过、没玩过Minecraft的玩家都可以玩。[17]
+Minecraft: Story Mode在2014年12月作为Mojang和Telltale之间的合作项目被正式宣布。这个信息通过一个被命名为“信息任务Ⅱ”的互动型冒险游戏放出。[25] 它的第一个预告片是在2015年7月上旬的Minecon上发布的。Telltale证实游戏也将会在Wii U平台上发布，这是第一次发布在任天堂平台上的Minecraft相关游戏。[17]
+2015年8月24日，Winters发表推特称她已经完成了游戏中的配音工作，但没有说明是为游戏角色还是旁白配音。[26]
+2015年8月28日放出消息，玩家可自己选择主角Jesse的外观。[20]
+2015年10月7日，一个总部在加州纳帕的民间乐队宣布他们已经完成了游戏中的配乐。[27]
+章节[编辑 | 编辑源代码]
+这个游戏被分为八个章节，间隔发布。
+
+
+No.
+标题
+导演
+编剧
+原始发布
+
+
+1
+"岩石之令"
+Dennis Lenart 和 Graham Ross
+Michael Choung 和 Laura Jacqmin
+2015年10月13日 [15]
+
+
+2
+"集结号令"
+Jason Latino
+Joshua Rubin，Eric Stirpe 和 Tim Williams
+2015年10月27日 [28]
+
+
+3
+"终望之地"
+Jonathan Stauder
+Michael Choung，Laura Jacqmin，Eric Stirpe 和 Tim Williams
+2015年11月24日 [29]
+
+
+4
+"方块与困难之地"
+Graham Ross 和 Rebekah Gamin-Arcovitch
+Brad Kane 和 Laura Jacqmin
+2015年12月17日
+
+
+5
+"奔赴前线！"
+Jonathan Stauder
+Eric Stirpe 和 Tim Williams
+2016年3月29日[2]
+
+
+补充的分集[编辑 | 编辑源代码]
+2016年3月22日, Telltale Games宣布2016年三个分集可以被全部下载。这些分集在此季度过后才可下载，因此，必须单独购买这些分集。要下载这些分集，你必须要有至少主系列中的一个分集。虽然这些分集并不是实际的游戏的一部分，但Telltale官方已经把它们分别标为第6、7、8集。
+
+
+编号
+标题
+导演
+编剧
+发布日期
+
+
+6
+"通往神秘国度的传送门"[30]
+
+
+2016年6月[1]
+
+
+7
+"拒之门外"[30]
+
+
+2016年夏天[2]
+
+
+8
+"旅途的终点?"[30]
+
+
+2016年夏天[2]
+
+
+预告片[编辑 | 编辑源代码]
+MineCon 2015 预告片[编辑 | 编辑源代码]
+
+
+第一章-“岩石之令”预告片[编辑 | 编辑源代码]
+
+
+第二章-“集结号令”预告片[编辑 | 编辑源代码]
+
+
+第三章-“终望之地”预告片[编辑 | 编辑源代码]
+
+
+第四章-“方块与困难之地”预告片[编辑 | 编辑源代码]
+
+
+第五章-“奔赴前线”预告片[编辑 | 编辑源代码]
+
+
+成就[编辑 | 编辑源代码]
+到第四章为止, 在“故事模式”里有26个成就, 在Xbox和Windows10上价值800游戏分数。
+
+
+图标
+成就
+游戏内描述
+实际需求（如果不同）
+Xbox点
+奖杯(PS)
+
+
+
+New Kid on the Block
+完成第一章的第一节
+
+20G
+青铜
+
+
+
+Leveraging Resources
+在工作台上完成一次创造
+在工作台上做一个拉杆
+20G
+金
+
+
+
+Some Assembly Required
+完成第一章的第二节
+
+25G
+青铜
+
+
+
+To Catch a Thief
+完成第一章的第三节
+
+30G
+青铜
+
+
+
+Out of the Frying Pan...
+完成第一章的第四节
+
+30G
+银
+
+
+
+Safety First
+完成第一章的第五节
+
+35G
+银
+
+
+
+The Calm Before the Storm
+完成第一章的第六节
+
+40G
+银
+
+
+
+Nether Say Die
+完成第二章的第一节
+
+20G
+青铜
+
+
+
+Griefer Madness
+找到侠盗
+把Magnus带回堡垒。
+25G
+青铜
+
+
+
+Occam's Razor
+找到工程师
+把Ellegaard带回堡垒。
+30G
+青铜
+
+
+
+No Time to Lose
+完成第二章的第四节
+
+35G
+银
+
+
+
+In the Shadow of Giants
+完成第二章的第五节
+
+40G
+银
+
+
+
+Left Behind
+完成第二章的第六节
+
+50G
+金
+
+
+
+Back to the Grind
+完成第三章的第一节
+
+20G
+青铜
+
+
+
+A World of Pure Imagination
+完成第三章的第二节
+
+20G
+青铜
+
+
+
+Pretender Man
+完成第三章的第三节
+
+25G
+青铜
+
+
+
+When a Plan Comes Together
+完成第三章的第四节
+
+30G
+银
+
+
+
+Blockbuster
+完成第三章的第五节
+
+30G
+银
+
+
+
+Out With A Bang
+完成第三章的第六节
+
+35G
+银
+
+
+
+That's Some Pig
+和Reuben一起咀嚼脂肪
+和Reuben进行对话。
+40G
+金
+
+
+
+Dramatic Timing
+完成第四章的第一节
+
+20G
+青铜
+
+
+
+In a Land Far Away
+完成第四章的第二节
+
+25G
+青铜
+
+
+
+It Came From Outer Space
+完成第四章的第三节
+
+30G
+银
+
+
+
+The End of the Line
+完成第四章的第四节
+
+35G
+银
+
+
+
+From the Jaws of Defeat
+完成第四章的第五节
+
+40G
+银
+
+
+
+A New World Order
+完成第四章的第六节
+
+50G
+金
+
+
+系统要求[编辑 | 编辑源代码]
+根据 这个页面:
+最低要求[编辑 | 编辑源代码]
+
+
+系统分类
+Windows
+Mac OS X
+
+
+系统
+Windows XP Service Pack 3或更高
+OS X Lion (10.7.X)或更高
+
+
+处理器
+Intel Core2 Duo @ 2GHz或等量
+Intel @ 2.3GHz
+
+
+内存 (RAM)
+3GB或更大
+4GB或更大
+
+
+硬盘空间
+8GB可用空间
+8GB可用空间
+
+
+显卡
+512MB显存或更大的AMD或NVidia显卡
+512MB显存或更大的AMD或NVidia显卡
+
+
+DirectX版本
+11或更高
+n/a
+
+
+声卡
+DirectX 11或更高
+n/a
+
+
+备注
+不推荐Intel集成显卡驱动程序。
+不推荐为Mac mini或更早的Macbook使用Intel集成显卡驱动程序。
+
+
+推荐要求(PC)[编辑 | 编辑源代码]
+
+
+系统分类
+Windows
+
+
+处理器
+Intel Core2 Duo @ 2.3GHz或等量
+
+
+内存(RAM)
+4GB或更大
+
+
+显卡
+1024MB显存或更大的AMD或NVidia显卡
+
+
+支持的语言[编辑 | 编辑源代码]
+根据这个Steam页面, 以下的语言在游戏中可用：
+
+
+语言
+界面
+全部音频
+字幕
+
+
+英语
+是
+是
+是
+
+
+法语
+是
+否
+是
+
+
+德语
+是
+否
+是
+
+
+西班牙语
+是
+否
+是
+
+
+俄语
+是
+否
+是
+
+
+简体中文
+是
+否
+是
+
+
+葡萄牙语
+是
+否
+是
+
+
+
+画廊[编辑 | 编辑源代码]
+第一章：岩石之令[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Jesse击退了一个僵尸。
+
+
+
+
+
+
+
+
+
+僵尸和爬行者准备攻击Jesse和Petra。
+
+
+
+
+
+
+
+
+
+勇士Gabriel击退了凋灵风暴。
+
+
+
+
+
+
+
+
+
+Jesse跳过了一些鸡。
+
+
+
+
+
+
+
+
+
+Jesse试图上拯救Petra远离凋灵风暴的手。
+
+
+
+
+
+
+
+
+
+一个恶魂攻击Jesse和他/她的朋友。
+
+
+
+
+第二章：集结号令[编辑 | 编辑源代码]
+官方未提供畫廊圖片。
+第三章：终望之地[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Jesse和他/她的朋友们为了寻找Soren挖了一个洞。
+
+
+
+
+
+
+
+
+
+Jesse掉入了怪物磨床。
+
+
+
+
+
+
+
+
+
+Jesse和他/她的朋友找到了一个末地传送门。
+
+
+
+
+
+
+
+
+
+岩石之令的成员们幸福地团聚了。
+
+
+
+
+
+
+
+
+
+Jesse被凋灵风暴的光束吸走。
+
+
+
+
+第四章：方块与困难之地[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Jesse和他/她的朋友撤离了凋灵风暴。
+
+
+
+
+
+
+
+
+
+Jesse和Reuben到达边境之地。
+
+
+
+
+
+
+
+
+
+岩石之令准备杀死末影龙。
+
+
+
+
+第五章: 奔赴前线![编辑 | 编辑源代码]
+
+
+
+
+
+
+
+新的岩石之令到達达了寺庙。
+
+
+
+
+
+
+
+
+
+Jesse 从寺庙中逃脱。
+
+
+
+
+
+
+
+
+
+新的岩石之令與反對他們的火焰棒打了起來。
+
+
+
+
+
+
+
+
+
+Jesse、Petra、Lukas和Ivor到達了天空之城。
+
+
+
+
+
+
+
+
+
+Aiden透過烈焰使者保護自己。
+
+
+
+
+外部链接[编辑 | 编辑源代码]
+
+维基百科上的 Minecraft: Story Mode
+
+引用[编辑 | 编辑源代码]
+
+↑ 1.0 1.1 https://www.telltalegames.com/minecraftstorymode/adventurepass/
+↑ 2.0 2.1 2.2 2.3 2.4 https://www.telltalegames.com/blog/105119/minecraft-story-mode-returns-for-episode-5-on-march-29th-three-more-adventures-continuing-in-2016
+↑ Minecraft: Story Mode ESRB Rating
+↑ Minecraft: Story Mode PEGI Rating
+↑ [1]
+↑ Minecraft: Story Mode ACB Rating
+↑ Minecraft: Story Mode OFLC Rating
+↑ Episode 3 Rating from the OFLC
+↑ [2]
+↑ https://appsto.re/us/cTMR7.i
+↑ https://play.google.com/store/apps/details?id=com.telltalegames.minecraft100
+↑ http://www.amazon.com/Telltale-Games-Minecraft-Story-Mode/dp/B016EU09Y6/ref=sr_1_1?s=mobile-apps&amp;ie=UTF8&amp;qid=1444901437&amp;sr=1-1&amp;keywords=minecraft%3A+story+mode
+↑ https://www.microsoft.com/en-us/store/apps/minecraft-story-mode-a-telltale-games-series/9nblggh69m35
+↑ 14.0 14.1 https://www.telltalegames.com/blog/97267/minecraft-story-mode-reveal-trailer-and-first-cast-details
+↑ 15.0 15.1 https://www.telltalegames.com/blog/99936/premiere-dates-revealed-for-minecraft-story-mode
+↑ https://www.facebook.com/AnadelBand?fref=nf
+↑ 17.0 17.1 17.2 17.3 17.4 17.5 17.6 17.7 17.8 http://www.theverge.com/2015/8/26/9207085/minecraft-story-mode-telltale-games-interview
+↑ http://www.telltalegames.com/blog/88513/telltale-and-mojang-developing-minecraft-story-mode-a-telltale-games-series-for-2015
+↑ 19.0 19.1 19.2 19.3 19.4 Minecraft: Story Mode MineCon 2015 Panel
+↑ 20.0 20.1 https://www.telltalegames.com/blog/99531/new-screenshots-minecraft-story-mode-features-selectable-player-character
+↑ 21.0 21.1 21.2 https://www.telltalegames.com/minecraftstorymode/story/
+↑ 22.0 22.1 22.2 22.3 22.4 22.5 https://www.telltalegames.com/blog/100234/minecraft-story-mode-new-trailer-additional-cast-details-and-world-premiere-event
+↑ http://www.theguardian.com/technology/2014/dec/19/minecraft-story-mode-spin-off-game-announced-mojang
+↑ 24.0 24.1 24.2 24.3 http://www.gamasutra.com/view/news/255574/The_unlikely_creative_relationship_behind_Minecraft_Story_Mode.php
+↑ http://www.pcmag.com/article2/0,2817,2473901,00.asp
+↑ https://twitter.com/LydiaWinters/status/635846257865527296
+↑ https://www.facebook.com/AnadelBand?fref=nf
+↑ https://www.telltalegames.com/blog/101343/minecraft-story-mode-now-available-in-stores-with-episode-two-ready-for-download
+↑ https://www.telltalegames.com/blog/102267/minecraft-story-mode-episode-3-arrives-november-24th
+↑ 30.0 30.1 30.2 https://twitter.com/stirpicus/status/713408543336992768
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Minecraft:_Story_Mode&amp;oldid=117307”					
+				分类：待翻译条目Minecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語한국어PolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月20日 (星期五) 11:28。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

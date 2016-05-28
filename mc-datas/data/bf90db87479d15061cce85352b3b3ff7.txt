@@ -1,0 +1,705 @@
+
+
+
+
+中文 Minecraft Wiki - 最详细的官方 Minecraft 百科
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			Minecraft Wiki
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+
+
+
+
+
+
+社区专页
+管理员告示板
+Wiki条例
+最新更改
+
+
+
+
+创建你的Wiki账户
+帮助文档目录
+如何帮助改进
+最新页面
+
+
+
+
+格式指导
+著作权
+免责声明
+标准译名列表
+
+
+
+
+欢迎来到这个完全公开，可自由编辑的Wiki——中文Minecraft Wiki。这里致力于收集一切和Minecraft有关的信息。目前各地中文Minecraft社区的80位活跃用户与管理员团队正在维护着1,482篇条目与9,893个文件。任何人都可以成为新成员并为Wiki作出贡献。
+
+
+
+
+
+
+
+
+关于Minecraft
+
+是一个瑞典沙盒式建造游戏，中文名为《我的世界》，缔造者为Mojang AB的创始人马库斯•泊松，其灵感源自于无尽矿工、矮人要塞和地城守护者。这个游戏让每一个玩家在三维空间中创造和破坏不同种类的方块。玩家可以在多人服务器与单人世界中体验不同的游戏模式，打造精妙绝伦的建筑物，创造物和艺术品。
+Minecraft PC/Mac版的官方售价为165人民币/210港币/800新台币（基准价26.95美元）。在玩家购买之后，单人和多人模式可以通过下载启动器登录后进行游戏。Minecraft的Classic版本可在这里免费体验。演示版也是免费的，但有时效限制。Minecraft PC/Mac版的开发工作在2009年5月10日开始，于2009年6月13日开放购买。Minecraft 1.0发售日期为2011年11月18日。2014年9月20日，Minecraft PC/Mac版成为史上最畅销的PC游戏。2016年3月28日，Minecraft PC/Mac版销量突破2200万。
+2011年8月16日，为索尼Xperia Play开发的Minecraft携带版发布。索尼的独占协议过期后，适用于Android设备的版本于当年10月7日发布；iOS版则于11月17日发布，售价均为6.99美元。2014年4月2日，适配于Amazon Fire TV的版本发布，此版本与携带版有相同的特性并支持Fire TV的控制器。2014年12月10日，适用于Windows Phone 8.1的版本发布。2015年1月10日，携带版销量突破3000万。
+2012年5月9日，Minecraft正式为Xbox 360在Xbox Live Arcade登陆，售价为20美元，销量随后超越以往所有同平台游戏。
+2013年2月11日，Minecraft:树莓派版发布，且为树莓派独占。其基于携带版开发，可以在Mojang的开发者博客里免费下载。树莓派版意在鼓励编程者学习编程，使用其API修改游戏代码。然而再未推出后续版本，此版本也已经被宣布终止开发。
+2013年12月17日，Minecraft的PlayStation 3版以19.99美元的价格于PlayStation Store上发售，特性几乎同Xbox 360版，今后的开发工作亦会和Xbox 360版同时进行。
+2014年6月26日，Xbox 360版和PlayStation 3版销量总和超过了PC版，这使得Minecraft系列游戏取得售出7200万份游戏的成绩并成为最畅销电子游戏第三名。
+Minecraft在2014年9月4日在PlayStation 4上发布，9月5日和Xbox One平台上发布，随后10月14日发布PlayStation Vita版。
+2014年9月15日，Mojang AB及其所有资产（包括Minecraft）被微软以25亿美元收购。2015年7月29日，Minecraft在Windows 10上作为携带版的一个分支发布。
+2015年12月17日，Wii U版发布。
+
+
+
+开始游戏！
+
+
+
+
+PC版
+
+
+
+
+
+游戏本体
+1.9.4
+启动器
+1.6.61
+
+
+预览版本
+
+
+游戏本体
+16w21b
+
+
+
+
+主机版
+
+
+
+
+TU35
+
+
+
+CU23
+
+
+
+Patch 4
+
+
+
+
+
+1.26
+
+
+
+1.26
+
+
+
+1.26
+
+
+
+
+
+
+
+携带版
+
+
+
+
+
+
+
+
+
+0.14.3
+0.14.3
+0.14.3
+0.14.3
+0.14.3
+
+
+预览版本（Android）
+
+
+0.15.0 build 2
+
+
+
+
+
+
+
+购买PC版！ (演示版)
+购买携带版！
+
+Android
+iOS
+亚马逊Fire TV
+Windows Phone 8.1
+
+
+购买主机版！
+
+Xbox 360
+
+演示版
+
+
+Xbox One
+PlayStation 3
+
+演示版
+
+
+PlayStation 4
+
+演示版
+
+
+PlayStation Vita
+
+演示版
+
+
+Wii U
+
+
+下载树莓派版！
+
+
+
+
+
+
+
+
+
+游戏内容
+
+游戏特性与模式的基本解释。
+
+游戏模式
+
+
+生存模式
+创造模式
+极限模式
+冒险模式
+旁观模式
+
+
+制作
+
+
+合成
+烧炼
+酿造
+
+
+教程
+
+
+新手
+综合
+采矿
+刷物品
+刷怪
+附魔和烧炼
+机械
+技术性
+
+
+
+
+
+
+人气页面&amp;常用页面
+
+
+成就
+Minecraft中可获得的成就的有关信息。
+方块
+Minecraft中各种各样方块的详尽资讯。
+物品
+Minecraft中形形色色物品的具体讯息。
+生物群系
+悉数介绍Minecraft中全部的生物群系。
+附魔
+讲解关于Minecraft的附魔的有关信息。
+生物
+介绍游戏世界中或友好或敌对的种种生物。
+交易
+对村民交易系统的详解。
+红石元件
+介绍了红石元件的有关信息。
+资源包
+改变游戏外貌风格的资源包。
+Mod
+各式各样使游戏改头换面的Mod。
+
+
+
+
+
+新闻与事件
+
+新闻
+
+2016年5月20日
+Mojang与网易宣布Minecraft将在中国市场发售。
+2016年5月2日
+Minecraft.net进行了重大更新。
+2016年4月21日
+Minecraft: Story Mode受到预先采纳分类中Google Play奖提名。
+2016年3月29日
+Minecraft: Story Mode - 第五章：奔赴前线！发布。
+
+
+最近更新
+
+2016年5月10日
+Minecraft1.9.3、1.9.4发布。
+2016年4月26日-27日
+Minecraft携带版Alpha 0.14.2发布。
+2016年4月19日
+Minecraft TU35、CU23与1.26分别在360、One与PlayStation的主机版上发布。
+2016年4月6日
+Minecraft TU34、CU22、1.25和Patch 4分别在所有主机平台发布。
+
+
+
+
+
+
+
+
+
+链接
+
+官方资源
+
+
+Minecraft
+Mojang
+Mojang客服
+开发者日志
+漏洞报告
+论坛
+Facebook专页
+YouTube频道
+J!NX商店
+ThinkGeek商店
+
+
+
+Minecraft 非官方中文社区
+
+
+
+Minecraft中文论坛
+當個創世神-巴哈姆特
+百度贴吧-Minecraft吧
+Minecraft香港社区
+Minecraft中文下载站论坛
+HZY's Wiki
+MCmod百科
+Minecraft插件百科
+
+
+
+
+
+
+
+
+服务器和开发
+
+
+服务器
+有关服务器更新与维护的文献记录。
+官方漏洞跟踪器
+Mojang官方的漏洞反馈网站。
+Minecraft Realms
+关于Mojang拥有的官方收费服务器的信息。
+开发资源
+针对Minecraft相关应用程序开发的信息与文献记录。
+辅助程序与编辑器
+Minecraft的第三方支持游戏编辑器列表。
+定制服务器
+各种定制服务器的列表与相关的文献资料和信息。
+
+
+
+
+版本开发
+
+版本记录
+
+PC版 –
+
+正式版
+预览版本
+Pre-classic
+Classic
+Indev
+Infdev
+Alpha
+Beta
+
+
+携带版 –
+
+Alpha
+预览版本
+
+
+主机版 –
+
+正式版
+
+
+
+计划版本
+
+PC版 –
+
+1.10
+
+
+携带版 –
+
+Alpha 0.15.0
+
+
+主机版
+
+提及特性
+
+PC版 –
+
+插件API
+
+
+
+
+
+
+
+对于此页面内容的更新提议，请来这里表达你的看法。
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki&amp;oldid=117960”					
+				分类：主要				
+							
+						
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															首页
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															查看源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPortuguês do BrasilPolskiРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月23日 (星期一) 11:03。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

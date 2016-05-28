@@ -1,0 +1,674 @@
+
+
+
+
+Minecraft Wiki:Style guide – Official Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+						
+						
+							
+						
+			
+
+			Minecraft Wiki:Style guide
+									
+									From Minecraft Wiki
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+
+Shortcut
+MCW:STYLE
+
+
+This article aims to provide a comprehensive style guide for all Minecraft Wiki articles to follow. There are often disputes over which style rule or formatting to use and hopefully the inclusion of an official style guide will help resolve these disputes as well as in helping to reach a consensus.
+Although Wikipedia already provides a more general style guide, a more specific one is necessary for Minecraft specific guidelines. As such, only guidelines pertaining to the Minecraft Wiki and its basic formatting rules should be included here.
+
+
+
+Contents
+
+
+1 Notability
+
+1.1 Redirects
+
+
+2 Article titles
+3 Writing
+
+3.1 Keeping articles concise and up to date
+
+3.1.1 Future
+
+
+3.2 Grammar
+3.3 Capitalization
+3.4 Section headings
+3.5 Italics
+3.6 Images
+3.7 Linking
+3.8 Date formatting
+3.9 Redstone structures
+
+
+4 Article layout
+
+
+
+Notability[edit source]
+
+
+Shortcut
+MCW:NOTABILITY
+
+
+Articles are only allowed in the main namespace if they fit the following criteria. Articles which do not fit the criteria may be deleted without notice.
+
+ General
+
+
+Articles must contain enough information to warrant a full page. If they do not have enough content, they should be merged with other similar articles.
+Articles must pertain directly to Minecraft in some way.
+Articles about people are only allowed if the person in question is a developer of Minecraft and/or either a part of or closely related to Mojang AB.
+Features that are not currently in the game should only be in the version's mentioned features article.
+
+This excludes features which have been removed or features from development versions, which may be noted on articles affected by the feature and the relevant version article(s).
+
+
+Articles about versions of Minecraft may be created for released editions, of which separate articles should be created for each development version.
+
+Unreleased version articles may be created, provided there is a significant source of the unreleased version's existence. Sources include development versions or multiple sources of features for the next update. Unreleased development version articles may not be created.
+Console edition versions should be on Console Edition version history. Unreleased versions may be added to Planned versions.
+
+
+
+
+ Community
+
+
+Gameplay strategies, guides, how-tos, etc., should be subarticles of Tutorials.
+
+Pages containing a list of miscellaneous builds the user can make are not to be considered a tutorial. They are to be kept in the userspace. This includes user-created activities and challenges.
+
+
+Minigames are only allowed to be added if Mojang AB claims to have played them.
+Articles about mods should be included as subarticles of Mods.
+
+Articles about custom server modifications/topics should be subarticles of their main article.
+Articles containing information about client mods are only allowed when the client mod cannot contribute to cheating or griefing in multiplayer.
+
+
+Articles regarding custom servers are only allowed when the server is released to the public.
+
+
+Wiki rules
+&#160;4.&#160; Parody, comedic, nonsense, hoax, and speculation articles, or any other article that could mislead players are not allowed to be created.
+&#160;5.&#160; Articles created for the purpose of advertising specific servers or other products are not allowed.
+&#160;6.&#160; Articles about fan communities are not allowed due to advertising issues.
+
+Articles in the "User:" namespace are exempt from the notability guidelines. They can be used for anything, provided they follow the other wiki rules.
+Redirects[edit source]
+Redirects are exempt from the normal notability, but must redirect to an article that fits the notability guidelines. If a redirect leads to another wiki, it must use {{soft redirect}}. Redirects can be created if they fit one of the following:
+
+Alternate spelling of the title, such as "Armour" for "Armor".
+
+Incorrect spelling, typos, and irregular formatting are not allowed.
+
+
+Alternate or shortened name, provided the name is common usage, such as "Log" for "Wood". Previous in game names are also allowed.
+
+This includes first names or handles for Mojang employees, such as or "Nathan" or "Dinnerbone" for "Nathan Adams".
+This also includes names from alternate English language packs, with the exception of joke languages such as "Pirate Speak".
+
+
+Previous article title, including if the article was moved to another wiki.
+
+An exception is if the previous title was not commonly used.
+
+
+Alternate capitalization or form, including changing the title to plural case.
+A part of a merged or multi-topic article, such as a potion or a mentioned feature.
+The parent version for pre-releases which became a pre-release for another version, such as "1.7" for "1.7.2", due to "1.7-pre" being a pre-release for "1.7.2".
+
+Redirects in the user namespace may lead anywhere, except to an article that does not exist or another redirect.
+Article titles[edit source]
+Article titles should be in the singular form to maintain consistency.
+Articles should follow a general naming format based on the type.
+
+Articles about blocks, items, and entities in game should use the in game name capitalized as it appears in game.
+
+If the feature does not have an in game name, it should follow the same format as other articles of the same type. For example, the mob Spider Jockey.
+If the article is about multiple things in the game, the title should equally represent all the titles. For example, an article about wooden and iron doors would be called Door.
+
+
+Articles about people should contain the first and last names, rather than their Minecraft or Twitter handle.
+PC versions should be named using the version name, such as 1.8 or 14w02a.
+
+Pre-releases should be formatted with a single dash between the parent version and the word "pre". If the pre-release contains a number at the end, it should be placed with nothing between "pre" and the number. For example: 1.8-pre1.
+
+
+Pocket Edition versions should be prefixed with the words "Pocket Edition". For example, the update "Alpha 0.9.0" would be titled "Pocket Edition Alpha 0.9.0"
+
+Pocket Edition development builds should first contain the parent version title, then the lowercase word "build" followed by the build number. For example, build 2 for "Alpha 0.9.0" would be titled "Pocket Edition Alpha 0.9.0 build 2"
+
+
+Disambiguation articles should only contain "(disambiguation)" if the title without the word is used by an article.
+If the article's type is unlisted, it should use the most relevant title in sentence case, not title case, unless it is a proper noun.
+
+Writing[edit source]
+
+See also: Help:Official sources
+
+As this wiki's purpose is to document facts, you should always avoid speculative and unsourced information. Generally speaking, information does not require sources if they can directly be seen in-game or are otherwise obvious. Other information however, such as quotes from Mojang employees and information that is not widely known, must be sourced with a proper reference. The {{citation needed}} template should be placed after any information that requires a source. Do not add content to an article if you cannot find a proper source.
+Articles in the main namespace should always be written in the third-person perspective and without terms referential to the reader. Try not to use abbreviations of words either. For instance, sentences like "You shouldn't come close to creepers because they'll explode and kill you." should be written as "The player should not come close to creepers as they will explode, potentially killing the player.".
+To emphasis points, italics should be used, not bold or ALL CAPS.
+Tutorial information should only be within tutorial articles, which includes navigational features of blocks or textures. Tutorials may be linked from other articles if relevant though.
+Mod information should not be contained on articles not about mods. Mods should also not be linked from articles not about mods.
+Keeping articles concise and up to date[edit source]
+
+
+Shortcut
+MCW:UPTODATE
+
+
+In short, articles should only contain information that is up to date, i.e., implemented in the latest full version of the game. Anything that is outdated should be moved to the History section of the article. When something changes, note the change in the History section and remove the outdated information from other sections of the article. It is unnecessary to mention when a particular feature was implemented; this is once again reserved for the History section of the article. Sentences such as "Trading, which was implemented in 1.3.1, is a feature that allows players to exchange emeralds (previously rubies) for other items." should be written as "Trading is a feature that allows players to exchange emeralds for other items."".
+Here's an example of how to not write a good article. It uses a previous version of the Wood article. This is the full introduction. Highlighted in yellow is the redundant information, and in pink the history information.
+
+Wood (previously known as log) is a type of block first seen in Minecraft Creative mode 0.0.14a They have a skin resembling bark on the four side faces, and a crosscut face on top and bottom. Only the normal oak logs are available in chunks generated before the Beta 1.2 update and all previous versions, whilst pine and birch will generate in newer chunks. Wood is greatly abundant in naturally-generated maps, as it is used as the foundation for trees. Wood can be chopped by hand, but using an axe is faster. Wood is also flammable.
+Of the current wood types, birch is the rarest type. They are often used to make plants, trees and wooden cabins. In Survival Test, wood blocks drop 3 - 5 wooden planks when mined. In Indev, Infdev, Alpha, and Beta, mining a wood block will drop a wood block instead. This allows the use of wood as a building material and is craftable into planks.
+Wood's only crafting use is to be made into four wooden planks. In addition, wood can be burnt in a furnace to make charcoal as a substitute for Coal.
+As of the Minecraft Beta 1.2 update on January 13, 2011, there are now four kinds of wood. One is the normal wood (Oak), another resembles the wood of silver birch trees, yet another type resembles the normal wood, but it is darker and appears in pine/conifer trees that grow in colder biomes, the fourth type is similar to the oak wood, however there are some color differences and it is tilted to one side. These wood blocks still produce 4 Wooden Planks when crafted. Wood from different types of trees will not stack in the inventory, but their planks will. Planks made from different kinds of trees are completely identical. Birch trees have slightly duller colored leaves than regular trees, pine trees have pine needles, and jungle leaves are leafy with fruit looking shapes on them.
+The fourth type of wood was introduced in Snapshot 12w03a, solely occurring in Jungle Biomes, and comprising trees exclusive to them. The tallest trees have this type of wood in 2x2 dimensions instead of the normal 1x1.
+The issue with this is that old information is scatted with new information. The introduction should state the current description of the block with the current release. History information is good, but for clarity, it should be described in the chronological order in a single place: the History section of the article.
+Future[edit source]
+
+
+Shortcut
+MCW:FUTURE
+
+
+Content added in future updates may be added to the article in the main content, provided the features are marked using {{upcoming}} and have appeared in development versions. If the update contains major changes to the article, then the content may be noted as a subsection of a main section, or as its own section called Upcoming. Upcoming features must be noted as well in the history section using the proper upcoming header.
+Upon the release of the update, all content that is now outdated must either be moved to the history section or removed, and any usage of {{upcoming}} may be removed.
+Grammar[edit source]
+Pages on the wiki should use American English unless the in-game name is British English. For instance, “colour” should be “color”, and “centre” should be “center”.
+Capitalization[edit source]
+In-game items should be treated as common nouns and as such should not be capitalized. This includes fictional items, such as prismarine. Proper nouns, however, such as the Nether or the Overworld should always be capitalized.
+
+Structures
+
+In-game structures and biome names should not be capitalized. Examples:
+
+Underground, there are randomly generated abandoned mine shafts.
+A desert temple contains precious loot.
+Blazes spawn in nether fortresses.
+In deep ocean biomes, ocean monuments can generate.
+A stronghold is home to an end portal.
+
+
+Mobs
+
+Any instance of a mob should be treated as a common noun, except where the mob is referred to using a proper noun. If the word "the" is used before the mob name, it should not be capitalized unless it is at the beginning of the sentence.
+Examples:
+
+One of the most feared mobs is the ghast.
+A spider can poison its prey.
+The player has been referred to as Steve.
+
+
+Enchantments
+
+Enchantment names should always be capitalized.
+Example:
+
+In order to have ice drop an item, you need a tool enchanted with Silk Touch.
+
+
+Status effects
+
+Status effect names should be capitalized, except where they are used as an adjective.
+Examples:
+
+Magma cream is required for a potion of Fire Resistance.
+Wither skeletons may inflict Wither on the player.
+An invisible spider may rarely spawn.
+
+
+Editions
+
+"Snapshot" and "pre-release" should not be capitalized. "Pre-release" should always be hyphenated. Development phases should be capitalized.
+Editions should only be capitalized when used as nouns.
+Examples:
+
+Minecraft officially came out of Beta on November 18th, 2011
+The cyan flower was introduced in Pocket Edition Alpha 0.1.
+Of all the editions of Minecraft only the Pocket and Pi Editions have cyan flowers.
+
+
+Game modes
+
+The name of game modes should be capitalized.
+Examples:
+
+In Hardcore mode the game acts similar to Survival mode except the difficulty is permanently set to Hard.
+
+Section headings[edit source]
+Article main sections should start with level 2 headers (two equal signs) and increase by one for subsections. Never use level 1 headers (one equal sign). Follow sentence style capitalization, not title style, so only the first letter of the heading and proper nouns are capitalized.
+There should be one space between sections as well as one space between the equal signs and the section name for ease of editing. If any "main article" links or thumb images are used, place them immediately under the section header, and then a space after those before the section content.
+For information on which sections should be in which order, see the Article layout section of this style guide.
+Italics[edit source]
+Any instance of "Minecraft" should be in italics. Any emphasis (in talk pages, etc.) should be in italics instead of being in bold or uppercase letters. Any instance of the name of a videogame should also be in italics. For instance: Team Fortress 3.
+Images[edit source]
+
+
+Shortcut
+MCW:IMAGES
+
+
+When adding screenshots to an article, make sure the screenshots use vanilla textures and UI. Screenshots that use custom texturepacks, UI mods and other custom content are not allowed. This does not apply to articles covering mods.
+Image captions should not have periods at the end, unless the phrase is a full sentence.
+Images added to articles should fit the following guidelines:
+
+Images should showcase an attribute of the articles topic.
+
+Images should not show unintended strange or humorous behavior, such as mobs "sitting" on stairs.
+Images should not have the sole purpose of showcasing a bug, instead report the bug on the official tracker.
+Images showcasing usage of specific features for decoration should be avoided.
+
+
+Articles should only have one image showcasing an individual attribute of the articles content. For example, a zombie wearing armor.
+Images should showcase the most up to date version of Minecraft available for the content.
+
+Images that are outdated are subject to be removed.
+
+
+
+Linking[edit source]
+
+For a complete guide to linking, please refer to Wikipedia's Manual of Style for links.
+
+The use of links is a difficult balance between providing the reader enough useful links to allow them to "wander through" articles and excessive linking which can distract them from their reading flow.
+Underlinking can cause the reader to become frustrated because questions may arise about the article's contents which can only be resolved by using the search option or other sources for clarification, interrupting and distracting the reader.
+Overlinking may distract the reader because links are usually colored differently causing the eye to shift focus constantly. Additionally, if the same word is linked multiple times in the same paragraph it can cause the reader to question if the links are directing them to different articles or not.
+The guidelines for linking are:
+
+No more than 10 percent of the words in an article are contained in links.
+
+
+Unless it affects the sentence's wording and readability in a negative way, two links should not be next to each other in the text so that it looks like one link.
+
+
+Links for any single term should not be excessively repeated in the same article. Excessive linking is defined as multiple use of the same term, in a line or a paragraph, which will almost certainly appear needlessly on the viewer's screen. Remember, the purpose of links is to direct the reader to a new spot at the point(s) where the reader is most likely to take a temporary detour due to needing more information.
+
+
+Duplicating an important link distant from a previous occurrence in an article may well be appropriate. If an important term appears many times in a long article, but is only linked once at the very beginning of the article, it may actually be underlinked. Indeed, readers who jump directly to a subsection of interest must still be able to find a link. But take care in fixing such problems, the distance between duplicate links is an editor's preference, however if in doubt duplicate the term further down the article.
+
+Linking to a redirect is preferred over using a piped link except in templates and other pages that will be transcluded. When a piped link is unavoidable, it should not point to a redirect. If a redirect can be avoided using a suffix on the link, that is preferred. E.g. Using [[Creeper]]s instead of [[Creepers]] is desired.
+Date formatting[edit source]
+The Minecraft Wiki is an international community. That is a good thing in general, but it makes a problem for numeric abbreviations of dates, such as "12/10/11": while most countries abbreviate dates as day/month/year, some Asian countries use year/month/day, and the US uses month/day/year. So the above date could represent any of three different dates. To avoid this problem, most dates should be written in "Month, DD, YYYY" format, e.g. "December 10, 2011". Do not use superscripts or suffixes such as "April 23rd" or "4th of May". If a numeric or terse date is needed (such as in a table), then use YYYY-MM-DD, always with 2 digits for month and day (e.g., 2011-12-10 or 2012-05-04). Besides being the ISO standard, dates in this format will naturally sort properly, say if the table column is later made sortable.
+Redstone structures[edit source]
+Main article: Minecraft Wiki:Style guide/Redstone
+Write-ups for redstone circuits and mechanisms should follow a single convention on the wiki.
+Article layout[edit source]
+
+
+Shortcut
+MCW:LAYOUT
+
+
+For the sake of consistency, all articles of a specific type should follow a general layout.
+
+At the very top, applicable flags and templates, such as {{snapshot}} for anything not yet in the full release, {{Block}} for blocks, and so on.
+
+Templates at the top should go in the order of info boxes, then message boxes, and then dablinks.
+
+
+Introduction with a general description.
+Article body, starting with first header.
+
+If an article does not contain a layout currently, one can be proposed on the talk page; otherwise, attempt to use a layout that follows a similar style to an existing layout. Current article layouts include:
+
+Features
+Versions
+
+
+
+
+Help
+
+
+Wiki help
+
+
+Gamepedia help
+Official citation sources
+Schematics
+
+
+
+
+Rules and guidelines
+
+
+Style guide
+
+Features
+Redstone
+Versions
+
+
+Talk page guidelines
+Wiki rules
+
+Video policy
+
+
+
+
+
+
+General pages
+
+
+New users come here
+How to help
+Frequently asked questions
+Missing pages
+Incomplete pages
+Recent changes
+Quick reference page
+
+
+
+
+
+
+
+
+
+
+
+					
+						Retrieved from "http://minecraft.gamepedia.com/index.php?title=Minecraft_Wiki:Style_guide&amp;oldid=974960"					
+				Category: Policies				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			Navigation menu
+
+			
+								
+										
+						Namespaces
+						
+															Project page
+															Talk
+													
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+										
+						Share
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						Views
+						
+															View
+															Edit source
+															History
+													
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						Main pageCommunity portalProjectsWiki rulesStyle guideRecent changesAdmin noticeboardDirectors page					
+							
+		
+			
+			Links
+
+			
+									
+						Minecraft websiteMinecraft forumsMojang blogMojang supportIssue trackerTwitter pageFacebook pageYouTube channel					
+							
+		
+			
+			Useful pages
+
+			
+									
+						BlocksItemsCraftingSmeltingEnchantingBrewingMobsTradingRedstone circuitResource packMods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia ForumsHelp WikiContact Us					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage information					
+							
+		
+			
+			In other languages
+
+			
+									
+						DeutschEspañolItaliano日本語NederlandsPortuguês do Brasil					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 This page was last modified on 7 May 2016, at 13:25.
+											Content is available under CC BY-NC-SA 3.0 unless otherwise noted.Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											About Minecraft Wiki
+											Disclaimers
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

@@ -1,0 +1,418 @@
+
+
+
+
+冒险模式 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			冒险模式
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				冒险模式是一种供在玩家自创的地图使用的游戏模式，在Minecraft设置限制，使玩家不能破坏和放置任何方块，以避免损坏冒险地图或恶意破坏服务器。然而，玩家依然可以与生物互动和合成物品。
+虽然冒险模式更像“正式”的生存模式，但玩家更多时候是在寻找食物来补充饥饿值。因为玩家不能与方块互动，所以大多时候玩家不能建立庇护所。所以寻找一个NPC村庄或其他的安全结构就是必不可少的工作了。
+
+
+命令方块就是为了在冒险模式使用的。
+
+
+
+目录
+
+
+1 特点
+2 历史
+3 你知道吗
+4 另见
+5 参考文献
+
+
+
+特点[编辑 | 编辑源代码]
+
+方块需要指定CanDestroy的物品才能破坏。
+允许与村民交易。
+与多人游戏兼容。
+要在作弊下使用/gamemode 2才能进行冒险模式的游戏。
+使用Mod API。[1]
+
+历史[编辑 | 编辑源代码]
+
+
+Alpha
+
+
+未知
+冒险模式，原来被叫做地下城与拉杆，为Notch在2010年7月7日宣布的新模式。[2]Notch暗示四个玩家会在冒险模式中竞赛。 冒险模式也许会包括类似于极限模式的“永久死亡”，使其本质与Rogue相似，[3]同时此模式也许会带有随机生成的地图/任务的系统。[4]
+
+
+正式版本
+
+
+1.3.1
+12w22a
+添加了冒险模式。可以通过指令/gamemode 2或/gamemode adventure进入。在冒险模式内玩家仍然能使用物品栏内的2x2合成栏和合成台内的3x3合成栏进行合成。玩家依然能与箱子、发射器这种带有用户界面的方块进行互动。玩家也能进入传送门，但无法使用打火石开启一个。打火石能用于激活TNT
+
+
+1.4.2
+12w34a
+一些方块现在能通过使用正确的工具来移除和放置。[5]
+
+
+1.8
+14w02a
+在冒险模式鼠标准星对准时不会显示方块碰撞箱了。
+
+
+在冒险模式任何工具都无法破坏方块了。
+
+
+给物品给予CanDestroy NBT 标签可以破坏指定的方块。
+
+
+14w06a
+NBT标签CanPlaceOn，可以让方块放置在指定的方块上。[5]
+
+
+你知道吗[编辑 | 编辑源代码]
+1.7版本中的冒险模式也称为危机模式，在服务器使用冒险模式，死亡后有几率会像极限模式一样无法进入服务器。死亡IP则会存进玩家背包的启动码之中，造成指定IP无法再次进入服务器，但此错误在1.7.9被修复。(官方尚未发出此讯息，称为秘密修复)
+
+1.8版本中的冒险模式只能杀死生物、与可右键触发的方块（如门、工作台、按钮等）互动以及像其他实体一样触发压力板、绊线等，所有的方块都不能破坏。
+
+另见[编辑 | 编辑源代码]
+
+冒险元素更新
+
+参考文献[编辑 | 编辑源代码]
+
+↑ https://twitter.com/dinnerbone/status/220634145322303488
+↑ http://notch.tumblr.com/post/779956568/the-rationale-for-redstone
+↑ http://www.gamebandits.com/news/pc/minecraft-1-9-hardcore-mode-bring-it-on-17345/
+↑ http://www.gameinformer.com/b/features/archive/2011/06/14/notch-and-todd-howard-the-one-on-one-interview.aspx
+↑ 5.0 5.1 http://www.reddit.com/r/Minecraft/comments/yp597/12w34a_snapshot_is_accessible_now/c5xplgu
+
+
+游戏内容
+
+参见：Template:Gameplay/content [编辑]
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=冒险模式&amp;oldid=115376”					
+				分类：GameplayGame Modes				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月6日 (星期五) 13:50。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

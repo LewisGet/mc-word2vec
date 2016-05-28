@@ -1,0 +1,1494 @@
+
+
+
+
+定制服务器 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			定制服务器
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+该页的内容尚未被Mojang、Minecraft Wiki、Minecraft IRC频道和Minecraft论坛所支持。
+
+
+定制服务器是不使用任何Minecraft Classic或生存模式组件及衍生代码的服务器软件，所以其不受Mojang条款约束。一部分这种服务器可以在服务器列表页面找到，尽管该列表中的服务器不完全是定制服务器（有些是SMP）。他们作为原始服务器的替代品，添加了一些附加特性，如游戏内容上的改变、延迟的优化等。定制服务器必须与客户端保持更新，因为可能存在某些协议上的变化。注意这只适用于Beta。
+
+
+
+目录
+
+
+1 定制服务器列表
+2 特性
+
+2.1 多世界
+2.2 颜色代码
+
+
+3 对照
+
+3.1 正式版
+
+3.1.1 基本資料
+3.1.2 元数据
+3.1.3 功能
+
+
+3.2 Classic
+
+3.2.1 基本資料
+3.2.2 功能
+
+
+
+
+
+
+
+定制服务器列表[编辑 | 编辑源代码]
+请参阅服务器列表页面。
+特性[编辑 | 编辑源代码]
+定制服务器有着一系列的特性，有一些是他们所普遍共有的。这些特性拓展了游戏内容，管理功能，甚至是一些此前从未在原始服务器中考虑过的东西。
+多世界[编辑 | 编辑源代码]
+多世界是一种可以在定制服务器中用到的Minecraft客户端特性。第一个有着这个特性的服务器是Myne。
+通常在这些服务器中有一个主世界，可以通过传送门或指令将玩家移动到其他的地图中。可以创建一个新的世界并分配各种不同的属性，例如限制可以进入或在某一世界建造的人。这使得可以在展示旧地图的同时依然有地图可以让公众在其中建造。同样可以授予更多的私人领地来阻止破坏者。
+颜色代码[编辑 | 编辑源代码]
+定制服务器通常有着颜色代码的优点（有时会用百分号代替&amp;符号让玩家输入）。 从服务器发往客户端的信息可以具有颜色代码，这可以让文字具有颜色。在信息中的一个&amp;符号接着一位16进制数字告诉客户端在显示文字的时候切换颜色。
+信息开头的颜色代码只会在玩家ID少于127字节时有效，当玩家ID超过127字节，游戏会自动在信息开头添加&amp;e使其变为黄色。但是，在第一个字符后面的颜色代码仍然有效。如果你的ID少于127字节，游戏不会自动添加颜色代码，所以你可以正常使用。
+很重要的一点是，在信息末尾的不跟16进制数字的&amp;符号会使所有接收到这条信息的客户端崩溃，所以一定要检查来自客户端的信息。
+
+
+
+
+16进制数字与颜色的对应
+
+
+
+
+样例
+代码
+名称
+前景色
+背景色
+
+
+
+
+
+R
+G
+B
+R
+G
+B
+
+
+
+&amp;0 -&#160;%0
+黑色
+0
+0
+0
+0
+0
+0
+
+
+
+&amp;1 -&#160;%1
+深蓝色
+0
+0
+191
+0
+0
+47
+
+
+
+&amp;2 -&#160;%2
+深绿色
+0
+191
+0
+0
+47
+0
+
+
+
+&amp;3 -&#160;%3
+深蓝绿色
+0
+191
+191
+0
+47
+47
+
+
+
+&amp;4 -&#160;%4
+深红色
+191
+0
+0
+47
+0
+0
+
+
+
+&amp;5 -&#160;%5
+紫色
+191
+0
+191
+47
+0
+47
+
+
+
+&amp;6 -&#160;%6
+金黄色
+191
+191
+0
+47
+47
+0
+
+
+
+&amp;7 -&#160;%7
+灰色
+191
+191
+191
+47
+47
+47
+
+
+
+&amp;8 -&#160;%8
+深灰色
+64
+64
+64
+16
+16
+16
+
+
+
+&amp;9 -&#160;%9
+蓝色
+64
+64
+255
+16
+16
+63
+
+
+
+&amp;a -&#160;%a
+浅绿色
+64
+255
+64
+16
+63
+16
+
+
+
+&amp;b -&#160;%b
+蓝绿色
+64
+255
+255
+16
+63
+63
+
+
+
+&amp;c -&#160;%c
+红色
+255
+64
+64
+63
+16
+16
+
+
+
+&amp;d -&#160;%d
+粉色
+255
+64
+255
+63
+16
+63
+
+
+
+&amp;e -&#160;%e
+黄色
+255
+255
+64
+63
+63
+16
+
+
+
+&amp;f -&#160;%f
+白色
+255
+255
+255
+63
+63
+63
+
+
+对照[编辑 | 编辑源代码]
+這個列表為所有已知的定制服务器軟件。在這列表中的定制服务器軟件必須有最少一個可用版本或提供源代碼。
+正式版[编辑 | 编辑源代码]
+這個列表列出所有正式版的定制服务器軟件。
+基本資料[编辑 | 编辑源代码]
+
+
+名称
+开发者
+语言
+许可
+平台
+
+
+C#raft
+ementalo, spazzarama Smjert, Deniska(Gremlin13)
+C#
+AGPL3
+
+
+
+Chunky Monkey
+huin, agon, nictuku
+Go
+MIT
+
+
+
+craftd
+Founders (kev009, meh), PrecipiceGames (HACKhalo2, dotblank, alyawn), other contributors
+C99
+Simplified BSD
+
+
+
+Erlcraft
+Scott Brooks
+Erlang
+Open source
+
+
+
+Glowstone
+SpaceManiac
+Java
+MIT
+
+
+
+Lightstone
+Founder (Graham Edgecombe) picked up with permission by: creatorfromhell
+Java
+MIT
+
+
+
+LuaCraft
+LuaStoned, BlackOps, iRzilla and AndrewMcWatters
+Java
+MIT
+
+
+
+MCServer
+FakeTruth
+C++
+Apache License 2.0
+
+
+
+Mineserver
+Fador, Nredor, Psoden, deoxxa, ...
+C++
+New BSD
+
+
+
+OpenMC
+Xinnx
+C#
+GPL v3
+
+
+
+Spout
+(with Vanilla plugin)
+SpoutDev: Afforess, Wulfspider, alta189, raphfrk, Top_Cat, narrowtux, Olloth, Rycochet, RoyAwesome, zml2008
+Java
+SpoutDev v1
+
+
+
+元数据[编辑 | 编辑源代码]
+
+
+名称
+开发者
+支持 Minecraft 版本
+编程语言
+许可证
+可运行平台
+
+
+Bravo
+C. and others
+Minecraft Beta
+Python 2
+MIT
+
+
+
+C#raft
+ementalo, spazzarama Smjert, Deniska(Gremlin13)
+Release 1.5
+C#
+AGPL3
+
+
+
+Chunky Monkey
+huin, agon, nictuku
+Minecraft Beta
+Go
+MIT
+
+
+
+craftd
+Founders (kev009, meh), PrecipiceGames (HACKhalo2, dotblank, alyawn), other contributors
+Minecraft Beta
+C99
+Simplified BSD
+
+
+
+mc-erl
+Apiocera, clonejo
+Release 1.4.7
+Erlang
+GPL v3
+
+
+
+Glowstone
+SpaceManiac
+Release 1.8
+Java
+MIT
+
+
+
+hCraft
+BizarreCake
+Release 1.7.2
+C++
+GPLv3
+
+
+
+LibOpenCraft
+Geramy, Alex, Zahndy
+Release 1.2.4
+C#
+GPL v3
+
+
+
+MCServer
+Many
+Release 1.7 - 1.8
+C++
+Apache License 2.0
+
+
+
+Mineserver
+Fador, Nredor, Psoden, deoxxa, ...
+Release 1.5.2
+C++
+New BSD
+
+
+
+OpenMC
+Xinnx
+Beta 1.4
+C#
+GPL v3
+
+
+
+PocketMine-MP for Minecraft: PE
+PocketMine Team: shoghicp, sekjun9878, Brandon15811, Intyre, williamtdr
+Minecraft Pocket Edition 0.x.x
+PHP
+LGPL
+
+
+
+Spout
+(with Vanilla plugin)
+SpoutDev: Afforess, Wulfspider, alta189, raphfrk, Top_Cat, narrowtux, Olloth, Rycochet, RoyAwesome, zml2008
+Release 1.6.4
+Java
+SpoutDev v1
+
+
+
+功能[编辑 | 编辑源代码]
+
+
+名称
+编程语言
+IRC
+多世界
+物理
+实体
+生物群系
+红石电路
+活塞
+
+
+C#raft
+C# Java
+VisualBasic
+是
+即将到来
+是
+是
+是
+即将到来
+即将到来
+
+
+Chunky Monkey
+未知
+否
+即将到来
+即将到来
+部分
+否
+未知
+未知
+
+
+craftd
+很多
+即将到来
+否
+是
+即将到来
+否
+未知
+未知
+
+
+mc-erl
+否
+否
+否
+否
+否
+否
+未知
+未知
+
+
+hCraft
+否
+是
+是
+是
+部分
+是
+即将到来
+即将到来
+
+
+Glowstone
+Bukkit
+插件
+是
+即将到来
+部分
+否
+未知
+未知
+
+
+LibOpenCraft
+.NET
+即将到来
+即将到来
+即将到来
+是
+是
+即将到来
+即将到来
+
+
+LuaCraft
+Lua
+插件
+即将到来
+是
+是
+即将到来
+是
+即将到来
+
+
+MCServer
+Lua
+插件
+是
+部分
+部分
+是
+是
+是
+
+
+Mineserver
+很多
+多数使用 C++
+插件
+是
+是
+部分
+是
+未知
+未知
+
+
+OpenMC
+.NET
+否
+否
+否
+是
+否
+未知
+未知
+
+
+PocketMine-MP for Minecraft: PE
+PocketMine API
+插件
+是
+是
+正在建设 AI
+部分
+在 MCPE 中不可用
+在 MCPE 中不可用
+
+
+Spout (with Vanilla 插件)
+SpoutAPI
+插件
+是
+部分
+部分
+是
+是
+是
+
+
+Classic[编辑 | 编辑源代码]
+此列表列出所有基于Classic的定制服务器。 所有基於MCLawl的定制服务器在這個列表中。
+
+
+
+请注意这并不是 正式版服务器软件，这也意味着它们不支持正式版（只在Classic工作、已过期或不活跃）。
+
+
+
+基本資料[编辑 | 编辑源代码]
+
+
+名称
+基于
+开发者
+语言
+许可
+数据库
+平台
+
+
+800Craft
+fCraft
+Jonty800, GlennMR, LaoTszy
+C#
+GPLv3 / MIT
+Flatfile
+
+
+
+Arc
+Myne
+The Arc Team
+Python
+BSD 2-Clause modified
+Flatfile
+
+
+
+D3
+None
+Dadido3, Umby24
+Purebasic
+MIT
+SQlite
+
+
+
+fCraft
+None
+fragmer
+C#
+MIT
+Flatfile
+
+
+
+FemtoCraft
+None
+fragmer
+C#
+BSD 3-Clause
+Flatfile
+
+
+
+FourCraft
+FemtoCraft
+dalak
+C#
+MIT
+Flatfile
+
+
+
+GGS
+None
+hypereddie
+Java
+GPL v3
+SQLite/MySQL
+
+
+
+LegendCraft
+800Craft
+LeChosenOne, DingusBungus
+C#
+MIT
+Flatfile
+
+
+
+[MinedStone]
+Arc
+RasmusOlle
+Python
+None
+Flatfile
+
+
+
+GemsCraft
+LegendCraft
+apotter96
+C# and VB
+MIT
+Flatfile
+
+
+
+OpenClassic
+OpenCraft
+Steveice10
+Java
+MIT
+Flatfile
+
+
+
+PowerBlock
+None
+dreadiscool
+Java
+GPLv3
+Flatfile
+
+
+
+Overv CTF
+MCSharp
+HeroCane (Marvy)
+C#
+GPLv3
+Flatfile
+
+
+
+&gt;&gt;MCLawl Forks&lt;&lt;
+MCLawl
+Various
+C#
+Various
+Various
+
+
+
+功能[编辑 | 编辑源代码]
+
+
+名稱
+腳本
+图形操作界面
+IRC
+多世界
+自定義方块
+物理
+实体
+建築紀錄
+遙控操作
+支持 CPE
+
+
+800Craft
+.NET
+是
+是
+是
+是
+是
+是
+是
+在线
+n/a
+
+
+Arc
+Python, Lua （计划中）
+即将到来
+是
+是
+是
+是
+是
+是
+即将到来
+否
+
+
+D3
+Lua
+是
+是
+是
+是
+是
+是
+是
+否
+是
+
+
+fCraft
+二进制
+是
+是
+是
+否
+否
+否
+是
+否
+是
+
+
+FemtoCraft
+否
+否
+否
+否
+否
+是
+否
+否
+否
+是
+
+
+FourCraft
+否
+否
+即将到来
+否
+即将到来
+是
+否
+否
+否
+是
+
+
+GGS
+Java
+否
+插件
+是
+是
+是
+插件
+插件
+否
+否
+
+
+LegendCraft
+C# .NET
+是
+是
+是
+是
+是
+是
+是
+即将到来
+是
+
+
+MinedStone
+Python
+否
+是
+是
+是
+是
+是
+是
+即将到来
+即将到来
+
+
+GemsCraft
+C# .NET
+是
+是
+是
+是
+是
+是
+是
+即将到来
+是
+
+
+OpenClassic
+Java
+是
+否
+是
+是
+是
+是
+是
+否
+否
+
+
+PowerBlock
+JavaScript
+插件
+插件
+插件
+插件
+插件
+插件
+插件
+插件
+否
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=定制服务器&amp;oldid=72619”					
+				分类：MinecraftCustom server				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyar日本語NederlandsPortuguês do Brasil					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2015年4月12日 (星期日) 12:13。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

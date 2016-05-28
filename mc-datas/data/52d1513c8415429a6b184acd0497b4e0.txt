@@ -1,0 +1,724 @@
+
+
+
+
+版本记录/Pre-classic - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			版本记录/Pre-classic
+									
+									来自Minecraft Wiki
+								&lt; 版本记录
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+这不是官方的版本记录。如果需要官方的，请访问Mojang的官网主页。如果需要Beta 1.3之前的请翻阅Notch的博客——The Word of Notch。
+
+
+(?)标记表示这条记录是猜测而得的，不一定正确。
+开发阶段“Pre-classic”开始于2009年5月10日，结束于2009年5月16日。这是Minecraft开发的第一个阶段，紧接着就是Classic.
+版本[编辑 | 编辑源代码]
+
+
+版本(代号)
+日期
+说明
+
+
+Pre 0.0.9a (rd-161348)
+May 16, 2009
+
+
+修复了在特定角度观察世界会透视。
+加入树苗
+加入了水和岩浆的材质(还没加入游戏)到terrain.png
+
+
+
+
+Pre 0.0.9a (rd-160052)
+May 15, 2009
+
+
+简单的地形生成。
+支持不同种类的方块。
+方块微粒。(破坏方块时的一点特效)
+动态方块的支持。
+光照下泥土长草。
+按'G'生成人类。
+采集方块。
+添加了泥土，木板和石头。
+全屏。
+
+
+
+
+Pre 0.0.9a
+May 14, 2009
+
+
+重命名了"Cave Game"为"Minecraft: Order of the Stone"。
+
+过了一会改成了"Minecraft"。[1]
+
+
+
+
+
+
+Pre 0.0.9a (rd-132328)
+May 13, 2009
+
+
+人类。
+略微亮一点的草方块。
+
+
+
+
+Pre 0.0.9a (rd-132211)
+May 13, 2009
+
+
+放置和破坏方块。
+在启动器(1.2.1)中能找到最早的版本。
+
+
+
+
+Pre 0.0.0
+May 10, 2009
+
+
+名为“Cave Game”的开发计划开始
+物理引擎创建
+从RubyDung中移植出了拥有相同材质的圆石和草方块。
+“Cave Game”的测试视频在Youtube发布了。[2]
+
+
+
+
+参考[编辑 | 编辑源代码]
+
+↑ http://notch.tumblr.com/post/107676487/minecraft-order-of-the-stone
+↑ http://www.youtube.com/watch?v=F9t3FREAZ-k
+
+
+
+版本记录
+
+
+PC版
+
+
+
+版本记录
+
+
+Pre-classic
+Classic
+
+ 生存测试
+
+
+Indev
+ Infdev
+Alpha
+ Beta
+
+预发布版
+
+
+Minecraft 1.0
+
+预览版本
+
+
+
+
+
+
+
+未来展望
+提及特性
+
+天域
+Plugin API
+
+
+未使用的特性
+已移除的特性
+ 彩蛋
+
+
+
+
+携带版
+
+
+ Alpha
+未来展望
+提及特性
+已移除的特性
+未使用的特性
+独有特性
+预览版本
+
+
+
+
+主机版
+
+
+版本记录
+未来展望
+提及特性
+独有特性
+已移除的特性
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=版本记录/Pre-classic&amp;oldid=111735”					
+				分类：VersionMinecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañol日本語한국어NederlandsPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月14日 (星期四) 13:21。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

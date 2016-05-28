@@ -1,0 +1,559 @@
+
+
+
+
+Dungeon Keeper - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+			Dungeon Keeper
+									
+									From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				This article is about the original 1997 game. For the entire series, see Dungeon Keeper (series).
+
+
+Dungeon Keeper
+
+
+
+North American box art for Dungeon Keeper
+
+
+
+Developer(s)
+Bullfrog Productions
+
+
+Publisher(s)
+Electronic Arts
+
+
+Designer(s)
+Peter Molyneux
+
+
+Programmer(s)
+Jonty Barnes
+Dene Carter
+Alex Peters (programmer)
+
+
+Composer(s)
+Russell Shaw
+
+
+Series
+Dungeon Keeper
+
+
+Platform(s)
+DOS, Windows 95
+
+
+Release&#160;date(s)
+
+
+WW 26 June 1997[1]
+
+
+
+
+Genre(s)
+Real-time strategy, god game, dungeon management game
+
+
+Mode(s)
+Single-player, multiplayer
+
+
+Dungeon Keeper is a strategy video game developed by Bullfrog Productions and released by Electronic Arts in June 1997 for DOS and Windows 95. In Dungeon Keeper, the player builds and manages a dungeon, protecting it from invading 'hero' characters intent on stealing accumulated treasures, killing monsters, and ultimately the player's demise. The ultimate goal is to conquer the world by destroying the heroic forces and rival dungeon keepers in each realm. The Avatar from the Ultima series appears as the final hero. Dungeon Keeper uses Creative Technology's SoundFont technology to enhance its atmosphere. Multiplayer with up to four players is supported using a modem, or over a local network. Dungeon Keeper took over two years to develop, and an expansion pack, a Direct3D version, and a level editor were released. The game received critical acclaim, with reviewers praising the uniqueness and depth. A fan-made mod, KeeperFX, was released, which fixes bugs and adds features. Dungeon Keeper was followed by a sequel, Dungeon Keeper 2, in 1999.
+
+
+
+Contents
+
+
+1 Gameplay
+2 History
+
+2.1 Development and release
+2.2 Reception
+
+
+3 References
+4 Footnotes
+5 External links
+
+
+
+Gameplay[edit]
+
+
+
+
+A player navigating the built-up dungeon with the Hand of Evil
+
+
+The player uses a mouse, represented in-game as a hand, to interact with a bar on the screen, allowing them to select which rooms to build and spells to cast. The player can also use the hand to pick up creatures and objects in the dungeon and carry them around, allowing for tactics such as gathering an assault force and dropping off the creatures en masse once a foothold has been established. The hand also allows the player to 'slap' objects and thereby interact with them: creatures will hurry up when slapped, some traps will be triggered.[2](pp10–24,47,48)
+The player also has the ability to possess a creature, seeing the dungeon from its first-person perspective and using their attacks and abilities. This is one of the spells; others include speeding creatures up, and healing them.[2](pp63)[3](pp92,94)
+A world map is available, and at the beginning, the player is allocated one of the twenty regions of a fictional, idyllic country to destroy. As the player progresses through these regions, each of which represents a level, the areas previously conquered will appear ransacked, twisted, and evil.[4](p46) The goals for each level are fairly straightforward: they generally fall along the lines of eliminating the heroic force or destroying all other Dungeon Keepers on the level.[3](pp144–221) The first few levels are tutorials, teaching the player the basics.[4](p46)
+The Dungeon Heart represents the Dungeon Keeper's own link to the world. If it is destroyed, the player loses.[5] Along with the heart, the player begins with a small number of imps, the generic work force for all dungeon activities: they can dig tunnels into the surrounding soil, capture enemy rooms and Portals, mine gold and gems, set traps, and even attack when desperate or threatened. Imps are obtained by using the Create Imp spell.[2](pp17,23,24,53) Slapping creatures forces them to work faster temporarily, but removes some of their health and happiness.[2](p48) Gold is obtained primarily by digging Gold Seams, and Gem Seams provide an unlimited supply, though takes longer to accumulate. Gold is used to build rooms, cast spells, and train creatures.[2](p26,33)[3](p92)[4](pp22–24) To order the imps to dig a tile, the player must flag the tile.[2](p25)
+Once the Imps are working, the player must then set up a basic infrastructure: Lairs for monsters, a Hatchery (where chickens, which serve as food for the minions, are bred), and a Treasury. After connecting the dungeon to a 'Portal', monsters will arrive. As the game progresses, the player moves along a technology tree, unlocking further rooms and spells.[3](pp13,20,116,117) Rooms can only be built on tiles belonging to the player.[2](p25) The player is coloured red and the tiles are coloured accordingly. Other keepers have different colours, and the heroes are coloured white. Unaligned creatures and rooms are multicoloured.[2](pp10,25,66) The player can build traps and doors, created in the workshop. Traps include lightning and boulder traps, the latter instantly killing creatures it comes into contact with. As with rooms, they can only be built on tiles that belong to the player. Traps are not built instantly; Imps need to place them on the blueprint.[2](pp25,34,43,44)[3](pp129–133) The Temple is a special room where creatures are made happy, and the player can sacrifice creatures to the dark gods. The gods may reward or punish the player, or be indifferent depending on the sacrifice.[4](p24)[5]
+The dungeon has a fleshed-out ecology: certain creatures are natural enemies. For example, Flies and Spiders are often found at odds with one another, while a Horned Reaper, if gone berserk, will attack all creatures in its path. Other common behaviours when a creature is angry include vandalising the dungeon and deserting the player.[3](p37) The creatures are varied in their statistics; some excel at certain tasks, and others refuse to perform certain tasks. Which creatures enter the dungeon depends on which rooms the player has and how large they are; many creatures have prerequisites for entering service.[3](pp43–75) Creature require paying regularly, and when 'Payday' comes, will head for the Treasure room to collect their wages.[2](p12) Other ways to obtain creatures include imprisoning and torturing them, 'scavenging' (persuaded to defect to the player) from enemy keepers, and performing certain sacrifices at the Temple (for example, Horned Reapers are obtained by performing a certain sacrifice).[3](pp119–124)[5] All creatures entering via the Portal are at the lowest experience level, and must gain experience, usually through combat or training in the training room. Training creatures increases their attributes (such as hit points) and abilities (such as which weapons or spells they can use). Such spells include lightning bolts, rebounding projectiles, and increasing armour.[2](p33,58)[3](p95)
+Creatures will frequently enter combat with heroes or creatures belonging to another keeper. Each creature has a star above it of the colour of the keeper they belong to, with their experience level at the centre. The star is a health meter; as a creature takes damage, the spikes turn black.[2](pp65,66)
+Special items are hidden throughout certain levels, Such items perform actions such as increasing the player's creatures' experience level, or revealing the map. They can also reveal a hidden level, where the player must perform a specific task, and is rewarded upon completion.[3](pp138,139,222–232)
+Heroes will appear at various points and times, sometimes accompanied by a tunneller dwarf, who, like imps, are able to dig.[2](pp29,66) Having the Imps fortify the walls will stop tunnellers and enemy keepers breaching the player's dungeon.[2](p25) Usually, after enough heroes are defeated, the 'Lord of the Land', often accompanied by a large army, will appear to destroy the player and other keepers.[4](p43) This is usually the final battle of the level, or the final wave of heroes if the level requires the player to defeat enemy keepers in addition to the heroes. In the final level, the Avatar appears as the Lord of the Land, and is resurrected after being defeated. He must be defeated again when he reappears with a large army. Defeating him a second time wins the level and the game.[3](pp140–221)
+The game uses SoundFonts to provide additional ambient sound effects. A Sound Blaster AWE32 or AWE64 card is required to use this feature.[6] The player can load a SoundFont bank and use it for ambient sound effects. Customised SoundFont banks can be created to personalise the dungeon.[7] The game features three SoundFont banks, one of which is loaded at game startup,[7] and Creative offered sample Dungeon Keeper SoundFonts for download.[8]
+Multiplayer with up to four players is supported via a modem or over a local area network (LAN).[4](p94)[9](p261) The game features twenty multiplayer levels,[3](pp234–249) which are playable in single-player mode.[4](p94)
+History[edit]
+Development and release[edit]
+Dungeon Keeper was developed by Bullfrog Productions under Peter Molyneux, who wrote the game design, testbed, and the computer players and assistant.[3](p252) Development began in November 1994 by the lead programmer, Simon Carter, and took two and a half years to develop. Development on the level editor began in May 1995. The first-person view was developed in September 1995, and the creatures had shadows added, which was believed impossible at the time.[3](p264) In November 1995, Barrie Parker began writing levels, and developed content for the script language.[3](p259) Bullfrog tried to get a version out for Christmas 1995, and it was then the development team realised the game should focus on a living world created by the player. In February 1996, Peter Molyneux decided to focus on the project full-time. In July 1996, Alex Peters joined the project and ported the game to Windows 95. Dungeon Keeper was shown at the European Computer Trade Show in September 1996. The final testing began in April 1997, and was signed off in June that year.[3](p264) The game was released by Electronic Arts in June 1997. Simon Carter wrote and organised 800,000 lines of code.[3](p254) This was Molyneux's final project with Bullfrog before he left in August 1997 to form Lionhead Studios.[3](p253) Richard Ridings provided many of the game's voice-overs.[2](p75)[10]
+An expansion pack, The Deeper Dungeons was released on 30 November 1997.[11] It features fifteen new levels and an improved artificial intelligence for the enemies.[12](p2) The Avatar also reappears in the final level.[4](p120) A Direct3D version, which brought improved graphics and 3D acceleration support, and a level editor were released for the game. These add-ons, along with the Deeper Dungeons and a Dungeon Keeper-based desktop theme, were bundled with the game, which was re-released as Dungeon Keeper Gold Edition on 31 December 1998.[13][14](pp2,3)[15] Dungeon Keeper received a fan-made mod, called KeeperFX. This mod increases compatibility with later versions of Windows, fixes bugs, and adds features such as TCP/IP multiplayer support.[16][17]
+Dungeon Keeper was released in Japan as Dungeon Keeper Premium,[a] under the EA Best Selection brand.[18]
+Dungeon Keeper was re-released into digital distribution on gog.com on June 2011.[19] The game was available there free of charge for a few days in February 2014.[20]
+Reception[edit]
+
+
+Reception
+
+
+
+
+
+Review scores
+
+
+Publication
+Score
+
+
+CGW
+[9](p261)
+
+
+GameSpot
+9/10[21]
+
+
+Game Revolution
+A[22]
+
+
+Gamezilla
+93/100[23]
+
+
+PC Gamer (UK)
+95/100[24](p73)
+
+
+PC Format
+94/100[15]
+
+
+PC Zone
+96/100[15]
+8/10[25]
+
+
+
+
+
+
+
+
+Award
+
+
+Publication
+Award
+
+
+PC Format
+Gold Award[15]
+
+
+
+
+
+Dungeon Keeper received critical acclaim. The gameplay and uniqueness were its most heavily complimented aspects. Computer Gaming World praised the multiplayer mode, saying 'Multi-human play with a game as deep and complex as Dungeon Keeper promises to be extraordinarily rich and subtle'. It was concluded that it was 'The most unique game in years; stylish, multifaceted, and as deep as the pits of hell'.[9](p261) Game Revolution complimented the 'terrific" graphics and the 'nearly as impressive' sound, and concluded that 'Dungeon Keeper is a revolutionary, terrific game'.[22] Gamezilla called the game a 'classic' and concluded, 'Any real-time gamer with a yearning for the dungeon life and the nerve to slaughter an army of Monks, Fairies and Lords will be pleasantly surprised with Dungeon Keeper'.[23]PC Gamer UK praised Bullfrog's 'amazing attention to detail' in the game, and concluded with 'A stunning achievement. Amazing depth, incredible balance and Broadway drama to get here'.[24](p73) PC Format praised the game, saying 'Dungeon Keeper is nothing short of brilliant', and the game was awarded their Gold Award.[15] PC Zone remarked 'Dungeon Keeper is a game of continual discovery and hitherto, unprecedented depth. Technically stunning, visually storming, and hopelessly addictive.'[15] In a later review, they called the game 'classic', but criticised its 'repetitive' gameplay.[25] GameSpot remarked 'It's a rich strategy game that is both intuitive and challenging, both innovative and polished', and also said the game was 'among the best games released so far this year'.[21]
+Dungeon Keeper was a finalist in the Software Publishers Association's 13th Annual Excellence in Software Awards Best of 1997 Codie awards for Best Strategy Software Game.[26]
+References[edit]
+
+
+^ "Dungeon Keeper on PC". GameSpot.com. Archived from the original on 22 January 2009. Retrieved 14 February 2008.&#160;
+^ a b c d e f g h i j k l m n o Dungeon Keeper manual. Bullfrog. 1997.&#160;
+^ a b c d e f g h i j k l m n o p q r Melissa Tyler; Shin Kanaoya. Bullfrog's Official Guide to Dungeon Keeper. ISBN&#160;978-0-761-507-147.&#160;
+^ a b c d e f g h ダンジョンキーパープレミアム勇者撃退ガイド Danjon Kīpā Puremiamu Yūsha Gekitai Gaido [Dungeon Keeper Premium Hero Repel Guide] (in Japanese). NTT Publishing. 1998. ISBN&#160;978-4-871-888-974.&#160;
+^ a b c Meer, Alec (7 August 2010). "Why Dungeon Keeper has never been beaten". PC Gamer. Retrieved 16 May 2016.&#160;
+^ "Dungeon Keeper Soundfont Technology In Action". Creative Tachnology. Archived from the original on 9 October 1997. Retrieved 13 May 2016.&#160;
+^ a b "How to Create a Dungeon Keeper Soundfont Bank". Creative Technology. Archived from the original on 9 October 1997. Retrieved 13 May 2016.&#160;
+^ "Dungeon Keeper Download a Soundfont Bank". Creative Technology. Archived from the original on 9 October 1997. Retrieved 13 May 2016.&#160;
+^ a b c Lombardi, Chris (October 1997). "Dungeon Keeper: it Brings Bad Things to Life" (PDF). Computer Gaming World (159). ISSN&#160;0744-6667. Retrieved 13 May 2016.&#160;
+^ Dungeon Keeper Interview: Richard Ridings. EA Mobile Games. 5 February 2014. Retrieved 16 May 2015 – via Youtube.&#160;
+^ "Dungeon Keeper: The Deeper Dungeons on PC". GameSpot.com. Archived from the original on 10 October 2007. Retrieved 14 February 2008.&#160;
+^ The Deeper Dungeons manual. Bullfrog. 1997.&#160;
+^ IGNs Data Page Retrieved 27 December 2008
+^ Dungeon Keeper Gold Reference Card. Bullfrog.&#160;
+^ a b c d e f "Dungeon Keeper". Bullfrog. Archived from the original on 7 December 1998. Retrieved 13 May 2016.&#160;
+^ Meer, Alec (28 September 2010). "A Deeper Dungeon: Dungeon KeeperFX". Rock Paper Shotgun. Retrieved 16 May 2016.&#160;
+^ "KeeperFX Readme file". DK Maps'n'Tools Base. Retrieved 16 May 2016.&#160;
+^ "Dungeon Keeper". Electronic Arts Japan (in Japanese). Archived from the original on 20 June 2000. Retrieved 13 May 2016.&#160;
+^ Walker, John (3 June 2011). "Good Old Games Add Good Old EA Games". Rock, Paper, Shotgun. Retrieved 19 December 2015.&#160;
+^ Grayson, Nathan (15 February 2014). "Apologies With A Capital EA: Dungeon Keeper Free On GOG". Rock Paper Shotgun. Retrieved 14 May 2016.&#160;
+^ a b Ward, Trent (7 September 1997). "Dungeon Keeper Review for PC". GameSpot. Archived from the original on 6 December 2003. Retrieved 16 May 2016.&#160;
+^ a b "Dungeon Keeper review". Game Revolution. 7 May 1997. Retrieved 13 May 2016.&#160;
+^ a b McDonald, Chris. "Dungeon Keeper by Bullfrog". Gamezilla. Archived from the original on 8 February 2002. Retrieved 13 May 2016.&#160;
+^ a b Flynn, James (June 1997). "Dungeon Keeper". PC Gamer UK (Future Publishing) (44). ISSN&#160;1470-1693.&#160;
+^ a b "PC Review: Dungeon Keeper". Computer and Video Games. 13 August 2001. Archived from the original on 14 July 2007. Retrieved 15 May 2016.&#160;
+^ "Software Industry Unites in Celebration for 1998 Codie Awards". SuperKids. Software Publishers Association. 23 March 1998. Retrieved 17 May 2016.&#160;
+
+
+Footnotes[edit]
+
+
+^ Dungeon Keeper Premium (ダンジョンキーパープレミアム?)
+
+
+External links[edit]
+
+Dungeon Keeper at MobyGames
+Dungeon Keeper at DMOZ
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Bullfrog Productions
+
+
+
+
+
+
+Populous series
+
+
+
+Populous
+Populous II
+Populous: The Beginning
+
+
+
+
+
+
+
+
+Syndicate series
+
+
+
+Syndicate
+
+American Revolt
+
+
+Syndicate Wars
+
+
+
+
+
+
+
+
+Magic Carpet series
+
+
+
+Magic Carpet
+Magic Carpet 2
+
+
+
+
+
+
+
+
+Theme series
+
+
+
+Theme Park
+Theme Hospital
+Theme Aquarium
+Theme Park World
+Theme Park Inc
+
+
+
+
+
+
+
+
+Dungeon Keeper series
+
+
+
+Dungeon Keeper
+Dungeon Keeper 2
+Dungeon Keeper 3 (cancelled)
+
+
+
+
+
+
+
+
+Other games
+
+
+
+Fusion
+Powermonger
+Flood
+Hi-Octane
+Genewars
+
+
+
+
+
+
+
+
+See also
+
+
+
+Peter Molyneux
+Mucky Foot Productions
+Lionhead Studios
+22Cans
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4477412-6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video games portal
+1990s portal
+United Kingdom portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dungeon_Keeper&amp;oldid=722300154"					
+				Categories: 1997 video gamesBullfrog Productions gamesDOS gamesElectronic Arts gamesGod gamesInteractive Achievement Award winnersReal-time strategy video gamesVideo games developed in the United KingdomVideo games with expansion packsDungeon Management gamesMultiplayer and single-player video gamesGames commercially released with DOSBoxHidden categories: CS1 Japanese-language sources (ja)Articles containing Japanese-language textUse dmy dates from February 2014Use British English from May 2016Articles using Video game reviews template in single platform modeArticles with DMOZ linksWikipedia articles with GND identifiers				
+							
+		
+		
+			Navigation menu
+
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+															Article
+															Talk
+													
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						Views
+						
+															Read
+															Edit
+															View history
+													
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+
+			
+									
+						Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store					
+							
+		
+			
+			Interaction
+
+			
+									
+						HelpAbout WikipediaCommunity portalRecent changesContact page					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page					
+							
+		
+			
+			Print/export
+
+			
+									
+						Create a bookDownload as PDFPrintable version					
+							
+		
+			
+			Languages
+
+			
+									
+						DeutschEspañolFrançaisItalianoעברית日本語Norsk bokmålPolskiPortuguêsРусскийSuomiSvenska					
+				Edit links			
+		
+				
+		
+		
+							
+											 This page was last modified on 27 May 2016, at 05:59.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Cookie statement
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+

@@ -1,0 +1,2017 @@
+
+
+
+
+Windows 10 - 维基百科，自由的百科全书
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+
+			Windows 10
+									
+									维基百科，自由的百科全书
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+「Windows 9」重定向至此。關於發布於20世紀90年代中後期，以Windows 95内核作為藍本的微軟操作系統的通稱，詳見「Windows 9x」。
+
+
+本文介紹的是Windows 10桌面版本（屏幕尺寸大于8寸的设备）。關於Windows 10移动设备版本，請參見「Windows 10 移动版」。
+
+
+Windows 10
+
+Windows NT操作系统的一个版本
+
+
+
+
+
+
+台灣版Windows 10之螢幕截圖，圖為桌面及開始功能表
+
+
+
+开发者
+微軟
+
+
+正式发售日期
+2015年7月29日，​9個月前​（2015-07-29）
+
+
+最新版本
+10.0.10586.318[1][2]
+（2016年5月10日，​18天前​（2016-05-10））
+
+
+最新測試版本
+10.0.14352[3]
+（2016年5月26日，​2天前​（2016-05-26））
+
+
+更新方式
+Windows Update、Windows Store、Windows Server Update Services
+
+
+支援平台
+IA-32、x64、ARMv7
+
+
+内核类别
+混合（Windows NT 10.0）
+
+
+许可证
+試用軟體[4]、Microsoft Software Assurance、MSDN subscription、DreamSpark
+
+
+前一代
+Windows 8.1
+
+
+官方網站
+微軟（中国）
+微軟（臺灣）
+微軟（香港）
+
+
+支援状态
+
+
+
+主流支援（2020年10月13日到期）
+延伸支援（2025年10月14日到期）
+[註 1][5]
+
+
+有关这系列的条目
+
+
+
+
+新增的功能
+移除的功能
+版本列表
+評價
+開發歷史
+
+
+
+
+
+
+
+此條目是
+Windows 10
+系列的一部分
+
+
+
+
+预览体验计划
+移动版
+伺服器
+添加的功能
+移除的功能
+版本
+開發歷史
+使用裝置：
+個人電腦
+Microsoft Surface
+Microsoft Lumia
+Microsoft HoloLens
+Xbox One
+
+
+
+
+
+本模板：
+
+查看
+讨论
+编辑
+
+
+
+
+
+Windows 10是一個由微軟開發的作業系統，是Windows家族的成員，為Windows 8.1和Windows Phone 8.1的後繼者，開發代號為Threshold和Redstone（包含TH1和TH2、RS1和RS2），正式版已於2015年7月29日登場並開放符合條件的使用者免費升級。
+Windows 10的設計目標是統一包括個人電腦、平板電腦、智慧型手機、嵌入式系統、Xbox One及Surface和Microsoft HoloLens等等，整個Windows產品系列的作業系統。它們共享一個通用的應用程式架構和Windows Store的生態系統。
+
+
+
+目录
+
+
+1 开发历史
+
+1.1 个人电脑
+
+1.1.1 技术预览版
+1.1.2 公开洩漏版
+1.1.3 Insider Preview
+1.1.4 Threshold
+1.1.5 Redstone
+
+
+1.2 移动设备
+
+1.2.1 预览版
+1.2.2 正式版
+
+
+1.3 遊戲機
+1.4 擴增實境
+1.5 伺服器
+
+
+2 发布模式
+
+2.1 预览版
+2.2 正式版
+
+
+3 特色
+
+3.1 快速鍵
+
+
+4 裝置与平台统一
+
+4.1 Windows 10 Mobile
+
+
+5 安全性疑慮
+6 版本
+
+6.1 微软中文产品
+
+6.1.1 简体中文版中的著名筆誤
+
+
+
+
+7 硬體需求
+8 升级和支持
+
+8.1 暫停更新的套件
+
+
+9 對DDE的支援
+10 最後一版Windows
+11 註釋
+12 参考文献
+13 外部链接
+14 參見
+
+
+
+开发历史[编辑]
+参见：Windows 測試人員計畫
+Windows 10在測試階段發布個人電腦版的技术预览版、会员预览版（Insider Preview）和手機版的Mobile 移动预览版。
+个人电脑[编辑]
+2014年7月21日，外媒網站Neowin以及Myce網站洩露出Build 9795。其中包括了當時稱為Windows 9的Windows 10系統中的新的開始菜單以及窗口化Modern應用。[6][7][8]
+2014年9月13日，德國網站Computer Base和WinFuture洩露出Build 9834。包括了虛擬桌面界面、改變的任務欄、未完成的通知中心、Charm菜單替代、Metro化的部分圖標，以及傳統桌面視窗無邊框化。[9][10]
+2014年9月20日，微軟發布第一個Windows 10的技術預覽版Build 9841。[11]
+技术预览版[编辑]
+2014年9月30日，微软在美国舊金山发布会中亮相新一代Windows操作系统，并声称正式版将于2015年6月18日发行。随后10月1日便为注册Windows Insider会员计划的用户放出第一个技术预览版Build 9841，并提供镜像下载。此版本支持5种语言，开始菜单回归，加入任务视图，主要为滑鼠用户优化。
+10月21日，Build 9860通过Windows 更新推送给Windows Insider会员用户，没有官方镜像提供下载，此版本主要加入获取预览版频率快慢的设置和初始版的通知中心。
+11月13日，Build 9879通过Windows 更新推送给快速版Windows Insider会员用户，并提供镜像下载，但多数用户安装此版本后出现硬盘丢失等比较严重的问题。11月25日，重新修复的Build 9879推送给慢速版Windows Insider会员用户，此版本对Build 9860做了一些优化和界面调整，是2014年最后一个公开技术预览版。[12]
+2015年1月21日，微軟在召开"Windows 10, The Next Chapter"的主题发布会上演示了Build 9924。1月24日，Build 9926通过Windows 更新向所有Windows Insider用户推送，同时提供镜像下载，新的Build 9926包含正體中文的25種新語言介面，同時新增平板模式，Cortana語音助理（仅美国英语时可用）等新特性。[13]
+2015年3月19日，Build 10041通过Windows 更新推送给快速版Windows Insider会员用户，此版本添加了中文Cortana语音助理，恢复透明的任务栏和开始菜单等新特性。3月25日，Build 10041推送给慢速版用户，慢速版加入了3个补丁，修复了一些问题，并提供镜像下载。
+2015年3月31日，Build 10049通过Windows 更新推送给快速版Windows Insider会员用户，此版本终于添加了翘首以盼的Project Spartan，但该版本没有官方镜像下载。
+2015年4月23日，Build 10061通过Windows 更新推送给快速版Windows Insider会员用户，主要增加了全新的郵件和日曆通用應用，採用全新的暗黑風格主题，平板模式升级，取消創建多个虛擬桌面數量限制，回收站以及任务預覽模式圖標更新等，该版本同样没有官方镜像下载。
+公开洩漏版[编辑]
+2014年7月21日，Build 9795洩漏，该版本是最早被洩漏截图的一个版本，發現類似Windows 7樣式以及動態磚結合的开始菜单以及Modern視窗化應用。
+2014年9月8日，Build 9834洩漏，内置Remind Me应用，也包括隐藏的MtcUvc应用等，开始菜单内发现Spartan程序但只有快捷方式。
+2014年12月，有两个非微软官方推送的洩漏版本，即Build 9888和Build 9901。其中Build 9888标志着Windows 10的内核将由NT 6.4变为NT 10.0（但其实Build 9884才是第一个内核为NT 10.0的Windows 10），而Build 9901加入了原始的Cortana语音助理（仅限美国英语版）。
+2015年4月5日，Build 10051洩漏，为官方版Build 10049添加了一些新功能，还包括全新"邮件"与"日历"应用以及贯穿于整个系统中细微改进。
+4月11日，Build 10056洩漏，此版本将“个性化”整合到新版设置当中，优化平板模式，正式启用新版任务栏日历窗口等新特性。
+Insider Preview[编辑]
+Insider Preview更加接近RTM。Insider Preview是一個頻道，在Windows 10 RTM發布後，仍會發布新組建以測試新功能和新介面。
+2015年4月29日，在微软Build 2015开发者大会结束后不久，Build 10074通过Windows 更新推送给所有Windows Insider会员用户，同时提供镜像下载。 为感谢370万Windows Insider会员用户对Windows 10的不断改进反馈，Build 10074由Technical Preview（技术预览版）改为Insider Preview（會員预览版）。
+Threshold[编辑]
+2015年7月15日發佈Threshold 1的RTM前最後一個預覽版Build 10240，這也是在7月29號對全球公開發布的RTM版。[14]
+2015年11月12日發佈Threshold 2(簡稱TH2)電腦版重大更新[15][16]，Windows 7/8.1的使用者可直接升級至此版本，至於在7月29日發布的Windows 10如果是從舊版本升級安裝，則需要等到安裝時間超過31天才能進行。[17]
+Redstone[编辑]
+在Threshold 2正式版發布之後，Windows Insider用戶已進入rs1_release通道，開發代號Redstone，而代號Redstone名稱來自Minecraft的紅石[18]，Redstone更新即將分別在2016年7月29日以及2017年的春季發布2次更新。[19][20]而Redstone 3預定在2017年下半年發布。[21]RS1的主要任務是將PC、Xbox One、手機等不同設備上的Windows 10真正統一起來，包括完善通用應用平臺、提供Xbox應用商店、支援Xbox/PC跨平臺遊戲、Continuum模式（可通過產品發訊息和打電話），以及各種媒體功能。而RS2會繼續完善RS1裡未完成的更新內容，並且還會繼續從各種細節上強化Windows 10，包括使用者介面、新功能，比如說開始功能表和設置應用的更新，動作中心和通知中心的增強，控制台的持續削弱等等。TH2系統版本號是1511，而最新曝光的RS1的系統版本號很可能會在1607。根據曝光的資訊來看，RS1的正式版可能會於2016年夏天發佈，而RS2則會在2016年年末或者是2017年的年初發佈。[22]
+移动设备[编辑]
+微软将Windows 10系統的移动设备版本命名为Windows 10 Mobile。
+预览版[编辑]
+相對於电脑版频繁的推送速度而言，适用于移动设备（以手机為主）的Windows 10推送则相对缓慢和谨慎，需要在手机上安装Windows Insider的應用程式且进行正确设定才可以收到推送。
+正式版[编辑]
+微軟官方宣布，手機正式版RTM於2015年11月12日發布，更新為2016年1月開始陸續發布。自從2015年6月以來，微軟一再延宕手機版的更新發佈時間。[23][24][25]
+遊戲機[编辑]
+Xbox One版本的Windows 10預覽版和正式版於2015年11月12日登場。[26]
+擴增實境[编辑]
+主条目：Microsoft HoloLens
+HoloLens搭載Windows Holographic計算平台，是一個和Windows 10系統搭配的智能眼鏡產品，將於2016年上市。[27]
+伺服器[编辑]
+主条目：Windows Server 2016
+Windows Server 2016是Windows 10的伺服器版本，將於2016年上市。
+发布模式[编辑]
+预览版[编辑]
+2014年10月1日，微软开发布会宣布新一代操作系统Windows 10，次日微软提供Windows 10技术预览版下载。系统命名不是盛传已久的Windows TH、Windows X、Windows One，甚至不是Windows 9。在开发阶段曾泄露出新一代Windows内部代号为Windows Threshold。至於為何跳過9而是10，原因眾說紛紜：官方說法是因為Windows 10進步幅度大，因此改用10；但有媒體認為，跳過9是為了避開部分程式語言將「Windows 9」誤判為「Windows 95」或「Windows 98」而產生的錯誤。[28]
+
+
+
+
+Windows 10开始功能表
+
+
+微软旨在服务客户，称Windows 10为「有史以来最全面的操作系统（most comprehensive platform ever）」及「至今最好的Windows（The best Windows ever）」。Windows 10恢复了类似Windows Vista、Windows 7的传统开始按钮，但是在细节上糅合Windows 8和Windows 8.1的微软“Modern瓷砖”设计。Windows 10作为微软下一代系统的统一品牌名称，将覆盖所有尺寸和品类的Windows设备，可无缝运行于微型计算机（类似英特尔伽利略）、手机（ARM芯片）、平板（ARM和x86芯片）、二合一设备、桌面电脑及服务器等几乎所有硬件。Windows 10贯彻了“移动为先，雲为先”（mobile first, cloud first）的设计思路，三屏一云，多个平台共用一个应用商店，应用统一更新和购买，是跨平台最广的操作系统。
+正式版[编辑]
+2014年4月，微軟作業系統事業群執行副總裁Terry Myerson在Build開發者大會的演講上宣佈，將針對8寸（包括8寸）螢幕以下的裝置（包括手機及小型平板，以及物聯網裝置），提供免費的Windows作業系統。[29]
+2015年1月21日，微軟宣佈，Windows 7 SP1、Windows 8.1與Windows Phone 8.1的用戶可在第一年內免費升級至Windows 10。[30]但是，10天後，就立刻修正為使用企業版Windows的用戶還是得另外付費才能升級。[31]針對Raspberry Pi 2的研發者，微軟將免費提供Windows 10。[32]
+中國大陸的Windows用戶可以透過奇虎360和騰訊下载Windows 10升级[30]；至於盜版及錯誤授權的Windows，雖然也可免費升級，但不會因此而變成正版和享有技術支援。[33]
+2015年6月1日，微軟正式宣布於7月29日推出Windows 10[34]，並隨Windows Update提醒符合升級條件的用戶如何預約取得Windows 10。完成預約升級的用戶，會在「取得Windows 10」應用程式與Windows Update看到相關通知。
+自2015年7月29日起，分批陸續發行正式版更新。首日即有1400萬裝置更新成功。[35] 截至2015年8月27日，已有7500萬次下載。[36] 截至2015年10月9日，已有1.1億次下載。[37]
+與先前的Windows一樣，微軟仍提供實體盒裝版本在市面上販售，但因近幾年越來越多電腦沒有配備光碟機，實體盒裝版本不再提供安裝光碟，僅提供支援USB 3.0可開機安裝的USB隨身碟。
+特色[编辑]
+[38]Windows 10采用全新的開始功能表，微软動態磚界面仍存續，并且可以根据用户的偏好快速切換。
+Windows 10大幅修改了系統的用戶介面，當中包括加入由Windows 7及Windows 8.1改良的混合「開始」功能表，以取代Windows 8.1的「開始」畫面。新功能表融合了Windows 8「動態磚」、虛擬桌面設計以及通知中心側欄（取代舊版本的charms bar）。Windows 10提供更多微軟服務整合，例如個人助理Microsoft Cortana及Xbox Live，提供了新的瀏覽器Microsoft Edge、Windows Hello（僅適用於部分裝置）以及新版Direct X及WDDM來改善遊戲圖形方面的性能[39]。
+
+开始功能表和通知中心：熟悉的桌面开始菜单在Windows 10正式归位，它融合了Metro风格的界面，传统与现代两者结合在一起。開始功能表可自由切换全螢幕或一般大小。由螢幕右下角觸發的通知中心，可快速調整設定和一覽通知。
+
+
+虚拟桌面和工作檢視：微软从OS X和Linux等，借鉴“Multiple desktops”功能。该功能可让用户在同个系统下使用複數个桌面，用户可以根据自己的需要，在不同桌面环境间进行切换。微软Windows在该功能上加入在「工作檢視」模式，並增加程式排列，程式会以某种推荐的排版显示在桌面环境中，点击右下侧的加号即可添加一个新的虚拟桌面。
+
+
+視窗化程式：現代化应用程式现在以一般桌面程序的方式，視窗化地运行：可以随意拖曳、調整大小，也可以最小化、最大化、全螢幕以及关闭程式。Windows 10的螢幕切割功能增强，现在可在屏幕中同时平均設置四个視窗，Windows 10还会在单独窗口内显示正在运行的其他应用程序。微软在Windows 10侧边新加入一个“Snap Assist”按钮，通过它可以将多个不同桌面的应用程式展示在此，并和其他程式自由组合成多任务模式。
+
+
+多工管理界面：界面类似苹果OS X系统，任务栏中出现一个全新的按键“任务查看（Task View）”。桌面模式下可以运行多个应用和对话框，并且可以在不同桌面间自由切换。这个功能类似苹果OS X的Exposé，能将所有已开启窗口缩放并排列，以方便用户迅速找到目标任务。通过点击该按钮可以迅速的预览多个桌面中打开的所有应用，点击其中一个可以快速跳转到该页面。传统应用和桌面化的Metro应用在多任务中可以更紧密的结合在一起。
+
+
+CMD：Windows 10在指令提示符（Command Prompt）中增加了对粘贴键（Ctrl+V）的支持。
+
+
+
+
+
+
+上圖為Windows 10的任务栏，图中由左而右分别为Cortana、工作檢視、Microsoft Edge、文件资源管理器和Windows Store。
+
+
+
+Continuum：對於變形平板等觸控裝置，或是不想使用鍵盤與滑鼠時，平板電腦模式可讓 Windows 的使用更為容易且更加直覺。即使是無觸控的電腦，也會有此模式，此模式會改變工具列、開始功能表、通知中心的細節，並有單獨視窗排列。
+
+
+Windows Hello：Windows Hello 是一個更個人化的 Windows 10 裝置登入方式，只要看一下或觸碰一下即可登入，不需要輸入任何密碼。大部分具有指紋辨識器的電腦現在都已經可以使用 Windows Hello，而且也即將出現更多能夠辨識臉部與虹膜的裝置。
+
+
+Windows Store：Windows Store市集是可一次購足音樂、影片、遊戲與應用程式的集中式商店。可於購買之前先試用應用程式，或挑選免費的應用程式。 Windows 10 應用程式可在所有的 Windows 10 裝置上運作。
+
+
+Microsoft Edge：Microsoft Edge是第一個可直接在網頁上製作筆記、書寫、隨手塗鴉，以及醒目提示的瀏覽器。使用閱讀清單圖示儲存最愛的文章以供稍後閱讀，然後再閱讀檢視它們。能輸入的地方就能寫，Microsoft Edge 不是可以在其中書寫的唯一 app。 使用平板電腦手寫筆、手指、或滑鼠，可以輸入的地方都能書寫，或只是在 OneNote 中塗鴨。
+
+
+相片：全都集中在一處。相片app可從手機、電腦和OneDrive將所有的相片和影片收集於一處，然後它會將回憶整理成相簿。
+
+
+相容性：Windows 10重視不同裝置之间的协调，尤其是在运行Windows版本的电脑和智慧型手机设备。Windows 10 電腦的Windows Runtime应用程式可以移植到Windows 10 Mobile，并分享代码库。Windows 10 Mobile與个人电脑版本分享同樣的用户界面元素。[40][41]
+
+
+Windows Ink:具有多重書寫工具等功能。
+
+
+Microsoft Cortana:語音助理，可查詢資料或建立行事曆等。
+
+快速鍵[编辑]
+
+
+Windows 按鈕+此按鍵
+用途
+
+
+Ctrl|F4
+關閉新桌面
+
+
+Ctrl|Left and Win|Ctrl|Right
+在桌面間移動
+
+
+Ctrl|D
+創造新桌面
+
+
+Tab
+看到全部的桌面和應用程式
+
+
+Q
+開啟Cortana
+
+
+S
+開啟 Cortana
+
+
+A
+開啟行動中心
+
+
+X
+開啟開始功能表
+
+
+I
+開啟設定
+
+
+G
+開啟遊戲工作列
+
+
+裝置与平台统一[编辑]
+Windows 10恢复原有的開始功能表，并将Windows 8系统中的“开始界面”整合至其中。現代化應用程式则在桌面以視窗化模式运行。[42]
+Windows 10将为所有硬體提供一个统一的平台。Windows 10将支持广泛的设备类型，从物联网设备到全球企业数据中心服务器。其中一些设备屏幕只有4英寸，一些设备的屏幕则有80英寸，有些甚至没有屏幕。有些设备是手持类型，有的则需要远程操控。这些设备的操作方法各不相同，手触控、笔触控、鼠标键盘，以及动作控制器，微软都将全部支持。这些设备将会拥有类似的功能，微软正在从小功能到云端整体构建这一统一平台，跨平台共享的通用技术也在开发中。
+Windows 10覆盖所有尺寸和品类的Windows设备，所有设备将共享一个应用商店。因为启用了Windows Runtime，用户可以跨平台的在Windows设备（手机、平板电脑、个人电脑以及Xbox等）上运行同一个应用。[43][42]
+Windows 10 Mobile[编辑]
+主条目：Windows 10 Mobile
+参见：Microsoft Lumia 950 # 作業系統
+Windows 10 Mobile，中文译為Windows 10移动版，是Windows 10作業系統的分支版本。此版本是专为屏幕尺寸低于8寸的智能手机和平板电脑运行。它採用ARM架构和IA-32处理器架构。該版本為移动设备提供了强大的功能。其中包括：同步處理功能、通用应用&#160;（英文：Universal Apps）、从Android和iOS的平台移植的应用、将裝置连接至外部显示器、可使用类似PC的滑鼠和键盘输入。Windows Phone 8.1智能手机将可升级Windows 10 Mobile，[44]但一些功能取决于硬體設備的兼容性。[45][46]微软已经保证未来将添加更多非Lumia机型的支持。 [47]Windows 10 Mobile目前微軟表示正式版大概在12月陸續發布。[48][49]
+Windows 10重視不同设备之间的同步，尤其是在设备运行Windows版本的电脑和智慧型手机。Windows 10電腦的Windows Runtime应用程式可以移植到Windows 10 Mobile，并分享共同的代码库。Windows 10 Mobile與个人电脑版本分享同樣的用户界面元素，但与桌面版本不同的是，不会有多用户登录功能。[40][50]
+Windows 10 Mobile的手機若接到Windows 10電腦（甚至是無主機的螢幕），則會可以在開始功能表或全螢幕顯示整合化的手機畫面。
+安全性疑慮[编辑]
+不少國外3C部落客都警告，Windows 10作業系統的隱私設定預設值，對於使用者的隱私相當具侵略性，且變更設定的步驟過於繁複，不易操作。 BGR News的記者就表示，在所有Windows 10的功能預設值中，會入侵使用者隱私的設定都被預設成同意，「只要登入Microsoft電子郵件，微軟就能讀取你的信件、聯絡人，甚至是行事曆等資料。」
+一名網頁工程師波塔（Jonathan Porta）則表示，「我很驚訝Windows 10的預設值都不是很尊重使用者的隱私；我也相信，通常多數人會為了使用上的方便快速，直接同意這些預設值，而不曉得自己洩漏了多少個人資料及隱私給微軟。」
+透過預設值的設定，微軟有正當理由可以取得用戶的聯絡人資料、行事曆資訊及其他相關輸入資料，作業系統也希望能取得用戶的所在位置及過去的所在位置，而這些資料不僅提供給微軟，甚至是微軟的合作夥伴[51]。
+版本[编辑]
+主条目：Windows 10版本
+2015年5月13日，微软Windows博客文章[52]中公布了Windows 10的所有版本，包括Home（家用版）、Pro（专业版）、Enterprise（企业版）、Ultimate（旗艦版）/Education（教育版）、Mobile（移动版）、Mobile Enterprise（移动企业版）及IoT Core（物联网核心版）共7个不同的SKU，以适合各类不同需求用户。其中Windows 7、Windows 8.1用户可在1年内免費升级到家用版或专业版，Windows Phone 8.1用户可在1年内升级到移动版（Windows 10 Mobile），且以后将长期获得技术支持。
+
+
+传统版
+Home（家庭版）
+(Home Basic/Home Premium)[1]
+Pro（专业版）
+(Professional/Education/Ultimate)
+家庭中文版[2]
+Education（教育版）
+Enterprise（企业版）
+
+
+Windows 7
+1需先安裝SP1
+1需先安裝SP1
+1需先安裝SP1
+1需先安裝SP1
+0否
+
+
+Windows 8
+1需先升级至8.1
+1需先升级至8.1
+1需先升级至8.1
+1需先升级至8.1
+0否
+
+
+Windows 8.1
+1是[3]
+1是
+1是
+1是
+0否
+
+
+
+
+便携版
+Mobile（移动版）
+Mobile Enterprise（移动企业版）
+
+
+Windows Phone 8
+1需先升级到WP8.1
+0否
+
+
+Windows Phone 8.1
+1仅部分机型可以[4]
+0否
+
+
+
+
+0. Windows XP、 Windows Vista、 Windows Phone 7及先前的版本无法升级至Windows 10。
+1.^ 括弧中的版本可能并未出现于Windows 10产品之中，但表示之前版本的对应产品可免费升级至括弧以外的版本。
+2.^ 中文版，此指Windows 8/8.1 China版，后被Windows 10 China Get Genuine (即Windows 10家庭中文版）接替。
+3.^ Windows 8.1 with Bing版也可免费升级至家庭版。
+4.^ 仅包含如下机型：Lumia 1520、929、430、435、532、535、540、636、638、730、735、830、930、640、640XL [53]
+
+
+微软中文产品[编辑]
+與微軟先前版本慣例一樣，中文產品有简體中文版、中國定製版（即家庭中文版）、臺灣繁體中文版以及香港繁體中文版。中國定製版事實上是單一語言家庭版在中國的在地化—不可更改界面語言、應用程式也被定製。香港版與臺灣版大同小異，但一改常態，民國紀年 (中華民國曆) 的日期格式在全新安裝 (clean-install)後無法使用，但仍能重新啟用這種格式[54]。若之前版本已啟用中華民國曆的日期格式，則升級至Windows 10會自動保留此日期格式。
+简体中文版中的著名筆誤[编辑]
+2015年3月，一些用户在安装Windows 10的早期预览版10041时发现，安装界面出现了“你的电脑将重新启动多次，坐和放宽”的提示，引起网友的关注[55][56][57]。“坐和放宽”这一四字词類似成语，实为微软用机器翻译英文“Sit back and relax”（坐下放松）之结果。該詞在10049版本中就被修正成“请坐下来放松片刻”[58]。
+硬體需求[编辑]
+参见：Windows 10 Mobile # 硬件要求
+用於安裝Windows 10的基本硬體需求與Windows 8.1和Windows 8相同，而僅比Windows 7的要求高一點。64位元的電腦必須確保CPU支持特定的指令[59]。有限硬碟空間的裝置在升級前需要事先準備一個足個容量的USB隨身碟或SD卡做為臨時後緩空間[60]。
+
+用於Windows 10的硬體要求[61]
+
+硬體元件
+最低需滿足
+建議配置
+
+
+處理器
+1 GHz 時脈頻率
+IA-32或x64架構
+支援PAE, NX以及SSE2[62][63]
+x64架構並支援CMPXCHG16B、PrefectchW以及LAHF/SAHF指令集
+
+
+隨機記憶體
+IA-32版： 1 GB
+x64版： 2 GB
+4&#160;GB
+
+
+圖形卡
+DirectX 9圖形裝置
+WDDM 1.0或更高版本的驅動程式
+WDDM 1.3或更高版本的驅動程式
+
+
+螢幕解析度
+800×600 像素
+1024×768 像素
+
+
+輸入裝置
+鍵盤和滑鼠
+多點觸控螢幕
+Ctrl， Alt以及Windows鍵或其它替代性的硬體
+
+
+硬碟空間
+IA-32版： 16 GB
+x64版： 20 GB
+不適用
+
+
+
+用於可選功能的額外要求
+
+要求
+用途
+
+
+第二級地址轉換（SLAT），如AMD-RVI、Intel EPT
+客戶端Hyper-V
+
+
+載入庫內的微軟Windows認證授權的UEFI 2.3.1 B修正版本
+Secure Boot
+
+
+可信平台模組 (TPM) 2.0
+BitLocker， 裝置加密
+
+
+發光紅外線相機
+Windows Hello
+
+
+麥克風
+語音識別
+
+
+指紋機
+生物認證
+
+
+InstantGo
+裝置加密
+
+
+支援Wi-Fi Direct的Wi-Fi匹適器
+Miracast
+
+
+一些預建裝置可能被微軟描述為“認證過”的。認證的平板必須包括電源鍵、音量升降鍵，但並不要求裝置Win鍵和旋轉鎖定鍵[64]。如同Windows 8，所有認證裝置必須將UEFI Secure Boot默認啟用。不同於Windows 8的是OEM商不需要將Secure Boot設置為用戶可配性，也就是說裝置或許可選性的鎖定運行於僅由微軟簽定的作業系統[65]。Windows Hello臉部識別認證功能需要使用受支援的紅外感光相機[66]。Device Guard功能需要無第三方證書導入的UEFI系統，同時要求CPU虛擬化擴展功能（包括SLAT和IOMMU）事先在韌體中開啟[66]。
+升级和支持[编辑]
+Windows 10接受服务的方式与之前的版本大相径庭，它會強制自動更新。Terry Myerson解释道：「微软的目的将淡化人们常论的『你用的Windows是哪个版本』，因此将以做为服务性的软件形式发放。」[67][68][69]
+不同于前些版本，Windows Update已经不允许有选择性的安装更新，而是所有更新一同強制性自动下载并安装，这其中包含补丁、功能性更新以及驱动程序。用户的選擇，只有在系统闲置时自动安装更新或通知以安排重新启动的時間點。[70][71]Windows Update也允许端对端（P2P）系统分发更新，這會使用戶的頻寬被佔去，因此微軟讓這個功能可以關閉。默认情况下用户的带宽将配合微软服务器分发更新至其它用户电脑中；在局域网环境中用户可以单独使用端对端更新他们的电脑。[72]
+专业版和企业版允许用户选择商用当前分支（Current Branch for Business）释放渠道（在Windows Update设置中被称为「延迟升级」），功能性升级的接收将大约延迟到主流释放的四个月后。 [73][71]商用当前分支可以将功能性升级最大错后八个月，此后更新必须安装，以便维护安全性更新的支持和索取。管理员也可使用“Windows Update for Business”系统来组织整个网络的更新波次。[71]企业版还可使用长期支持分支（Long-term support branch，LTSB）。[73]Windows 10的LTSB里程碑是商用当前分支周期性的快照，并且将在超过十年的支持周期内仅接收关键性补丁。系统也可被置于错后最新LTSB版本的一到两个版本，以允许结构性的部署和内部生命周期 。[67][74][75]微软的主管Stella Chernyak解释道：“我们有很多需要关键性环境的企业，他们想要很长一段时间测试并稳定化这个环境，而我们尊重这个事实。”[76]
+暫停更新的套件[编辑]
+微軟接受到許多對於強制更新的抱怨，所以提供官方的套件予使用者，給他們可以用來暫停更新。[77]
+對DDE的支援[编辑]
+参见：動態資料交換
+Windows 10不支援DDE（動態資料交換），即便是將UAC調至最低等級。
+最後一版Windows[编辑]
+在微軟Ignite開發者大會上，該公司高層主管傑瑞·尼克遜透露，Windows 10將是這個Windows作業系統品牌的最後一版產品[78]。微軟發言人透露，對於Windows作業系統的發展方向，微軟已經有新的計劃，Windows作業系統將在未來改變透過盒裝軟體的一次性售賣模式，調整為線上軟體服務，為用戶提供經常性的升級和更新；至於是否會沿用Windows品牌，目前仍無定論。
+Windows將不再有新版本問世，取而代之的將是定期的改進和更新。得以採用這種方式的部分原因是，把开始功能表和內建應用程式等作業系統部件分解為獨立部分，各個部件可以獨立更新，組成完整的Windows核心作業系統。[79][80][81]
+另外，微軟主管表示，微軟考慮開放Windows作業系統的原始碼，跟進Linux、Android等廣受歡迎的開放原始碼作業系統。
+開放Windows系統的原始碼，可望幫助微軟進一步提高Windows使用率，吸引更多人使用微軟自家的應用程式。開放程式碼供外部技術人員檢視，還能更容易抓出公司工程師沒找到的程式漏洞。微軟開放作業系統的原始碼後，也能仿效Linux和Android的獲利模式，靠著幫大企業包裝、銷售和更新作業系統賺取獲利。[82]
+註釋[编辑]
+
+^ 此支援時間以2015年7月29號發行的版本為主。
+
+参考文献[编辑]
+
+
+^ Windows 10 update history - Windows Help. Microsoft. 2016-02-09.&#160;
+^ 快讯：微软推送Win10 TH2秋季更新正式版，版本为10586. IT之家. 2015-11-12.&#160;
+^ Announcing Windows 10 Insider Preview Build 14352. Windows Experience Blog. 2016-05-26.&#160;
+^ Windows 10. Windows Evaluations. Microsoft. [2015-11-27].&#160;
+^ Windows lifecycle fact sheet - Windows Help. Microsoft. [July 17, 2015].&#160;
+^ Windows Threshold Start menu and windowed modern apps leak. Neowin.&#160;
+^ Leaked 'Windows 9' screenshots offer a closer look at the new Start Menu. The Verge.&#160;
+^ Win9开始菜单及其Modern应用泄露. IT之家.&#160;
+^ Windows 9 Technical Preview (Build 9834)
+^ 「開始」鍵歸來！全新 Windows 9 介面多角度任睇
+^ Windows 9 Build 9841曝光 又有新料
+^ Windows 10預覽測試火熱 超越歷屆版本
+^ 有繁體中文！Windows 10 新版本開放下載. ePrice.HK.&#160;
+^ Windows 95 發行前最終版號為 950，為什麼 Windows 10 是 10240？
+^ http://udn.com/news/story/7086/1267071-Windows-10新一波重大更新-傳11月登場
+^ http://qooah.com/2015/11/06/windows-10-pc-rtm/
+^ http://www.ithome.com/html/win10/188470.htm
+^ http://news.softpedia.com/news/microsoft-to-start-the-next-windows-10-chapter-redstone-496458.shtml
+^ http://www.engadget.com/2015/04/08/windows-10-update-redstone/
+^ http://www.ithome.com/html/win10/217221.htm
+^ http://www.ithome.com/html/win10/221258.htm
+^ http://photo.chinatimes.com/20160304003468-260805
+^ http://www.bnext.com.tw/ext_rss/view/id/849348
+^ http://www.bnext.com.tw/article/view/id/37130
+^ http://qooah.com/2015/11/06/windows-10-pc-rtm/
+^ http://www.windowscentral.com/windows-10-xbox-one-coming-preview-members-september
+^ Shaban, Hamza. Microsoft announces Windows Holographic with HoloLens headset. The Verge. 2014-09-02 [2015-01-21].&#160;
+^ 微軟不命名 Windows 9 可能並不是 Windows 10 進步很多. TechNews 科技新報.&#160;
+^ 林妍溱. 微軟：9吋螢幕以下手機及平板Windows免費！. ithome. 2014-04-03 [2015-02-04].&#160;
+^ 30.0 30.1 王宏仁. Windows 10果然免費升級，Win7或8.1舊版通通有，近10億用戶受惠. ithome. 2015-01-22 [2015-02-04].&#160;
+^ 數位時代. 驚喜成空！企業版無法免費升級Windows 10. TechNews. 2015-02-03 [2015-02-04].&#160;
+^ Windows 10 for Raspberry Pi 2. [2015-02-04].&#160;
+^ 別以為盜版會變正版，Windows 10升級「有條件」. 2015-03-19 [2015-03-20].&#160;
+^ Hello World: Windows 10 Available on July 29. windows.com. 1 June 2015 [1 June 2015].&#160;
+^ http://qooah.com/2015/07/31/windows-10-upgrade-issue/
+^ http://www.windowscentral.com/windows-10-installed-over-75-million-devices-covering-over-90000-unique-pcs-and-tablets
+^ https://www.lnm.com.tw/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=newssearch&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0CCYQ-AsoATABahUKEwinicWav7TIAhVi2qYKHaHuCIE&amp;url=http%3A%2F%2F3c.ltn.com.tw%2Fnews%2F20849&amp;usg=AFQjCNEIposxe9CW2EIJpTfTpiRLjtV9Sg
+^ http://www.playpcesor.com/search/label/Windows%2010
+^ http://technews.tw/2015/07/30/windows-10-launch-startmenu-return-high-portion-for-reservation-to-upgrade/
+^ 40.0 40.1 微软Windows10预览版通用应用横跨个人电脑、平板电脑和手机. The Verge. [2015年2月7日].&#160;
+^ 微软：Win10 Mobile系统不会有多帐户登录. 2015-06-20.&#160;
+^ 42.0 42.1 Windows 10新特性盘点：将适用所有设备. [2014-09-30].&#160;
+^ Microsoft's universal Windows apps run on tablets, phones, Xbox, and PCs. PC World. IDG. [2014-09-30].&#160;
+^ Bright, Peter. 所有Windows Phone8手机将获得Windows 10，除了部分手机不会. Ars Technica. January 24, 2015.&#160;
+^ Yes, Windows 10 is Coming to Low-End Windows Phones. thurrot.com. Petri. 2015年2月9日 [February 11, 2015].&#160;
+^ Devine, Richard. Windows10技术预览版手机版本现在可以下载！. Windows Central. Mobile Nations. February 12, 2015 [February 12, 2015].&#160;
+^ 微软致力于添加Windows 10技术预览版非Lumia设备支持. WMPoweruser. Mobile First Network. 2015年3月30日.&#160; 缺少或|url=为空 (帮助)
+^ 今年夏天Windows 10不会推出移动版. The Verge. Vox Media. [July 2, 2015].&#160;
+^ https://hk.news.yahoo.com/聖誕前就有得用-windows-10-mobile-12-080007402.html
+^ 微软：Win10 Mobile系统不会有多帐户登录. 2015-06-20.&#160;
+^ http://www.storm.mg/lifestyle/59690
+^ Introducing Windows 10 Editions. windows.com.&#160;
+^ [1]
+^ 從Windows 7/8.1 中文版升級至Windows 10沒有中華民國曆該怎麼辦?.&#160;
+^ 笑了！Win 10预览版安装界面惊现神翻译. [2015-03-19].&#160;
+^ Win10预览版10041安装界面惊现“妙语”：坐和放宽. [2015-03-19].&#160;
+^ 更新Win10的时候微软想让你“坐和放宽”. [2015-03-20].&#160;
+^ Win10中文安装界面翻译问题修复：告别“坐和放宽”. [2015-03-31].&#160;
+^ Before you install. windows.microsoft.com. Microsoft. [February 12, 2015].&#160;
+^ Upgrade a Small Tablet or Laptop to Windows 10. Thurrott.com. [August 6, 2015].&#160;
+^ Windows 10 Specifications".. Microsoft. [June 7, 2015].&#160;
+^ PAE/NX/SSE2 Support Requirement Guide for Windows 8. [June 4, 2012].&#160;
+^ What is PAE, NX, and SSE2 and why does my PC need to support them to run Windows 8?. Windows Help. Microsoft Corporation. [December 15, 2012].&#160;
+^ Windows 10 Minimum Hardware Requirements and Upgrade Paths Detailed. NDTV. [March 20, 2015].&#160;
+^ Windows 10 to make the Secure Boot alt-OS lock out a reality. Ars Technica. [March 21, 2015].&#160;
+^ 66.0 66.1 Windows 10 specifications. Microsoft Corporation. [June 3, 2015].&#160;
+^ 67.0 67.1 What Windows as a Service and a "free upgrade" mean at home and at work. Ars Technica. [1 February 2015].&#160;
+^ Windows 10 free for all Windows 8.1 and Windows 7 users for first year. Ars Technica. [21 January 2015].&#160;
+^ Myerson, Terry. The next generation of Windows: Windows 10. Windows blog. Microsoft. [21 January 2015].&#160;
+^ Windows 10 lets you schedule Windows Update restarts. CNET. [4 August 2015].&#160;
+^ 71.0 71.1 71.2 Did Microsoft Just Backtrack On Forced Updates For Windows 10?. CRN.com. [4 August 2015].&#160;
+^ How to stop Windows 10 from using your PC's bandwidth to update strangers' systems. PC World. IDG. [4 August 2015].&#160;
+^ 73.0 73.1 Woody Leonhard. Windows 10 forced updates: Don't panic. InfoWorld. 17 July 2015 [4 August 2015].&#160;
+^ Microsoft reveals biggest-ever change in Windows updates. Computerworld. [4 October 2014].&#160;
+^ Introducing Windows 10 for Business. Windows Blog. [4 October 2014].&#160;
+^ Endler, Michael. Windows 10: 5 Unanswered Questions. InformationWeek. [4 October 2014].&#160;
+^ http://technews.tw/2015/07/28/windows-10-how-to-blocking-the-automatic-reinstall-of-a-driver-or-update-in-windows-10/
+^ http://www.bnext.com.tw/article/view/id/36889
+^ Microsoft正式宣佈Windows 10將會是最後一個Windows. 2015-05-08.&#160;
+^ Windows 10 將是最後一版 Windows？. 2015-05-08.&#160;
+^ 走向平台化 Windows 10成「最後版本」. 2015-05-08.&#160;
+^ Windows原始碼開放 有影. 2015-04-07.&#160;
+
+
+外部链接[编辑]
+
+官方網站
+Windows 10 update history from Microsoft
+
+參見[编辑]
+
+
+
+
+微软主题
+
+
+
+软件主题
+
+
+
+
+Windows 8/Windows 8.1
+Windows 10 Mobile
+Microsoft Edge
+Microsoft Cortana
+Microsoft Windows
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Microsoft Windows家族
+
+
+
+
+
+
+
+
+
+组件
+歷史
+年表
+批評
+
+
+
+
+
+
+
+
+基於DOS
+
+
+
+Windows 1.0
+Windows 2.0
+Windows 2.1x
+Windows 3.0
+Windows 3.1x
+
+
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95 (開發（英语：Development of Windows 95）)
+Windows 98
+Windows Me
+
+
+
+
+
+
+
+
+Windows NT
+
+
+
+
+
+
+
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51（英语：Windows NT 3.51）
+Windows NT 4.0
+Windows 2000
+
+
+
+
+
+
+
+
+客戶端版本
+
+
+
+Windows XP
+
+版本
+x64
+媒體中心
+精简
+
+
+Windows Vista
+
+版本
+
+
+Windows 7
+
+版本
+
+
+Windows 8
+
+版本
+8.1
+RT
+RT 8.1
+
+
+Windows 10
+
+版本
+
+
+
+
+
+
+
+
+
+
+Windows Server
+
+
+
+Server 2003
+
+Home Server
+
+
+Server 2003 R2
+Server 2008
+
+EBS 2008
+HPC Server 2008
+
+
+Server 2008 R2
+
+Home Server 2011
+
+
+Server 2012
+Server 2012 R2
+Server 2016
+MultiPoint Server
+Server Essentials（英语：Windows Server Essentials）
+
+
+
+
+
+
+
+
+專用
+
+
+
+Windows預先安裝環境
+
+
+
+
+
+
+
+
+
+
+
+Windows Embedded
+
+
+
+Embedded Compact
+
+CE 5.0
+Embedded CE 6.0
+Embedded Compact 7
+
+
+Embedded Automotive（英语：Windows Embedded Automotive）
+Embedded Industry（英语：Windows Embedded Industry）
+Embedded 8（英语：Windows Embedded 8）
+
+
+
+
+
+
+
+
+Windows Mobile
+
+
+
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+
+
+
+
+
+
+
+
+Windows Phone
+
+
+
+Phone 7
+Phone 8
+Phone 8.1
+Windows 10行動版
+
+
+
+
+
+
+
+
+取消版本
+
+
+
+Cairo
+Nashville
+Neptune
+Odyssey
+
+
+
+
+
+
+
+
+
+
+
+ 版本列表
+ 分类
+ 共享資源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Microsoft Windows组件
+
+
+
+
+
+
+管理工具
+
+
+
+命令提示字元
+控制面板
+
+組件
+
+
+裝置管理員
+磁碟清理
+磁碟重組工具
+驅動程式檢查器
+事件檢視器
+IExpress
+管理主控台
+Netsh
+修復主控台
+資源監視器
+磁碟掃描
+設置
+Sysprep
+系統設定
+系統文件檢查器
+系統原則編輯器
+系統還原
+任务管理器
+Windows輕鬆傳輸
+Windows錯誤報告
+Windows Installer
+Windows PowerShell
+Windows Update
+WinPE
+WinRE
+WMI
+
+
+
+
+
+
+
+
+應用程式
+
+
+
+小算盤
+行事曆
+字元對應表
+Cortana
+DVD播放器
+Edge
+傳真和掃描
+Groove
+Internet Explorer
+日誌
+放大鏡
+郵件
+地圖
+Media Player
+MSN應用（新聞，天氣，體育，財經）
+Movie Maker
+電影與電視
+行動中心
+朗讀程式
+記事本
+OneDrive
+OneNote
+小畫家
+人脉
+遠端協助
+剪取工具
+錄音機
+語音辨識
+应用商店
+Windows Ink
+Windows To Go
+WordPad
+Xbox
+XPS查看器
+
+
+
+
+
+
+
+
+Shell
+
+
+
+操作中心
+Aero
+自動播放
+自動執行
+ClearType
+總管
+搜尋
+
+IFilter
+儲存的搜尋
+命名空間
+特殊資料夾
+
+
+開始功能表
+工作列
+工作檢視
+Windows XP主題
+
+
+
+
+
+
+
+
+服務
+
+
+
+服務控制管理員
+背景智慧型傳送
+通用記錄檔系統
+多媒體類別排程器
+陰影複製
+工作排程器
+錯誤報表
+無線零配置
+
+
+
+
+
+
+
+
+文件系統
+
+
+
+CDFS
+DFS
+exFAT
+IFS
+FAT
+NTFS
+
+永久連結
+連接點
+裝載點
+重新分析點
+符號連結
+TxF
+EFS
+
+
+ReFS
+UDF
+WinFS
+
+
+
+
+
+
+
+
+伺服器
+
+
+
+網域
+Active Directory
+DNS
+Group Policy
+漫遊使用者設定檔
+資料夾重新導向
+分散式交易協調器
+MSMQ
+Windows Media服務
+Rights Management Services
+IIS
+遠端桌面服務
+WSUS
+SharePoint
+網路存取保護
+PWS
+DFS複寫
+遠端差異壓縮
+Print Services for UNIX
+遠端差異壓縮
+Windows部署服務
+系統資源管理員
+Hyper-V
+伺服器核心
+
+
+
+
+
+
+
+
+架構
+
+
+
+Windows NT的架構
+啟動處理程序
+CSRSS
+桌面視窗管理員
+可攜式格式
+
+EXE
+DLL
+
+
+Enhanced Write Filter
+圖形裝置介面
+hal.dll
+I/O要求封包
+程式庫檔
+核心交易管理員
+Library files
+邏輯磁碟管理員
+LSASS
+MinWin
+NTLDR
+Ntoskrnl.exe
+物件管理員
+Open XML紙張規範
+登錄
+資源保護
+安全性帳戶管理員
+伺服器訊息區
+陰影複製
+SMSS
+系統閒置處理程序
+使用者
+WHEA
+Win32主控台
+Winlogon
+
+
+
+
+
+
+
+
+安全性
+
+
+
+安全性與維護
+BitLocker
+資料執行防止
+家長監護服務
+Kernel Patch Protection
+認證相符控制
+Protected Media Path
+使用者帳戶控制
+控制台元件列表
+Windows Defender
+Windows防火牆
+
+
+
+
+
+
+
+
+配合度
+
+
+
+COMMAND.COM
+Windows Services for UNIX
+
+POSIX subsystem
+Interix
+
+
+Virtual DOS machine
+Windows on Windows
+WoW64
+
+
+
+
+
+
+
+
+API
+
+
+
+動態指令碼處理
+
+WSH
+VBScript
+JScript
+
+
+COM
+
+ActiveX
+ActiveX Document
+COM Structured storage
+DCOM
+OLE
+OLE Automation
+Transaction Server
+
+
+DirectX
+.NET Framework
+Windows Holographic
+Windows Runtime
+通用Windows平台
+
+
+
+
+
+
+
+
+已中止
+
+
+
+
+遊戲
+
+
+
+3D Pinball
+Chess Titans
+新接龍
+傷心小棧
+中文輸入法練習
+Hover!
+筆跡球
+Hold 'Em
+Mahjong Titans
+踩地雷
+Purble Place
+黑白棋
+接龍
+連環新接龍
+Tinker
+
+
+
+
+
+
+
+
+其他
+
+
+
+ActiveMovie
+Anytime Upgrade
+通訊錄
+備份與還原中心
+Cardfile
+CardSpace
+連絡人
+桌面小工具
+診斷
+DriveSpace
+DVD製作程式
+傳真
+檔案管理員
+檔案保護
+美食
+健康
+HyperTerminal
+網路郵件及新聞
+郵件
+Media Center
+媒體控制介面
+會議空間
+訊息中心
+Messenger
+Mobile裝置中心
+NetMeeting
+Next-Generation Secure Computing Base
+NTBackup
+Outlook Express
+旅遊
+相片圖庫
+程式總監
+Windows視訊
+Windows相片檢視器
+Windows SideShow
+WinHelp
+WinSAT
+小作家
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+操作系统
+
+
+
+
+
+
+概述
+
+历史&#160;· 年表&#160;· 列表&#160;· 比较（英语：Comparison of operating systems）&#160;· 使用份额&#160;· 开发（英语：Operating system development）
+
+
+
+
+
+
+内核
+
+
+
+
+
+构架
+
+
+
+
+
+
+通用
+
+
+整塊性核心&#160;· 微內核
+
+
+
+
+
+
+
+子类型
+
+
+外核&#160;· 超微内核&#160;· 混合内核
+
+
+
+
+
+
+
+
+
+
+组件
+
+
+内核空间&#160;· 可加载内核模块&#160;· 驱动程序&#160;· 用户空间&#160;·
+
+
+
+
+
+
+
+
+
+进程管理
+
+进程&#160;· 多元程序规划&#160;· 行程控制表&#160;· 中斷&#160;· 模式: (保護模式&#160;· 管理模式)&#160;· 排程&#160;· 上下文交換&#160;· 多任务处理（协同多任务处理&#160;· 抢先多任务处理） 核心态&#160;· 多线程
+
+
+
+
+
+
+内存管理
+
+記憶體保護&#160;· 區段&#160;· 分页&#160;· 记忆段错误&#160;· 一般保护错误&#160;· 总线错误
+
+
+
+
+
+
+实例
+
+AmigaOS 4（英语：AmigaOS 4）&#160;· BeOS&#160;· DOS&#160;· FreeBSD&#160;· GNU/Linux&#160;· OS X&#160;· Windows&#160;· Solaris&#160;· IBM OS/2&#160;· ReactOS&#160;· UNIX&#160;· 更多…
+
+
+
+
+
+
+其它
+
+引导程序&#160;· PXE&#160;· API&#160;· 虚拟文件系统&#160;· 虚拟磁带库（英语：Virtual tape library）&#160;· 计算机网络&#160;· CLI&#160;· TUI（英语：Text user interface）&#160;· GUI&#160;· VUI（英语：Voice_User_Interface） &#160;· HAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ 微軟
+
+
+
+
+
+
+
+
+
+歷史
+
+
+
+
+
+
+
+
+人物
+(列表)
+
+
+
+
+創始人
+
+
+
+比爾·蓋茨
+保羅·艾倫
+
+
+
+
+
+
+
+
+董事會
+
+
+
+约翰·W·汤普森 (主席)
+薩蒂亞·納德拉 (執行長)
+迪娜·杜伯倫
+Maria Klawe（英语：Maria Klawe）
+David Marquardt（英语：David Marquardt）
+Charles Noski（英语：Charles Noski）
+Helmut Panke（英语：Helmut Panke）
+Mason Morfit（英语：Mason Morfit）
+John W. Stanton（英语：John W. Stanton）
+
+
+
+
+
+
+
+
+高層領導團隊
+
+
+
+薩蒂亞·納德拉 (執行長)
+Chris Caposella (行銷長)
+Kurt DelBene
+Scott Guthrie（英语：Scott Guthrie）
+Amy Hood（英语：Amy Hood） (財務長)
+Kathleen Hogan
+陸奇
+特里·邁爾森
+沈向洋
+Brad Smith
+Kevin Turner（英语：B. Kevin Turner） (首席營運長)
+
+
+
+
+
+
+
+
+公司副總裁
+
+
+
+乔北峰
+Panos Panay
+理查德·拉希德 (高級副總裁)
+S. Somasegar（英语：S. Somasegar） (高級副總裁)
+
+
+
+
+
+
+
+
+
+
+
+部門
+
+
+
+工程團隊
+
+配件
+移動
+
+
+反網絡犯罪中心（英语：Microsoft Digital Crimes Unit）
+車庫（英语：Microsoft Garage）
+出版社
+研究院
+工作室
+.NET基金會
+Outercurve基金會（英语：Outercurve Foundation）
+
+
+
+
+
+
+
+
+產品系列
+
+
+
+作業系統
+
+Windows
+
+
+軟體
+
+Office
+Servers
+Visual Studio
+
+
+Band
+Hololens
+Lumia
+Surface
+Xbox
+
+
+
+
+
+
+
+
+網絡性
+
+
+
+Bing
+Channel 9（英语：Channel 9 (Microsoft)）
+CodePlex
+開發者網絡
+MSN
+Office.com
+OneDrive
+Outlook.com
+TechNet
+Windows Store
+How-old.net
+
+
+
+
+
+
+
+
+大會
+
+
+
+Build
+MIX（英语：MIX (Microsoft)）
+PDC（英语：Professional Developers Conference）
+TechEd（英语：TechEd）
+WinHEC
+WPC（英语：Microsoft Worldwide Partner Conference）
+
+
+
+
+
+
+
+
+批評
+
+
+
+Microsoft Windows捆綁銷售（英语：Bundling of Microsoft Windows）
+iLoo（英语：iLoo#Reaction）
+Internet Explorer
+_NSAKEY（英语：_NSAKEY）
+Windows
+
+XP
+Vista
+8
+
+
+Xbox 360
+
+
+
+
+
+
+
+
+訴訟
+
+
+
+阿爾卡特-朗訊訴微軟（英语：Alcatel-Lucent v. Microsoft Corp.）
+蘋果訴微軟（英语：Apple Computer, Inc. v. Microsoft Corp.）
+歐盟微軟競爭案（英语：Microsoft Corp v Commission）
+微軟訴Lindows（英语：Microsoft Corp. v. Lindows.com, Inc.）
+微軟訴MikeRoweSoft
+微軟訴Shah（英语：Microsoft Corp. v. Shah）
+美國訴微軟案
+
+
+
+
+
+
+
+
+收購（英语：List of mergers and acquisitions by Microsoft）
+
+
+
+6Wunderkinder
+Altamira Software（英语：Altamira Software）
+aQuantive
+Azyxxi
+The Blue Ribbon SoundWorks（英语：The Blue Ribbon SoundWorks）
+Bungie
+Calista Technologies（英语：Calista Technologies）
+Colloquis（英语：Colloquis）
+Connectix（英语：Connectix）
+Consumers Software（英语：Consumers Software）
+Danger（英语：Danger (公司)）
+Farecast（英语：MSN Travel (website)）
+FASA Studio
+Fast Search &amp; Transfer（英语：Fast Search &amp; Transfer）
+Firefly（英语：Firefly (website)）
+Forethought（英语：Forethought, Inc.）
+GIANT Company Software（英语：GIANT Company Software）
+GreenButton（英语：GreenButton）
+Groove Networks（英语：Groove Networks）
+Hotmail
+Jellyfish.com（英语：Jellyfish.com）
+LinkExchange（英语：LinkExchange）
+Lionhead Studios
+Massive Incorporated（英语：Massive Incorporated）
+Mojang
+諾基亞硬件與服務
+Onfolio（英语：Windows Live Toolbar#Onfolio）
+PlaceWare（英语：PlaceWare）
+Powerset
+ProClarity（英语：ProClarity）
+Rare
+Revolution Analytics（英语：Revolution Analytics）
+ScreenTonic（英语：ScreenTonic）
+Skype
+Sunrise Atelier（英语：Sunrise Calendar）
+Winternals Software
+Teleo（英语：Teleo）
+Telekinesys Research
+Tellme Networks（英语：Tellme Networks）
+Twisted Pixel Games
+Vermeer Technologies（英语：Vermeer Technologies）
+Visio Corporation（英语：Visio Corporation）
+Vivaty（英语：Flux (software)） (解散)
+VoloMetrix（英语：VoloMetrix）
+VXtreme（英语：NetShow）
+WebTV Networks
+Yammer
+Yupi（英语：Yupi）
+
+
+
+
+
+
+
+
+
+
+
+ 分类
+ 共享資源
+&#160;微軟主題首頁
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“https://zh.wikipedia.org/w/index.php?title=Windows_10&amp;oldid=40289969”					
+				分类：Windows 10Microsoft WindowsWindows NT隐藏分类：含有缺少网址的网站引用的页面				
+							
+		
+		
+			导航菜单
+
+			
+									
+						个人工具
+						
+							没有登录讨论贡献创建账户登录						
+					
+									
+										
+						命名空间
+						
+															条目
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	马新简体
+																	台灣正體
+															
+						
+					
+									
+				
+										
+						视图
+						
+															阅读
+															编辑
+															查看历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			导航
+
+			
+									
+						首页分类索引特色内容新闻动态最近更改随机条目					
+							
+		
+			
+			帮助
+
+			
+									
+						帮助维基社群方针与指引互助客栈知识问答字词转换IRC即时聊天联络我们关于维基百科资助维基百科					
+							
+		
+			
+			在其他项目中
+
+			
+									
+						维基共享资源					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改上传文件特殊页面打印页面固定链接页面信息维基数据项引用本页					
+							
+		
+			
+			其他语言
+
+			
+									
+						العربيةAzərbaycancaБеларускаяБеларуская (тарашкевіца)‎БългарскиবাংলাBosanskiCatalàکوردیی ناوەندیČeštinaDanskDeutschZazakiΕλληνικάEnglishEsperantoEspañolEestiفارسیSuomiFrançaisGalego客家語/Hak-kâ-ngîעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano日本語ქართულიҚазақша한국어LumbaartLietuviųLatviešuമലയാളംBahasa Melayuမြန်မာဘာသာनेपालीNederlandsNorsk nynorskNorsk bokmålଓଡ଼ିଆPolskiپنجابیPortuguêsRomânăРусскийСаха тылаScotsSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSvenskaதமிழ்ไทยTürkmençeTagalogTürkçeТатарча/tatarçaУкраїнськаTiếng Việt粵語					
+				编辑链接			
+		
+				
+		
+		
+							
+											 本页面最后修订于2016年5月28日 (星期六) 04:08。
+											本站的全部文字在知识共享 署名-相同方式共享 3.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+Wikipedia&reg;和维基百科标志是维基媒体基金会的注册商标；维基&trade;是维基媒体基金会的商标。
+维基媒体基金会是在美国佛罗里达州登记的501(c)(3)免税、非营利、慈善机构。
+									
+							
+											隐私政策
+											关于维基百科
+											免责声明
+											开发者
+											Cookie声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+

@@ -1,0 +1,343 @@
+
+
+
+
+新页面 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+			
+帮助
+
+			新页面
+									
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+新页面
+
+名字空间：
+所有
+（主）
+Talk
+User
+User talk
+Minecraft Wiki
+Minecraft Wiki talk
+File
+File talk
+MediaWiki
+MediaWiki talk
+Template
+Template talk
+Help
+Help talk
+Category
+Category talk
+UserWiki
+UserProfile
+Widget
+Widget talk
+TimedText
+TimedText talk
+模块
+模块讨论
+
+&#160;&#160;反选
+标签过滤器：
+用户名：
+
+
+
+
+
+隐藏注册用户 | 隐藏机器人 | 显示重定向（最新 | 最旧） 查看（前50个 | 后50个）（20 | 50 | 100 | 250 | 500）2016年5月28日 (六) 04:22 ‎草丛/双高草/BS （历史） ‎[571字节] ‎135ty（讨论 | 贡献）  （创建页面，内容为“&#039;&#039;&#039;minecraft:double_plant&#039;&#039;&#039; {{bst|half|upper,lower|该方块的半个部分。}} {{bst|variant |sunflower|{{blockLink|Sunflower|link=Flower}} |syringa|{{blockLink|L...”）  
+2016年5月28日 (六) 04:18 ‎草丛/BS （历史） ‎[156字节] ‎135ty（讨论 | 贡献）  （创建页面，内容为“{{bst|type|foot=1 |dead_bush |{{BlockSprite|Dead Bush}} 枯死的灌木 |tall_grass|{{BlockSprite|Tall Grass}} 高草 |fern      |{{BlockSprite|Fern}} 蕨}}”）  
+2016年5月28日 (六) 04:17 ‎草丛/ID （历史） ‎[185字节] ‎135ty（讨论 | 贡献）  （创建页面，内容为“{| class=&quot;wikitable&quot; ! 名称 !! ID 名称 !! 方块 ID |- | 草 || &lt;code&gt;tallgrass || 31 |- | 植物 || &lt;code&gt;double_plant || 175 |}&lt;noinclude&gt; Category:ID名称...”）  
+2016年5月27日 (五) 11:11 ‎草方块/BS （历史） ‎[178字节] ‎135ty（讨论 | 贡献）  （创建页面，内容为“{{bst|snowy|type=byte|true,false|若为true，方块的顶部材质将会使用有雪那一面的材质。&lt;br&gt;在游戏里，当草方块顶部被雪或[[雪块]...”）  
+2016年5月27日 (五) 10:28 ‎教程/没有延迟的红石逻辑门 （历史） ‎[56字节] ‎119.179.89.84（讨论）  （创建页面，内容为“= 步骤 = == 建造 == === 建造Redstone区块 === 首先建立一个1*1*1结构 只有一个红石块 叫redstone。 === 建造Stone区块 === 建立一个1*1*1...”） （1个标签：IP用户大修改） 
+2016年5月27日 (五) 04:51 ‎16w21b （历史） ‎[1,185字节] ‎SteveZihang（讨论 | 贡献）  （16w21b）  
+2016年5月25日 (三) 15:50 ‎16w21a （历史） ‎[3,816字节] ‎135ty（讨论 | 贡献）  （创建页面，内容为“{{version nav  |title=16w21a |edition=computer |image=16w21a.png |type=快照 |date=2016年5月25日 |parent=1.10 |download=1 |prev=16w20a |prevparent=1.9 |nextparen...”）  
+2016年5月21日 (六) 08:26 ‎可可果/BS （历史） ‎[195字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{bst|age|type=int |0–2|The stage of the pod&#039;s growth, with &quot;2&quot; being fully grown. }} {{bst|facing|foot=1|north,south,east,west|The direction from the cocoa bean t...”）  
+2016年5月21日 (六) 08:24 ‎可可果/DV （历史） ‎[455字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{| class=&quot;wikitable&quot; ! Bits ! Values |- | 0x1&lt;br&gt;0x2 | A two-bit field storing a value from 0 to 4 specifying the direction the pod is attached to: * 0: Attached to...”）  
+2016年5月20日 (五) 12:46 ‎Mods/The Aether/蓝莓 （历史） ‎[555字节] ‎Myy730（讨论 | 贡献）  （创建页面，内容为“{{Disclaimer}} {{Food |type= 食物 |heals= {{hungerbar|2}} |cookable= 否 |stackable= 可以(64) |data= 17352 }} &#039;&#039;&#039;蓝莓&#039;&#039;&#039; are an item that is dropped when harve...”）  
+2016年5月20日 (五) 11:51 ‎携带版Alpha 0.14.3 （历史） ‎[620字节] ‎A20001017（讨论 | 贡献）  （创建页面，内容为“{{version nav |title=Alpha 0.14.3 |edition=Pocket Edition |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - 2016年5月18日&lt;br&gt;&#039;&#039;&#039;iOS、FireOS、Windows Phone、Windows 10&#039;&#039;&#039; - 2016年5月19...”）  
+2016年5月20日 (五) 11:27 ‎携带版 Alpha 0.14.3 （历史） ‎[10字节] ‎Mcyangyuancheng（讨论 | 贡献）  （创建页面，内容为“Open main menu 	 Edit Watch this page Pocket Edition Alpha 0.14.3 Alpha 0.14.3 Release date	 Android - May 18, 2016 iOS, FireOS, Windows Phone, Windows 10 -  Alpha 0...”）  
+2016年5月20日 (五) 11:25 ‎结构方块/BE （历史） ‎[1,164字节] ‎Myy730（讨论 | 贡献）  （创建页面，内容为“&lt;div class=&quot;treeview&quot;&gt; *{{nbt|compound}} Block entity data ** {{nbt inherit/blockentity}} ** {{nbt|string|name}}: Name of the structure. ** {{nbt|string|author}}: Au...”）  
+2016年5月19日 (四) 11:59 ‎1.10/预览版本 （历史） ‎[57字节] ‎A20001017（讨论 | 贡献）  （创建页面，内容为“{{Development versions}}”）  
+2016年5月19日 (四) 09:51 ‎岩浆方块 （历史） ‎[2,903字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|new|2016/5/29}}”）  
+2016年5月19日 (四) 09:51 ‎地狱疣块 （历史） ‎[1,517字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|new|2016/5/29}}”）  
+2016年5月19日 (四) 09:50 ‎红地狱砖 （历史） ‎[1,001字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|new|2016/5/29}}”）  最初创建为“红色地狱方块”
+2016年5月19日 (四) 09:50 ‎骨块 （历史） ‎[1,285字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|new|2016/5/29}}”）  
+2016年5月19日 (四) 09:50 ‎尸壳 （历史） ‎[29字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|new|2016/5/29}}”）  
+2016年5月19日 (四) 09:50 ‎浪壳 （历史） ‎[29字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|new|2016/5/29}}”）  最初创建为“流浪者”
+2016年5月18日 (三) 13:58 ‎16w20a （历史） ‎[8,257字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{version nav  |title=16w20a |edition=computer |type=Snapshot |date=May 18, 2016 |parent=1.10 |download=1 |prevparent=1.9.4 |nextparent=1.10 }}&lt;onlyinclude&gt;  &#039;&#039;&#039;16w2...”）  
+2016年5月14日 (六) 09:23 ‎1.8.2/预览版本 （历史） ‎[59字节] ‎A20001017（讨论 | 贡献）  （创建页面，内容为“{{Development versions}} en:1.8.2/Development versions”）  
+2016年5月14日 (六) 04:39 ‎箱子/BS （历史） ‎[144字节] ‎Siiftun1857（讨论 | 贡献）  （创建页面，内容为“{{bst|facing|foot=1 |north&lt;br /&gt;south&lt;br /&gt;east&lt;br /&gt;west&lt;br /&gt;|箱子门闩的朝向。这个方向由玩家放置箱子时的方块决定。}}”）  
+2016年5月14日 (六) 04:06 ‎霜冰/BS （历史） ‎[136字节] ‎Siiftun1857（讨论 | 贡献）  （创建页面，内容为“{{bst|age|type=int|foot=1 |0|{{BlockSprite|frosted-ice}}新生成的霜冰。 |1–3|{{BlockSprite|frosted-ice}}霜冰出现裂纹。 }}”）  
+2016年5月14日 (六) 03:17 ‎甜菜根/ID （历史） ‎[195字节] ‎135ty（讨论 | 贡献）  （创建页面，内容为“{| class=&quot;wikitable&quot; data-description=&quot;ID&quot; ! 甜菜根 ! ID ! 数字 ID (PC) ! 数字 ID (PE) |- | 物品 | &lt;code&gt;beetroot&lt;/code&gt; | 434 | 457 |}&lt;noinclude&gt; Categor...”）  
+2016年5月11日 (三) 17:57 ‎携带版Alpha 0.12.0 （历史） ‎[7,080字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.12.0 |edition=Pocket Edition |image=Pocket Edition Alpha 0.12.0.png |type= |date=&#039;&#039;&#039;Windows 10&#039;&#039;&#039; - July 29, 2015 |pre...”）  
+2016年5月11日 (三) 17:55 ‎携带版Alpha 0.11.2 （历史） ‎[651字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.11.2 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Windows Phone&#039;&#039;&#039; - June 5, 2015 |prevparent=Alpha 0.11.0 |prev=Al...”）  
+2016年5月11日 (三) 17:53 ‎携带版Alpha 0.10.5 （历史） ‎[1,792字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.10.5 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - January 12, 2015&lt;br&gt;&#039;&#039;&#039;Fire OS&#039;&#039;&#039; - January 8, 2015...”）  
+2016年5月11日 (三) 17:53 ‎携带版Alpha 0.10.4 （历史） ‎[1,582字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.10.4 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - November 24, 2014&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - December 2, 2014&lt;br...”）  
+2016年5月11日 (三) 17:52 ‎携带版Alpha 0.10.2 （历史） ‎[480字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.10.2 |edition=Pocket Edition |image= |type= |date=Android - November 20, 2014 |prevparent=Alpha 0.10.0 |prev=Alpha 0.1...”）  
+2016年5月11日 (三) 17:49 ‎携带版Alpha 0.10.3 （历史） ‎[486字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.10.3 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - November 21, 2014 |prevparent=Alpha 0.10.0 |prev=Alp...”）  
+2016年5月11日 (三) 17:48 ‎携带版Alpha 0.10.1 （历史） ‎[480字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.10.2 |edition=Pocket Edition |image= |type= |date=Android - November 20, 2014 |prevparent=Alpha 0.10.0 |prev=Alpha 0.1...”）  
+2016年5月11日 (三) 17:47 ‎携带版Alpha 0.9.5 （历史） ‎[5,557字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.9.5 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - July 24, 2014&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - July 27, 2014&lt;br&gt;&#039;&#039;&#039;Fire...”）  
+2016年5月11日 (三) 17:45 ‎携带版Alpha 0.9.4 （历史） ‎[1,161字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.9.4 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - July 17, 2014&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - July 17, 2014 |prevparen...”）  
+2016年5月11日 (三) 17:44 ‎携带版Alpha 0.9.3 （历史） ‎[2,178字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.9.3 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - July 16, 2014 |prevparent=Alpha 0.9.0 |prev=Alpha 0.9...”）  
+2016年5月11日 (三) 17:44 ‎携带版Alpha 0.9.2 （历史） ‎[1,573字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.9.2 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - July 15, 2014&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - July 15, 2014 |prevparen...”）  
+2016年5月11日 (三) 17:43 ‎携带版Alpha 0.9.1 （历史） ‎[1,166字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.9.1 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - July 11, 2014&lt;br&gt;&#039;&#039;&#039;Fire OS&#039;&#039;&#039; - July 11, 2014 |prevp...”）  
+2016年5月11日 (三) 17:42 ‎携带版Alpha 0.8.2 （历史） ‎[745字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.8.2 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Fire OS&#039;&#039;&#039; - April 2, 2014&lt;ref&gt;http://mashable.com/2014/04/02/amaz...”）  
+2016年5月11日 (三) 17:41 ‎携带版Alpha 0.8.1 （历史） ‎[1,141字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.8.1 |edition=Pocket Edition |image= |type= |date=December 19, 2013 |prevparent=Alpha 0.8.0 |prev= |next=Alpha 0.8.2 |n...”）  
+2016年5月11日 (三) 17:39 ‎携带版Alpha 0.7.6 （历史） ‎[1,280字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.7.6 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - October 11, 2013&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - October 16, 2013 |pre...”）  
+2016年5月11日 (三) 17:39 ‎携带版Alpha 0.7.5 （历史） ‎[1,696字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.7.5 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - September 4, 2013&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - September 12, 2013 |...”）  
+2016年5月11日 (三) 17:38 ‎携带版Alpha 0.7.4 （历史） ‎[6,806字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.7.4 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android, iOS&#039;&#039;&#039; - September 2, 2013&lt;br&gt;&#039;&#039;&#039;Fire OS&#039;&#039;&#039; - August 31,...”）  
+2016年5月11日 (三) 17:37 ‎携带版Alpha 0.7.3 （历史） ‎[3,021字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.7.3 |edition=Pocket Edition |image= |type= |date=August 15, 2013 |prevparent=Alpha 0.7.0 |prev=Alpha 0.7.2 |next=Alpha...”）  
+2016年5月11日 (三) 17:36 ‎携带版Alpha 0.7.2 （历史） ‎[2,879字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.7.2 |edition=Pocket Edition |image= |type= |date=July 4, 2013 |prevparent=Alpha 0.7.0 |prev=Alpha 0.7.1 |next=Alpha 0....”）  
+2016年5月11日 (三) 17:35 ‎携带版Alpha 0.7.1 （历史） ‎[2,143字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.7.1 |edition=Pocket Edition |image= |type= |date=June 7, 2013 |prevparent=Alpha 0.7.0 |prev= |next=Alpha 0.7.2 |nextpa...”）  
+2016年5月11日 (三) 17:33 ‎携带版Alpha 0.6.1 （历史） ‎[1,854字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.6.1 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - January 31, 2013&lt;br&gt;&#039;&#039;&#039;iOS&#039;&#039;&#039; - February 2, 2013 |pre...”）  
+2016年5月11日 (三) 17:28 ‎携带版Alpha 0.4.0 rev 2 （历史） ‎[883字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.4.0 rev 2 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;iOS&#039;&#039;&#039; - September 14, 2012 |prevparent=Alpha 0.4.0 |prev= |...”）  
+2016年5月11日 (三) 17:27 ‎携带版Alpha 0.3.3 （历史） ‎[2,360字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.3.3 |edition=Pocket Edition |image= |type= |date=August 9, 2012 |prevparent=Alpha 0.3.0 |prev=Alpha 0.3.2 |next= |next...”）  
+2016年5月11日 (三) 17:26 ‎携带版Alpha 0.3.2 （历史） ‎[1,054字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.3.2 |edition=Pocket Edition |image= |type= |date=July 16, 2012 |prevparent=Alpha 0.3.0 |prev= |next=Alpha 0.3.3 |nextp...”）  
+2016年5月11日 (三) 17:25 ‎携带版Alpha 0.2.1 alpha 2 （历史） ‎[672字节] ‎Ff98sha（讨论 | 贡献）  （创建页面，内容为“{{translation|n}} {{version nav |title=Alpha 0.2.1 alpha 2 |edition=Pocket Edition |image= |type= |date=&#039;&#039;&#039;Android&#039;&#039;&#039; - March 17, 2012 |prevparent=Alpha 0.2.0 |prev=...”）  
+（最新 | 最旧） 查看（前50个 | 后50个）（20 | 50 | 100 | 250 | 500）					
+						取自“http://minecraft-zh.gamepedia.com/Special:最新页面”					
+								
+							
+						
+						
+			
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															特殊页面
+													
+					
+										
+												
+							变种
+						
+
+						
+							
+															
+						
+					
+										
+						
+						
+													
+					
+									
+				
+										
+						视图
+						
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						Atom特殊页面打印版本					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+					
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+			
+									Sign In
+									Register
+										Careers
+			Help
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+	
+

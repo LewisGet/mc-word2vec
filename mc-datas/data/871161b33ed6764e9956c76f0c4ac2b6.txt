@@ -1,0 +1,1558 @@
+
+
+
+
+Minecraft Wiki:译名标准化 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			Minecraft Wiki:译名标准化
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+目录
+
+
+1 游戏内容中文译名标准化
+2 对自身英文水准不甚自信的翻译者的建议
+3 关于译名重定向页面
+4 繁体/正体中文译名
+5 方块
+6 物品
+7 实体
+8 附魔/药水/效果
+9 游戏难度和模式
+10 游戏版本及更新
+11 游戏内各数据值
+12 生物群系
+13 结构
+14 其他
+
+
+
+游戏内容中文译名标准化
+
+致辛勤工作的翻译组成员们：
+感谢大家一直以来对中文Mincraft Wiki所做的贡献，希望你们能够继续保持对Minecraft的热爱和对本wiki的支持！
+最近我们发现不同的成员对某些游戏内容的中文译名有歧义，因此产生了不同页面使用不同译名的混乱状况。
+经过讨论决定，一切的译名必须按照本页面译名为准（正式游戏译名亦会使用同样的名称），另请注意：我们正在尝试简繁转换模板的创建，所以在此之前请尽量使所有的页面标题名称一律使用简体中文！
+对本页面译名有异议者，请到此发表你的看法。
+随着游戏版本更新，我们会定期更新本页面内容。
+谢谢各位的合作！
+
+您真诚的
+中文Minecraft Wiki 行政/管理部
+Craft Lawrence
+Powup333
+Hzy980512
+Sjjklh
+
+小提示：善用ctrl+F来找到自己想要校对的译名。
+鉴于页面的不断增加，新的译名会不断加入，请密切关注更改。
+在成员在此页面找不到翻译的情况下，可前往模板列表页面来查找。
+
+对自身英文水准不甚自信的翻译者的建议
+当你们在翻译时，如果碰到不确定的翻译，但因不是特有名词而不在此页列出时，请保留成英文来让别人来翻译。
+如：bug的翻译不是臭虫，而是漏洞的意思；third party不是第三派对，而是第三方的意思。
+关于译名重定向页面
+虽然我们wiki实现的是译名标准化，但是由于种种原因（包括港台译名，由玩家间流传的译名，等……）部分玩家并不能分辨出标准译名，为此，管理部允许利用重定向页面来导向标准译名页面。但是前提是要符合以下标准：
+
+它必须在玩家中比较常见的译名
+如果非标准译名和标准的过于接近，它将被认为是不必要的（比如"木材"和"木板"）
+名称内不能有任何的辱骂或者不合适的成分（例如Creeper和Enderman的非官方译名）
+让重定向到同一个页面的数量保持在2-3个页面内
+
+注意：虽然这些页面被允许创建，但是我们还是希望各位互相传播标准的译名！（对港台玩家例外）
+繁体/正体中文译名
+以下译名代表的是繁体/正体中文的翻译，这些译名页面会被重定向到简体译名页面，这些译名不应该在正常编辑中出现。
+
+主条目： /繁体译名
+
+
+方块
+
+
+主条目： 数据值/方块ID [编辑]
+
+
+
+
+物品
+
+
+主条目： 数据值/物品ID [编辑]
+
+
+
+
+实体
+
+
+主条目： 数据值/实体ID [编辑]
+
+
+
+附魔/药水/效果
+
+
+EID
+英文名称
+中文译名
+
+
+0
+Protection
+保护
+
+
+1
+Fire Protection
+火焰保护
+
+
+2
+Feather Falling
+摔落保护
+
+
+3
+Blast Protection
+爆炸保护
+
+
+4
+Projectile Protection
+弹射物保护
+
+
+5
+Respiration
+水下呼吸
+
+
+6
+Aqua Affinity
+水下速掘
+
+
+7
+Thorns
+荆棘
+
+
+8
+Depth Strider
+深海探索者
+
+
+9
+Frost Walker
+冰霜行者
+
+
+16
+Sharpness
+锋利
+
+
+17
+Smite
+亡灵杀手
+
+
+18
+Bane of Arthropods
+节肢杀手
+
+
+19
+Knockback
+击退
+
+
+20
+Fire Aspect
+火焰附加
+
+
+21
+Looting
+抢夺
+
+
+32
+Efficiency
+效率
+
+
+33
+Silk Touch
+精准采集
+
+
+34
+Unbreaking
+耐久
+
+
+35
+Fortune
+时运
+
+
+48
+Power
+力量
+
+
+49
+Punch
+冲击
+
+
+50
+Flame
+火矢
+
+
+51
+Infinity
+无限
+
+
+61
+Luck of the Sea
+海之眷顾
+
+
+62
+Lure
+饵钓
+
+
+70
+Mending
+经验修补
+
+
+
+
+英文名称
+中文译名
+
+
+Water Bottle
+水瓶
+
+
+Awkward Potion
+粗制的药水
+
+
+Thick Potion
+浑浊的药水
+
+
+Mundane Potion
+平凡的药水
+
+
+Potion of Regeneration
+再生药水
+
+
+Potion of Swiftness
+迅捷药水
+
+
+Potion of Fire Resistance
+抗火药水
+
+
+Potion of Poison
+剧毒药水
+
+
+Potion of Healing
+回复药水
+
+
+Potion of Night Vision
+夜视药水
+
+
+Potion of Weakness
+虚弱药水
+
+
+Potion of Strength
+力量药水
+
+
+Potion of Slowness
+迟缓药水
+
+
+Potion of Leaping
+跳跃药水
+
+
+Potion of Harming
+伤害药水
+
+
+Potion of Water Breathing
+水肺药水
+
+
+Potion of Invisibility
+隐身药水
+
+
+Potion of Luck
+幸运药水
+
+
+
+
+ID
+英文名称
+中文译名
+
+
+1
+速度
+Speed
+
+
+2
+缓慢
+Slowness
+
+
+3
+急迫
+Haste
+
+
+4
+挖掘疲劳
+Mining Fatigue
+
+
+5
+力量
+Strength
+
+
+6
+瞬间治疗
+Instant Health
+
+
+7
+瞬间伤害
+Instant Damage
+
+
+8
+跳跃提升
+Jump Boost
+
+
+9
+反胃
+Nausea
+
+
+10
+生命恢复
+Regeneration
+
+
+11
+抗性提升
+Resistance
+
+
+12
+防火
+Fire Resistance
+
+
+13
+水下呼吸
+Water Breathing
+
+
+14
+隐身
+Invisibility
+
+
+15
+失明
+Blindness
+
+
+16
+夜视
+Night Vision
+
+
+17
+饥饿
+Hunger
+
+
+18
+虚弱
+Weakness
+
+
+19
+中毒
+Poison
+
+
+20
+凋零
+Wither
+
+
+21
+生命提升
+Health Boost
+
+
+22
+伤害吸收
+Absorption
+
+
+23
+饱和
+Saturation
+
+
+24
+发光
+Glowing
+
+
+25
+飘浮
+Levitation
+
+
+26
+幸运
+Luck
+
+
+27
+霉运
+Bad Luck
+
+
+
+游戏难度和模式
+
+
+英文名称
+中文译名
+
+
+Peaceful
+和平
+
+
+Easy
+简单
+
+
+Normal
+普通
+
+
+Hard
+困难
+
+
+Creative
+创造模式
+
+
+Survival
+生存模式
+
+
+Hardcore
+极限模式
+
+
+Adventure
+冒险模式
+
+
+Survival Singleplayer （SSP）
+单人生存模式
+
+
+Survival Multiplayer （SMP）
+多人生存模式
+
+
+Creative Singleplayer （CSP）
+单人创造模式
+
+
+Creative Multiplayer （CMP）
+多人创造模式
+
+
+Hardcore Singleplayer （HSP）
+单人极限模式
+
+
+Hardcore Multiplayer （HMP）
+多人极限模式
+
+
+Adventure Singleplayer （ASP）
+单人冒险模式
+
+
+Adventure Multiplayer （AMP）
+多人冒险模式
+
+
+
+游戏版本及更新
+
+
+英文名称
+中文译名
+
+
+Minecraft
+Minecraft（不翻译）
+
+
+Alpha
+Alpha（不翻译）
+
+
+Indev
+Indev（不翻译）
+
+
+Infdev
+Infdev（不翻译）
+
+
+Beta
+Beta（不翻译）
+
+
+Classic
+Classic（不翻译）
+
+
+Pocket Edition
+携带版
+
+
+Development versions / prerelease
+预览版本
+
+
+(Weekly) Snapshot
+（每周）快照
+
+
+Official game
+正式版
+
+
+Upcoming features
+未来展望
+
+
+Pocket Edition upcoming features
+携带版未来展望
+
+
+
+游戏内各数据值
+
+
+英文名称
+中文译名
+
+
+Block ID
+方块 ID
+
+
+Data Values
+数据值
+
+
+Damage Values
+损害值
+
+
+Item ID
+物品ID
+
+
+Entity ID
+实体ID
+
+
+Biome ID
+生物群系ID
+
+
+Data
+数据
+
+
+Block Entity
+方块实体值
+
+
+
+生物群系
+
+
+号码
+生物群系
+中文译名
+变种号码
+变种名
+变种译名
+
+
+0
+Ocean
+海洋
+N/A
+N/A
+
+
+
+1
+Plains
+草原
+129
+Sunflower Plains
+向日葵草原
+
+
+2
+Desert
+沙漠
+130
+Desert M
+沙漠 M
+
+
+3
+Extreme Hills
+峭壁
+131
+Extreme Hills M
+峭壁 M
+
+
+4
+Forest
+森林
+132
+Flower Forest
+繁花森林
+
+
+5
+Taiga
+针叶林
+133
+Taiga M
+针叶林 M
+
+
+6
+Swampland
+沼泽
+134
+Swampland M
+沼泽 M
+
+
+7
+River
+河流
+N/A
+N/A
+
+
+
+8
+Hell
+地狱（下界）
+N/A
+N/A
+
+
+
+9
+Sky
+空岛（末地）
+N/A
+N/A
+
+
+
+10
+FrozenOcean
+冻洋
+N/A
+N/A
+
+
+
+11
+FrozenRiver
+冻河
+N/A
+N/A
+
+
+
+12
+Ice Plains
+冰原
+140
+Ice Plains Spikes
+冰刺平原
+
+
+13
+Ice Mountains
+雪山
+N/A
+N/A
+
+
+
+14
+MushroomIsland
+蘑菇岛
+N/A
+N/A
+
+
+
+15
+MushroomIslandShore
+蘑菇岛岸
+N/A
+N/A
+
+
+
+16
+Beach
+沙滩
+N/A
+N/A
+
+
+
+17
+DesertHills
+沙漠山丘
+N/A
+N/A
+
+
+
+18
+ForestHills
+森林山丘
+N/A
+N/A
+
+
+
+19
+TaigaHills
+针叶林山丘
+N/A
+N/A
+
+
+
+20
+Extreme Hills Edge
+悬崖
+N/A
+N/A
+
+
+
+21
+Jungle
+丛林
+149
+Jungle M
+丛林 M
+
+
+22
+JungleHills
+丛林山丘
+N/A
+N/A
+
+
+
+23
+JungleEdge
+丛林边缘
+151
+JungleEdge M
+丛林边缘 M
+
+
+24
+Deep Ocean
+深海
+N/A
+N/A
+
+
+
+25
+Stone Beach
+石滩
+N/A
+N/A
+
+
+
+26
+Cold Beach
+寒冷沙滩
+N/A
+N/A
+
+
+
+27
+Birch Forest
+桦木森林
+155
+Birch Forest M
+桦木森林 M
+
+
+28
+Birch Forest Hills
+桦木森林山丘
+156
+Birch Forest Hills M
+桦木森林山丘 M
+
+
+29
+Roofed Forest
+黑森林
+157
+Roofed Forest M
+黑森林 M
+
+
+30
+Cold Taiga
+冷针叶林
+158
+Cold Taiga M
+冷针叶林 M
+
+
+31
+Cold Taiga Hills
+冷针叶林山丘
+N/A
+N/A
+
+
+
+32
+Mega Taiga
+大型针叶林
+160
+Mega Spruce Taiga
+红木森林
+
+
+33
+Mega Taiga Hills
+大型针叶林山丘
+161
+Mega Spruce Taiga Hills
+红木山丘
+
+
+34
+Extreme Hills+
+峭壁+
+162
+Extreme Hills+ M
+峭壁+ M
+
+
+35
+Savanna
+热带草原
+163
+Savanna M
+热带草原 M
+
+
+36
+Savanna Plateau
+热带高原
+164
+Savanna Plateau M
+热带高原 M
+
+
+37
+Mesa
+平顶山
+165
+Mesa (Bryce)
+平顶山（岩柱）
+
+
+38
+Mesa Plateau F
+平顶山高原 F
+166
+Mesa Plateau F M
+平顶山高原 F M
+
+
+39
+Mesa Plateau
+平顶山高原
+167
+Mesa Plateau M
+平顶山高原 M
+
+
+
+结构
+
+
+英文名称
+中文译名
+
+
+Hills
+山丘
+
+
+Floating "Islands"
+浮“岛”
+
+
+Lakes
+湖泊/湖
+
+
+Springs
+山泉/岩浆泉
+
+
+Trees
+树木/树
+
+
+Huge Mushrooms
+巨型蘑菇
+
+
+Caverns
+洞穴
+
+
+Mineral Veins
+矿脉
+
+
+Dungeons
+地牢
+
+
+Rivers
+河流/河
+
+
+Beaches
+沙滩
+
+
+NPC Villages
+NPC村庄（无空格）
+
+
+Ravines
+峡谷
+
+
+Abandoned Mine Shafts
+废弃矿井
+
+
+Strongholds
+要塞
+
+
+Desert Wells
+沙漠水井
+
+
+Oceans
+海洋/海
+
+
+Cliffs
+悬崖
+
+
+Extreme Hills
+峭壁
+
+
+Mountains
+山脉
+
+
+Lava Sea
+岩浆海
+
+
+Nether Fortresses
+下界要塞
+
+
+Obsidian Spikes
+黑曜石尖塔
+
+
+Swamp Huts
+沼泽小屋
+
+
+
+其他
+
+
+英文名称
+中文译名
+
+
+Biome
+生物群系
+
+
+Stronghold
+要塞
+
+
+Abandoned Mineshaft
+废弃矿井
+
+
+Dungeon
+地牢
+
+
+The Nether
+下界/地狱
+
+
+Overworld
+主世界
+
+
+The End
+末路之地
+
+
+Block
+方块
+
+
+Item
+物品
+
+
+Mob
+生物
+
+
+Entities
+实体
+
+
+Spawn
+生成
+
+
+Smelt（概括）
+Smelt（矿物）
+Smelt（普通）
+Smelt（食物）
+烧炼
+冶炼
+烧制
+烹饪
+
+
+
+
+英文名称
+中文译名
+
+
+Farming
+耕种/种植
+
+
+Enchantment
+魔咒
+
+
+Enchantability
+可附魔性
+
+
+food Saturation Level
+食物饱和度
+
+
+Trivia
+你知道吗
+
+
+Inventory
+物品栏
+
+
+See also
+另见
+
+
+Reference
+参考
+
+
+Chunk
+区块
+
+
+Version History
+历史记录
+
+
+Texture
+材质
+
+
+Oak Wood
+橡木
+
+
+Pine/Spruce Wood
+松木/云杉
+
+
+Birch Wood
+桦木
+
+
+Collision Box/
+Hitbox
+碰撞箱
+
+
+
+
+英文名称
+中文译名
+
+
+Jungle Wood
+丛林木
+
+
+Gallery
+画廊
+
+
+Damage Value
+损害值
+
+
+Fireball
+火球（通称）
+
+
+Ghast Fireball
+恶魂火球
+
+
+Blaze Fireball
+烈焰人火球（本体为火焰弹）
+
+
+Void
+虚空
+
+
+Game Mode
+游戏模式
+
+
+Superflat
+超平坦(世界)
+
+
+Sprinting
+疾跑
+
+
+Splash (text)
+闪烁标语
+
+
+Heads-up display (HUD)
+抬头显示器/平视显示器/HUD（常用HUD）
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki:译名标准化&amp;oldid=107426”					
+								
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															项目页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															查看源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年3月7日 (星期一) 01:05。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

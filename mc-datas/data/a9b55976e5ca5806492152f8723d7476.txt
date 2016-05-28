@@ -1,0 +1,532 @@
+
+
+
+
+Realms - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Realms
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的部分内容由于太久没更新而已过期。
+你可以帮助我们来更新此页面
+
+
+
+
+Minecraft Realms
+
+
+
+
+
+主机
+
+Mojang
+
+
+
+Realms库文件版本
+
+Beta 1.6.1
+
+
+
+支持
+
+realms@mojang.com
+
+
+
+网站
+
+http://minecraft.net/realms
+
+
+
+
+Minecraft Realms是一个允许没有创建服务器知识的人创建和管理一个公共服务器而正在开发的新功能。Realms不仅为创立者提供了一种简单快捷的搭设Minecraft服务器的方式，更为其提供了更多的操纵空间。然而，Realms本身仅仅是作为朋友之间的服务器而存在的，而并不是构建一个大型服务器。
+此服务需要购买来使用。价格为 £5.59/€7.19/$7.99/月（约合52人民币元/月,因实时汇率而波动）
+
+
+
+目录
+
+
+1 配置要求
+2 使用Realms
+3 可用的地图和模板
+
+3.1 小游戏地图
+3.2 模板/冒险地图
+
+
+4 历史
+5 你知道吗
+6 参考
+
+
+
+配置要求[编辑 | 编辑源代码]
+Realms只能为满足以下条件的设备与玩家服务：
+
+你必须有Mojang账户
+你需要一个已付费版本的Minecraft
+你必须要有互联网连接
+你的年龄必须超过十三岁才能加入Realms
+
+使用Realms[编辑 | 编辑源代码]
+
+主条目： 教程/菜单屏幕#Minecraft Realms
+
+请在上面的链接链入的页面学习如何使用Realms。
+可用的地图和模板[编辑 | 编辑源代码]
+在Realms服务中，用户可以选择暂时“退出”他们的生存地图，而打开一个“小游戏”或以一个地图模板或者冒险地图替换生存地图。
+小游戏地图[编辑 | 编辑源代码]
+
+SethBling制作的Pizzaspleef
+Jespertheend制作的Bloxorz
+Xisuma和Eease制作的Diamond Defender
+AKAMc制作的Knockback Madness
+SethBling和Cubehamster制作的Missile Wars
+Musclecraft制作的Color Cube
+ZipKrowd制作的Ice Runner
+JesperTheEnd制作的Solitaire
+K1ll1er、Huntondoom、Quazymoodo和ChrisBambii制作的TNT Run
+K1ll1er、Huntondoom、Quazymoodo和ImLeeRii制作的Memory Battle
+SethBling制作的Splatter
+Twitchnitr0制作的Sharks Vs Steve
+CitrioN和Xisuma制作的Point Runner
+Brutec制作的Zomberman
+slicedlime制作的Build-off Parkour
+samasaurus6、buckingirl4和MineyCow制作的Labyrinth
+slicedlime制作的Bubble Shooter
+WireSegal和TheDestruc7i0n制作的SunBurn Reforged
+Kanoc制作的CastleRise: Brother's Feud
+
+模板/冒险地图[编辑 | 编辑源代码]
+
+Vechs制作的Spellbound Caves
+Qmagnet制作的Diversity 2
+Blockworks制作的Winter Stronghold
+Blockworks制作的Raider's Refuge
+
+历史[编辑 | 编辑源代码]
+
+
+正式版本
+
+
+1.5
+13w09b
+添加了MinecraftRealms
+
+
+仅对100名beta测试者开放。
+
+
+1.5.1
+13w11a
+对Realms做出了一些修改
+
+
+1.6.4
+选取了新的beta测试者，使用的是和第一轮同样的算法
+
+
+1.7.4
+13w47a
+修改了配置屏幕，在Realms消息的旁边添加了拥有者的脸
+
+
+1.7.5
+功能小游戏功能
+
+
+1.7.6
+能够为自己的Realms添加管理员了
+
+
+添加“回退到上次的备份”功能
+
+
+1.7.10
+将所有领域相关的服务器模块移到一个单独的库中
+
+
+1.8.8
+能够在Realms中添加服务器资源包
+
+
+1.8.9
+在主菜单上添加提示，会在有人邀请你时显示。可以再设置中关闭
+
+
+在Realms主界面中添加一个介绍界面
+
+
+携带版（Alpha）
+
+
+0.7.0
+添加了携带版Realms仅对beta测试者开放。
+
+
+0.7.2
+修复了Realms的一些漏洞
+
+
+0.7.6
+修复了Realms的一些漏洞
+
+
+Play on Realms按钮从主菜单移到了选项菜单，而Invited to Realms Alpha?则代替了它的位置。能进入Realms的账号仍有Play on Realms在他们的主菜单内。
+
+
+0.8.0
+漏洞：玩家可以登入Realms，但在重启游戏时会注销。
+
+
+0.8.1
+修复了上方的漏洞。
+
+
+0.10.0
+从游戏中刪除。
+
+
+0.15.0
+重新加入游戏中，需要Xbox Live帐号
+
+
+你知道吗[编辑 | 编辑源代码]
+
+自每周快照13w09b开始，Mojang博客中的签名由先前的"// The Minecraft team"替换为"// The Minecraft and Minecraft Realms teams"。[1]
+
+参考[编辑 | 编辑源代码]
+
+↑ http://www.mojang.com/2013/02/minecraft-snapshot-13w09a
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Realms&amp;oldid=115778”					
+				分类：待更新条目				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語NederlandsPolskiРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月10日 (星期二) 05:51。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

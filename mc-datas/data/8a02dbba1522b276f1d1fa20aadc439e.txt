@@ -1,0 +1,754 @@
+
+
+
+
+PlayStation 4版 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			PlayStation 4版
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的（部分）内容需要被翻译。
+你可以帮助我们来翻译此页面
+
+
+
+该文章是关于PlayStation 4版的。  关于广义的主机版，请参阅主机版。  关于通常所说的“游戏”，请参阅Minecraft。
+
+
+
+该页面仍需完善。
+请您帮助我们扩充内容.
+
+
+
+
+PlayStation 4版
+
+
+
+
+
+开发作者
+
+ Mojang AB
+ 4J Studios
+
+
+
+运行平台
+
+ PlayStation 4
+
+
+
+编写语言
+
+C++
+
+
+
+最新版本
+
+1.26
+
+
+
+发布日期
+
+数字版 - PSN
+2014年9月5日
+实体 - 蓝光光盘
+2014年10月3日
+
+
+
+年龄分级
+
+ESRB：E10+
+PEGI:7+
+GSRR：辅导级（12+）
+CERO: 全年龄
+GRB: All
+
+
+
+程序大小
+
+215 MB
+
+
+
+授权协议
+
+私有
+
+
+
+开源情况
+
+否
+
+
+
+外部链接
+
+
+Playstation Store页面
+
+
+
+
+
+Minecraft: PlayStation 4 Edition（或Minecraft: PS4 Edition）是PlayStation 4版本的Minecraft，由4J Studios为Mojang开发。[1]。
+Minecraft: PlayStation 4版被在2013年于Gamescom的索尼展台宣布。[2]像其他PS4平台上的游戏一样，PS4版也可以通过Remote Play在PlayStation Vita上进行游戏。它在2014年9月4日被发布。
+Gameplay[编辑 | 编辑源代码]
+The game is similar to the PlayStation 3 Edition, but supports the enhancements offered by the PlayStation 4 (increased view distance, Large worlds (worlds 36 times larger - effectively 2500x2500 blocks) and DualShock 4 touchpad support).
+
+参考[编辑 | 编辑源代码]
+
+↑ 4J Studios, "Happy to confirm we're developing Minecraft PS3, PS4 &amp; PS Vita Editions for Mojang, as well as Xbox 360 &amp; Xbox One Editions!", Twitter, 2013-08-21.
+↑ Dinnerbone, "Minecraft was just announced for Playstation 3 &amp; 4!…", Twitter, 2013-08-20.
+
+
+
+ 主机版
+
+
+平台版本
+
+
+ Xbox 360版
+ Xbox One版
+ PlayStation 3版
+ PlayStation 4版
+ PlayStation Vita版
+ Wii U版
+
+
+
+
+开发
+
+
+版本记录
+未来展望
+独有特性
+已移除特性
+
+
+
+
+技术性
+
+
+已知漏洞
+
+
+
+
+独有特性
+
+
+分屏
+教程
+
+地点
+
+
+
+
+
+DLC
+
+
+皮肤包
+混搭套件
+材质包
+
+
+
+
+世界类型
+
+
+典型
+小
+中
+大
+下界超平坦
+
+
+
+
+方块/物品
+
+
+刷怪蛋
+
+驴
+骡
+
+
+
+
+
+
+实体
+
+
+ 末影酸
+
+
+
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=PlayStation_4版&amp;oldid=112124”					
+				分类：待翻译条目StubMinecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolNederlandsPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月16日 (星期六) 17:08。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

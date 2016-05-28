@@ -1,0 +1,979 @@
+
+
+
+
+minecraft.net - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			minecraft.net
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+Minecraft.net是Minecraft的官网。 它使得用户得以登陆、游戏或购买这个游戏，他提供了密切相关的网站的链接（包括Minecraft Wiki），同时，也是玩家们下载启动器的地方。
+
+
+
+目录
+
+
+1 页面
+
+1.1 主页
+1.2 游戏
+1.3 开始
+1.4 制作人员
+1.5 相关
+1.6 商店
+1.7 档案
+1.8 奖励
+1.9 兑换
+1.10 服务器列表
+1.11 便携版
+
+
+2 其他页面
+
+2.1 Mojang支持中心
+
+
+3 开发者链接
+
+
+
+页面[编辑 | 编辑源代码]
+minecraft.net现在有十个页面。第7个页面“Profile”会在登陆后显示。在所有页面顶部都有一个最新新闻链接用来显示Minecraft的最新新闻。下面列举了这些页面：
+主页[编辑 | 编辑源代码]
+http://minecraft.net/
+minecraft.net的主页包括了Minecraft的LOGO和“Official Minecraft Trailer”YouTube视频。视频下方是一段非常短小的关于Minecraft的说明。页面左侧是一张Minecraft图片，描述的是一个拿着石镐的玩家站在一头猪和一只羊。
+
+
+
+主页也包含了Minecraft的Facebook部件，就像一个Minecraft升级新闻框，那在2012年五月代替了Notch新闻框和Jeb的推文。
+游戏[编辑 | 编辑源代码]
+http://minecraft.net/game
+这页的文字有助于人们进一步了解这个游戏以及这个游戏的起源。它同样提供了关于Notch今后会如何更新游戏的猜测。
+这个页面有两个子页面："开始"和"开发人员"
+开始[编辑 | 编辑源代码]
+http://minecraft.net/game/howtoplay
+你可以通过点击Game→Getting started来进入此页面，这个帮助页面有多个教您如何渡过第一个夜晚以及有关Minecraft基础的视频，这个页面意在帮助新的Minecraft玩家
+制作人员[编辑 | 编辑源代码]
+http://minecraft.net/game/credits 包含了Minecraft的作者。
+相关[编辑 | 编辑源代码]
+http://minecraft.net/community
+这个页面存在许多通往Minecraft网站的链接和Notch的Twitter等等
+商店[编辑 | 编辑源代码]
+http://minecraft.net/store
+你可以在这里购买Minecraft各种平台版本的游戏，或购买Minecraft的周边产品，例如T恤衫、实物版铁镐、圆石便签等等。
+档案[编辑 | 编辑源代码]
+http://minecraft.net/profile
+注意：这个页面只会在登陆后显示。 档案页包含一个皮肤更改器，一个更改密码的选项以及一个礼品码部分。
+奖励[编辑 | 编辑源代码]
+http://www.minecraft.net/store/loot.jsp
+这个页面只是在2011年的愚人节的一个玩笑
+注意：这个页面已被移除。
+兑换[编辑 | 编辑源代码]
+http://minecraft.net/user/redeem
+注意：这个页面不出现在顶端导航栏中。
+包含兑换礼品码的选项
+服务器列表[编辑 | 编辑源代码]
+http://minecraft.net/classic/list
+注意：这个页面不出现在顶端导航栏中。
+包含服务器的信息，以及基于MinecraftClassic的服务器列表
+便携版[编辑 | 编辑源代码]
+http://minecraft.net/pocket
+注意：这个页面不出现在顶端导航栏中。
+简单的关于 携带版 的信息。
+其他页面[编辑 | 编辑源代码]
+Mojang支持中心[编辑 | 编辑源代码]
+http://help.mojang.com/
+注意：这个页面由www.minecraft.net/support改为以上链接。
+你可以通过minecraft.net顶端的'Help'进入此页面。里面包含对于一些经常提到的问题的解答。这个页面同时包含关于Minecraft的服务器帮助（例如：如何登陆服务器，多人游戏服务器和更多），但是仅是PC的帮助。
+开发者链接[编辑 | 编辑源代码]
+开发者链接是使用谷歌查找关键词： "site:minecraft.net"得来的 (同时也发表在 minecraftforum.):
+
+http://assets.minecraft.net/&lt;版本&gt;/&lt;文件名&gt;
+
+用于下载客户端的资源，例如 minecraft.jar.
+
+
+http://www.minecraft.net/haspaid.jsp?user=&lt;用户名&gt;
+
+检查一个账号是否为会员，如果是会员则返回'True'，如果返回'False'则反之。
+
+
+http://session.minecraft.net/game/getversion.jsp?user=&lt;用户名&gt;&amp;password=&lt;密码&gt;&amp;version=12
+或
+http://login.minecraft.net/?user=&lt;用户名&gt;&amp;password=&lt;密码&gt;&amp;version=12
+或
+https://login.minecraft.net/?user=&lt;用户名&gt;&amp;password=&lt;密码&gt;&amp;version=12
+
+Minecraft的启动器使用这个来验证登录信息，如果用户名和密码被验证为会员账号，则会返回 "&lt;UNIX时间 time&gt;:&lt;密码的哈希值&gt;:&lt;有正确大小写的用户名&gt;:&lt;生成的会话ID&gt;:"。如果用户名和密码不正确，则返回"Bad login"，如果用户名和密码是正确的，但账号并非会员，则返回"User not premium"。如果给出的"Version number"小于12，则返回"Old version"。用户名并不区分大小写，但当然，密码区分大小写。
+同样有可能有原因导致此页面出现问题，查看Breaking getversion.jsp以获得更多信息
+
+
+http://session.minecraft.net/game/joinserver.jsp?user=&lt;用户名&gt;&amp;sessionId=&lt;会话ID&gt;
+
+这个链接似乎在连接一个在线模式的服务器的时候被使用，用以判断是否允许玩家进入游戏。会话ID是在你登录时被启动器生成（你也可以通过上面的"getversion.jsp"生成），如果你给出的会话ID是为此账号最后一次生成的会话ID的话，此链接会返回"OK"，反之则会返回"Bad login"。
+
+http://minecraft.net/profile/skin/remote?url=&lt;链接图片&gt;
+
+引导玩家进入一个让玩家确认是否将其皮肤切换为&lt;链接图片&gt;的页面
+
+http://s3.amazonaws.com/MinecraftSkins/&lt;用户名&gt;.png
+
+将链接中的用户名的皮肤显示出来，如果用户名不存在，则返回一个"XML access denied"页面R
+
+http://s3.amazonaws.com/MinecraftCloaks/&lt;用户名&gt;.png
+
+显示披风，与上一条基本相同
+
+http://s3.amazonaws.com/MinecraftDownload
+
+返回一个最新的可以被下载的游戏文件的列表。Minecraft启动器使用这个链接来更新。
+
+
+http://www.minecraft.net/heartbeat.jsp?port=27015&amp;users=0&amp;max=0&amp;name=blah&amp;public=false&amp;version=7&amp;salt=1234123412341234
+
+这是创建服务器列表的最类似的形式，但是参数是如何设置的仍属未知（并未从由谷歌页面找到链接中更改），但是你可以猜出来一些参数。会给出一个前往服务器页面的链接（仍未完全知晓链接中参数的设置会对结果有何影响）
+
+http://launch.minecraft.net/test.html
+
+Mojang对于制作的新启动器的测试页面，在浏览器中运行一些处理，然后新版的启动器会被下载到/.minecraft/launcher中的launcher.jar（测试版启动器和目前的启动器的唯一的已知差别是LOGO）
+
+
+http://launch.minecraft.net/join.html?serverip=&lt;服务器IP&gt;
+
+这个链接是未来Minecraft的新功能。只需要打开这个页面，系统就会自动运行Minecraft并加入此服务器，如果你的Minecraft已经运行，Minecraft会询问你是否加入此服务器，当你进入此连接时，自己看看吧。
+
+
+https://login.minecraft.net/benchmark.jsp
+
+很明显是一个搞笑的页面，上面说它正在三角测量一个卫星并将信息传回Mojang，但是查看源文件就可以知道这仅仅只是一个动画而已。 目前为404 not found状态。
+
+https://minecraft.net/_502.png
+ 或
+ http://minecraft.net/_502.png 
+
+包含一个当minecraft.net正在更新时显示的图片。
+
+https://minecraft.net/_504.png
+ 或
+ http://minecraft.net/_504.png 
+
+包含一个当minecraft.net过载宕机时显示的图片。
+
+
+官方资源
+
+
+Mojang 网站
+
+
+
+网站
+
+
+主页
+Realms网站
+树莓派版博客
+携带版测试博客
+Minecraft与教学网站
+红石网站
+Hopper（崩溃列表）网站
+
+
+
+
+其它网站
+
+
+Mojang博客
+PlayCobalt.com
+Scrolls.com
+Mojang客服
+Mojira（Mojang漏洞追踪）
+
+Mojira Reddit
+
+
+MCUpdate
+Pig Tales
+Mojam
+Minecraft Windows 10 Edition Beta反馈网站
+
+
+
+
+社交网络
+
+
+Mojang Twitter
+
+Mojang雇员列表
+
+
+Mojang YouTube
+Minecraft Facebook
+
+
+
+
+社区网站
+
+
+Minecraft Reddit
+
+Minecraft建议 Reddit
+Minecraft Realms Reddit
+
+
+esper.net上的#Minecraft
+
+esper.net上的#minecrafthelp
+
+
+
+
+
+
+过去的网站
+
+
+Mojang's Get Satisfaction
+The Word of Notch
+
+
+
+
+
+
+
+4J Studios网站
+
+
+4JStudios.com
+4J Studios Twitter
+4J Studios YouTube
+
+
+
+
+Telltale Games网站
+
+
+TelltaleGames.com
+MinecraftStoryMode.com
+Telltale Games Twitter
+Telltale Games Facebook
+Telltale Games YouTube
+
+
+
+
+Block by Block网站
+
+
+BlockbyBlock.org
+捐助
+
+
+
+
+Curse.com网站
+
+
+Minecraft Forums
+Minecraft Wiki
+Scrolls Wiki
+Cobalt Wiki
+
+
+
+
+Mojang雇员
+
+
+
+游戏开发
+
+
+Nathan Adams (Dinnerbone)
+Tomas Alaeus
+Jens Bergensten (Jeb)
+Erik Broes (Grum)
+Shoghi Cervantes
+Tommaso Checchi
+Thomas Guimbretiere (ProfMobius)
+Jon Kågström
+Aron Nieminen
+Måns Olson
+Michael Stoyke (Searge)
+Daniel Wustenhoff‎
+
+
+
+
+商务职员
+
+
+Isabella Balk
+Vu Bui
+Brynjólfur Erlingsson (Binni)
+Patrick Geuder
+Owen Hill (Bopogamel)
+Daniel Kaplan (Kappische)
+Lisa Kempe
+Marina Kostesic
+Jonas Mårtensson
+Karin Severinson
+Lydia Winters (MinecraftChick)
+Aleksandra Zajac (Marzenia)
+
+
+
+
+美工职员
+
+
+Mattis Grahm (BomuBoi)
+Martin Johansson
+Ninni Landin
+Henrik Pettersson (carnalizer)
+Jonatan Pöljö (eldrone)
+Markus Toivonen (junkboy)
+
+
+
+
+网络开发
+
+
+Pär Axelsson
+Daniel Frisk
+Leonard Gram (xlson)
+Kristoffer Jelbring
+David Marby (NeonMaster)
+Amir Moulavi
+Martin Odhelius
+Tomas Sommar
+Philip Vieira (Zee)
+Marc Watson
+
+
+
+
+客户支持
+
+
+Andreas Andersson
+Elli Ashrafi
+David Stuart Dahlgren
+Nasim Derakhshan
+Sarah Mårtensson
+Hampus Nilsson
+Josefin Olsson
+Adrian Östergård
+Mattias Victorin
+
+
+
+
+品牌维护
+
+
+Matilda Åkerman
+Brandon Andersson
+Mathias Andersson
+Talia Grunt
+Anna Klingberg
+Karl Lowry
+Olle Personne
+Milla Stone
+
+
+
+
+签约实体
+
+
+57Digital
+Garry Lucken
+Nikolaj Nyholm
+Daniel Rosenfeld (C418)
+Paul Spooner
+Kristoffer Zetterstrand
+
+
+
+
+已离职
+
+
+Anton Albiin
+Siri Hoel Andersson
+Johan Bernhardsson
+Poi Poi Chen
+Nathan Gilbert (Tahg)
+Ryan Holtz (TheMogMiner)
+Linn Hultman
+Andreas Jörgensen (Hideous)
+Joe Liu (Noirceuil)
+Warren Loo (EvilSeph)
+Tobias Möllstam
+Carl Manneh
+Markus Persson (Notch)
+Jakob Porsér (JahKob)
+Hayden Scott-Baron (Dock)
+Mike Till (ClayHero)
+Bella (Broontoo)
+
+
+
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Minecraft.net&amp;oldid=116973”					
+				分类：MinecraftMojang AB				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishFrançaisPolskiРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月17日 (星期二) 13:31。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

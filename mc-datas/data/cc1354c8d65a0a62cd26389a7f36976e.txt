@@ -1,0 +1,1612 @@
+
+
+
+
+Mojang AB - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Mojang AB
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+Mojang AB
+
+
+
+
+
+类型
+
+子公司
+
+
+
+创始人
+
+Markus Persson、Jakob Porsér和Carl Manneh
+
+
+
+创始日期
+
+2009年
+
+
+
+总部位于
+
+瑞典斯德哥尔摩,
+
+
+
+核心人物
+
+Markus Persson、Jens Bergensten
+
+
+
+产品
+
+Minecraft、Scrolls和Cobalt
+
+
+
+上级机构
+
+Microsoft Studios
+
+
+
+链接
+
+
+网站
+
+
+
+
+注释
+成立者不再在此公司工作
+
+
+
+Mojang AB（完整瑞典文名称： Mojäng Aktiebolag——意思为"小工具有限公司")，发音为/mʊˈjɛŋ/[1]（muu-YENG，亩~~伊恩）还可以发/Mojzan/， 其前身为Mojang Specifications，是一个创造和开发Minecraft和一些其他游戏的独立股份制公司。它由Markus Persson，Jakob Porsér，和Carl Manneh创立。位于瑞典的斯德哥尔摩（Stockholm, Sweden），Mojang目前有40位员工。[2]2014年9月15日，Mojang公司以及Minecraft被微软公司以25亿美元的价格收购。
+
+
+
+目录
+
+
+1 员工
+
+1.1 现任员工
+1.2 已签约员工
+1.3 离任员工
+
+
+2 其它游戏
+
+2.1 Scrolls
+2.2 Cobalt
+2.3 0x10c
+
+
+3 画廊
+4 注释
+5 参考
+6 外部连接
+
+
+
+员工[编辑 | 编辑源代码]
+
+
+
+
+
+第一行，由左至右：Markus Persson(已离职)， Jens Bergensten， Daniel Kaplan， Junkboy， Jakob Porsér， Carl Manneh， Tobias Möllstam， Aron Nieminen
+第二行，由左至右： Daniel Frisk， Mattis Grahm， Lydia Winters， Henrik Pettersson， Leonard Axelsson， Jon Kågström， Kristoffer Jelbring， Marc Watson。
+最后一行 ，由左至右：Karin Severinson, Erik Broes, Nathan Adams, Måns Olson, Patrick Geuder
+
+
+
+该图不包括的员工： Mathias Andersson, Vu Bui, Tommaso Checchi, Nasim Derakhshan, Owen Hill, Lisa Kempe, Anna Klingberg, David Marby, Jonas Mårtensson, Hampus Nilsson, Martin Odhelius, Jonatan Pöljö, Tomas Sommar, Michael Stoyke, Aleksandra Zajac, Pär Axelsson, Olle Personne, Matilda Åkerman, Sarah Mårtensson, David Stuart Dahlgren, Shoghi Cervantes, Brandon Andersson, Talia Grunt, Milla Stone, Karl Lowry, Daniel Wustenhoff, Tomas Alaeus, Marina Kostesic, Andreas Andersson Mattias Victorin, Brynjólfur Erlingsson, Isabella Balk, Thomas Guimbretière, Elli Ashrafi, Josefin Olsson, Adrian Östergård, Martin Johansson, Ninni Landin, Philip Vieira, Olof Carlson,Christian Westman, Stefan Torstensson, 和Marsh Davies.
+现任员工[编辑 | 编辑源代码]
+
+
+名称
+虚拟形象
+职位:
+help.mojang.com[2]
+mojang.com/about[3]
+喜爱的游戏
+特殊能力
+Twitter
+注释
+关于：Mojang AB：员工[注释 1]
+
+
+Jens 'jeb_' Bergensten
+
+Minecraft的主程序员/设计师
+游戏开发者
+星际争霸，毁灭战士2，莫回首（Don’t Look Back）
+用筷子吃奶酪面条的能力
+@jeb_
+他是Reddit用户！
+趣事#328：他下唇下方的胡子比脸部其它毛发颜色要亮。
+
+
+Daniel 'Kappische' Kaplan
+
+业务开发员
+Minecraft携带版的业务开发员和开发者
+街头霸王IV，俄罗斯方块DS，塞尔达传说：众神的三角力量/时空隧道
+快速打字的能力
+@Kappische
+
+他的Skype头像看起来像一个海盗。
+
+
+Markus 'Junkboy' Toivonen
+
+艺术开发
+美术总监
+荒野双枪，合金弹头，烈火战车
+在照片与影像上留下马赛克来隐藏身份的能力
+@jnkboy
+非常神秘。
+有些人甚至认为他根本不存在。
+
+
+Jakob Porsér
+
+Mojang的创办人，Scrolls.com的主程序员/设计师
+游戏开发者
+X-Com 2，魔法大帝，暗黑破坏神2
+递归循环的能力
+@JahKob
+除了Minecraft以外还会制作另一个游戏（“Scrolls”）。
+他的裤子是反重力的，背带裤的背带也一样。
+
+
+Carl Manneh
+
+Mojang的创始人和CEO
+老板
+FIFA 10，生化危机，俄罗斯方块
+克隆自己的能力
+@carlmanneh
+曾是Notch的老板
+他的姓（Manneh）听上去很像“money”(钱)，而他同时也是Mojang的商业人员。巧合？
+
+
+Tobias Möllstam
+
+网页开发员
+正义之力
+
+开发大网捕获顾客的能力
+@mollstam
+
+有一天他想把失败吃掉，然后把成功吐出来。千真万确。
+
+
+Aron Nieminen
+
+Minecraft携带版的主程序员
+游戏开发员
+
+
+没有
+他特别开朗。
+他的头发好像一顶蓝色羊毛帽子。
+
+
+Daniel Frisk
+
+总设计师
+
+
+@danfrisk
+
+他从不在星期五工作。
+
+
+Mattis 'BombBoy' Grahm
+
+美工
+
+时间旅行的能力
+@BomuBoi
+
+
+
+
+Lydia 'MinecraftChick' Winters[4]
+
+快乐的开发员
+Minecraft，俄勒冈之旅
+一头明亮的头发
+@LydiaWinters
+Minecraft是她玩的第二个电子游戏。
+
+
+
+Henrik 'Carnalizer' Pettersson
+
+美工
+棋盘游戏，战略游戏，军团要塞2，半条命，Minecraft
+拖拉的能力天下一绝
+@carnalizer
+他是在Mojang从事最久的。
+
+
+Leonard 'xlson' Axelsson[5]
+
+网页开发员
+
+能够背诵字母表的能力
+@xlson
+
+
+
+
+Jon Kågström
+
+Minecraft的程序员
+游戏开发员
+
+
+@jonkagstrom
+曾在DICE工作，给《战地》系列写人工智能。
+
+
+
+Kristoffer Jelbring[6]
+
+网页开发员
+
+成为Mojang非正式DJ的能力
+@KrisJelbring
+
+
+
+
+Marc Watson
+
+客户服务部门经理
+Minecraft，质量效应，光晕，上古卷轴
+即兴表演喜剧的能力
+@Marc_IRL
+创建了Minecraft马拉松[7]
+
+
+
+Karin Severinson
+
+财务人员
+
+
+@KarinSeverinson
+
+
+
+
+Anton Albiin
+
+客服人员
+
+
+@EttGlasVatten
+
+
+
+
+Mathias Andersson
+
+客服人员
+
+
+@91maan90
+
+
+
+
+Mike Till
+
+客服人员
+
+美军老兵
+@E_Claymore
+以前曾和Marc一起共事
+
+
+
+Warren 'EvilSeph' Loo
+
+Minecraft服务器开发员
+
+
+@evilseph
+他是Bukkit团队的成员
+
+
+
+Erik 'Grum' Broes
+
+Minecraft服务器开发员
+
+
+@_grum
+他是Bukkit团队的成员。
+
+
+
+Nathan 'Dinnerbone' Adams
+
+Minecraft服务器开发员
+
+
+@dinnerbone
+他是Bukkit团队的成员。
+
+
+
+Nathan 'Tahg' Gilbert
+
+Minecraft服务器开发员
+
+
+@tahgtahv
+他是Bukkit团队的成员。
+
+
+
+Måns Olson
+
+游戏开发者
+
+
+@MansOlson
+
+
+
+
+Johan Bernhardsson
+
+游戏开发者
+
+
+@jbernhardsson
+
+
+
+
+Patrick Geuder
+
+数据分析员
+
+
+@pgeuder
+
+
+
+
+
+
+名称
+虚拟形象
+职位:
+help.mojang.com[2]
+mojang.com/about[3]
+喜爱的游戏
+特殊能力
+Twitter
+注释
+关于Mojang AB：员工[注释 1]
+
+
+已签约员工[编辑 | 编辑源代码]
+
+
+名称
+职位
+Twitter
+注释
+
+
+Daniel 'C418' Rosenfeld
+为Minecraft制作音乐和音效。
+@C418
+有极高的自尊！
+
+
+Kristoffer Zetterstrand
+为Minecraft制作画。
+@Zetterstrand
+有一个关于他的Wikipedia的条目，而且Notch是他妹夫！
+
+
+Paul Spooner
+协助Minecraft的开发。
+@dudecon
+
+
+
+Nikolaj Nyholm
+他协助Mojang早期的业务发展。
+@nikolaj
+
+
+
+57Digital
+他是Minecraft Explorer，一个非官方Minecraft指导手册的开发者
+@57digital
+
+
+
+离任员工[编辑 | 编辑源代码]
+
+
+名称
+职位
+Twitter
+注释
+
+
+Hayden 'Dock' Scott Baron
+美工
+@Docky
+在2009年12月加入，[8]但却由于工作原因在2010年2月后离开。
+
+
+Andreas 'hideous' Jörgensen
+客服人员
+@hideous_
+
+
+
+Joe Liu
+客服人员
+@JoeBleh
+曾与Marc Watson共事。
+
+
+其它游戏[编辑 | 编辑源代码]
+Scrolls[编辑 | 编辑源代码]
+
+
+
+
+Scrolls
+
+
+Scrolls是由JahKob构思并开发的Mojang的游戏。消息于2011年3月2日对外公开。[9][10]本游戏致力于以战略类游戏的风格融合卡片游戏与传统桌面棋盘游戏的元素。Mojang里不知道还有谁在进行Scrolls的开发；但是，Notch已经表明他将把他的时间用于开发Minecraft。[11] 在2011年8月，Mojang被代表ZeniMax Media的律师团威胁，指控游戏标题"Scrolls"抄袭上古卷轴（scrolls和上古卷轴的英文名The Elder Scrolls有点相似），该游戏是由Bethesda Softworks（ZeniMax Media的附属公司）发布的系列角色扮演类游戏。在2011年10月中旬，法院判决Mojang胜诉[12]，一个Mojang员工将结果概述为“法院以我们的立场出发”。不会再有反对Mojang的行为了，并且"Scrolls"这个名字将会被保留。
+
+Cobalt[编辑 | 编辑源代码]
+
+
+
+
+Cobalt
+
+
+Cobalt由Oxeye Game Studio开发，Mojang发布的游戏。 Cobalt是一个"跑动，跳跃，翻滚，射击，投掷，舞蹈，翻滚，黑客，飞行，滑行，攀爬，抢劫，逆转，彩饰陶罐，过关，得分…还有更多的翻滚"的动作游戏！ Cobalt是用Lua编程的，并且今秋会发布出Windows版，Mac版和Linux版，而Windows版将会最先发布。[13]
+Cobalt主题曲:
+抱歉，您的浏览器禁用了JavaScript或没有任何可支持的播放器。
+您可以下载这个片段或下载一个播放器以在浏览器中播放片段。
+0x10c[编辑 | 编辑源代码]
+
+
+
+
+0x10c
+
+
+随着Notch在Minecraft开发方面工作的结束，Notch在2012年3月开始了一款侵入式虚拟现实互动游戏（ARG）的前期策划，本游戏虚拟了在遥远的太空发生的事。在愚人节，Mojang发布了一个讽刺火星效应的网页，该网页引用了Bethesda的诉讼并以此为灵感。[14]不过，这个游戏的消息是真的。在4月4日，Mojang揭示了沙盒游戏0x10c的标题。[15]Notch宣布已经停止对该游戏的开发。[来源请求]
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Mojang现在的logo。
+
+
+
+
+
+
+
+
+
+Mojang的旧logo。
+
+
+
+
+
+
+
+
+
+Mojang客服logo。
+
+
+
+
+
+
+
+
+
+Mojira (Mojang漏洞追踪)的logo。
+
+
+
+
+
+
+
+
+
+Mojang支持同性婚姻logo。
+
+
+
+
+
+
+
+
+
+Mojang页脚logo。
+
+
+
+
+
+
+
+
+
+旧Mojang页脚logo。
+
+
+
+
+
+
+
+
+
+旧的Mojang 特殊化logo。
+
+
+
+
+
+
+
+
+
+Mojang 特殊化的第一个logo。
+
+
+
+
+
+
+
+
+
+旧Mojang的闪烁logo，在Beta 1.3至Beta 1.8期间被使用。
+
+
+
+
+
+
+
+
+
+0x10c里出现的Mojang logo。
+
+
+
+
+
+
+
+
+
+M组，致力于开发游戏。
+
+
+
+
+
+
+
+
+
+穿着Mojang服装的Mojang员工。
+
+
+
+
+
+
+
+
+
+办公室里平常的一天。
+
+
+
+
+
+
+
+
+
+办公室里平常的另一天。
+
+
+
+
+
+
+
+
+
+Mojang披风。
+
+
+
+
+
+
+
+
+
+Minecraft普通的开发员。
+
+
+
+
+
+
+
+
+
+现实中的JahKob。
+
+
+
+
+
+
+
+
+
+现实中的Jeb。
+
+
+
+
+
+
+
+
+
+Junkboy。
+
+
+
+
+
+
+
+
+
+员工们在玩桌游。
+
+
+
+
+
+
+
+
+
+Mojang员工们在做自己的工作。
+
+
+
+
+
+
+
+
+
+Mojang的荣誉墙。
+
+
+
+
+
+
+
+
+
+Mojang卖的第一款衬衫，印着Mojang Specifications的经典logo。
+
+
+
+
+
+
+
+
+
+Mojang正在准备搬到一个更大的办公室。
+
+
+
+
+
+
+
+
+
+Mojang客服团队在球堆里欢度时光[16]
+
+
+
+
+注释[编辑 | 编辑源代码]
+
+↑ 1.0 1.1 这些来自于早已不存在的minecraft.net支持页面，这在之后被help.minecraft.net所替代，最终由help.mojang.com所替代。
+
+参考[编辑 | 编辑源代码]
+
+↑ http://en.wiktionary.org/wiki/mojäng
+↑ 2.0 2.1 2.2 http://help.mojang.com/customer/portal/articles/331367-employees
+↑ 3.0 3.1 http://www.mojang.com/about/
+↑ twitter:carlmanneh/status/117235758884073473
+↑ notchtweet:123295374076153856
+↑ notchtweet:149643862191783937
+↑ http://about.me/marcwatson
+↑ The Minecraft artist is Dock!
+↑ http://www.scrolls.com/
+↑ http://mojang.com/2011/03/02/introducing-our-new-game-scrolls/
+↑ notchtweet:42841614531575808
+↑ notchtweet:126196998826242048
+↑ http://mojang.com/games/
+↑ http://www.shadowlocked.com/201203312487/news/minecraft-creator-scores-april-fool-with-project-mars-effect.html
+↑ http://www.forbes.com/sites/alexknapp/2012/04/03/mojang-registers-website-for-its-new-game-0x10c/
+↑ https://twitter.com/Marc_IRL/status/347017493723901952
+
+外部连接[编辑 | 编辑源代码]
+官方网站
+
+
+官方资源
+
+
+Mojang 网站
+
+
+
+网站
+
+
+主页
+Realms网站
+树莓派版博客
+携带版测试博客
+Minecraft与教学网站
+红石网站
+Hopper（崩溃列表）网站
+
+
+
+
+其它网站
+
+
+Mojang博客
+PlayCobalt.com
+Scrolls.com
+Mojang客服
+Mojira（Mojang漏洞追踪）
+
+Mojira Reddit
+
+
+MCUpdate
+Pig Tales
+Mojam
+Minecraft Windows 10 Edition Beta反馈网站
+
+
+
+
+社交网络
+
+
+Mojang Twitter
+
+Mojang雇员列表
+
+
+Mojang YouTube
+Minecraft Facebook
+
+
+
+
+社区网站
+
+
+Minecraft Reddit
+
+Minecraft建议 Reddit
+Minecraft Realms Reddit
+
+
+esper.net上的#Minecraft
+
+esper.net上的#minecrafthelp
+
+
+
+
+
+
+过去的网站
+
+
+Mojang's Get Satisfaction
+The Word of Notch
+
+
+
+
+
+
+
+4J Studios网站
+
+
+4JStudios.com
+4J Studios Twitter
+4J Studios YouTube
+
+
+
+
+Telltale Games网站
+
+
+TelltaleGames.com
+MinecraftStoryMode.com
+Telltale Games Twitter
+Telltale Games Facebook
+Telltale Games YouTube
+
+
+
+
+Block by Block网站
+
+
+BlockbyBlock.org
+捐助
+
+
+
+
+Curse.com网站
+
+
+Minecraft Forums
+Minecraft Wiki
+Scrolls Wiki
+Cobalt Wiki
+
+
+
+
+Mojang雇员
+
+
+
+游戏开发
+
+
+Nathan Adams (Dinnerbone)
+Tomas Alaeus
+Jens Bergensten (Jeb)
+Erik Broes (Grum)
+Shoghi Cervantes
+Tommaso Checchi
+Thomas Guimbretiere (ProfMobius)
+Jon Kågström
+Aron Nieminen
+Måns Olson
+Michael Stoyke (Searge)
+Daniel Wustenhoff‎
+
+
+
+
+商务职员
+
+
+Isabella Balk
+Vu Bui
+Brynjólfur Erlingsson (Binni)
+Patrick Geuder
+Owen Hill (Bopogamel)
+Daniel Kaplan (Kappische)
+Lisa Kempe
+Marina Kostesic
+Jonas Mårtensson
+Karin Severinson
+Lydia Winters (MinecraftChick)
+Aleksandra Zajac (Marzenia)
+
+
+
+
+美工职员
+
+
+Mattis Grahm (BomuBoi)
+Martin Johansson
+Ninni Landin
+Henrik Pettersson (carnalizer)
+Jonatan Pöljö (eldrone)
+Markus Toivonen (junkboy)
+
+
+
+
+网络开发
+
+
+Pär Axelsson
+Daniel Frisk
+Leonard Gram (xlson)
+Kristoffer Jelbring
+David Marby (NeonMaster)
+Amir Moulavi
+Martin Odhelius
+Tomas Sommar
+Philip Vieira (Zee)
+Marc Watson
+
+
+
+
+客户支持
+
+
+Andreas Andersson
+Elli Ashrafi
+David Stuart Dahlgren
+Nasim Derakhshan
+Sarah Mårtensson
+Hampus Nilsson
+Josefin Olsson
+Adrian Östergård
+Mattias Victorin
+
+
+
+
+品牌维护
+
+
+Matilda Åkerman
+Brandon Andersson
+Mathias Andersson
+Talia Grunt
+Anna Klingberg
+Karl Lowry
+Olle Personne
+Milla Stone
+
+
+
+
+签约实体
+
+
+57Digital
+Garry Lucken
+Nikolaj Nyholm
+Daniel Rosenfeld (C418)
+Paul Spooner
+Kristoffer Zetterstrand
+
+
+
+
+已离职
+
+
+Anton Albiin
+Siri Hoel Andersson
+Johan Bernhardsson
+Poi Poi Chen
+Nathan Gilbert (Tahg)
+Ryan Holtz (TheMogMiner)
+Linn Hultman
+Andreas Jörgensen (Hideous)
+Joe Liu (Noirceuil)
+Warren Loo (EvilSeph)
+Tobias Möllstam
+Carl Manneh
+Markus Persson (Notch)
+Jakob Porsér (JahKob)
+Hayden Scott-Baron (Dock)
+Mike Till (ClayHero)
+Bella (Broontoo)
+
+
+
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Mojang_AB&amp;oldid=115197”					
+				分类：来源请求MinecraftMojang AB社区				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月5日 (星期四) 02:19。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

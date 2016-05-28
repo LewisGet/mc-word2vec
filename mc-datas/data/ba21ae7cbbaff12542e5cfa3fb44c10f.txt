@@ -1,0 +1,873 @@
+
+
+
+
+Markus Persson - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Markus Persson
+									
+									来自Minecraft Wiki
+								（重定向自Notch）
+												
+					跳转至：					导航、					搜索
+				
+				
+Markus Persson
+
+
+
+
+
+真名
+
+Markus Alexej Persson
+（马库斯•阿列克谢•泊松）
+
+
+
+生日
+
+1979年6月1日（36岁）[1]
+
+
+
+职业
+
+游戏开发者，Mojang AB
+
+
+
+国籍
+
+瑞典
+
+
+
+网站
+
+mojang.com/notch
+
+
+
+出名原因
+
+Minecraft创始人
+
+
+
+别称
+
+Markus Alexej
+
+
+
+Twitter用户名
+
+@notch
+
+
+
+Minecraft用户名
+
+Notch
+
+
+
+掉落物
+
+红苹果
+
+
+
+
+
+
+
+“
+2010年快要结束了！我已经从中看到了我的梦想！
+„
+
+
+
+——Notch评论于2010年12月29日
+
+
+
+
+Markus Alexej Persson（马库斯•阿列克谢•泊松），通常被称为Notch，是Minecraft之父，Mojang AB的创始人之一。
+
+
+
+目录
+
+
+1 生平
+2 游戏与其它作品
+3 画廊
+4 生日
+5 另见
+6 参考
+
+
+
+生平[编辑 | 编辑源代码]
+Persson最早在7岁的时候用他父亲的Commodore 128学习编程。他在八岁的时候借助开发了他的第一款游戏（文字冒险类）。2005年起他在King.com担任游戏开发一职，直到2009年前往Jalbum担任程序员。在Minecraft销量大大增长之后，他逐渐开始减少在Jalbum的工作时间并最终于2010年6月与一大批Mojang雇员（包括首席执行官Carl Manneh）和部分前Jalbum雇员全力投入到Minecraft的开发中。在闲暇时，他时常参与一些竞赛，包括Ludum Dare、LD12与Java 4K 游戏开发竞赛。
+在与父母移居瑞典之前，他生活在丹麦，也在那里完成了自己的学业。
+Persson在Mojang官方网站也有自己的空间，参见这里。
+2014年9月15日，Persson将Mojang及其所有资产出售非微软。在一条长的博客文中，Notch表示“我喜爱游戏，我喜爱编程，但是我不喜欢做游戏时意图让它红极一时，我也不想尝试改变世界。”他继续说“我已经变成了一种象征。我不想变成一种象征，对于大到我不能理解的、不想付诸努力的东西负责。”
+Persson在2014年11月5日与其他联合创始人离开Mojang。他写道“当这场交易结束，我会离开Mojang，回去做Ludum Dares与小的网络实验。如果我有吸引力的东西，我可能会马上放弃它。”
+游戏与其它作品[编辑 | 编辑源代码]
+Persson已经公布了他的很多作品，包括但不限于：
+游戏：
+
+MEG4kMAN, 一个以老派绘图风格作为特色的洛克人复制品。
+Left 4k Dead, 一个灵感来自恶灵势力的丧尸射击游戏。
+t4kns, 一款实时战略游戏。
+Miners4k, a game kinda inspired by lemmings and diggers.
+Hunters4k, 一款第一人称射击游戏。
+Dungeon4k, 一款地牢探险游戏
+Sonic Racer 4k, a racing game with stolen sprites.
+Dachon4k, 一款基于重力的射击游戏。
+l4krits, 一个太阳神殿的复制品。
+Blast Passage, 一款由炸弹人和圣铠传说混合而成的8-bit 游戏。
+Bunny Press, 一款为Ludum Dare 14 而制的暴力解谜游戏。
+Breaking the Tower, 一款节奏缓慢的战略游戏。
+The Europa Arcology Incident, 一款在48 小時内為Ludum Dare 16 制成的RPG 风格游戏。
+Infinite Mario Bros, 一款以无尽关卡为特色的超级玛利奥复制品。
+Metagun, 一款在48 小内为Ludum Dare 18 制成的解谜游戏。
+Minecraft 4k, 一个容量少于4kb 的Minecraft ，为Java 4kb competition 而制成。
+Prelude of the Chambered, 一款在48 小内为Ludum Dare 21制完成的逃脱游戏。
+MiniCraft, 一款追加了Minecraft元素的萨尔达传说类游戏, 为Ludum Dare 22 而制。
+
+2.5d Engines:
+
+Legend of the Chambered
+First person shooter prototype in flash
+Flash doom level renderer
+Dungeon master type game engine in java（Flash版，使用静态图像）
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Notch在玩他的手机.
+
+
+
+
+
+
+
+
+
+Notch穿着他标志性的黑色软呢帽.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notch与他的粉丝们在Minecraftcon 2010.
+
+
+
+
+
+
+
+
+
+Notch在使用他的电脑
+
+
+
+
+
+
+
+
+
+Notch (左)和 Seananners (右) 在 Machinima Realm Minecraft的访问; 2011年2月11日.
+
+
+
+
+
+
+
+
+
+Notch在Minecraft里的皮肤
+
+
+
+
+
+
+
+
+
+Notch的新帽子！
+
+
+
+
+
+
+
+
+
+Notch 的卡通风格.
+
+
+
+
+
+
+
+
+
+Notch 画像在Adweek's The Top 10 Technologists
+
+
+
+
+
+
+
+
+
+Notch的2011年圣诞的Twitter的图标
+
+
+
+
+
+
+
+
+
+MineCon 2011
+
+
+
+
+生日[编辑 | 编辑源代码]
+
+在2011年6月1日, Notch 在Twitter写了他是25岁.[2] 25 是32, 这的确是他的年龄.
+Notch 设定在6月1日全日在 Minecraft的闪烁标语都是显示 "生日快乐, Notch!".
+
+另见[编辑 | 编辑源代码]
+
+Ez - 前妻子
+Kristoffer - 小舅子
+
+参考[编辑 | 编辑源代码]
+
+↑ http://notch.tumblr.com/post/113753678/
+↑ http://twitter.com/notch/status/75817816795787264
+
+
+
+官方资源
+
+
+Mojang 网站
+
+
+
+网站
+
+
+主页
+Realms网站
+树莓派版博客
+携带版测试博客
+Minecraft与教学网站
+红石网站
+Hopper（崩溃列表）网站
+
+
+
+
+其它网站
+
+
+Mojang博客
+PlayCobalt.com
+Scrolls.com
+Mojang客服
+Mojira（Mojang漏洞追踪）
+
+Mojira Reddit
+
+
+MCUpdate
+Pig Tales
+Mojam
+Minecraft Windows 10 Edition Beta反馈网站
+
+
+
+
+社交网络
+
+
+Mojang Twitter
+
+Mojang雇员列表
+
+
+Mojang YouTube
+Minecraft Facebook
+
+
+
+
+社区网站
+
+
+Minecraft Reddit
+
+Minecraft建议 Reddit
+Minecraft Realms Reddit
+
+
+esper.net上的#Minecraft
+
+esper.net上的#minecrafthelp
+
+
+
+
+
+
+过去的网站
+
+
+Mojang's Get Satisfaction
+The Word of Notch
+
+
+
+
+
+
+
+4J Studios网站
+
+
+4JStudios.com
+4J Studios Twitter
+4J Studios YouTube
+
+
+
+
+Telltale Games网站
+
+
+TelltaleGames.com
+MinecraftStoryMode.com
+Telltale Games Twitter
+Telltale Games Facebook
+Telltale Games YouTube
+
+
+
+
+Block by Block网站
+
+
+BlockbyBlock.org
+捐助
+
+
+
+
+Curse.com网站
+
+
+Minecraft Forums
+Minecraft Wiki
+Scrolls Wiki
+Cobalt Wiki
+
+
+
+
+Mojang雇员
+
+
+
+游戏开发
+
+
+Nathan Adams (Dinnerbone)
+Tomas Alaeus
+Jens Bergensten (Jeb)
+Erik Broes (Grum)
+Shoghi Cervantes
+Tommaso Checchi
+Thomas Guimbretiere (ProfMobius)
+Jon Kågström
+Aron Nieminen
+Måns Olson
+Michael Stoyke (Searge)
+Daniel Wustenhoff‎
+
+
+
+
+商务职员
+
+
+Isabella Balk
+Vu Bui
+Brynjólfur Erlingsson (Binni)
+Patrick Geuder
+Owen Hill (Bopogamel)
+Daniel Kaplan (Kappische)
+Lisa Kempe
+Marina Kostesic
+Jonas Mårtensson
+Karin Severinson
+Lydia Winters (MinecraftChick)
+Aleksandra Zajac (Marzenia)
+
+
+
+
+美工职员
+
+
+Mattis Grahm (BomuBoi)
+Martin Johansson
+Ninni Landin
+Henrik Pettersson (carnalizer)
+Jonatan Pöljö (eldrone)
+Markus Toivonen (junkboy)
+
+
+
+
+网络开发
+
+
+Pär Axelsson
+Daniel Frisk
+Leonard Gram (xlson)
+Kristoffer Jelbring
+David Marby (NeonMaster)
+Amir Moulavi
+Martin Odhelius
+Tomas Sommar
+Philip Vieira (Zee)
+Marc Watson
+
+
+
+
+客户支持
+
+
+Andreas Andersson
+Elli Ashrafi
+David Stuart Dahlgren
+Nasim Derakhshan
+Sarah Mårtensson
+Hampus Nilsson
+Josefin Olsson
+Adrian Östergård
+Mattias Victorin
+
+
+
+
+品牌维护
+
+
+Matilda Åkerman
+Brandon Andersson
+Mathias Andersson
+Talia Grunt
+Anna Klingberg
+Karl Lowry
+Olle Personne
+Milla Stone
+
+
+
+
+签约实体
+
+
+57Digital
+Garry Lucken
+Nikolaj Nyholm
+Daniel Rosenfeld (C418)
+Paul Spooner
+Kristoffer Zetterstrand
+
+
+
+
+已离职
+
+
+Anton Albiin
+Siri Hoel Andersson
+Johan Bernhardsson
+Poi Poi Chen
+Nathan Gilbert (Tahg)
+Ryan Holtz (TheMogMiner)
+Linn Hultman
+Andreas Jörgensen (Hideous)
+Joe Liu (Noirceuil)
+Warren Loo (EvilSeph)
+Tobias Möllstam
+Carl Manneh
+Markus Persson (Notch)
+Jakob Porsér (JahKob)
+Hayden Scott-Baron (Dock)
+Mike Till (ClayHero)
+Bella (Broontoo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Markus_Persson&amp;oldid=104418”					
+				分类：Mojang AB				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年2月15日 (星期一) 05:37。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

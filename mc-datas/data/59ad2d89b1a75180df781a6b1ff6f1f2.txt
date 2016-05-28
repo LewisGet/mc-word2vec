@@ -1,0 +1,1632 @@
+
+
+
+
+版本记录/Beta - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			版本记录/Beta
+									
+									来自Minecraft Wiki
+								&lt; 版本记录
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+此页面的（部分）内容需要被翻译。
+你可以帮助我们来翻译此页面
+
+
+
+该文章是关于PC平台游戏的 Beta 版本列表的。  关于其它开发阶段，请参阅版本记录（消歧义）。  关于开发中版本，请参阅版本记录/预览版本。  关于携带版，请参阅携带版版本记录。  关于未来将会加入的特性，请参阅未来展望.
+问号（？）代表此版本的信息仅是猜测，有可能不正确。
+Beta开发阶段于2010年12月20日开始，于2011年11月18日结束。Beta阶段接替了Alpha阶段，Beta被正式版本所接替。
+
+
+
+版本
+发布日期
+更新简介
+
+
+于1.0RC2中的“音效升级”
+2011年11月13日
+
+此版本升级仅更新了/.minecraft/resources文件夹里的音效文件；客户端本身并没有更新。
+所有版本中被更改的音效:
+
+新的爆炸音效
+新的门， 栅栏门和活板门音效
+新的弓箭射击音效
+正确的钓鱼竿音效
+正确的经验球音效
+正确的箱子音效
+
+仅在1.0RC2及之后版本中被更改的音效:
+
+新的箭击中物体时的音效
+新的玩家受伤害时的音效
+正确的末影人音效
+烈焰人的音效
+岩浆怪的音效
+蠹虫的音效
+
+
+
+
+1.8.1
+2011年9月15日
+
+漏洞修复:
+
+修复了在满的箱子中按⇧ Shift+点击物品造成游戏崩溃的问题。
+修复了在满的发射器中按⇧ Shift+点击物品造成游戏崩溃的问题。
+
+新的漏洞:
+
+南瓜种子不再在废弃矿井中的箱子中生成了。[1]
+
+
+
+
+1.8 (冒险元素更新)
+2011年9月14日
+
+
+新生物：
+
+末影人
+蠹虫
+洞穴蜘蛛
+
+
+新方块：
+
+石砖
+
+石砖台阶
+石砖阶梯
+
+
+砖块阶梯和砖块台阶
+栅栏门
+玻璃板
+铁栏杆
+西瓜
+
+
+新的创造模式
+地形生成器中的新特性
+
+可供选择的随机生成建筑
+
+NPC村庄
+要塞
+废弃矿井
+峡谷
+
+
+全新的，基于分型（Fractal-based）的生物群系代码;增加及移除了一些生物群系，同时让它们比原来更加巨大。
+
+有河流于生物群系之间/中流动。
+海洋生物群系,比以往的水域更广且更深。
+山地生物群系。
+沼泽
+原本在针叶树林区及苔原区生成的雪由于技术原因不生成了。但它在之后的Beta 1.9版中回归。
+
+
+新的海底; 由随机混杂的沙子，泥土和粘土块组成。
+
+因此粘土变得更常见了。
+
+
+
+
+新的战斗技能。
+
+按住按键以为弓蓄力。
+会心一击。
+玩家可以使用剑防御（按住鼠标右键）。
+攻击性生物有攻击动作。
+被玩家杀死的生物掉落经验球。
+
+
+新的食物系统。
+
+添加饥饿条。
+
+食物不再直接增加生命值；但若饥饿条高于80%，玩家每5秒回复。
+
+
+所有食物（除蘑菇煲外）都可堆叠。
+食用食物花费1.6秒，并加入进食动作。
+5种新食物：
+
+西瓜片
+生鸡肉
+生牛肉
+熟鸡肉
+牛排（使用旧的熟猪排材质）。熟猪排的新材质在原材质基础上泛棕黄色。
+
+
+进食任何未煮熟的食物和腐肉有可能导致玩家中毒（腐肉则肯定导致中毒）。
+
+
+用于耕种的新种子：南瓜种子和西瓜种子，可生产南瓜和西瓜。
+添加新成就:狙擊手的對決
+新的疾跑技能
+生物的更改：
+
+假如你攻擊周遭的生物，被動生物會隨機逃離
+僵尸改掉落腐肉而不是羽毛
+猪的嘴部更加突出于头部前方
+骷髅的弓有了正确的大小
+玩家给予生物的伤害将减少
+箭擊中生物將附著於生物身上而不是消失
+骷髏的箭將從眼前的弓射出，而不再是頭頂
+動物不再自然的消失，這允許你畜養牠們
+
+
+剪刀現在可以收集草叢和新的藤蔓植物
+新的照明引擎：
+
+日夜交替的光照是預先保存於方塊內的，這使黎明和黃昏看起來更順暢
+某區域的光照受光源類型影響
+
+火把和岩浆有一種紅色色調
+月光有一種藍色的色調
+能保持完全的黑暗
+陽光和以前一樣
+
+
+
+
+非陽光照明現在會巧妙地閃爍
+主菜單介面的變化：
+
+主菜單背景現在是動態的
+版本標示由左上移至左下角
+選項/視頻設置中的亮度有了新的滑塊設計
+選項中新增了4個控制項目
+
+攻擊、使用物品 及 選擇方塊鍵 可以被重新設置
+多人遊戲中使用Tab ↹鍵可以叫出玩家列表
+
+
+多人遊戲介面進行了改進，主要變化為服务器列表
+
+
+苔石有了新的的材質，主要是為了與圆石相互搭配
+日出和日落比以前更加強烈和真實：
+
+雲會配合日出與日落逐漸變的暗藍且更為透明
+日出和日落太陽附近的天空會有紅暈
+
+
+新的粒子效果：
+
+對任何生物使用会心一击會有小型星狀顆粒飛出
+爆炸將產生衝擊波微粒，而不再是煙霧粒子
+可以再水下看見微小的氣泡顆粒
+在極端的深度，黑色的霧會逐步接近，並給予顆粒效果。也因此天空會變為黑色的
+
+
+按下(F3)可進入调试屏幕
+
+生物頭上不再標示著自身的ID
+世界生成種子值將顯示在玩家排名之下
+調試功能，以F鍵作為霧氣的開關
+
+
+當物品欄打開的時候，按住⇧ Shift並點擊某個物品或物品堆可以將此物品在存放欄和快捷欄中切換
+版本標示再次出現在遊戲中
+放置的树叶方塊不會再枯萎
+云層高度提升至地圖的頂端，這使得雲不必再穿過該層的方塊
+云的移動與遊戲時間同步
+降雨與降雪變得更加順暢
+防御点数條移到了生命值的上方
+石製和木製压力板現在可以被放置在栅栏上
+更改了箱子的材質以及前方的3D鎖頭
+玩家在伺服器上來回的切換生存模式與创造模式[2]
+現在遊戲的編碼將允許mod更容易地切換(世界) 的高度
+無法再按住滑鼠左鍵進行連擊
+滑鼠右鍵的靈敏度比以前稍加延遲
+
+漏洞修复:
+
+修復⇧ Shift+點擊會使遊戲崩潰的錯誤
+修復在多人遊戲中時間設定在x红石电路不工作的錯誤
+移除了船與矿车的創造顆粒
+修復了惡魂在多人遊戲中的聲音錯誤
+边境之地已被刪除，現在是一片汪洋[3]
+
+新漏洞:
+
+主要發生在Linux 32位元的內存溢位
+箱子缺少了破壞的動畫
+在水中即使移除了光源，其光照依然存在
+由於掉落的经验球不會彼此堆疊，這導致玩家死亡所掉落的大量经验球造成伺服器延遲，在多人遊戲中尤為明顯。
+連線到1.8以前的伺服器，兩個箱子合併仍然會轉向固定的方向
+在全新的创造模式物品栏裡缺少了松樹和桦树的葉子、草叢、雙層台阶、刷怪箱、雪方塊、以及巨型蘑菇方塊
+NPC村庄偶爾會生成在淺水攤中
+
+
+
+
+1.7.3
+2011年7月8日
+
+漏洞修复:
+
+修复了活塞的复制漏洞。
+修复了红石火把在使用活塞时的复制漏洞。
+修复了让活塞移动告示牌下面的方块时客户端停止工作的漏洞。
+雪块现在用活塞移动不会再导致水流损毁所有物品。
+充能铁轨不会再在没有任何电源的情况下激活。
+活塞连接至另一个活塞晶体管的后端并通过红石电路激活后会正确地关闭。
+门不会再发出紫色颗粒。
+多人游戏中，通过不正当手段获得的已放置告示牌不能再编辑文字。
+画被活塞推动后将掉落。
+
+新漏洞:
+
+当两行相对推动沙块时，某复制漏洞又重现了。
+
+
+
+
+1.7.2
+2011年7月1日
+
+漏洞修复:
+
+损毁的存档又可以用了。[4]
+活塞消失已修复。[5]
+活塞对多人游戏服务器导致的停止工作现在已修复。
+
+新漏洞:
+
+在玩家睡觉时开启背包，躺着的玩家会显示于侧面。(When the prior bug was pointing from the camera)
+
+
+
+
+1.7_01
+2011年6月30日
+
+漏洞修复:
+
+修复了活塞漏洞。在1.7内导致游戏崩溃的方块被活塞推动后会消失。
+修复了空手右击羊会使游戏崩溃。
+崩溃的世界又可以加载了。
+
+新漏洞:
+
+如果活塞激活后会阻断红石线路、红石火把、红石中继器、压力板等提供能量的方块，那么阻断后能量就会在同一刻传递至活塞，游戏就会崩溃并且改存档将损毁。使用地图编辑器移除前面的方块和实体，那么该存档将会恢复。
+When crushed by pistons (or what they're moving) or when inside while it contracts, the player will be moved out of the way or into impossible places, on SMP this usually throws a "User moved wrongly!" warning.
+在極少數的情況下，紅石信號將在電路半途中斷(約15格距離)，即使使用了紅石中繼器也是如此。這是否由紅石錯誤或區塊錯誤所造成依然不明。
+复制门漏洞又起作用了，这回使用活塞推动门的下一半就会复制出一个门。如果是普通活塞，那么活塞就会被破坏，而被推动的下面一半的门就会像正常门一样。
+
+
+
+
+1.7
+2011年6月30日
+
+
+添加​​活塞
+TNT現在需要打火石或者红石訊號激活
+柵欄可以被堆疊
+添加​​剪刀
+現在紅石線會連向红石中继器
+剪刀可以收集樹葉
+剪刀可以用來收集羊身上的羊毛，並且不會傷害牠們
+羊受到攻擊不再掉落羊毛
+圓石與砖块有了新的材質
+蠹虫的材質被加入 (可能是為了Beta 1.8).
+當遊戲中按下 F3 鍵，一個0~3的數值將出現並且指示方向
+原本灰色的打破動畫被替換為不透明的材質
+鱿鱼會在離玩家太遠時消失
+單塊台阶現在使用完整方塊的下半部材質
+蜘蛛网現在需要用剪刀或劍來破壞，破壞後掉落一條线
+材質包中床及蛋糕的材質被移動
+
+漏洞修复:
+
+修復了粘土块的生成
+
+新漏洞:
+
+使用活塞去推動树叶、水、岩漿、拉杆、草叢、花、蘑菇、樹苗、枯死的灌木，以及推動甘蔗將導致遊戲崩潰。在崩潰的多人伺服器重啟後，問題並不一定能得到解決
+空手右鍵點擊羊將導致遊戲崩潰
+當你放置一個方塊，它可能會變為透明的，只有其邊界線條被顯示出來。這也同樣會發生於破壞方塊，會留下一個方塊幻影。這些錯誤將導致系統崩潰
+
+
+
+
+1.6.6
+2011年5月31日
+
+
+骨粉可以使草方塊長出草叢與花[6]
+在选项主頁的视频设置中加入了性能設置。可調整為 節能、平衡 或 最大FPS
+萤石的改變
+
+萤石块的性質由玻璃轉變為石頭。也因此需要用鎬來採集。現在紅石、火把、拉杆也可放置在其上方
+採集萤石块將掉落更多萤石粉(2-4個)
+羊毛和萤石块有了較節省的合成配方(2x2而不是3x3)
+
+
+移除了人类(?) (Notch補充說到這是以Herobrine所作的笑話)
+
+漏洞修复:
+
+修復了床在多人遊戲中無法使用的錯誤
+修復了船
+
+當船被摧毀時，船上的玩家將不會再跌落至下方方塊中
+船將更快的浮出水面
+船落入水中將更快失去掉落的衝力
+
+
+透過⇧ Shift鍵將工具移入箱中將不再恢復其耐久度
+
+新漏洞:
+
+多人遊戲中，當床周圍圍繞著一圈火把，你將不眠到天亮(?)
+當你利用堆疊方塊來不斷往上跳高時，你可能會被卡住，並且反覆跌落方塊之中。如果你重新進入遊戲，會發現你的頭將露在方塊之上。此方法可以用在穿過下界頂部的基岩上
+當你在一個高牆底部斷開多人伺服器連結，並重新進入伺服器，有時你將出現在高牆旁的空中，但你不會跌落
+若將新伺服器內視頻設置的能見度選項調至10格方塊距離內，則生物的生成機率會顯著的下降 [1]
+骷髅的箭將從其頭頂射出
+
+
+
+
+1.6.5
+2011年5月28日
+
+
+高級 OpenGL选项被重新加入 (仍含有1.5的切換錯誤)
+FPS限制可以被調整為40 FPS、90 FPS以及200 FPS。除了40 FPS設定外，其餘幀率都將在方塊更新時受到限制[7]
+改善與舊硬體的相容性[来源请求]
+按住Shift點擊物品將只移動該物品至玩家物品栏
+版本標示於遊戲中不再顯示。然而在F3鍵所叫出的调试屏幕中依然可見
+當玩家在騎乘或睡覺時離開遊戲，其實體不會繼續存在於物體上方
+潜行不再是如此的完美。人物的腳有如懸在了空中
+現在可以用潜行的方式爬上楼梯和台阶
+
+漏洞修复:
+
+地圖所標的方向會與玩家面對的方位相同，而不僅僅是稍微旋轉
+第一次使用的裝備在掉落時不再降低其耐久度 (仍會在某些情形下發生)
+如实体陷入某個方塊內，它將會被推出方塊
+當放置或刪除火把，其照明效果將在次正常工作
+當使用Shift鍵搬移欄內物品時，遊戲不再崩潰
+修復了多人遊戲時CPU的資源問題
+即使在潜行狀態下保存並重新進入遊戲，玩家也不會再傳送至存檔地點的上方或下方
+Exiting a Minecart or moving from one Minecart to another will no longer bump the original Minecart and make it move.
+修正了玩家进出下界生命会全滿的错误
+修復了多人遊戲中一些實體會反覆落入地面方塊的錯誤(仍然會发生在某些人身上)
+Fixed the server sometimes thinking the player hit a corner when walking when they didn’t.
+修正了成就窗口中某些图形会显示在窗口外面。
+修正了某些情況下床的不正常工作，主要是針對「這張床已經被佔用」的信息錯誤
+
+新漏洞:
+
+在某些電腦配備上每隔幾秒便有一次FPS大幅下滑，此錯誤於1.6.5便已被察覺 [2] [3]
+內存溢位。當移除區塊時，其材質數據依然保留於記憶體中，即使它並不會顯示
+當於牆壁或地面挖掘大量的孔洞，有時將使眼前方塊變得不可見，這使玩家得以如圖中透視洞穴和地牢。這可能發生於內存使用時 [4] [5]
+40 FPS的設定限制將導致部份電腦CPU資源使用量增加 [6]
+當枯死的灌木 (所有草丛植物) (絕不忽略枯死的灌木)遭到破壞，其顆粒效果是灰色的（即沒有顏色）
+當你載入先前的存檔紀錄，其遊戲難度將還原為简单，至少在和平模式下是如此
+當玩家重生時偶爾會卡於方塊內死亡，並且不斷循環直到方塊被破壞。然而此錯誤並不會發生在所有的重生點
+多人遊戲中床出現了許多的問題。當一位玩家在遊戲中試圖躺於床上時，將什麼都不會發生，這時你依然可以到處行走。然而若所有玩家皆同時入睡，則移動的玩家將於幾秒內傳送回床上並進入正常睡眠
+當服务器視野被調至7 (或以下)，其性能將使部份地圖(物品)被還原 [7]
+於多人遊戲中，有時從下界返回主世界時，天空依然維持著紅色
+Minecarts stopped on E/W powered rail will not bounce off one another, but they will on N/S powered rail.
+On unlit powered rail as part of a track which terminates at a solid block to the North or to the East, a minecart can be shoved off of the track directly into the block, by a player or by another minecart, as shown in this minecart station.
+若於大箱子中按住shift選取物品，則客戶端不會有任何異常，但服务器將會崩潰
+有時玩家在多人遊戲中躺於床上時，突然的錯誤將導致其受到半顆心的傷害
+陰暗區域有時不會被更新。
+當按住Shift拿取合成的物品時，該物品將不會保存在你的數據資料中
+某些情況下，當你行走於邊角時會跌下方塊(測試於树叶上).
+紅石无法放置在TNT上
+當你左擊打開一扇门或活板门，則觸碰範圍內的門將全數開啟，而不是只有第一扇。
+Blocks displaced by half steps can only be collected from the side, not the top (Although the blocks are visible)
+生物不再從你的遊戲數據中消失(多人遊戲修復)
+在新生成的世界里粘土块几乎不存在。粘土块只在X坐标、Z坐标相同的地方生成
+多人遊戲：當太多的物品同時出現(实体過載/大量的爆炸)，其中一些實體在客戶端將無法更新，並最終以激活的TNT等實體形式躺於玩家身邊，這些只在玩家離線時消失
+SMP: Maps do not load correctly, leaving chunks missing or even entire lines missing.
+保存並離開遊戲時，會出現"Saving Chunks"字樣但不會消失，直到你強制關閉遊戲(Saving Chunks出現在沒有進度條時)
+
+
+
+
+1.6.4
+2011年5月26日
+
+修复的漏洞：
+
+Attempted fix for CPU usage issue on singleplayer and multiplayer.
+
+新出现的漏洞：
+
+当你打开一个世界时，有时会被短时间地卡住（大约0.1秒）。
+Entering and exiting the 下界 in SMP resets health bar, but not health.
+掉落的工具一旦被捡起，会在第一次使用后消失。[8]。当你死亡的时候它们亦会如此。 If you shift-transfer such a dropped tool into a chest and back in your inventory, it's like a new-crafted tool without uses.
+Holding a map in a boat can cause the arms to be misplaced. This can be fixed by exiting the boat, and opening your inventory. [9]
+If a player sleeps in a bed, sometimes the bed is listed as occupied (even though it isn't) and, upon logging out, there is a NullPointerException and the player's .dat file is corrupted. There is an end of stream error when the player tries to log back in and their .dat file needs to be restored from a backup. This can be fixed by changing the sleeping value in the player's .dat file from 1 back to 0; this solves the issue and the player can then log back in. (You have to un-gzip the .dat file first, otherwise the file just looks like gibberish)
+如果一个玩家在单人游戏时崩溃在下界, 有时候当他们重新打开世界时, 他们会重生在下界的顶部。只有一个方法回来，那就是死亡，或者使用传送。
+有时即使不在雪地生物群系里，水也会结冰。
+CPU issue fix is still failing, same loop as 1.6.3
+Sometimes blocks will fail to render, creating massive holes on the ground and walls, allowing the player to see caves and dungeons under the map. [10] [11]
+Achievement display is sometimes off-panel. [12]
+Updating of lighting due to Torches and other player instigated sources seems to be even worse.
+Underground or otherwise enclosed Rail corners can cause you to clip through wall and lose health.
+Minecarts colliding on the same track will pass through each other or come to a dead stop rather than pushing.
+
+One Minecart may partially pass through another on a slope, when held by a non-activated booster track. [13] [14]
+Powered Minecarts do not push other Minecarts around. image gallery show problem, reversed image order
+
+
+Exiting a Minecart or moving from one Minecart to another will bump the original Minecart and make it move.
+Fire does not show up on a map item.
+Fire sticks around much longer on blocks it can't burn.
+Cobweb now acting like a solid block, player can pass through it, but he/she will get damaged.
+You are able to travel down through a "closed" Trapdoor/Hatch (Under certain circumstances).
+If the player is crouched while saving, he/she will then (when loading the world) spawn an additional 1.62 meters higher, and visibly fall to the ground (unhurt). However, if this occurs while standing under a solid block (such as a low ceiling), then the player will suffer 0.5 hearts of damage from clipping into the block temporarily ("suffocation"). Warning, also occasionally happens even when not crouched! (See Bug Report.)
+When boats are submerged, they do not float back to surface. [15]
+All TNT-entities stay client-side after exploding, until reconnection. (New bug because before just random ones stayed)
+Shift-clicking to transfer items to/from chests, dispensers and storage minecarts can result in the game crashing if the items' destination would become full, or if there is no room for the new item.
+Can't move and can mostly only see sky and sea when server.properties "view-distance" is set above 5. Note that the default is 10.
+Hostile mobs sometimes spawn when using a 床 even in a well lit room sealed off from outside environments, this appears to possibly be related to the lighting bug mentioned above (this can be an old bug: see [16]). Double doors also cause this to happen, the game somehow ignores one of the doors allowing mobs to spawn inside.
+Craftable maps sometimes don't display the correct name, become blank or have gaps.
+When crafting an item, shift clicking may cause different items to be created if the elimination of resources would create a situation in which that item can be crafted. For example, having 1 stone in the top left and two in the top middle and top right, along with two sticks in the middle and bottom middle, shift clicking will create a pick and a hoe.
+When riding a 船 with a map out, the player sometimes dies for no apparent reason.
+Light bugs found in 1.6.2 can now occur in old generated chunks (not only in those generated in 1.6.x). Some screens here.
+When climbing a ladder in a 1x2 shaft, under certain circumstances, it is impossible to target a block opposite of the ladder. The cursor will repeatedly alternate between the wall and another block, usually the ladder.
+The corruption of world when running out of memory fix does not always work.
+When entering and leaving 下界 life is shown incorrectly as full.
+Maps may cause crashes or instability on multiplayer servers. When maps are used the server usually crashes in the same way: CPU usage goes to 100% and short after the server kicks all player and stops responding. &lt;-- When I set view distance to 5, I could not open a chest with a map out. Changing it back to 10 fixed this bug.
+Mushrooms can spread through walls.
+Lava, in SMP, anywhere near wood, even if blocked by glass, will set the wood on fire. Have observed wood catching alight that is 10 blocks away from the lava source.
+Maps sometimes stop updating the player position.
+Spawn locations do not change when you sleep. (?)
+Spawn locations may randomly shift large distances (?)
+
+
+
+
+1.6.3
+2011年5月26日
+
+
+The renderer is now capped at 100 fps while there are chunks to be generated. The excess time will be spent generating chunks instead of rendering frames.
+The “limit framerate” option now limits the game to 40 fps and will spend at least 10 ms per frame sleeping.
+The “limit framerate” option has been reset to “off” for all players, enable it again if you want it.
+2 blocks deep water doesn't prevent you from fall-damage anymore. You need at least 3 blocks deep water to fall in.
+
+Bug Fixes:
+
+Fixed some block updates not updating lighting properly under some circumstances by reverting the “don’t always send block data” fix in 1.6.
+Fixed a major CPU load issue in the server where a very tight loop would starve all other threads.
+Fixed furnaces dropping/duplicating their contents when they change state from lit to unlit or back.
+
+New Bugs:
+
+FPS limiter limits FPS to 41 instead of 40.
+The fix for the CPU load issue is not working, and still starves all other threads.
+
+
+
+
+1.6.2
+2011年5月26日
+
+Bug Fixes:
+
+Fixed new item duplication bug
+
+New Bugs:
+
+The item duplication bug was not actually fixed; items placed in a furnace can still be taken out of a furnace and duplicated infinitely by right-clicking (although it appears the newly duplicated item will not function). Also, bug with cloned items being picked up after death wasn't fixed too.
+When using a furnace and placing items into it, as soon as it's activated all items minus 1 are ejected and must be placed back in the furnace in order to use it.
+Lighting is not always updated when digging new holes/tunnels, placing torches or setting blocks on fire (in both nether &amp; normal world).
+Tall grass can grow on dirt with no grass on it.
+Shift-clicking something into a full chest from inventory or from chest into full inventory crashes the client.
+It is now impossible to row a boat in 1 block deep water.
+Sometimes (tested while in a boat on water, and when floating in water) while viewing a map the game will switch to a "saving chunks screen" then end on a black screen.
+When quitting game the "Saving Chunks" progress bar does not appear sometimes.
+When loading a world and standing in a cave less than 4 blocks high, the player gets some initial damage (at least the damage sound appears).
+"Out of memory" error. Often appears after the "blocks don't disappear" bug.
+
+The following bugs only occur in new chunks generated in 1.6.2:
+
+Some chunks don't get dark at night (and vice versa; some chunks stay dark during the day).
+The textures don't load on some chunks (The blocks are present but with transparent textures).
+Some blocks don't disappear after being broken; it appears as if the block is still there, but can be passed through.
+
+
+
+
+1.6.1
+2011年5月26日
+
+Bug Fixes:
+
+Fixed item bug when picking up an item with a full inventory causing this to happen
+
+
+
+
+1.6
+2011年5月26日
+
+
+Added Nether support to multiplayer.
+The client will ask minecraft.net if the current login is valid. If the server says “no”, a warning message appears in the client. You can still play the game even if this happens. [17]
+Added craftable Maps.
+Added trapdoors.
+Added Tall Grass in some biomes.
+Mushrooms now spreads (very) slowly.
+Added server property view-distance. Sets the radius of terrain updates (in chunks) to send to the players. Range 3-15, default 10.
+Added Dead Shrubs in Deserts.
+Added allow-nether (set to true or false) in server.properties.
+Blocks destroyed by other players in multiplayer now shows the breaking block particle effect.
+Doors make sound for other players in multiplayer.
+The record player now supports more than 15 different songs. No new songs/records were added, though.
+Activated dispensers make sounds and trigger particles in multiplayer.
+Players stuck in walls will slide towards the nearest gap if there is one.
+Shift-clicking while crafting makes as much as possible and moves it straight to your inventory.
+The blocks in the inventory and stats page got a new look.
+Shift-clicking something in your inventory will push it directly in your hot bar and vice-versa.
+Trying to sleep in the Nether causes the bed to explode.
+Disabled Advanced OpenGL until bugs get fixed.
+It’s no longer possible to build solid blocks on the top layer of the maps.
+Booster tracks are now speedier.
+Fire has been severely nerfed so it spreads slower, and doesn’t spread infinitely.
+Seeds are now found in tall grass, using a hoe on the ground no longer drops seeds.
+Compressed network traffic more aggressively.
+Blocks that don’t change appearance when the data changes don’t send block updates when their data changes now.
+Arrows shot by players can now be picked up by all players.
+Minecarts and boats can go through portals, empty or occupied.
+Block icons in inventory are much brighter than they were in 1.5 and before.
+Water below a layer of source blocks no longer behaves like source blocks (making it extremely difficult to swim up in artificial lakes or in holes dug in the ocean floor, for example). (Possibly a bug?)
+
+Bug Fixes:
+
+Fixed running out of memory corrupting the current level.
+Fixed the side textures of grass getting extra dark when mining them.
+Fixed anaglyph 3d rendering mode having severe visual bugs.
+Fixed the crash screen vanishing immediately.
+Fixed not being able to target blocks when at x or z pos 1000.
+Fixed the achievements screen messing up the sky color.
+Fixed saving while sneaking dropping the player through the ground.
+Fixed a system clock change messing up the game speed.
+Fixed rain sounds not playing with fast graphics enabled.
+Fixed hair and cloaks being rendered in the wrong locations on sneaking players.
+Fixed the attack/swing animation not being applied to the armor layer.
+Fixed player rotation not being loaded correctly when loading a saved game.
+Fixed arrow physics, making them not get stuck midair when you open a door.
+Fixed arrows hitting reeds, portals, and other non-solid blocks.
+Fixed keybindings not getting saved properly under certain conditions.
+Fixed the player not being able to sneak off lowered blocks like cacti.
+Fixed a bug where the player could mine without swinging their arm.
+Fixed boats placed on snow being placed too far up.
+Fixed submerged boats rising very very fast.
+Fixed sand dropping onto boats getting stuck in a falling animation.
+Fixed a game crash when riding a vehicle or animal into the nether.
+Fixed falling while riding not dealing damage to the rider.
+Fixed buttons and levers too close to the player being impossible to use.
+Fixed dispensers shooting through walls.
+Fixed fire hurting through wall corners.
+Fixed entities reaching water through wall corners.
+Fixed placing doors next to cacti creating half-doors.
+Fixed buttons and levers being placeable on leaves in “fast graphics” mode.
+Fixed furnaces and dispensers not dropping their contents when destroyed.
+Fixed dispensers biasing later slots.
+Fixed farmland taking too long to dig.
+Fixed tilling below some blocks being possible.
+Fixed tilling the underside of blocks somehow working.
+Fixed fences and stairs sometimes becoming invisible.
+Fixed walking on top of fences not producing step sounds.
+Fixed fire sometimes existing mid-air as an invisible block of pain.
+Fixed fences and wooden stairs not being flammable.
+Fixed fire effect on burning entities sometimes getting rendered in the wrong location.
+Fixed fishing rod rendering being a bit lacking.
+Fixed fishing rods being stackable.
+Fixed mining glass hiding the clouds behind the glass.
+Fixed rain falling through liquids.
+Fixed items in glass blocks not getting ejected properly.
+Fixed water interacting strangely with glass.
+Fixed glass not blocking rain sound.
+Fixed fences and signs preventing grass from growing.
+Fixed rain and snow being incorrectly lit.
+Fixed grass staying alive below stair blocks.
+Fixed the achievement screen not pausing the game.
+Fixed some screens breaking the sky tint color.
+Fixed fullscreen mode switching causing mouse issues and screen closes.
+Fixed chat messages surviving through game switches.
+Fixed ice so it regenerates regardless of whether it’s snowing or not.
+Fixed rain falling too slowly.
+Fixed levers being placeable on weird locations.
+Fixed floor levers sometimes not delivering a signal downwards.
+Fixed floor levers sometimes not being removed when the floor is removed.
+Fixed rail tiles sometimes not properly connecting to a new neighbor.
+Fixed minecarts next to each other causing extreme velocities.
+Fixed wolves not following their owner if the name has different caps.
+Fixed creepers retaining charge level when they can’t see their target.
+Fixed dying in the nether spawning new portals.
+“Fixed” beds in the nether. example of the *fix*
+Fixed inventory acting weird when portaling by making the portal close all screens.
+Fixed wooden pressure plates being mined with pickaxes.
+Fixed redstone repeaters having the wrong particles.
+Fixed saplings being plantable through snow onto non-grass blocks.
+Fixed ore density varying per quadrant from the center of the world.
+Fixed dispenser graphics being one pixel off.
+Fixed mushrooms spawning everywhere during nights.
+Fixed animals only spawning near light during the night.
+Fixed the multiplayer join screen input field being too short.
+Fixed IPv6 addresses being parsed wrongly. To connect to a specific port in IPv6, use the format [1234:567::1]:25565.
+Fixed network packets being sent unbuffered, causing huge amounts of packets being sent.
+Fixed entity positions going out of synch sometimes. They get re-synched every 20 seconds now.
+Fixed inventory icons not animating after being picked up in multiplayer.
+Fixed mushroom soup not leaving a bowl in multiplayer.
+Fixed entities above the map height limit becoming invisible.
+Fixed healing not flashing the health bar in multiplayer.
+Fixed arrows being animated really strangely in multiplayer.
+Fixed arrows triggering too many entity move updates in multiplayer.
+Fixed the compass not pointing at the spawn location in multiplayer. This does not seem to have been fixed example
+Fixed fires being impossible to put out in multiplayer.
+Fixed record players spawning client-side fake records in multiplayer.
+Fixed records not playing for other players in multiplayer.
+Fixed players spawning in the wrong location and quickly lerping to the correct location.
+Fixed monsters not being visible for players with their difficulty set to peaceful.
+Fixed pigs getting hit by lightning in multiplayer spawning client-side zombie pigmen.
+Fixed loads of exploding TNT generating way too many particles, possibly crashing the client.
+Fixed bonemeal use in multiplayer sometimes spawning fake client-side trees.
+Fixed saplings sometimes spawning trees client-side in multiplayer.
+Fixed weather sometimes changing client-side in multiplayer.
+Fixed grasscolor.png and foliagecolor.png not being read from texture packs.
+Fixed stats getting saved to different files in offline mode if the caps in the player name differ from the true spelling.
+Fixed fireballs not being visible in multiplayer.
+Fixed ghasts’ firing animation not being visible in multiplayer.
+Fixed receiving more items than the maximum stack size sometimes causing an oversized stack in the inventory
+Glowstone and Jack-o-lanterns recessed into a wall or other surface no longer have shadows cast on them by surrounding blocks when smooth lighting is enabled.
+When breaking a minecart the player is currently riding in, the player no longer falls through the block the track is placed on.
+Fire does not displace water anymore.
+
+New Bugs:
+
+Extreme lags on Linux and Windows multiplayer servers, the Minecraft process uses 100% of CPU as soon as the host is logged on. Others may log in via LAN, and wireless without lag. [18]
+The frames per second of the client dropped considerably for some users. [19]
+Items do not eject properly from any block, they will become buried if a block is placed over them. Must dig it back out to retrieve.
+Items received from a Furnace sometimes have no stack number, items from the furnace can also be duplicated by right clicking.
+Right clicking a Duplicated item from a furnace while the chest is open results in a crash.
+Hatches Close through you even if standing at same level.
+Tall Grass are off centered and can float off edges. (Possibly a feature?)
+When looking at a map the indicator at the player's coordinates does not always point the correct direction. For example, when facing due North, South, East or West the marker will sometimes point slightly clockwise from the direction it should.
+When pressing Q to drop a tool and re-collecting that tool, when you use it it'll break instantly. To avoid this temporarily place the tool in a chest after taking it.
+watercolor.png doesn't do anything.
+If you Shift-click to place items chest and the chest is full the screen will change to the "Saving Chunks" screen except there will be no loading bar and the text will be in a lighter shade of grey. The game will then crash and will flick to the error report before the screen goes black and you cannot do anything.
+After death, any items dropped will give an infinite number of clone tools to the player when he/she attempts to pick them up (example: [20]).
+Missing tooltips for Tall Grass and Dead Shrubs in Statistics menu.
+Tall Grass looks grey in Statistics menu (because it's color depends on Dirt's block grass color).
+Furnaces will sometimes eject all but the last item in every slot.
+Upon logging into a world, the player receives half a heart of damage possibly due to spawning partially in the floor or ceiling, if indoors
+An item bug was introduced where people could pickup items while their inventory is full. [21]
+Some portals in SMP take the player to the same location in the nether, despite being quite distant from each other.
+The screen from clicking "Save and quit to title" no longer has a progress bar.
+Any music discs left in a jukebox before Beta 1.6 can not be ejected
+Trapdoor(Hatch) textures are mirrored wrongly. [22]
+Walking up or down stairs is much bumpier than previously (your viewpoint bouncing vertically).
+Closed Trapdoors/Hatches let drops fall through.
+Maps trying to view The Void will crash the game.
+Glowstone now acts similarly to glass with regards to rails, torches, ladders, doors, etc. [23]
+If you are in a minecart and fall a distance that normally would cause damage, water will not cushion the fall and stop damage.
+Player orientation arrow on maps orients about 15° to the right of actual facing.
+
+
+
+
+1.5_02 (Server only update)
+2011年4月20日
+
+Bug Fixes:
+
+Game no longer crashes from "internal server error" created by bugs in 1.5_01's Server in SMP
+Players no longer get the "dirt screen" when taking something out of the Crafting Table
+
+New Bugs:
+
+Placing Rails in North/South direction, followed by placing a piece of rails on the side (and thus making a curve) results in no curve.
+"Outside" rain sound still plays when under a glass shelter. In addition, Wolves under a glass roof during rain will be perpetually stuck in the "shaking" animation (unknown for multiplayer, unknown for SP)
+During rain in SMP, the server may disconnect you if you attempt to place or destroy blocks.
+Sitting Tamed wolves that were tamed before 1.5_01 and are pushed into water or water runs over them will start to jump in place, keeping the sitting stance, and are no longer able to be told to stand, thus continuing to do this until hit, which will cause them to attack you until death on either side. This can be fixed by closing and reopening minecraft, or killing the wolves off and taming new ones.
+If you are killed while having the chest GUI open and you transfer items from the chest to your inventory after you are killed, those items will be lost.
+Minecarts on fire can no longer be put out by nearby water.
+When a Powered Rail is placed next to a block and redstone is placed both on top of the block and leading away from the block to a redstone torch on the ground, and then the redstone on top of the block, the redstone leading away from the block, and the redstone torch on the ground are removed (in that order), the Powered Rail will remain powered without any power source.
+Placing redstone torches on top of blocks that have a Powered Rail coming away from them only seems to affect the proper number of Powered Rails if the Powered Rails have been placed prior to the redstone torch. If any Powered Rails are removed with the torch still on the block, this behavior persists.
+Dropped blocks are not being ejected upwards.
+Buttons cannot be placed on glowstone.
+
+
+
+
+1.5_01
+2011年4月20日
+
+Bug Fixes:
+
+Blocks can now be placed on Snow.
+Rain no longer goes through translucent blocks.
+Light does not go through stair blocks anymore, however if you did this in a previous update, unless the stairs are destroyed or a block adjacent is built or destroyed it will still work.
+Pumpkins are no longer worn backwards.
+Pumpkin and Jack-O-Lantern inventory texture is now fixed. Before, it was backwards. However, all pumpkins and jack-o-lanterns that were placed on the map before the update are backwards.
+Game no longer crashes when rails are placed next to detector rails, or vice versa.
+Wolves are less common than in 1.5 (but more common than in 1.4).
+Blocks cannot be replaced into furnaces, thus fixing the statistic glitch.
+If Minecraft detects a broken save file, it will attempt to recover the world.
+
+New Bugs:
+
+Many different activities will crash SMP with an "internal server error".
+On some servers if a block is placed on a snow block, the action will be immediately reversed and the snow block will return and the placed block will be added back to your inventory. (May only happen when snowing)
+Rain and Snow now fall through Water.
+Minecart Tracks of all types' placement behaves unexpectedly, not properly orienting after placement. (Curves don't work, slopes don't work, etc.) However if the corner is replaced, it will work.
+Placing blocks and/or mining, digging and/or harvesting resources with a texture pack installed rarely causes the game to crash to desktop in SSP.
+If you have a single wolf it will sometimes turn into a wild wolf after you save your game. This can be fixed by taming a second wolf.
+Water does not change to Ice while snowing.
+Saplings do not stack to 64 all the time. (notably the original saplings from planted or rendered during previous versions)
+When using a ladder and placing ladders at the same time, some ladders will appear on a different surface several blocks away.
+If you are killed while having the chest GUI open and you transfer items from the chest to your inventory after you are killed, those items will be lost.
+Sapling particles don't relate to the sapling placed when destroyed (i.e. Pine Sapling will show regular sapling particles)
+Levers placed on snow will have the animation like the broken lever: Media:Brokenlever.png The broken lever will point west.
+Sometimes when reeling in a fish, the fish will not be collected and will fly over the top of you.
+Saplings will refuse to grow into trees if any part of the tree's leaves would be in a block that is already occupied with anything except leaves. This results in places where planted saplings will never grow, when they used to be able to.
+Aggressive mobs are unable to jump over blocks when in pursuit of the player [24]
+Thunder can be heard at the bottom of the world, when deep within a cave. (Is this a bug?)
+Sometimes while shift-clicking objects into chests, the shift button always acts held down. In this case, you are not allowed to pick up any items in your inventory. Once you're in a chest, clicking an item in your inventory will quick-drag the item into the chest, even if your shift key is not held down. Restarting Minecraft will fix this problem.
+Torches are lost when attempting to place them in water. Torches simply washed away can still be collected.
+Looking backwards whilst traveling in a minecart causes it to flash rapidly.
+
+
+
+
+1.5
+2011年4月19日
+
+
+Added Weather.
+Added Statistics and Achievements.
+New Items (Detector rail, Powered Rail, Birch and Pine/Spruce Saplings).
+New Item Web. Cannot be found naturally.
+SHIFT-clicking on something in a chest will immediately move the selected item(s) into your inventory and vice-versa.
+Birch and Pine/Spruce trees now drop Birch and Pine/Spruce saplings, respectively.
+Huge performance improvements for old and slow computers.
+Crafting a ladder now produces 2 ladders.
+If lightning strikes a pig, it becomes a Zombie Pigman.
+If lightning strikes a Creeper, it becomes electrified and will have a much more powerful explosion.
+New settings in options:
+
+Ability to change GUI size (Small, Normal, Large, Auto).
+Advanced OpenGL (Occlusion Culling: doesn't render blocks that the player can't "see", helps performance in cards that support it).
+
+
+Items can now be smelted with Saplings with the same smelting power as Sticks.
+Dropped items in flowing water move faster than before.
+Pigs that die by burning now drop cooked porkchops upon death.
+Redstone dust can be placed on snow.
+Wolves are more common, even in non-taiga/forest biomes.
+Unarmed damage was increased from  to .
+Pressing tab will switch between input boxes.
+
+Bug Fixes:
+
+You are only 'on' a ladder (can climb it/fall slowly) if your lower half is in the ladder block, rather than any part of you. It is no longer possible to climb a one-block gap in a ladder, or a ladder that starts at eye level.
+On fancy graphics, the sides of grass blocks are now biome-specific and match the shade on the top.
+You can now move through flowing water at previous speed.
+Wolves have a better understanding of doors. They will go through doors most of the time, but will sometimes get stuck on the 3 pixel thickness of the door. They will eventually back up for another go at the opened door.
+The lighting on portals and ice has been fixed (previously had triangles on the blocks) when using Smooth Lighting.
+Stairs are no longer transparent.
+On SMP, the health of wolves are now synchronized between server and client, causing wolves to only whimper when low on health, opposed to all of the time.
+Redstone in off state is red again.
+Crops hit with water now drop seeds and wheat, as opposed to just wheat.
+Moving minecarts will continue to move if the world is closed.
+The Mojang logo is the correct size when Minecraft is maximized.(Not on a mac)
+The exploit to make chests three or more side by side by placing a water source and placing a chest in that source has been fixed.
+Shift + F2 doesn't create massive screenshots (more than 1 gigabyte in size) anymore.
+Sugar can can no longer be placed on any block which is not dirt.
+
+New Bugs:
+
+Occlusion Culling (Advanced OpenGL) Seems to be toggleable without Hardware OpenGL 2.0 Support.
+Sleeping in Bed will reset the timer for rain/snow and thunderstorms. This means, if you sleep every night the chance to get rain is very very small.
+Sneaking can rarely make it so you can place blocks on the block you're standing on.
+Creepers can make noises of other mobs.
+Repetitively putting items able to be smelted in the furnace counts as a crafting statistic.
+Achievements only work in SMP if you have already completed first achievement in Single Player.
+Achievements will sometimes disappear when you close and re-open the game and can sometimes be restored by closing and re-opening the game again.
+FPS counter shows Chunk Updates instead of FPS, usually while generating new chunks.
+The game will crash if Detector Rails are placed beside normal rails.
+
+A crash will also occur if a normal rail is placed next to a Detector Rail that is connected to another rail.
+
+
+Blocks can't be placed on snow.
+If you change Advanced OpenGL to on and then back again, giant holes will appear that you can see through.
+Jumping off a fence in SMP triggers an anti-flight kick.
+Rain will fall through transparent blocks and stairs, acting as if there is no block there.
+When hitting a grass block the destroying animation is darker on the side than the animation on top of the grass block, though only on fancy graphics.
+Flowing water no longer pushes empty minecarts or activated TNT that fall into it.
+GUI: create new world input boxes misaligned under small and normal settings.
+Sometimes you might not get an achievement even if you do what it requires to get. This can usually be fixed by doing it in another world.
+In Singleplayer, game resumes when 'Achievements' is clicked on the pause menu, instead of remaining paused.
+Riding in a minecart from the south into a corner going from north to west (so it's not connected to the current track) will crash the game. Possibly also true for other directions, yet if you're going in the same corner coming from the east, it will work as usual.
+Weather ambience will stop playing while using fast graphics.
+Destroying a pine or birch sapling releases the particles of a 'normal' sapling.
+Sometimes closing and re-opening the game will reset some or all of your settings to default.
+When jumping from a fence to another fence above the fence you jumped from in SMP, you may be kicked for flying if the server uses a specific plugin.
+If you resize the window (not fullscreen) after typing in the world name and the seed, they both will be reset to "New World" and a blank seed. (with all GUI-scale settings)
+Mob Spawn rates seem to be set detrimentally high. Anecdotal evidence suggests an approximate 10x increase. [25]
+Burning animation may remain on furnace even though all fuel is consumed, all items able to be smelted are used or the output-field is full.
+Game may crash by doing anything except moving or opening your inventory.
+Mobs that are near a bed may interrupt a player's sleep even if they cannot reach the bed. Most noticeably, beds that were previously safe (could not be reached by mobs) may now allow mobs to spawn into rooms in which they could not normally spawn. [26]
+
+May be related to Wolf path-finding, "understanding of doors" fix. [27]
+
+
+If Smooth Lighting is turned off, the middle of new stair blocks appears black. [28]
+When you open your achievements tree, the sky turns white (Most noticeable at night). (?)
+In SMP, deaths are not counted towards statistics.
+When in long underground tunnels, you can see the current sky near the vanishing point of the tunnel. This includes the sun, moon and stars as they move across the sky. [29]
+When you are in a bed, you can control particles orientation (portal particles, torch fire, etc...) by moving the mouse.
+
+
+
+
+1.4_01
+2011年4月5日
+
+
+Removed the April Fools' joke. However, the locked chests are still obtainable by inventory editing or SMP /give command. They will disappear after a while.
+
+Bug fixes:
+
+Beds now act as a respawn point as intended.
+
+New bugs:
+
+Although this has been fixed for most players, in certain cases the bed may still fail to save the default spawn point.
+A glitch is present where using a pickaxe on a Mac could crash the game.
+
+
+
+
+1.4
+2011年3月31日
+
+
+New Minecraft logo (no longer 3D blocks).
+Added wolves that the player can tame, or kill for no loot.
+Added Cookies which heal the player for 0.5 hearts.
+Sleeping in a bed now resets your spawn position, though does not work for most users. Apparently, at the moment the spawn point unintentionally only changes if "Leave bed" is clicked and the function is limited to SMP.[30]
+Sneaking while climbing will hang on to the ladder, thus being a handy cave tool.
+Spiders will no longer trample crops and have walking sounds removed.
+Sheep can now spawn in Pink and Brown (however rarely)
+Cocoa Beans can be found in Dungeon chests.
+Wheat grows more quickly compared to 1.3_01
+The new default hotkey for the inventory is 'E'.
+Added new block, Locked Chest, which was an April Fool's gag. It linked to the 'Minecraft Store', but now it has been removed.
+SMP servers can now have a new world seeded with an option in the Server.properties file.
+Lots of infrastructure for Statistics lists and Achievements have been implemented.
+Scale of UI may now be changed in options.txt located in the .minecraft folder.
+On a fresh install, modded blocks are removed from the map. This excludes modded blocks that are placed into chests.[来源请求]
+
+Bug fixes:
+
+Zombies and Spiders now hurt you in all instances (previously could only hurt you if they were 1 block above your location).
+Client-sided slime spawn on SMP has been fixed.
+Arm no longer swings when you cannot place a block.
+Opening and closing the inventory quickly while swinging no longer removes the character 'swinging' animation, which previously made destroying blocks faster (SMP only).
+
+New bugs:
+
+If a player hits himself with an arrow, any tamed wolves will attack the player.
+Tamed wolves whimper in SMP regardless of health. This is because client-side health was used instead of synchronizing the health level with the server's. [31]
+Wolves cannot travel through doors. A small hole can be punched out near the door as they are 1x1, thus creating a "doggy-door" until their pathfinding is updated to recognize open doors as a path they can walk through.
+Beds do not act as the spawn point as intended, especially if it changes without reloading the save. In most instances, it is unconfirmed that the spawn point is even changed at all.
+Several light calculation glitches were introduced, which can be seen when destroying or placing a block near tree leaves and other translucent blocks in Fast or Fancy graphics settings, or loading a new chunk that contains overhangs.
+Sometimes torches do not emit light, but can be forced to by placing a light emitting torch near them. If these torches are removed, the light will not go away.
+In SMP, a Monster Spawner that spawns pigs will spawn client side pigs. Like other client-side glitches, they cannot be attacked and upon a re-join, will vanish.
+In SMP, most (If not all) Redstone Pulsars / Blinkers will not work.(The change time command causes all circuits to malfunction. Server mods that affect server time also seem to affect circuits. Strangely enough, in SSP any mods used to change time will not disrupt circuits in any way.)
+Flowing Water will push the player with more force. [32]
+
+
+
+
+1.3_01
+2011年2月23日
+
+bug修复
+
+Dependencies on Java 1.6 are gone
+Fixed the recent issues on some Macs in which the game would crash when "Singleplayer" button was clicked on
+能够连接客户端Minecraft服务器1.3
+Fixed item duplication glitch
+
+
+
+
+1.3
+2011年2月22日
+
+
+新的物品、方块 (红石中继器，床等)
+新增半砖类方块 (木台阶, 圆石台阶, Sandstone Slab)
+Breaking a block made of two slabs now drops 2 slabs.
+Slimes have a higher spawn rate
+新的Mojang标志。
+图形设置屏幕。
+Ability to toggle between classic lighting and "smooth" lighting
+Worlds now use a generic McRegion chunk save format, with built-in auto conversion
+玩家可以在开始创建世界时在屏幕上输入世界名称，种子。
+可以创造5个以上的世界。
+Scrollbars added in both the texture pack list, and in the map selection screen
+添加白名单的服务器。 使用, enter “whitelist &lt;cmd&gt;” where cmd is “on”, “off”, “add &lt;player&gt;”, “remove &lt;player&gt;”, “list” or “reload”
+F1 and F3 are now toggled when pressed.
+When F3 is toggled on, mobs display their unique entity ID numbers over their heads.
+F8 toggles mouse smoothing
+In 3rd person mode, character can be visibly seen to bob side to side when you walk (only when View Bobbing is enabled).
+Sandstone is now found at the bottom of naturally generated sand.
+All pressure plates now require two of its materials, instead of 3. Stone slabs are now created by using 3 of the materials (see specific block pages for further information)
+Mine time for Sandstone decreased.
+Redstone Wire will get darker the farther away it is from a source of power.
+Less passive Mobs when on harder modes.
+Deleting world confirmation changed slightly.
+硫磺更名为火药
+bug修复
+
+
+When breaking double slabs (one slab placed on another) it will drop two slabs instead of one.
+Wood and logs don't burn forever anymore.
+Grassland/Sand-related biome border fixed (Boundaries line up, rather than obviously show chunk borders)
+No longer receiving Java Log error .txt file spam in the minecraft.exe folder when closing the Minecraft client program.
+Players can no longer use the click-release to quickly mine blocks (referred to as "click mining"). Note: Only applies to SMP.
+Players no longer glitch when standing on fences in SMP
+Players can no longer milk Squids.
+When right-clicking on a wooden door while holding a bow or fishing rod, arrows will no longer be fired into the door, nor will the fishing hook be cast into the door. (?)
+Hostile mobs can now be attacked properly in SMP
+Lapis Lazuli Ore now drops 4-8 Lapis Lazuli Dyes in SMP
+Bedrock and other blocks cannot be removed by tilling grass or dirt with a hoe and placing seeds anymore.
+
+新的漏洞
+
+Slimes can be killed, but split into smaller slimes regardless of weapon used. Only one split slime can be damaged, the others are 'ghost' slimes which disappear upon reconnecting.
+The game will occasionally crash if you enter a Nether portal while in a minecart.
+Levers can be placed on the bottom of a block, as long as there is an open space, and a block horizontal to the open space. The lever will act as if placed on the horizontal block, but looks glitched, as shown here: Media:Brokenlever.png
+If someone uses their bed in SMP, other players may get disconnected. (Un-Recognizable Packet ID: 17)
+木台阶用镐子破坏的更快而非用斧头(它们被标示为矿物).
+The particle colors for wood and sandstone slabs are gray.
+The particle colors for Redstone Repeaters are the same of pumpkins.
+Zombies and Spiders cannot hurt players unless they are above them or jumping(true in SSP only).
+If debug screen is toggled on in a world and you save and quit to title screen, the graph stays on the screen.
+Lighting bugs on transparent blocks with smooth lighting.
+When a player drowns or is otherwise killed near or in water, all 10 bubbles of the breath bar show up.
+If a redstone torch which is placed on the side of a block receives power, it will turn off permanently and must be manually reset. It will not turn back on.
+Redstone Repeaters may stay on when without turning off when turned on and off repeatedly for a long time. May be the blocks equivalent to a redstone torch burn out.
+Once a redstone torch is burnt out, any torch placed in that position will immediately burn out when given power. Torches will also remain burnt out forever.
+F1在第三人称视角no longer switches to front-on view
+1.3的Minecraft服务器没有响应
+
+
+
+
+Client/Launcher Update [33]
+2011年2月21日
+
+
+更新现在可以自己手动更新
+
+官方链接添加
+
+加入命令行
+
+推特链接添加
+
+
+
+
+1.2_02
+2011年1月21日
+
+
+皮肤系在来自 Amazon S3 而不是在 minecraft.net
+青金石 现在在单人游戏中会掉落4-8个青金石.
+青金石 可以在基岩层找到。
+墨袋被重命名为 "墨囊"。
+
+
+
+
+1.2_01
+2011年1月14日
+
+
+修正放置时动作不正常的各种方块（铁轨，火把等）。
+优化性能
+新增一个1.2中没有的书。
+降低了一下重生率。
+修正光照問題。
+晚上没有怪物生成
+增加一個臨時的解決辦法，以擺脫區域的可見性錯誤。 [34]
+閃爍 主菜單上的文字恢復正常 (不再是"Finally beta!")
+史萊姆被重新加入到遊戲。
+
+
+[35]
+
+
+
+1.2
+2011年1月13日
+
+
+新增 木炭
+Note Blocks (right click to tune, trigger to play)
+15種羊毛 染料
+一種新的海洋生物 (烏賊), 牠們掉落新的物品 墨囊
+新的樹 (白樺樹, 雲杉樹)
+蘆葦被甘蔗代替.(但它们还能造纸)
+一個新的 合成配方
+一個祕密的實用方塊 (發射器)
+一個祕密的美麗方塊 (青金石)
+蛋糕
+甘蔗 可以轉化成 糖。
+熔爐 有一個新的材質。
+骨头现在可以从骷髅身上掉落.
+骨頭　現在可以合成成 骨粉。
+加入灰色，淺灰色和黑色的 羊並且會掉落相應顏色的 羊毛。
+工具 可以用 木頭, 鵝卵石, 鐵 和 鑽石 製造，而 鑽石 的耐久度比其他更高。
+金 製工具可以比 鑽石 製工具更快地破壞 石頭 和 木頭 ，在1.2之前它們有相同的耐久度。
+沙岩
+蜘蛛 現在會爬牆。
+在單人遊戲中， 刷怪籠 會再次顯示它們生成的生物的模型了。
+在用鋤頭犁 草 方塊時，可能得到小麥 種子 。
+Included the FastRender mod by Scaevolus [36]. (Source: [37])
+現在不需要先按F1鍵，就可以截圖了。
+現在能在洞穴中發現較大的鐵，鑽石，煤礦礦脈。
+
+漏洞修復:
+
+畫能夠在多人遊戲中使用了。
+Disconnecting while riding no longer keeps the player in the world
+A bunch more state is properly synched in multiplayer
+Included PowerPC color and audio fixes by Scaevolus.
+修復了在單人遊戲中一個可怕的區塊重載問題。
+在新生成的SMP地圖中修復大量的光照問題。
+趺落的沙子現在SMP中顯示得更好了。
+修正載入地圖時的崩潰。
+南瓜燈現在有正確的名字提示。
+在SMP中，打羊時羊會明顯地失去了羊毛。
+
+
+
+
+1.1_02
+2010年12月22日
+
+
+修正了不能空手打開箱子。
+
+
+
+
+1.1_01
+December 22, 2010
+
+
+在文件中添加了缺失字体文件
+
+
+
+
+1.1
+2010年12月22日
+
+
+修正了字體在遊戲中不會閃爍的問題。
+重寫樹葉腐爛的文件。
+修正了單人遊戲中的性能下降。
+Fixed players getting spammed with data and getting disconnected in SMP.
+修正了SMP的物品重複漏洞。
+
+
+一些特殊的事件會發生在以下節日（根據系統時間）。
+
+在平安夜到節禮日那幾天：
+
+新增了在主菜單裡的標語: "Merry X-mas!"
+所有玩家穿着聖誕主題的披風。
+
+
+在除夕的那一天:
+
+所有玩家穿着一件有"11"字樣的披風去慶祝新年。
+
+
+在新年的那一天:
+
+新增了在主菜單裡的標語:"Happy New Year!"
+
+
+
+
+
+
+
+
+1.0.2
+2010年12月21日
+
+
+修正了遊戲不能在Macs上運作的問題。
+
+
+
+
+1.0_01
+2010年12月20日
+
+
+修正了大箱子的漏洞。
+修正了載入地圖時的崩潰。
+
+已有/新的漏洞:
+
+幀率/性能問題沒有完全固定。 [38].
+當伺服器太多人的時候會斷線。
+登入GNU/Linux後會崩潰。
+
+
+
+
+1.0
+2010年12月20日
+
+
+Working server-side inventory. And as a result of that, a whole pile of bugs and issues got fixed.
+Made SMP servers save chunks way less often in most cases. Chunks don’t resave if they got saved in the last 30 seconds.
+你會彈出使用畫面當你離開箱子太遠。
+確定了/kill。
+樹葉現在會再次腐爛了，它的動作亦有別於以前。
+現在可以扔雞蛋了。
+
+扔雞蛋能帶給你一個誕生小雞的機會。
+
+
+加入Mojang員工的獨家披風。
+
+...比起其他，這更是難得(DeadMau5的皮膚只能在Deadmau5伺服器上使用)。
+
+
+物品欄現在多了名字提示-當你的鼠標停留在物品上時，你可以看見它們的名字。
+你不能再在合成方格儲存物品了。
+地牢現在更加常見了(?)
+新的閃爍文字: "Finally beta!"
+
+新的漏洞:
+
+當你使用箱子時，你不能使用物品欄的最後兩列。
+玩家登入本地伺服器片刻後會斷線。
+有些人開啟遊戲時會發生錯誤（特別是Mac）。
+物品重複錯誤。
+watercolor.png不能使用。
+
+
+
+
+参考[编辑 | 编辑源代码]
+
+↑ http://www.minecraftwiki.net/wiki/Pumpkin_seed#Bugs
+↑ http://twitter.com/notch/status/85802201267707904
+↑ http://www.youtube.com/watch?v=2tW0lUCoohY
+↑ http://twitter.com/#!/jeb_/status/86692109700186114
+↑ http://twitter.com/#!/jeb_/status/86766465998520320
+↑ Bonemeal grows grass: http://twitter.com/notch/status/75484766924845056
+↑ http://notch.tumblr.com/post/5945205026/what-the-framerate-limiter-does
+
+
+
+版本记录
+
+
+PC版
+
+
+
+版本记录
+
+
+Pre-classic
+Classic
+
+ 生存测试
+
+
+Indev
+ Infdev
+Alpha
+ Beta
+
+预发布版
+
+
+Minecraft 1.0
+
+预览版本
+
+
+
+
+
+
+
+未来展望
+提及特性
+
+天域
+Plugin API
+
+
+未使用的特性
+已移除的特性
+ 彩蛋
+
+
+
+
+携带版
+
+
+ Alpha
+未来展望
+提及特性
+已移除的特性
+未使用的特性
+独有特性
+预览版本
+
+
+
+
+主机版
+
+
+版本记录
+未来展望
+提及特性
+独有特性
+已移除的特性
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=版本记录/Beta&amp;oldid=113108”					
+				分类：待翻译条目来源请求Version				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishFrançaisMagyarItaliano日本語한국어NederlandsPolski					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月24日 (星期日) 08:33。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

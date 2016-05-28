@@ -1,0 +1,638 @@
+
+
+
+
+Minecraft Wiki:关于 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Minecraft Wiki:关于
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+中文Minecraft Wiki统计信息
+
+
+
+MediaWiki版本
+
+1.26.3 （41559c0）
+
+
+
+条目数量
+
+1,480
+
+
+
+用户 / 活跃用户
+
+291,563 / 80
+
+
+
+欲知完整统计信息，详见Special:统计信息。
+
+
+
+该页面是关于本Wiki的常规信息的。  关于社区信息，请参阅Minecraft Wiki:社区专页。
+
+中文Minecraft Wiki是集合有关Minecraft信息的的公开阅览，公开编辑的“Wiki”，Minecraft是一款基于Java的游戏，由Notch创建，现由Mojang AB开发。本Wiki由一群来自Minecraft社区的贡献者与管理员团队维护。中文Minecraft Wiki最初创建于2011年3月8日，后于2011年8月18日获得独立域名并活跃至今。
+Minecraft Wiki最初由citricsquid在2009年7月16日创建，但从2010年11月15日开始，此Wiki开始被Curse运营。本Wiki由开放源码而免费的MediaWiki软件驱动。Minecraft的商标及其内容与素材的版权归属于Mojang AB。所有在Minecraft Wiki上的内容（归属于Mojang的图片，艺术作品，知识除外）均以知识共享 署名-非商业性使用-相同方式分享 3.0 协议 未本地化版本（CC BY-NC-SA 3.0）授权。
+
+另见[编辑源代码]
+
+Curse隐私权政策
+Special:版本信息
+
+
+
+官方资源
+
+
+Mojang 网站
+
+
+
+网站
+
+
+主页
+Realms网站
+树莓派版博客
+携带版测试博客
+Minecraft与教学网站
+红石网站
+Hopper（崩溃列表）网站
+
+
+
+
+其它网站
+
+
+Mojang博客
+PlayCobalt.com
+Scrolls.com
+Mojang客服
+Mojira（Mojang漏洞追踪）
+
+Mojira Reddit
+
+
+MCUpdate
+Pig Tales
+Mojam
+Minecraft Windows 10 Edition Beta反馈网站
+
+
+
+
+社交网络
+
+
+Mojang Twitter
+
+Mojang雇员列表
+
+
+Mojang YouTube
+Minecraft Facebook
+
+
+
+
+社区网站
+
+
+Minecraft Reddit
+
+Minecraft建议 Reddit
+Minecraft Realms Reddit
+
+
+esper.net上的#Minecraft
+
+esper.net上的#minecrafthelp
+
+
+
+
+
+
+过去的网站
+
+
+Mojang's Get Satisfaction
+The Word of Notch
+
+
+
+
+
+
+
+4J Studios网站
+
+
+4JStudios.com
+4J Studios Twitter
+4J Studios YouTube
+
+
+
+
+Telltale Games网站
+
+
+TelltaleGames.com
+MinecraftStoryMode.com
+Telltale Games Twitter
+Telltale Games Facebook
+Telltale Games YouTube
+
+
+
+
+Block by Block网站
+
+
+BlockbyBlock.org
+捐助
+
+
+
+
+Curse.com网站
+
+
+Minecraft Forums
+Minecraft Wiki
+Scrolls Wiki
+Cobalt Wiki
+
+
+
+
+Mojang雇员
+
+
+
+游戏开发
+
+
+Nathan Adams (Dinnerbone)
+Tomas Alaeus
+Jens Bergensten (Jeb)
+Erik Broes (Grum)
+Shoghi Cervantes
+Tommaso Checchi
+Thomas Guimbretiere (ProfMobius)
+Jon Kågström
+Aron Nieminen
+Måns Olson
+Michael Stoyke (Searge)
+Daniel Wustenhoff‎
+
+
+
+
+商务职员
+
+
+Isabella Balk
+Vu Bui
+Brynjólfur Erlingsson (Binni)
+Patrick Geuder
+Owen Hill (Bopogamel)
+Daniel Kaplan (Kappische)
+Lisa Kempe
+Marina Kostesic
+Jonas Mårtensson
+Karin Severinson
+Lydia Winters (MinecraftChick)
+Aleksandra Zajac (Marzenia)
+
+
+
+
+美工职员
+
+
+Mattis Grahm (BomuBoi)
+Martin Johansson
+Ninni Landin
+Henrik Pettersson (carnalizer)
+Jonatan Pöljö (eldrone)
+Markus Toivonen (junkboy)
+
+
+
+
+网络开发
+
+
+Pär Axelsson
+Daniel Frisk
+Leonard Gram (xlson)
+Kristoffer Jelbring
+David Marby (NeonMaster)
+Amir Moulavi
+Martin Odhelius
+Tomas Sommar
+Philip Vieira (Zee)
+Marc Watson
+
+
+
+
+客户支持
+
+
+Andreas Andersson
+Elli Ashrafi
+David Stuart Dahlgren
+Nasim Derakhshan
+Sarah Mårtensson
+Hampus Nilsson
+Josefin Olsson
+Adrian Östergård
+Mattias Victorin
+
+
+
+
+品牌维护
+
+
+Matilda Åkerman
+Brandon Andersson
+Mathias Andersson
+Talia Grunt
+Anna Klingberg
+Karl Lowry
+Olle Personne
+Milla Stone
+
+
+
+
+签约实体
+
+
+57Digital
+Garry Lucken
+Nikolaj Nyholm
+Daniel Rosenfeld (C418)
+Paul Spooner
+Kristoffer Zetterstrand
+
+
+
+
+已离职
+
+
+Anton Albiin
+Siri Hoel Andersson
+Johan Bernhardsson
+Poi Poi Chen
+Nathan Gilbert (Tahg)
+Ryan Holtz (TheMogMiner)
+Linn Hultman
+Andreas Jörgensen (Hideous)
+Joe Liu (Noirceuil)
+Warren Loo (EvilSeph)
+Tobias Möllstam
+Carl Manneh
+Markus Persson (Notch)
+Jakob Porsér (JahKob)
+Hayden Scott-Baron (Dock)
+Mike Till (ClayHero)
+Bella (Broontoo)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Minecraft_Wiki:关于&amp;oldid=112216”					
+				分类：Main				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															项目页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyar한국어PolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月17日 (星期日) 11:54。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

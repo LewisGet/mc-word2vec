@@ -1,0 +1,1118 @@
+
+
+
+
+Windows Phone 8.1 - 维基百科，自由的百科全书
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+
+
+			Windows Phone 8.1
+									
+									维基百科，自由的百科全书
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+
+
+
+Windows Phone 8.1
+
+
+
+
+开发者
+微軟公司
+
+
+作業系統家族
+Windows Phone
+
+
+源码模式
+閉源
+
+
+最新測試版本
+8.10.14219.341
+（2014年12月6日，​17個月前​（2014-12-06））[1]
+
+
+内核类别
+混合式核心（Windows NT 核心）[2]
+
+
+许可证
+商業軟體 專有軟體
+
+
+前一代
+Windows Phone 8（2012）
+
+
+后一代
+Windows 10 Mobile (2015)
+
+
+官方網站
+www.windowsphone.com
+
+
+Windows Phone 8.1 是微軟在2014年4月2日於加州舊金山發表的新一代手機作業系統，它的上一款為 Windows Phone 8。[3]微软在 2014年4月14日發佈开发者預覽版。[4][5][6][7]目前搭載Windows Phone 8.0的所有手機全數皆可升級至Windows Phone 8.1。[8]
+Windows Phone 8.1的後繼版本是Windows 10 Mobile。微软曾经承诺可以让所有Lumia WindowsPhone 8设备升级至Windows 10 Mobile。2016年3月17日，微軟為18款Windows Phone 8.1设备提供Windows 10 Mobile升級，并且表示不为其他设备提供升级。[9]。
+
+
+
+目录
+
+
+1 歷史
+
+1.1 Update 1
+1.2 Update 2
+
+
+2 功能
+
+2.1 Cortana 語音助理
+2.2 文件管理器
+2.3 網頁瀏覽器
+2.4 內建軟體
+2.5 多任务处理
+2.6 多媒體
+2.7 动态磁贴
+2.8 社群
+2.9 鎖定畫面
+2.10 通知與設定
+2.11 鍵盤
+2.12 Skype
+2.13 軟體框架
+2.14 檔案系統
+2.15 企業相關功能及其他功能
+
+
+3 硬體
+
+3.1 设备
+3.2 系統需求
+
+
+4 外部連結
+5 相關資料
+6 參考資料
+
+
+
+歷史[编辑]
+Windows Phone 8.1是与Windows 8.1相对应的手机操作系统，最开始有谣言称Windows Phone 8.1名为“Windows Phone Blue”。虽然微软原本计划在2013年秋季发布WP8.1，[10]但是该系统的普遍推送被推迟到了2014年春。[11]为了在长达一年的Windows 8与8.1的产品周期间隙中保持产品活力，微软分别于2012年12月、2013年7月和2013年10月发布了更新，更新中整合了多项新功能和优化，旨在为Windows 8.1的发布做基础；其中包括了为非Verizon设备提供的新功能DataSense，[12]并增强了对多核处理器及高清屏幕设备的支持，以及“驾驶模式”的推出和为“平板手机”提供的优化。[13]
+操作系统的最终于2014年2月10日，在微软为开发者提供Windows Phone 8.1 SDK后，正式与公众见面。[5]SDK发布数小时内，相关谍照就公诸于世了。[14]
+Windows Phone 8.1的开发者预览版于2014年4月14日发布，并作为Beta版本放出下载。[4]
+Update 1[编辑]
+Update 1 于在2014年8月4日推送到参加 Windows Phone 开发者预览版本程序的用户，[15]是2014年 Windows Phone 8.1 两次[16]主要更新的第一次。它为 cortana 添加了新的语言和区域支持，用于开始屏幕组织整理应用的文件夹、短信转发的多个消息、改进 Xbox Music ， Windows Phone 商店的支持动态磁贴及可以测试应用的应用园地。微软已改变 Internet Explorer Mobile ，使其带来的浏览器体验更接近 Safari （iOS） 和 Chrome （Android）。要做到这一点，微软远离了开放标准并采用在 Safari 和 Chrome 中使用的非标准特性，实现浏览器检测，改善检测到的使用旧式 WebKit 特征页面的渲染、带来HTML 5的支持，修复与错误 HTML 代码[17]的互操作性问题。此外，Update 1 还包括新的 VPN 和蓝牙功能，对于企业用户，支持互动的保护套，如 HTC 的"Dot View"保护套、 更大的"平板"屏幕分辨率如 1280 x 800 、 540 x 960 qHD屏和 1280 x 768 和高通 QuickCharge 2.0 标准。[18][19]它也移除了部分市场默认搜索提供商选择谷歌的选项。[20]
+Update 2[编辑]
+Update 2作为Microsoft Lumia 640和Microsoft Lumia 640XL默认搭载的系统版本，于2015年4月该设备陆续在全球各地上市后与大家见面。同时该版本也通过Windows Insider推送给部分市场的少数机种，并作为这些机种升级Windows 10移动版技术预览版的前提。[21]该版本的新特性包括重置保护、更新的设置应用、蓝牙键盘的支持等。
+功能[编辑]
+Windows Phone 8.1 引進了一系列顯著的新功能，其中大多數的預覽版已在2月10日推送至開發者。[22]
+Cortana 語音助理[编辑]
+主条目：Microsoft Cortana
+
+
+
+
+运行于 Windows Phone 8.1 的 Cortana
+
+
+微软小娜是 Windows Phone 8.1 新增的個人虛擬助理，類似於 Android 的 Google Now 或是 Apple 的 Siri 。Cortana 姓名來自Halo 系列遊戲的角色名，該遊戲只在微軟平台推出。 Cortana 的功能包括設定提醒、非聲控指令式的自然語言辨識，及利用 Bing 的服務基礎來回答使用者詢問的問題（像是目前天氣、交通狀態、賽事比數等）。
+另外 Cortana 有紀錄關鍵資料的功能，她將藉由使用過程中自動獲得使用者有興趣的資料，並且允許使用者輸入額外的個人資料，像是設定安靜時段及該時段可接收的特定友人訊息。而當使用者發現某些關鍵紀錄資料不想要被 Cortana "學習"也可以將這些紀錄個別刪除[23]。
+Cortana 並與 Windows 8.1 的 Bing SmartSearch 功能整合，將原本搜尋鍵呼叫出的 Bing 搜尋程式替換掉。[22]
+Cortana 已于 2014 年上半年在美國， 2014 年 8 月在中国、英国、印度、加拿大和澳大利亚[24]推出了測試版，其他多數國家將於 2014 年底或 2015 年初正式推出。
+微软已经致力于更新 Cortana 一个月两次，并添加功能。新功能可能包括更多的"复活节彩蛋"答复，改进用户界面和更好的声音调制。[25]
+文件管理器[编辑]
+Windows Phone 8.1 引入了一款官方原生文件管理器[26]。
+網頁瀏覽器[编辑]
+Windows Phone 8.1 將行動版 Internet Explorer 11 作為預設瀏覽器。IE11 提供很多來自桌上型版本的功能增強，像是支援 WebGL 及向量貼圖。此外也加入新的 YouTube 網頁播放器，也提供 HTML5 影片及字幕顯示。[27]
+內建軟體[编辑]
+电池感知 提供追蹤電池使用狀態的功能，並且能夠藉由設定檔來降低電量使用。
+存储感知 支持安装位置（手机或是存储卡）设定，能夠讓使用者移動檔案及應用程式至記憶卡或是手機儲存空間，並且在手機的系統設定內能讓使用者刪除應用程式的暫存檔和移除應用程式。
+WLAN 感知 能自動讓手機加入至可信任的 Wi-Fi 基地台，[28]並且使用者可以分享路由器的連線密碼至其他的裝置。[29]
+另外微軟也將日历應用程式加入本周行程顯示模式及顯示目前天氣。
+多任务处理[编辑]
+Windows Phone 8.1 在 8.0 GDR3 的基礎上新增藉由向下滑動多工視窗來關閉程式，就像是 Windows 8 及 iOS 那樣的操作方式。從應用程式中按下返回鍵會由原本的關閉應用程式改成中止應用程式執行。[30]
+多媒體[编辑]
+Xbox Music 及 Xbox Video 各自整合了影片、音樂及電視節目的串流服務，在上個版本之前這些服務是合併在一起的。比較明顯的是 Xbox Video 現在已經將影像串流內建其中。[31]除了將音樂及影片功能分開，8.1 將單一音量控制再分為鈴聲通知及媒體程式兩類，除此之外，影音解碼、硬體加速、裸視 3D，及第三方應用程式能夠不依賴於作業系統內建的錄影程式來錄影。另外內建了 PlayTo[32] ，即是透過 DLNA 將串流投至螢幕及電視畫面內建其中，將手機的畫面鏡射至外部螢幕上。媒體編輯工具也進行了功能升級，像是新增慢動作影面捕捉、影像或聲音特效等。內建的相機程式介面也向 Windows 8.1 的相機程式靠攏。[31]
+动态磁贴[编辑]
+在上一代只能用於 1080p 螢幕的第三排動態磚已在 Windows Phone 8.1 解除螢幕尺寸的限制，讓所有的手機皆可使用三排動態磚。另外也讓使用者可以自訂動態磚的背景圖片。[28]
+社群[编辑]
+Twitter 將會更深入的整合至聯絡人的最新動向。[22]
+鎖定畫面[编辑]
+Windows Phone 8.1 讓 OEM 廠商能夠藉由不同的字型、時間日期的顯示方向及通知文字自訂鎖定畫面。[28]
+通知與設定[编辑]
+
+
+
+
+Windows Phone 8.1 的操作中心
+
+
+Windows Phone 8.1 加入了新的通知中心，通知中心內除了下方的通知列表中能夠檢視當下的通知訊息，在上方的四個方框也能讓使用者在活動中心內進行簡單的手機設定，像是執行車用模式，或是無線網路、藍牙或飛航模式的開關等。[33][34][35]
+另外應用程式也可以透過地理柵欄相關的 API 傳送特定地點的不同通知訊息。[22]
+鍵盤[编辑]
+微软在WP8.1中加入了和安卓上的Swype键盘类似的滑行输入法（Word Flow），用户可以通过在键盘上滑动触控进行输入[28]
+15岁的美国湖滨中学的学生高拉夫·沙玛（Gaurav Sharma），使用一台配有Windows Phone 8.1操作系统的低端型号诺基亚Lumia系列手机，通过滑行输入法（Word Flow）打破由一名三星Galaxy S4用户保持的最快手机打字速度的吉尼斯世界纪录，比原来的记录快了8秒。[36][37]
+Skype[编辑]
+在Windows Phone 8.1中，用户现在可以在通话界面中自动将普通通话升级为Skype视频通话，Skype经过改进后有了更大的按键区域。在拨号界面，联系人的名字和电话号码会和对方的大头照片一起出现在屏幕上方，而不是直接出现在拨号框的正上方。现在，通过Cortana也可以直接发起Skype通话。[28]
+軟體框架[编辑]
+Windows Phone 8.1 的應用程式可以使用跟 Windows 8 應用程式相同的 Windows Runtime 應用程式架構來開發，而且這種應用程式的副檔名會與 Windows Store 中的應用程式同為 APPX，而不是 Windows Phone 應用程式的 XAP 副檔名。為 WP8.1 設計的應用程式可以語意式縮放 (semantic zoom) 及存取單一登入的 Microsoft 帳戶。而 Windows Phone 的市集也支援自動更新應用程式及手動檢查應用程式更新，並且可以設定只在 Wi-Fi 的環境下進行更新。
+應用程式開發人員可跟 Windows 8 一樣，使用 C#、Visual Basic.NET (.NET)、C++ (CX)，或是 HTML5/Javascript開發應用程式，並且開發人員可以藉由共用幾乎所有的程式碼來打造適用於 Windows Phone 8.1 及 Windows 8 的通用型應用程式，除了像是使用者介面及手機 API 相關的限定平台的程式片段。[38]
+另外為 Windows Phone 7 及 Windows Phone 8 設計的應用程式可以執行於 Windows Phone 8.1，但是為 Windows Phone 8.1 設計的應用程式將無法執行於任何先前版本的 Windows Phone。[22]
+檔案系統[编辑]
+由於微軟及 BSkyB 的 Sky 註冊商標糾紛，SkyDrive 已經改名為 OneDrive。當裝置接上電腦後，使用者能夠選擇不同的 USB 操作模式。
+企業相關功能及其他功能[编辑]
+Windows Phone 8.1 新增 VPN 及低功耗藍牙 4.0。[31]
+硬體[编辑]
+设备[编辑]
+Gionee、HTC、Huawei、JSR、Karbonn、LG、Lenovo、Longcheer, Micromax、Nokia、Samsung、Xolo，及 ZTE 都將會製造 Windows Phone 8.1 的裝置。[39] Sony 也表示有意願在不久的將來推出 Windows Phone。[40]
+而在 2014 年的 BUILD 大會中，微軟也公開了兩個新的硬體合作夥伴，分別是 Micromax 及 Prestigio。[41]
+系統需求[编辑]
+從 Windows Phone 8.1 開始，由於支援虛擬按鈕的原因，位於螢幕下方的三大實體按鈕已不再是標準配備，這讓 OEM 廠商能夠開發相容 WP 及 Android 兩平台的裝置。另外位於螢幕下方的三個虛擬按鈕可以藉由滑動至螢幕邊框的方式隱藏。[42]而且 Windows Phone 的硬體製造商也不再強制要求內建位於手機側邊的實體快門按紐。
+
+
+Windows Phone 8.1 最低设备要求
+
+
+高通 Snapdragon S4 雙核心處理器或是更高等級的處理器 (支援至四核心處理器)
+
+
+WVGA 解析度的手機最低需要 512&#160;MB RAM，720p / WXGA / 1080p 的解析度則是需要 1&#160;GB RAM
+
+
+最小 4&#160;GB 快閃記憶體
+
+
+GPS 及 A-GNSS 的定位支援，並且可以支援 GLONASS 定位
+
+
+支援 micro-USB 2.0
+
+
+支援 3 個按鈕偵測的 3.5&#160;mm 立體聲耳機孔
+
+
+支援自動對焦的主相機，並且可選用 LED 或是氙氣閃光燈，可選用前置鏡頭，兩者最低需求為 VGA 解析度。
+
+
+加速計、距離感應器、光感應器及震動馬達(指南針及陀螺儀為選配)
+
+
+802.11b/g 及藍芽，可選用 802.11n
+
+
+支援硬體 DirectX 繪圖加速的可程式 GPU
+
+
+最少支援 4 點的電容式觸控螢幕
+
+
+外部連結[编辑]
+
+Windows Phone 官方網站
+开放式目录计划中的Windows Phone 8.1相关内容
+
+相關資料[编辑]
+
+
+&#160;微软主題首頁
+&#160;信息技术主題首頁
+
+
+
+Windows Phone 版本歷史
+Windows RT
+Windows 8.1
+Windows Runtime
+
+參考資料[编辑]
+
+
+^ http://www.minternets.com/archives/17834.html
+^ Jo Foley, Mary. Microsoft's Windows Phone 8 finally gets a 'real' Windows core. ZDNet. June 20, 2012 [December 25, 2012].&#160;
+^ Fourth Generation Talk
+^ 4.0 4.1 Windows Phone 8.1 now available to developers. April 14, 2014 [14 April 2014].&#160;
+^ 5.0 5.1 Windows Phone 8.1 – Microsoft quietly sends invites for confidential SDK Dev Preview program | Windows Phone Central
+^ Microsoft announces Windows Phone 8.1 with Cortana, coming in April
+^ http://www.wpcentral.com/how-sign-windows-phone-81-preview-developers
+^ Windows Phone 8.0 is upgradeable, Microsoft says - Computerworld
+^ https://www.microsoft.com/en-us/windows/windows-10-mobile-upgrade
+^ Microsoft says 'next release' of Windows Phone is on target for the holidays | The Verge
+^ Microsoft details new Windows Phone 8 update, but real fixes won't come until 2014 | The Verge
+^ Complete Guide to Windows Phone 8 GDR2 | Windows Phone content from Paul Thurrott's SuperSite for Windows
+^ Microsoft Windows Phone 8 GDR3 update detailed | Pocketnow
+^ Leaked Photos of Windows Phone 8.1 Update Reveal Notification Center
+^ ,http://techcrunch.com/2014/08/04/windows-phone-8-1-update-1-goes-live-for-developers/
+^ Rubino, Daniel. Windows Phone 8.1 to get at least two OS updates in 2014 | Windows Phone Central. Wpcentral.com. 2014-04-07 [2014-08-21].&#160;
+^ Jul 31, 2014 Paul Thurrott. Windows Phone 8.1 Update 1: Internet Explorer | Windows Phone content from Paul Thurrott's SuperSite for Windows. Winsupersite.com. 2014-07-31 [2014-08-21].&#160;
+^ Belfiore, Joe. Windows Phone 8.1 Update brings Cortana to new markets + new featuresBlogging Windows. Blogs.windows.com. 2014-07-30 [2014-08-21].&#160;
+^ Rubino, Daniel. Microsoft reveals Update 1 for Windows Phone 8.1, due next week for Preview users | Windows Phone Central. Wpcentral.com. 2014-07-30 [2014-08-21].&#160;
+^ Windows Phone 8.1 GDR1 update removes Google search in some markets | Digit.in
+^ [1]
+^ 22.0 22.1 22.2 22.3 22.4 Developers leak new features included in Windows Phone 8.1 SDK | Windows Phone Central
+^ http://www.theverge.com/2014/3/3/5465264/microsoft-cortana-windows-phone-screenshots
+^ Rubino, Daniel. Microsoft announces Cortana for China, UK with 'alpha' status for India, Australia, and Canada | Windows Phone Central. Wpcentral.com. 2014-07-30 [2014-08-21].&#160;
+^ Microsoft to add updates to Cortana twice a month. 4 June 2014 [5 June 2014].&#160;
+^ 文件 | Windows Phone 应用 + 游戏应用商店. [2014-05-31].&#160;
+^ Windows Phone 8.1 features leaked by developer | Microsoft - CNET News
+^ 28.0 28.1 28.2 28.3 28.4 http://gadgets.ndtv.com/mobiles/features/windows-phone-81-top-eight-new-features-503922
+^ http://www.engadget.com/2014/04/02/windows-phone-8-1-wifi-sense/
+^ Windows Phone 8.1 features leaked by developers - News - Trusted Reviews
+^ 31.0 31.1 31.2 Windows Phone 8.1 includes universal apps and lots of feature updates | The Verge
+^ Windows Phone 8.1: The latest on what's on the leaked feature list | ZDNet
+^ First screenshots of the Notification Center for Windows Phone 8.1 reveal new design | Windows Phone Central
+^ With 8.1 update and Action Center, Windows Phone users will finally have a notifications hub - Tech2
+^ [2]
+^ http://tech.firstpost.com/news-analysis/top-5-windows-phone-8-1-features-to-look-forward-to-cortana-word-flow-wi-fi-sense-and-more-221004.html
+^ http://research.microsoft.com/en-us/news/features/wordflow-040414.aspx
+^ Leaked images show Universal Store of apps for Windows and Windows Phone. WinBeta.org. 2014-02-13
+^ http://www.engadget.com/2014/02/23/microsoft-lg-lenovo-windows-phone/?ncid=rss_truncated&amp;utm_campaign=sf
+^ The new Windows Phone 8 manufacturer... that you've probably never heard of. Neowin. [2013-07-11].&#160;
+^ Micromax to launch Windows Phone 8.1 devices soon, Microsoft announces.&#160;
+^ Windows Phone 8.1 SDK reveals universal cross-platform apps, on-screen buttons, more | ExtremeTech
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Windows Phone
+
+
+
+
+
+
+
+
+
+開發歷史
+已移除功能
+
+
+
+
+
+
+
+
+版本
+
+
+
+Windows Phone 7
+Windows Phone 8
+Windows Phone 8.1
+Windows 10行動版
+
+
+
+
+
+
+
+
+設備软件
+
+
+
+Bing Mobile
+
+Bing影像
+Bing地圖
+Bing Audio
+
+
+Cortana
+Groove音樂
+Internet Explorer Mobile
+MSN Mobile
+Office Mobile
+Windows Phone上的Xbox LIVE
+Windows Live for Mobile
+Zune Media Player
+電影與電視
+用於Windows Phone的Skype應用
+遠程桌面
+重要訊息中心
+
+
+
+
+
+
+
+
+桌面同步软件
+
+
+
+Zune軟件
+Windows Phone應用
+
+
+
+
+
+
+
+
+恢復软件
+
+
+
+Lumia Software Recovery Tool
+Windows Phone Recovery Tool
+
+
+
+
+
+
+
+
+服务
+
+
+
+行事曆
+Hotmail Mobile
+Microsoft account
+My Windows Phone
+Windows Phone Store
+OneDrive
+人脉中心
+Xbox LIVE
+
+
+
+
+
+
+
+
+開發
+
+
+
+.NET Compact Framework
+App Studio
+DVLUP
+Lumia Beta Apps
+Silverlight
+SQL Server Compact
+XNA
+TouchDevelop
+
+
+
+
+
+
+
+
+相關
+
+
+
+Windows CE
+
+Windows Mobile
+
+
+微軟移動
+諾基亞X平臺
+Lumia影像應用程式
+
+
+
+
+
+
+
+
+
+
+
+ Phone 7裝置
+Phone 8裝置
+Phone 8.1裝置
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+ Microsoft Windows家族
+
+
+
+
+
+
+
+
+
+组件
+歷史
+年表
+批評
+
+
+
+
+
+
+
+
+基於DOS
+
+
+
+Windows 1.0
+Windows 2.0
+Windows 2.1x
+Windows 3.0
+Windows 3.1x
+
+
+
+
+
+
+
+
+Windows 9x
+
+
+
+Windows 95 (開發（英语：Development of Windows 95）)
+Windows 98
+Windows Me
+
+
+
+
+
+
+
+
+Windows NT
+
+
+
+
+
+
+
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51（英语：Windows NT 3.51）
+Windows NT 4.0
+Windows 2000
+
+
+
+
+
+
+
+
+客戶端版本
+
+
+
+Windows XP
+
+版本
+x64
+媒體中心
+精简
+
+
+Windows Vista
+
+版本
+
+
+Windows 7
+
+版本
+
+
+Windows 8
+
+版本
+8.1
+RT
+RT 8.1
+
+
+Windows 10
+
+版本
+
+
+
+
+
+
+
+
+
+
+Windows Server
+
+
+
+Server 2003
+
+Home Server
+
+
+Server 2003 R2
+Server 2008
+
+EBS 2008
+HPC Server 2008
+
+
+Server 2008 R2
+
+Home Server 2011
+
+
+Server 2012
+Server 2012 R2
+Server 2016
+MultiPoint Server
+Server Essentials（英语：Windows Server Essentials）
+
+
+
+
+
+
+
+
+專用
+
+
+
+Windows預先安裝環境
+
+
+
+
+
+
+
+
+
+
+
+Windows Embedded
+
+
+
+Embedded Compact
+
+CE 5.0
+Embedded CE 6.0
+Embedded Compact 7
+
+
+Embedded Automotive（英语：Windows Embedded Automotive）
+Embedded Industry（英语：Windows Embedded Industry）
+Embedded 8（英语：Windows Embedded 8）
+
+
+
+
+
+
+
+
+Windows Mobile
+
+
+
+Pocket PC 2000
+Pocket PC 2002
+Mobile 2003
+Mobile 5.0
+Mobile 6.0
+Mobile 6.1
+Mobile 6.5
+
+
+
+
+
+
+
+
+Windows Phone
+
+
+
+Phone 7
+Phone 8
+Phone 8.1
+Windows 10行動版
+
+
+
+
+
+
+
+
+取消版本
+
+
+
+Cairo
+Nashville
+Neptune
+Odyssey
+
+
+
+
+
+
+
+
+
+
+
+ 版本列表
+ 分类
+ 共享資源
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+查
+论
+编
+
+
+移动操作系统
+
+
+
+
+
+
+Linux内核
+
+
+
+
+Android
+
+
+
+CyanogenMod
+Hive UI
+Fire OS
+OPhone
+Replicant
+Ubuntu for Android
+百度易平台
+諾基亞X平台
+MIUI
+
+
+
+
+
+
+
+
+SHR
+
+
+
+OpenEmbedded
+
+Familiar Linux
+OpenZaurus
+KaeilOS
+
+
+Openmoko Linux
+
+Qt Extended Improved
+Ångström Linux-based
+
+
+
+
+
+
+
+
+
+
+其他
+
+
+
+Access Linux
+EZX Linux
+Firefox OS
+LuneOS
+MeeGo
+MotoMagx
+Sailfish OS
+Tizen
+Ubuntu Touch
+webOS
+
+
+
+
+
+
+
+
+
+
+
+XNU
+
+
+
+iOS
+
+
+
+
+
+
+
+
+QNX
+
+
+
+BlackBerry 10
+BlackBerry Tablet OS
+
+
+
+
+
+
+
+
+Windows
+
+
+
+Windows Mobile
+Windows Phone
+Windows XP Tablet PC Edition
+Windows RT
+Windows 8.1 with Bing
+Windows 10移动版
+
+
+
+
+
+
+
+
+其他
+
+
+
+BlackBerry OS
+EPOC
+GEOS
+Nintendo DSi
+Nintendo 3DS
+S30
+S40
+Nokia Asha platform
+Palm OS
+PSP
+PS Vita
+Symbian
+
+MOAP(S)
+UIQ
+S60
+S80
+S90
+
+
+
+
+
+
+
+
+
+
+相關
+平臺
+
+
+
+BREW
+Java ME
+JavaFX Mobile
+
+
+
+
+
+
+
+
+
+
+
+移动操作系统比较
+行動軟體發行平台列表
+開放手機聯盟
+開放移動聯盟
+流動應用程式開發
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“https://zh.wikipedia.org/w/index.php?title=Windows_Phone_8.1&amp;oldid=39728276”					
+				分类：Windows Phone智能手機Cloud clients行動作業系統ARM operating systemsC軟體C++軟體				
+							
+		
+		
+			导航菜单
+
+			
+									
+						个人工具
+						
+							没有登录讨论贡献创建账户登录						
+					
+									
+										
+						命名空间
+						
+															条目
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	马新简体
+																	台灣正體
+															
+						
+					
+									
+				
+										
+						视图
+						
+															阅读
+															编辑
+															查看历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			导航
+
+			
+									
+						首页分类索引特色内容新闻动态最近更改随机条目					
+							
+		
+			
+			帮助
+
+			
+									
+						帮助维基社群方针与指引互助客栈知识问答字词转换IRC即时聊天联络我们关于维基百科资助维基百科					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改上传文件特殊页面打印页面固定链接页面信息维基数据项引用本页					
+							
+		
+			
+			其他语言
+
+			
+									
+						العربيةČeštinaEnglishEspañolفارسیSuomiHrvatskiՀայերենBahasa IndonesiaItalianoქართული한국어PortuguêsRomânăРусскийУкраїнськаTiếng Việt					
+				编辑链接			
+		
+				
+		
+		
+							
+											 本页面最后修订于2016年4月12日 (星期二) 01:52。
+											本站的全部文字在知识共享 署名-相同方式共享 3.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+Wikipedia&reg;和维基百科标志是维基媒体基金会的注册商标；维基&trade;是维基媒体基金会的商标。
+维基媒体基金会是在美国佛罗里达州登记的501(c)(3)免税、非营利、慈善机构。
+									
+							
+											隐私政策
+											关于维基百科
+											免责声明
+											开发者
+											Cookie声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+

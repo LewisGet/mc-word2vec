@@ -1,0 +1,1012 @@
+
+
+
+
+树莓派 - 维基百科，自由的百科全书
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+
+			树莓派
+									
+									维基百科，自由的百科全书
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+
+
+本条目部分链接不符合格式手冊規範。跨語言链接及章節標題等處的链接可能需要清理。（2015年12月11日） 
+請協助改善此條目。參見WP:LINKSTYLE、WP:MOSIW以了解細節。突出显示跨语言链接可以便于检查。 
+
+
+
+
+
+
+
+本条目翻譯品質不佳。 
+翻譯者可能不熟悉中文或原文語言，也可能使用了機器翻譯，請協助翻譯本條目或重新編寫。明顯的機器翻譯請改掛{{Delete|G13}}提交刪除。 
+
+
+
+
+
+
+
+
+
+
+
+
+
+树莓派（Raspberry Pi）
+
+研發商
+树莓派基金會
+(Raspberry Pi Foundation)
+
+
+型式
+单板机
+
+
+網站
+raspberrypi.org
+
+
+
+树莓派1
+
+
+树莓派B+
+
+
+
+推出日期
+2012年2月29日，​4年前​（2012-02-29）
+
+
+作業系統
+GNU/Linux (Raspbian, Debian, OpenELEC, Fedora, Arch Linux ARM, Gentoo, OpenWrt), RISC OS, FreeBSD, NetBSD, Plan 9, Inferno
+
+
+耗電
+1.5 W (A型)、3.5 W (B型)、3.0 W (B+型)
+
+
+存儲容量
+SD card slot
+(SD or SDHC card)
+
+
+記憶體
+256 MByte (A型)
+256 MByte (B型rev 1）
+512 MByte (B型rev 2,B+型)[1]
+
+
+尺寸
+85.60 mm × 53.98 mm
+
+
+重量
+45 g
+
+
+
+树莓派2
+
+
+树莓派2B
+
+
+
+推出日期
+2015年2月2日，​15個月前​（2015-02-02）
+
+
+作業系統
+GNU/Linux (Ubuntu, Raspbian, Debian, OpenELEC, Fedora, Arch, Gentoo, OpenWrt), RISC OS, FreeBSD, NetBSD, Plan 9, Inferno, Windows 10
+
+
+耗電
+4.0 W
+
+
+存儲容量
+MicroSDHC slot
+
+
+記憶體
+1&#160;GB RAM
+
+
+
+树莓派0
+
+
+Raspberry Pi Zero
+
+
+
+推出日期
+2015年11月，​5個月前​（2015-11）
+
+
+作業系統
+Linux (Raspbian[2]) or the same as for Raspberry Pi 1
+
+
+耗電
+0.8 W
+
+
+存儲容量
+MicroSDHC slot
+
+
+記憶體
+512&#160;MB RAM
+
+
+树莓派（英语：Raspberry Pi），是一款基於Linux的单板机電腦。它由英國的树莓派基金會所開發，目的是以低價硬體及自由軟體刺激在学校的基本电脑科学教育。[3][4][5][6][7]
+树莓派的生产是通过有生产许可的两家公司：Element 14/Premier Farnell和RS Components。这两家公司都在网上出售树莓派。[8]
+树莓派配備一枚博通（Broadcom）出產的ARM架構700MHz BCM2835處理器，256MB內存（B型已升级到512MB内存），使用SD卡當作儲存媒體，且擁有一個Ethernet、兩個USB接口、以及HDMI（支持聲音輸出）和RCA端子輸出支援。树莓派只有一張信用卡大小，體積大概是一個火柴盒大小，可以執行像《雷神之鎚III競技場》的遊戲和進行1080p影片的播放。操作系統採用開源的Linux系統如Debian、ArchLinux，自帶的Iceweasel、KOffice等軟體，能夠滿足基本的網絡瀏覽、文字處理以及電腦學習的需要。分A、B兩种型號，售價分别是A型25美元、B型35美元。树莓派基金会从2012年2月29日开始接受B型的订货。[9]
+树莓派基金会提供了基於ARM架構的Debian、Arch Linux和Fedora等的发行版[10]供大众下载，还计划提供支持Python作为主要编程语言[11][12]，支持BBC BASIC[13](通过RISC OS映像或者Linux的"Brandy Basic"克隆)[14]、C语言和Perl等编程语言。
+树莓派基金会于2016年2月发布了树莓派3,较前一代树莓派2，树莓派3的处理器升级为了64位的博通BCM2837，并首次加入了Wi-Fi无线网络及蓝牙功能，而售价仍然是35美元。[15]
+
+
+
+目录
+
+
+1 歷史
+
+1.1 發布之前
+1.2 發佈
+1.3 發佈之后
+
+
+2 硬體
+
+2.1 硬體规格
+2.2 主要接口
+2.3 GPIO 引脚
+
+
+3 软件
+
+3.1 操作系统（OS）
+
+
+4 附件
+5 社区
+6 应用
+7 評價
+8 参考資料
+9 相關
+10 外部链接
+
+
+
+歷史[编辑]
+2006年，早期的树莓派的概念來源於Atmel的ATmega644單片機。其原理圖和PCB佈局可供公眾下載。基金會受託人埃·厄普頓（Eben Upton）彙集了一批教師學者和電腦愛好者，製作一套啟發孩子的電腦[16]。這種電腦是受到了1981年的艾康電腦公司的BBC Micro電腦的啟發。第一台ARM電腦的原型被裝在與一個隨身碟的大小相同的一個「盒子」中。它一端有一個USB接口，而另一端有一個HDMI接口。
+發布之前[编辑]
+
+
+
+
+早期的树莓派alpha测试板在运行中，它的布局板和beta和成品板不同。
+
+
+2011年8月，基金會製造出第一批Alpha電路板共50片。這些電路板的功能與原計劃中的B型的相同，但體積更大以容納測試接口。該電路板的演示展示了它能運行LXDE桌面的Debian，以1080p的分辨率運行雷神之锤3，通過HDMI播放全高清MPEG-4影片。
+2011年10月，RISC OS 5系統的實驗版本能夠正常運行，並且展示這個成果給大眾，并且在經過一年多的開發后，在2012年11月发布给大众使用。[17][18][19][20]
+2011年12月，在100個未組裝的電路板中，二十五個B型的Beta測試版電路板被組裝和測試。測試版電路板的元件部屬與量產電路板相同。在電路板的設計上發現一個錯誤，即CPU上的一些引腳沒有保持高電平，這個錯誤在首次生產時已被修復。Beta版電路板已證明可以啟動Linux，播放1080p的電影預告片和運行Rightware Samurai的OpenGL ES基準測試。
+2012年的第一週，10個電路板在eBay上被拍賣。有人匿名購買，並捐贈給座落在英國薩福克的電腦歷史博物館。這十個電路板（總零售價220英鎊）拍賣一共籌集了超過16000英鎊的資金。預計在2012年2月結束發布之前，該基金會的伺服器因為使用者重複的刷新頁面而造成大量負載。
+發佈[编辑]
+
+
+
+
+树莓派，A型。
+
+
+首批1萬個電路板是在中國或台灣製造，[21][22]而不是在英國。這是由於各個組成部分要進口關稅繳付，而成品不用。中國製造商還只需要4周的準備時間，但在英國需要12周。節省下的資金可再投資於該基金會的其他研究和開發活動。
+2012年3月公佈首批運送的延誤，是因為乙太網路孔的安裝不良。但該基金會預計，如果需要的話，未來批次的製造數量可以毫無困難地增加。
+「我們確保我們能得到大量（乙太網接口與磁性元件），在協助提供部件方面，Premier Farnell和RS Components（两个經銷商）是極好的。」厄普頓說。
+最初的銷售開始2012年2月29日06:00 UTC。同時，它宣佈，A型原本有128 MB的RAM，但在發佈之前要升級到256 MB。該基金會的網站也宣佈「在項目的開始6年後，我們的第一次開發運行就要接近結束了 - 雖然树莓派的故事才是個開始。」他們在英國本地的兩個特許專賣店銷售，由於過重的流量導致官方網站暫停服務，他們立即推出自己的網站。同時站長也懇求，「朋友～你能別如此頻繁的按F5嗎，將會使伺服器癱瘓的。」雖然還未經證實，報告顯示，有超過200萬的意向書或預購。树莓派官方Twitter帳戶報導，Premier Farnell在發售的最初幾分鐘內就銷售一空，而在第一天的RS Components的預購訂單超過10萬。截至2012年9月，已售出大約500,000板。[23]
+2012年3月，製造商被報道要接受「健康的数量」的預購訂單。[24]
+發佈之后[编辑]
+2012年4月16日有報導第一個買主收到了他們的树莓派[25][26]。截至2012年5月22日，已經運送超過20000个树莓派[27]。2012年7月16日宣布，每一天有4000个被制造，让树莓派进入了大批量生产阶段[28][29]。9月5日树莓派基金会公布了B型第二次修订版[30]。
+在2012年9月6日基金会宣布大批量的树莓派将在英国制造，由位于威尔士Pencoed市的索尼工厂生產。该基金会估计，该工厂每月将生产30,000个，並将创造大约30个新的就业机会[31][32]。在2012年10月，它的两个主要分销商的一些客户等待他们的订货竟超过了6个月。据报道，这是由于在采购CPU和保守的销售预测上的困难。[33]
+2014年10月23日，树莓派基金会宣布已售出大约380万台树莓派。[34]
+2015年2月，树莓派基金会发布了第二代产品——树莓派2，售价35美元。[35]树莓派2采用4核Broadcom BCM2836 (ARMv7-A)芯片、双核VideoCore IV GPU和1GB内存，其余配置与树莓派B+型一致，除了支持第一代树莓派支持的操作系统外，树莓派2将能够运行Windows 10以及Snappy Ubuntu Core。
+2015年6月8日,树莓派基金会宣布已售出大约600万台树莓派。成为英国卖得最快的个人计算机，也是英国历史上销量第二的计算机，仅次于卖出800万台的Amstrad PCW。
+2015年11月26日,树莓派基金会发布了一款廉价产品——树莓派0，售价仅5美元，该产品较树莓派和树莓派2相比，具有更小的尺寸[36]。
+硬體[编辑]
+
+
+
+
+B型的模块框图；A型没有最下面的两个模块 ("Ethernet"實際上是接在USB HUB上的一張網卡)
+
+
+最初銷售的樹莓派是B型，計劃2013年早些時候推出A型。A型有一個USB接口，並沒有乙太網路控制器，成本将小於B型（有兩個USB端口和一個10/100以太網控制器）。
+雖然A型沒有RJ45乙太網接口，但依然可以連接到網絡（使用用戶提供的USB乙太網或Wi-Fi適配器）。現實中外部的乙太網適配器A型和B型一個內建之間沒有差異，因為B型的乙太網端口實際上是一個內建的USB乙太網路轉卡。作为是典型的現代電腦，树莓派支援USB鍵盤和滑鼠。
+樹莓派沒有硬體實時時鐘，故一個操作系統必須使用網絡時間伺服器，或在開機時要求用戶時間與日期才能獲得時間、日期以及資料夾日期的相關訊息。不過，如果用附帶時鐘的備用電池（如DS1307的），則可以通過I2C介面來獲得時間。
+2012年4月20日，樹莓派基金会公布了樹莓派的A型和B型的電路圖。[37]
+2012年8月24日，树莓派基金会获知其持有的视频技术许可已涵盖视频编码功能。自此，树莓派也能使用硬件加速视频编码H.264。而在此前，人们以为视频编码功能须待已公布的摄像模块一同发布。尽管如此，目前尚无稳定的树莓派软件支持硬件H.264编码功能。
+与此同時，树莓派基金会发布了两个可另行购买的解码器，即MPEG-2和微软的VC-1。基金会同时宣称树莓派将会支持CEC，这将使其能够经由电视遥控器进行操作。
+在2012年9月5日，修订版2.0的板子被公佈，有一些较小的修正和改进。[38]
+在2012年10月15日，树莓派基金会宣布所有新的树莓派的B型将配有512MB RAM芯片，而不是256MB。[39]
+硬體规格[编辑]
+
+
+项目
+A型
+A+型
+B型
+B+型[40]
+B型 (第2代)
+B型 (第3代)
+
+
+上市价格
+$25
+$20
+$35[41]
+
+
+SoC
+Broadcom BCM2835（CPU，GPU DSP和SDRAM、USB）[42]
+Broadcom BCM2836（CPU，GPU DSP和SDRAM、USB）
+Broadcom BCM2837（CPU，GPU DSP和SDRAM、USB）
+
+
+CPU
+ARM1176JZF-S核心（ARM11系列）700MHz (單核心)
+ARM Cortex-A7 (ARMv7系列) 900MHz (四核心)
+ARM Cortex-A53 64位 (ARMv8系列) 1.2GHz (四核心)
+
+
+GPU
+Broadcom VideoCore IV[43], OpenGL ES 2.0, 1080p 30 h.264/MPEG-4 AVC高清解码器
+
+
+内存
+256 MB（与GPU共享，可以理解为集成显卡的显存与内存共享）
+256MB, 512 MB（2012年10月15日打后）
+1024 MB (LPDDR2)
+
+
+USB 2.0接口个数[44]
+1 （支持USB hub扩展）[45]
+2
+4
+
+
+影像輸入
+15-針頭 MIPI 相機 (CSI) 界面，可被樹莓派相機或樹莓派相機(無紅外線版)使用
+
+
+影像輸出
+視像用RCA端子（PAL &amp; NTSC）、HDMI，HDMI界面可使用14種分辨率，分別從640×350到1920×1200之間
+
+
+音源輸入
+I²S
+
+
+音源輸出
+3.5mm插孔，HDMI電子輸出或I²S
+
+
+板载存储
+SD / MMC / SDIO卡插槽
+MicroSD卡插槽
+SD / MMC / SDIO卡插槽
+MicroSD卡插槽
+
+
+網絡接口
+沒有（需通過USB）
+10/100Mbps 乙太網接口（RJ45接口）
+10/100Mbps 乙太網接口（RJ45接口），支持802.11n无线网络及蓝牙4.1
+
+
+外設
+8個GPIO, 外加下列外設(亦可當作GPIO使用)：UART、I²C、帶兩個選擇的SPI總線，+3.3 V、+5 V、地線
+14個GPIO及HAT規格鋪設
+除A型所擁有之外設之外，亦有4個GPIO可供用戶使用(需自行焊接電路)
+14個GPIO及HAT規格鋪設
+
+
+额定功率
+1.5 瓦 (5V/300mA) [46]
+1 瓦 (5V/200mA)
+3.5 瓦 (5V/700A)
+3.0 瓦 (5V/600mA)
+4.0 瓦 (5V/800mA)
+
+
+电源输入
+5V 電壓 (通过MicroUSB或經GPIO輸入)
+
+
+总体尺寸
+85.60 × 53.98 毫米（3.370 × 2.125 英寸）
+65 × 56.5 × 10 毫米（2.56 × 2.22 × 0.4 英寸）
+85.60 × 53.98 毫米（3.370 × 2.125 英寸）
+
+
+重量
+45&#160;g（1.6&#160;oz）
+23&#160;g（0.81&#160;oz）
+45&#160;g（1.6&#160;oz）
+
+
+
+A型
+A+型
+B型
+B+型
+B型 (第2代)
+B型 (第3代)
+
+
+
+注
+
+
+A型和B型之命名是在文化上参考了英国教育性质的BBC Micro电脑[47]， 由BBC廣播公司所支持及供款， 艾康電腦（英语：Acorn Computers）公司所开发。艾康電腦公司开发了ARM架构处理器（树莓派硬件所属于的架构），以及开发了运行在树莓派上的操作系统RISC OS.
+
+主要接口[编辑]
+
+
+
+
+
+
+
+
+
+
+GPIO 引脚[编辑]
+
+
+GPIO#
+2nd func
+pin#
+
+pin#
+2nd func
+GPIO#
+
+
+N/A
++3V3
+1
+
+2
++5V
+N/A
+
+
+GPIO2
+SDA1 (I2C)
+3
+
+4
++5V
+N/A
+
+
+GPIO3
+SCL1 (I2C)
+5
+
+6
+GND
+N/A
+
+
+GPIO4
+GCLK
+7
+
+8
+TXD0 (UART)
+GPIO14
+
+
+N/A
+GND
+9
+
+10
+RXD0 (UART)
+GPIO15
+
+
+GPIO17
+GEN0
+11
+
+12
+GEN1
+GPIO18
+
+
+GPIO27
+GEN2
+13
+
+14
+GND
+N/A
+
+
+GPIO22
+GEN3
+15
+
+16
+GEN4
+GPIO23
+
+
+N/A
++3V3
+17
+
+18
+GEN5
+GPIO24
+
+
+GPIO10
+MOSI (SPI)
+19
+
+20
+GND
+N/A
+
+
+GPIO9
+MISO (SPI)
+21
+
+22
+GEN6
+GPIO25
+
+
+GPIO11
+SCLK (SPI)
+23
+
+24
+CE0_N (SPI)
+GPIO8
+
+
+N/A
+GND
+25
+
+26
+CE1_N (SPI)
+GPIO7
+
+
+(Models A and B stop here)
+
+
+EEPROM
+ID_SD
+27
+
+28
+ID_SC
+EEPROM
+
+
+GPIO5
+N/A
+29
+
+30
+GND
+N/A
+
+
+GPIO6
+N/A
+31
+
+32
+-
+GPIO12
+
+
+GPIO13
+N/A
+33
+
+34
+GND
+N/A
+
+
+GPIO19
+N/A
+35
+
+36
+N/A
+GPIO16
+
+
+GPIO26
+N/A
+37
+
+38
+Digital IN
+GPIO20
+
+
+N/A
+GND
+39
+
+40
+Digital OUT
+GPIO21
+
+
+
+
+Function
+2nd func
+pin#
+
+pin#
+2nd func
+Function
+
+
+N/A
++5V
+1
+
+2
++3V3
+N/A
+
+
+GPIO28
+GPIO_GEN7
+3
+
+4
+GPIO_GEN8
+GPIO29
+
+
+GPIO30
+GPIO_GEN9
+5
+
+6
+GPIO_GEN10
+GPIO31
+
+
+N/A
+GND
+7
+
+8
+GND
+N/A
+
+
+软件[编辑]
+操作系统（OS）[编辑]
+
+
+
+
+API连接的方框图
+
+
+树莓派主要使用基于Linux内核的操作系统。 第一代树莓派是基于ARMv6架构的ARM11芯片。目前的几个流行的Linux版本，包括Ubuntu在内，将不能在ARM11上运行。在原生的树莓派上是没有可能运行Windows，不过新的树莓派2已经可以运行"Windows 10 物联网核心版"。树莓派2当前只支持Ubuntu Snappy Core, Raspbian, OpenELEC and RISC OS.
+
+NOOBS是树莓派的系统安装管理器，以下系统已经包含NOOBS：
+
+Arch Linux ARM
+OpenELEC
+Pidora (Fedora Remix)
+Puppy Linux
+Raspbmc 和 XBMC – 开源数字媒体中心
+RISC OS – 第一款ARM计算机的操作系统.
+Raspbian (推荐用于树莓派1) – 独立的社区; 基于 Debian 的 ARM hard-float (armhf) 架构接口，最初是为 ARMv7 和更高级版本的处理器设计 (with Jazelle RCT/ThumbEE, VFPv3, and NEON SIMD extensions), 但也可以编译为有限制ARMv6指令集用于树莓派1。 树莓派社区提供的Raspbian 镜像最少需要4G的SD 卡。 There is a Pi Store for exchanging programs.
+
+The Raspbian Server Edition is a stripped version with fewer software packages bundled as compared to the usual desktop computer oriented Raspbian.
+The Wayland display server protocol enable the efficient use of the GPU for hardware accelerated GUI drawing functions. on 16 April 2014 a GUI shell for Weston called Maynard was released.
+PiBang Linux is derived from Raspbian.
+Raspbian for Robots – is a fork of Raspbian for robotics projects with LEGO, Grove, and Arduino.
+
+
+
+
+其他操作系统
+
+
+Xbian – Using the Kodi (formerly XBMC) open source digital media center
+openSUSE
+Raspberry Pi Fedora Remix
+Slackware ARM – Version 13.37 and later runs on the Raspberry Pi without modification. The 128–496&#160;MB of available memory on the Raspberry Pi is at least twice the minimum requirement of 64&#160;MB needed to run Slackware Linux on an ARM or i386 system. (Whereas the majority of Linux systems boot into a graphical user interface, Slackware's default user environment is the textual shell / command line interface.) The Fluxbox window manager running under the X Window System requires an additional 48&#160;MB of RAM.
+FreeBSD and NetBSD are general operating systems.
+Plan 9 from Bell Labs and Inferno (in beta)
+Moebius – A light ARM HF distribution based on Debian. It uses Raspbian repository, but it fits in a 128&#160;MB SD card. It has just minimal services and its memory usage is optimized to keep a small footprint.
+OpenWrt – is primarily used on embedded devices to route network traffic.
+Kali Linux – is a Debian-derived distro designed for digital forensics and penetration testing.
+Pardus ARM – is a Debian-Based operating system which is the light version of the Pardus (operating system).
+Instant WebKiosk – is an operating system for digital signage purposes (web and media views).
+Ark OS – is designed for website and email self-hosting.
+Minepion – is a dedicated operating system for mining cryptocurrency.
+Kano OS
+Nard SDK for industrial embedded systems
+Sailfish OS with Raspberry Pi 2 (due to use ARM Cortex-A7 CPU; Raspberry Pi 1 uses different ARMv6 architecture and Sailfish requires ARMv7.)
+Tiny Core Linux – a minimal Linux operating system focused on providing a base system using BusyBox and FLTK. Designed to run primarily in RAM.
+"Windows 10 物联网核心版" – Microsoft offers a free edition of Windows 10, known as IoT Core, that runs natively on the Raspberry Pi 2.
+IPFire – a dedicated firewall/router distribution for the protection of a SOHO LAN; runs only on a Raspberry Pi 1; porting to the Raspberry Pi 2 is not planned for now.
+xv6 – a modern reimplementation of Sixth Edition Unix OS for teaching purposes; it is ported to Raspberry Pi from MIT xv6; this xv6 port can boot from NOOBS.
+
+
+计划中的系统
+
+
+Haiku – This open source BeOS clone has been targeted for the Raspberry Pi and several other ARM boards. Work began in 2011, on the model 1 but only the model 2 will be supported.
+
+附件[编辑]
+在2012年5月，该基金会在其博客中汇报了他们的测试原型相机模块。该样机采用的是1400万像素的模块，其正式发布的版本可能会使用较低的分辨率，以减少资源负荷。而该版本很可能在2013年的上半年发布。[48]
+许多树莓派附件器件和外壳都可以从第三方供应商得到。[49]这些包括的树莓派基金会批准，专为教育目的而设计的Gertboard板，这板扩展了树莓派的GPIO引脚，允许控制连接到LEDs、开关、模拟信号、传感器和其他器件。它还包括一个可选的Arduino兼容控制器连接到Pi。[50]
+社区[编辑]
+自由及开放源代码软件公司AdaCore的Jamie Ayre描述树莓派项目中最令人兴奋的部分是社区。社区博客罗素·戴维斯（Russell Davis）说，社区力量使基金会专注于文档和教学。社区爱好者发展的围绕着平台的杂志，例如电子杂志《The MagPi》[51]。在英國的圣母高中[52][53]的信息和通信技术教师 艾伦·O'Donohoe[54][55][53]的带领下，社区展开了名为“树莓酱”（英语：Raspberry Jam）的一系列社区教学活动，在英国各地举行[54]，和其他更远的地方[56]。并且，以教师为主导的社区开始建立一个众包（Crowd Source）的工作计划。
+爱好者经常聚会、交流使用心得，称这类聚会为“树莓酱”（Raspberry Jam）。英国曼彻斯特、马汉莱斯、美国硅谷、新加坡等地也举办过树莓酱聚会。
+应用[编辑]
+南安普敦大學的電腦工程師們使用64個树莓派構建了一套廉價的「超級電腦」[57]。命名為Iridis-Pi，取自該校的另外一台超級電腦Iridis。其主要目的是為了啟發學生們進行高性能計算方面的研究，甚至自己也可以輕鬆構建。 該「超級電腦」擁有64個處理器，採用如樂高積木的方式累加而成，使用訊息傳遞介面通過乙太網實現連通。每個树莓派裝備了一張16GB SD卡，所以整套系統具備1TB的存储空间。總造價在2500英鎊以下。 Simon Cox教授表示他們嘗試了在該超級電腦上運行Pi測試，不過沒有公佈運算測試。
+截至2012年1月，在英国已收到来自公立学校的和独立（私立）学校的董事会的查询，后者数量是前者数量的5倍左右。希望企业将赞助购买条件较差的学校[16]。分销商Premier Farnell集团的CEO说，在中东的一个国家政府已表示有兴趣提供每一个女学生一个电路板，以提高她们的就业前景。[58][59]
+評價[编辑]
+正面評價：
+技术作家格林·穆迪（Glyn Moody）于2011年5月描述了树莓派是一个“潜在的BBC Micro2.0”项目，不是要取代而是要补充PC兼容机。[60]在2012年3月在ITPRO上，斯蒂芬·普里查德（Stephen Pritchard）呼应了“BBC Micro的接班人”的情绪。[61]
+在英国的電腦歷史博物館大力支持树莓派项目，感觉是它可以“迎来一个新的时代”[62]。在发布之前，树莓派板子被展示给在剑桥的ARM首席执行官Warren East，概述了谷歌的想法，以提高英国科学和技术教育。[63]次世代报告（Next Gen report）的合著者，Alex Hope，认为儿童接触计算机编程的兴奋是充满希望。[64]
+在2012年10月树莓派赢得了T3的“年度创新奖”。[65]
+负面評價：
+然而，Harry Fairhead表明更多的重点应放在提高现有硬件上提供的教育软件， 例如，利用类似于谷歌手机编程软件工具（Google App Inventor）让编写程序返回学校，而不是增加新的硬件选择[66]。ZDnet网站的文章作者之一Simon Rockman认为，青少年将"有​​更好的事情要做"，不用管在20世纪80年代发生的事。[67]
+一些开源项目批评了缺乏可用的硬件文档（树莓派网站上的常见问题，博通（Broadcom）公司没有为了BCM2835发布一个完整的data sheet），这可用的硬件文档发布本应该将使得其他操作系统移植到树莓派变得更容易。[68][69]
+参考資料[编辑]
+
+
+^ At first, for a short time, revision 2 boards were made that had 256MB of RAM
+^ https://www.raspberrypi.org/blog/raspberry-pi-zero/
+^ Raspberry Pi: Cheat Sheet. Silicon.com. [6 May 2012].&#160;
+^ FAQs. Raspberry Pi Foundation. [6 October 2011].&#160;
+^ Cellan-Jones, Rory. A £15 computer to inspire young programmers. BBC News. 5 May 2011.&#160;
+^ Price, Peter. Can a £15 computer solve the programming gap?. BBC Click. 3 June 2011 [2 July 2011].&#160;
+^ Bush, Steve. Dongle computer lets kids discover programming on a TV. Electronics Weekly. 25 May 2011 [11 July 2011].&#160;
+^ about the Licensed manufacturing deal
+^ Richard Lawler, 29 February 2012, Raspberry Pi credit-card sized Linux PCs are on sale now, $25 Model A gets a RAM bump, Engadget
+^ Raspberry Pi Downloads
+^ Upton, Eben. FAQs. 26 July 2011 [12 December 2011]. Leads, a power supply or SD cards are not included but can be purchased at the same time from Farnell and RS. You will be able to buy preloaded SD cards too. ... We’ll be using Fedora as our recommended distribution. It’s straightforward to replace the root partition on the SD card with another ARM Linux distribution if you want to use something else. The OS is stored on the SD card.&#160;
+^ Upton, Liz. FAQs. Raspberry Pi. 29 August 2011 [12 December 2011].&#160;
+^ David Braben on Raspberry Pi. Edge. 25 November 2011 [8 December 2011].&#160;
+^ Brandy Basic. Jaguar.orpheusweb.co.uk. 26 July 2005 [6 May 2012].&#160;
+^ RASPBERRY PI 3 ON SALE NOW AT $35. Raspberry Pi. 2016-02-29 [2016-03-06].&#160;
+^ 16.0 16.1 Moorhead, Joanna. Raspberry Pi device will 'reboot computing in schools'. The Guardian (London). 9 January 2012 [20 January 2012].&#160;
+^ Holwerda, Thom. Raspberry Pi To Embrace RISC OS. OSNews. 31 October 2011 [1 November 2011].&#160;
+^ Dewhurst, Christopher. The London show 2011. Archive（magazine） 23 (3). December 2011: 3.&#160;
+^ Lee, Jeffrey. Newsround. The Icon Bar. [17 October 2011].&#160;
+^ eben. RISC OS for Raspberry Pi. [12 November 2012].&#160;
+^ Lee, Robert. Raspberry Pi Balks At UK Tax Regime. Tax-News.com. 17 January 2012 [20 January 2012].&#160;
+^ Weakley, Kirsty. UK computing charity opts to manufacture product abroad. Civil Society Media. [20 January 2012].&#160;
+^ Lomas, Pete. Raspberry Pi’s Secret:‘Sell Out a Little to Sell a Lot’. Wired. 25 September 2012 [25 September 2012].&#160;
+^ Bridgwater, Adrian. Community strength blossoms for Raspberry Pi. Computer Weekly. 15 March 2012 [15 March 2012].&#160;
+^ the first reports of forum members reporting they received their Raspberry PI. Raspberrypi.org. 16 April 2012 [6 May 2012].&#160;
+^ engadget reports raspberry pi begins shipping（video）. Engadget.com. [6 May 2012].&#160;
+^ Add your Raspberry Pi to the Rastrack map. Raspberrypi.org. 22 May 2012 [14 June 2012].&#160;
+^ Raspberry Pi lifts sale restrictions, open to bulk buyers. Electronista (Macintosh News Network). 16 July 2012 [29 August 2012].&#160;
+^ Want to buy more than one Raspberry Pi? Now you can!. Raspberrypi.org. 16 July 2012 [16 July 2012].&#160;
+^ Upcoming board revision. Raspberrypi.org. 6 September 2012 [5 September 2012].&#160;
+^ Dunn, John E. Raspberry Pi resurrects UK computer industry with new jobs. Computerworld UK. 7 September 2012 [13 September 2012].&#160;
+^ Made in the UK!. Raspberrypi.org. 6 September 2012 [6 September 2012].&#160;
+^ Shead, Sam. Raspberry Pi delivery delays leave buyers hungry（and angry）. ZDNet. October 18, 2012 [October 18, 2012].&#160;
+^ According to the Pi Foundation on Twitter. Twitter.com. 11 October 2014 [27 October 2014].&#160;
+^ Turbocharged Raspberry Pi 2 unleashed: Global geekgasm likely. 2015-02-02 [2015-02-02].&#160;
+^ http://www.cnbeta.com/articles/451889.htm
+^ schematic design, applicable for both version A and B of the Raspberry Pi revision 1.0. Raspberrypi.org. 19 April 2012 [6 May 2012].&#160;
+^ board revision for rev 2.0. Raspberrypi.org. 2012-09-05 [2012-10-15].&#160;
+^ Model B now ships with 512MB of RAM. Raspberrypi.org. [2012-10-15].&#160;
+^ Mark Anderson. An A for Raspberry Pi B+. IEEE. [2014-07-15].&#160;
+^ Bowater, Donna. Mini Raspberry Pi computer goes on sale for £22. The Daily Telegraph (London). 29 February 2012.&#160;
+^ BCM2835 Media Processor; Broadcom. Broadcom.com. 1 September 2011 [6 May 2012].&#160;
+^ Q&amp;A with our hardware team. Raspberry Pi Foundation. [20 September 2011].&#160;
+^ Verified USB Peripherals and SDHC Cards;. Elinux.org. [6 May 2012].&#160;
+^ SMSC LAN9512 Website;. Smsc.com. [6 May 2012].&#160;
+^ Power supply confirmed as 5V micro USB. Raspberrypi.org. [25 July 2012].&#160;
+^ Williams, Chris. Psst, kid... Wanna learn how to hack?. The Register. 28 November 2011 [24 December 2011].&#160;
+^ Mathews, Lee. $25 Raspberry PI camera board demoed, coming early 2013. ThinkGeek. 23 Nov 2012 [11 Dec 2012].&#160;
+^ Yeomans, Jon. Raspberry Pi cases round-up: Eight inventive holders in photos. ZDNet. 2012-08-09 [9 August 2012].&#160;
+^ Gertboard is here!. Raspberry Pi Foundation. 2012-08-08 [9 August 2012].&#160;
+^ The MagPi – Raspberry Pi online magazine launched, The Digital Lifestyle.com
+^ O'Donohoe, Alan. Computer science reboot. Teacher Network blog (The Guardian). 11 January 2012 [30 August 2012].&#160;
+^ 53.0 53.1 #RaspberryJam Man. raspberryjam.org.uk website. [30 August 2012].&#160;
+^ 54.0 54.1 Parkin, Tony. Raspberry Pi-oneers – the making of #RaspberryJam. Merlin John Online. 2 July 2012 [30 August 2012].&#160;
+^ Edney, Andrew. An afternoon at the Cambridge Raspberry Jam. Connected Digital World. 15 July 2012 [30 August 2012].&#160;
+^ #RaspberryJam Locations. raspberryjam.org.uk website. [30 August 2012].&#160;
+^ Sean Gallagher. University builds cheap supercomputer with Raspberry Pi and Legos. arstechnica. 2012-09-12 [2012-09-12] （英文）.&#160;
+^ Arthur, Charles. Raspberry Pi demand running at '700 per second'. The Guardian (London). 5 March 2012 [12 March 2012].&#160;
+^ Raspberry Pi mini computer sells out after taking 700 orders per second. Digital Trends. [9 June 2012].&#160;
+^ Moody Glyn. As British as Raspberry Pi?. Computerworld UK Open Enterprise blog. Computerworld. 9 May 2011 [2 February 2012].&#160;
+^ Pritchard, Stephen. Raspberry Pi: A BBC Micro for today's generation. ITPRO. 1 March 2012 [15 March 2012].&#160;
+^ One of the First Raspberry Pi Computers Donated to Museum. The Centre for Computing History. 9 January 2012 [28 February 2012].&#160;
+^ Osborn, George. How Google can really help improve STEM teaching in the UK. Cabume. 23 February 2012 [28 February 2012].&#160;
+^ Stanford, Peter. Computing classes don't teach programming skills. The Daily Telegraph (London). 3 December 2011 [27 February 2012].&#160;
+^ Raspberry Pi - Innovation of the Year. T3 Gadget Awards. [9 October 2012].&#160;
+^ Fairhead, Harry. Raspberry Pi or Programming – What shall we teach the children?. I Programmer. 2 December 2011 [7 February 2012].&#160;
+^ Rockman, Simon. Is raspberry pi a mid-life crisis?. ZDNet. 21 February 2012 [24 February 2012]. Just because young teens led the way in computing in the 1980s doesn’t mean it should, will or can happen again. Those outside the tech age bubble have better things to do.&#160;
+^ Raspberry Pi Hardware Donation.&#160;
+^ looking for hardware recommendations, x86 or otherwise..&#160;
+
+
+
+相關[编辑]
+
+
+
+
+資訊科技主题
+
+
+
+教育主题
+
+
+
+自由軟體主题
+
+
+
+
+BBC Micro –历史上的微电脑系列，它启发了Raspberry Pi项目
+Arduino –开源的单板机控制器Arduino
+Aakash平板电脑–由印度政府、印度理工學院、英國Datawind公司合作开发的$60超低价安卓系统平板电脑
+VIA APC（英语：VIA APC） – VIA公司开发的$49美元的PC系统 （英文）
+BASIC Stamp – microcontroller programmed in BASIC
+BeagleBoard –低价的基于ARM的单板电脑（英文）
+List of single-board computers（英语：List of single-board computers） –单板机电脑系列清单（英文）
+
+外部链接[编辑]
+
+
+
+维基共享资源中相关的多媒体资源：树莓派
+
+
+
+官方网站：
+
+
+官方網站
+R-Pi Troubleshooting （英文）
+Raspberry Pi Wiki,由RPi基金会官方支持（英文）
+Raspberry Pi官方UK Distributor （英文）
+
+
+非官方网站：
+
+
+raspberrypicloud - The University of Glasgow's Raspberry Pi Project
+Raspberry Pi Beginners' Guide, h2g2.com （英文）
+Raspberry Pi.SE非官方论坛（英文）
+【硬派Pi製作】 - 台灣樹莓派使用者社群
+
+
+技术资料：
+
+
+Raspberry Pi英文技术支持文档（Farnell）（英文）
+Broadcom BCM2835 – Embedded Multimedia Applications Processor （英文）
+Raspberry Pi gpio pinout （英文）
+SMSC LAN9512 - USB 2.0 10/100 Ethernet, smsc.com （英文）
+Hynix SDRAM （英文） hynix.com
+
+
+
+
+
+
+
+
+					
+						取自“https://zh.wikipedia.org/w/index.php?title=树莓派&amp;oldid=40052711”					
+				分类：ARM架構LinuxLinux設備个人电脑微控制器教育技術隐藏分类：CS1英文来源 (en)自2015年12月連結格式不正確的條目粗劣翻译含有英語的條目				
+							
+		
+		
+			导航菜单
+
+			
+									
+						个人工具
+						
+							没有登录讨论贡献创建账户登录						
+					
+									
+										
+						命名空间
+						
+															条目
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	马新简体
+																	台灣正體
+															
+						
+					
+									
+				
+										
+						视图
+						
+															阅读
+															编辑
+															查看历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			导航
+
+			
+									
+						首页分类索引特色内容新闻动态最近更改随机条目					
+							
+		
+			
+			帮助
+
+			
+									
+						帮助维基社群方针与指引互助客栈知识问答字词转换IRC即时聊天联络我们关于维基百科资助维基百科					
+							
+		
+			
+			在其他项目中
+
+			
+									
+						维基共享资源					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改上传文件特殊页面打印页面固定链接页面信息维基数据项引用本页					
+							
+		
+			
+			其他语言
+
+			
+									
+						AlemannischالعربيةБеларускаяБългарскиবাংলাCatalàČeštinaCymraegDanskDeutschEnglishEspañolEestiEuskaraفارسیSuomiFrançaisGalegoગુજરાતીעבריתहिन्दीMagyarBahasa IndonesiaÍslenskaItaliano日本語한국어LatviešuമലയാളംNederlandsNorsk bokmålOccitanPolskiPortuguêsRomânăРусскийSrpskohrvatski / српскохрватскиSimple EnglishSlovenčinaShqipСрпски / srpskiSvenskaతెలుగుTürkçeУкраїнськаTiếng Việt粵語					
+				编辑链接			
+		
+				
+		
+		
+							
+											 本页面最后修订于2016年5月9日 (星期一) 08:26。
+											本站的全部文字在知识共享 署名-相同方式共享 3.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+Wikipedia&reg;和维基百科标志是维基媒体基金会的注册商标；维基&trade;是维基媒体基金会的商标。
+维基媒体基金会是在美国佛罗里达州登记的501(c)(3)免税、非营利、慈善机构。
+									
+							
+											隐私政策
+											关于维基百科
+											免责声明
+											开发者
+											Cookie声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+

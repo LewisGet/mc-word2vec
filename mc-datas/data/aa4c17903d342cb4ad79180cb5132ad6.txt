@@ -1,0 +1,843 @@
+
+
+
+
+Wii U版 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Wii U版
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+Wii U版
+
+
+
+
+
+开发作者
+
+ Mojang AB
+ 4J Studios
+
+
+
+运行平台
+
+
+
+
+
+编写语言
+
+C++
+
+
+
+最新版本
+
+Patch 4
+
+
+
+发布日期
+
+数字版 - eShop
+2015年12月17日
+实体光碟
+待定
+
+
+
+年龄分级
+
+（在线互动不影响分级）
+PEGI：7+[1]
+ESRB：E10+[2]
+ACB: PG[3]
+
+
+
+程序大小
+
+409 MB
+
+
+
+授权协议
+
+私有
+
+
+
+开源情况
+
+否
+
+
+
+外部链接
+
+
+任天堂eShop
+
+
+
+
+
+Minecraft: Wii U版是Minecraft适配于Wii U的版本，由4J Studios和Mojang AB开发。此版本于2015年12月7日被宣布，在2015年12月17日以19.99美元的售价在eShop发布，它也将会在稍晚的时间有实体光盘版。[4]此版本绑定了6个混搭套件，另外16个额外套件可供下载。预计将来有更多任天堂主题的内容会被加入。[5]
+
+
+
+目录
+
+
+1 开发
+2 游戏内容
+
+2.1 DLC
+
+
+3 你知道吗
+4 参考
+
+
+
+开发[编辑 | 编辑源代码]
+2013年末，Mojang创始人Markus Persson宣布没有将Minecraft移植到Wii U的计划，他表示没有察觉到任何类似的计划，但他同意“Wii U版本是个理智的计划”。[6]
+2014年6月，宫本茂与高桥伸也被问及有关Minecraft移植到Wii U平台的问题时，茂表示：
+
+
+“
+我本人还没有玩过，但我已经对这个版本有所耳闻。我认为他（伸也）比起我来说会知道的多一些。但我喜欢那种风格的游戏，且在我眼里，马里奥制造和这款游戏风格有些类似。
+„
+
+
+
+——宫本茂评论于Minecraft移植到Wii U上的问题[7]
+
+
+
+伸也接过他的话题：
+
+
+“
+我们总真心地认为使用（Wii U的）GamePad可能会使Minecraft的游戏体验变得更便捷。当然了，这需要我们在Minecraft与3DS间做工作，类似地，我们可能会在更容易进行游戏的设备上做这些工作，这将会拉近孩子与这款游戏的距离。
+有一点很有趣，在日本，Minecraft不如在欧美地区那么流行，我们也考虑过这个问题，如果我们之间可以进行那样的合作关系，可能为Minecraft在日本的推广注入新的机会。
+„
+
+
+
+——高桥伸也评论于Minecraft移植到Wii U上的问题[7]
+
+
+
+2014年9月，Mojang职员Daniel Kaplan重申没有将Minecraft移植到Wii U平台上的计划，他断言：Wii U的用户群体“非常小”。 [8]然而实际上并非如此，Wii U事实上同期销量甚至高于Xbox One。
+Minecon 2015上，Mojang COO Vu Bui被问及关于Minecraft移植到Wii U平台的问题，Bui表示：
+
+
+“
+如果我可以作决策，我们的游戏将会在任何平台上。我们想要继续覆盖全部的玩家，由于每个人使用不同的平台，这就意味着我们要登陆新平台。
+我还没听说过我们不登陆Wii U或者3DS的原因。只是我们还没这么做。
+„
+
+
+
+——Vu Bui评论于Minecraft移植到Wii U上的问题[9]
+
+
+
+2015年11月11日，泛欧游戏资讯组织（PEGI）偶然泄露了Minecraft：Wii U版的分级，而此消息在6天以后才遭到移除。[10][11]
+2015年12月7日，Mojang与任天堂正式宣布Wii U版将在该年12月17日发布。[5]
+游戏内容[编辑 | 编辑源代码]
+Wii U版的特点之一是离屏游戏，且仅允许玩家通过GamePad进行游戏。当Owen Hill被问到是否会能通过GamePad的第二屏幕来进行物品管理时，他表示这一特性不会在初版中发布，但他亦说可能会在将来加入这个功能。[12]根据在eShop中的描述，Mii可以在游戏中被使用，但是目前如何使用还不清楚。游戏也可以通过Wii U Pro Controller控制。
+DLC[编辑 | 编辑源代码]
+Minecraft: Wii U版随游戏绑定了6个“最流行的附加包”。[13]这也是Wii U版比其他主机版更昂贵的原因。[14][15]
+Wii U版含有下列DLC：[13]
+
+皮肤包：
+
+Battle &amp; Beasts皮肤包
+Battle &amp; Beasts 2皮肤包
+
+
+材质包：
+
+Natural材质包
+City材质包
+Fantasy材质包
+
+
+混搭套件:
+
+Festive混搭套件
+
+
+
+你知道吗[编辑 | 编辑源代码]
+
+Wii U版是目前Minecraft中最贵的版本
+
+以29.99美元的价格超出PC版3.04美元.
+
+
+Playstation 3版的发布时间正好比Wii U版本早2年整
+Minecraft是Wii U平台第一款带有中文的游戏。
+
+参考[编辑 | 编辑源代码]
+
+↑ Minecraft：Wii U版分级（泛欧游戏资讯组织）
+↑ Minecraft：Wii U版分级（娱乐软件分级委员会）
+↑ Minecraft：Wii U版分级（澳大利亚分级委员会）
+↑ https://twitter.com/bopogamel/status/673960178467905537
+↑ 5.0 5.1 http://www.nintendo.com/whatsnew/detail/cus6CvrWNFwHdXiQReI7yRZl_OcGxrDs
+↑ http://www.ign.com/articles/2013/12/27/no-current-plans-for-minecraft-on-wii-u-says-notch
+↑ 7.0 7.1 http://kotaku.com/what-nintendos-top-game-creators-think-of-minecraft-1593839008
+↑ http://www.nintendolife.com/news/2014/09/wii_u_minecraft_looking_doubtful_as_dev_says_they_have_fulfilled_the_need_for_now
+↑ http://www.idigitaltimes.com/minecraft-wii-u-mojang-coo-teases-nintendo-could-actually-still-get-minecraft-457794
+↑ http://www.wired.com/2015/11/minecraft-wii-u/
+↑ http://www.wired.co.uk/news/archive/2015-11/17/minecraft-wii-u-disappears
+↑ https://twitter.com/bopogamel/status/673970645559062528
+↑ 13.0 13.1 https://mojang.com/2015/12/minecraft-wii-u-edition-now-available-on-the-eshop/
+↑ http://www.idigitaltimes.com/minecraft-wii-u-edition-price-nintendo-version-costs-10-more-worth-it-497958
+↑ https://twitter.com/MojangSupport/status/686129012884639744
+
+
+
+ 主机版
+
+
+平台版本
+
+
+ Xbox 360版
+ Xbox One版
+ PlayStation 3版
+ PlayStation 4版
+ PlayStation Vita版
+ Wii U版
+
+
+
+
+开发
+
+
+版本记录
+未来展望
+独有特性
+已移除特性
+
+
+
+
+技术性
+
+
+已知漏洞
+
+
+
+
+独有特性
+
+
+分屏
+教程
+
+地点
+
+
+
+
+
+DLC
+
+
+皮肤包
+混搭套件
+材质包
+
+
+
+
+世界类型
+
+
+典型
+小
+中
+大
+下界超平坦
+
+
+
+
+方块/物品
+
+
+刷怪蛋
+
+驴
+骡
+
+
+
+
+
+
+实体
+
+
+ 末影酸
+
+
+
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Wii_U版&amp;oldid=117974”					
+				分类：Minecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglish日本語NederlandsPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月23日 (星期一) 11:52。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

@@ -1,0 +1,793 @@
+
+
+
+
+携带版未来展望 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			携带版未来展望
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+该页包含的内容已被确定，只是没有添加入游戏。
+该页描述的内容将会在未来的升级内添加。
+
+
+
+该文章是关于携带版未来展望的。  关于预览版本，请参阅携带版版本记录/预览版本。  关于主机版，请参阅主机版未来展望。  关于树莓派版，请参阅树莓派版未来展望。  关于Alpha版更新记录，请参阅携带版版本记录.
+本页面是关于Minecraft 携带版未来将加入的新特性。这些更新不是有它们出现的主要来源，就是已出现在预览版本。
+
+
+
+
+目录
+
+
+1 Alpha 0.15.0
+
+1.1 新内容
+1.2 更改
+1.3 计划新内容
+
+1.3.1 常规
+1.3.2 方块
+1.3.3 物品
+1.3.4 生物
+
+
+1.4 计划更改
+
+1.4.1 物品栏
+1.4.2 世界生成
+
+1.4.2.1 生物
+
+
+
+
+1.5 计划修复
+
+
+2 将加入游戏的新特性
+
+2.1 远方生物群系
+2.2 基于生物群系的难度
+2.3 Realms
+2.4 移植自PC版的内容
+
+
+3 简要提及的新特性
+
+3.1 参考
+
+
+
+
+
+Alpha 0.15.0[编辑 | 编辑源代码]
+Alpha 0.15.0是暂未确定发布日期的下一个Minecraft：携带版更新。
+新内容[编辑 | 编辑源代码]
+
+Realms[1][2]
+
+
+在0.15.0正式发布前供免费试用[1]
+
+
+菜单界面
+
+
+Realms按钮
+
+取代原先的选项按钮
+
+
+
+更改[编辑 | 编辑源代码]
+
+菜单界面
+
+
+选项按钮现改为一个图标
+
+移动到屏幕右下方语言按钮的旁边
+
+
+
+计划新内容[编辑 | 编辑源代码]
+常规[编辑 | 编辑源代码]
+
+或有Mod API[3]
+资源包[3][4]
+命令[3]
+
+方块[编辑 | 编辑源代码]
+
+红石系方块
+
+命令方块[5]
+活塞与粘性活塞[6]
+
+版本独有：新动画；活塞臂根部比尾部略粗
+版本独有：可以推动像箱子这样的方块实体[7]
+
+
+
+
+
+物品[编辑 | 编辑源代码]
+
+胡萝卜钓竿
+拴绳
+命名牌
+生羊肉[8]
+火焰弹[9]
+刷怪蛋
+
+马[9]
+
+
+
+生物[编辑 | 编辑源代码]
+
+村民
+
+版本独有：对话[10]
+
+
+穿着破烂衣服、像骷髅的生物（浪壳）[11]
+尸壳
+
+计划更改[编辑 | 编辑源代码]
+物品栏[编辑 | 编辑源代码]
+
+新滚动条[9]
+
+世界生成[编辑 | 编辑源代码]
+
+版本独有：或有新生物群系[12]
+版本独有：或有新村庄种类。[13]
+丛林神庙
+
+生物[编辑 | 编辑源代码]
+
+骷髅有了与PC版相同的AI
+
+计划修复[编辑 | 编辑源代码]
+修复了3个漏洞（英文）
+将加入游戏的新特性[编辑 | 编辑源代码]
+远方生物群系[编辑 | 编辑源代码]
+一个携带版独有远方生物群系，原计划会出现在0.9.0中有限世界的边缘但最终推迟更新。[14][15][16][17]
+基于生物群系的难度[编辑 | 编辑源代码]
+Tomasso 在 reddit 上表示他想要加入一个基于生物群系的难度，生物会根据自身情况而产生变动, 例如资源的生成也会取决于天气。[18] 这会改变在夜晚敌对生物的数量和在每一个生物群系的资源数量。他也表示他想加入更多生物群系中特有的生物与生物群系特有的难度和生物分布情况。
+Realms[编辑 | 编辑源代码]
+Minecraft携带版的Realms原可以用于试验，但后来被移除了。它起初计划在0.9.1中再次被加入然而由于未知原因再次推迟。[19]
+当它在MineCon 2015被提及时，回应是它可能在今年加入。[20]当它在Lifestream的携带版Q&amp;A被提及，回应是Shoghi正在验证，它很快就会到来。在2016年1月3日，Marc Watson确认携带版Realms会在今年的晚些时候发布。[21]
+移植自PC版的内容[编辑 | 编辑源代码]
+
+末影箱[22]
+奖励箱[23]
+马[24][25]
+旗帜[24]
+骑乘猪[26]
+高度限制256格[27][25]
+极限模式 [28]
+彩色玻璃[29]
+支持材质包[15]
+Twitch视频传输(Twitch streaming)[24][30]
+分享世界[30]
+服务器插件[30]
+材质包[25]
+海底遗迹[25]
+Boss系统(凋灵，末影龙)[25]
+书与笔(可能实现语音阅读)[25]
+交易[25]
+Mojang服务器多人游戏身份验证[25]
+携带版Mojang帐号同步(可以使用Mojang账号修改皮肤等)[25]
+末地[25]
+彩蛋（如改名为jeb_或Dinnerbone等）[25]
+
+
+简要提及的新特性[编辑 | 编辑源代码]
+
+使用一些方法来显示坐标，但是没有F3菜单[25]
+A recipe book which contains all crafting recipes, should MATTIS be taken out in the Windows 10 version[25]
+The ability to remap long touch to hardness-based touch (3D Touch) for iPhone 6S[25]
+Ability for really large contraptions to work in unloaded chunks[25]
+Android设备的防闪屏[17]
+Creative Inventory, like the PC version.[24]
+一个版本独有的地下结构[31]
+Cave Culling 2.0[17]
+Change of GUI button texture[32]
+Multiplayer chat scrolling[33]
+Demo/lite version re-release[15]
+Programming interface[30]
+备份世界[34][35]
+Tommaso mentioned adding 3-D grass on grass blocks;[36] although he decided against it as it was expensive and clashes with the style.[37]
+Windows 10 Edition &amp; Minecraft PE only structure – seen in demonstrations of the Windows 10 Edition at MineCon.[38]
+The following mobs were mentioned in a Q&amp;A session, which although far fetched were tossed around – penguins, llamas, alpacas and wizards (but not spell-casting)[25]
+Shaders[25]
+A dream dimension[25]
+
+参考[编辑 | 编辑源代码]
+
+
+↑ 1.0 1.1 “We just released Realms MCPE Alpha on Android, it will be free for a while for anyone that helps us test it&#160;:) http://mojang.com/2016/04/were-working-on-minecraft-realms-for-pocket-and-win-10/” – @tomcc_
+↑ “People, the 0.15 Alpha is just for Realms, there are no 0.15 features like Pistons! They will come later&#160;:)” – @tomcc_
+↑ 3.0 3.1 3.2 https://twitter.com/_tomcc/status/714851653027897345
+↑ https://twitter.com/_tomcc/status/700363975947472896
+↑ https://twitter.com/_tomcc/status/714851653027897345
+↑ https://twitter.com/darngeek/status/707618294996606976
+↑ “Thank you all so much for the 100K followers! Here is another little teaser: so many possibilities&#160;:D” – @darngeek
+↑ https://twitter.com/argo_major/status/708438322314485760
+↑ 9.0 9.1 9.2 “Hmm. There seems to be something different here...” – @argo_major
+↑ https://twitter.com/_tomcc/status/700755708367630336
+↑ “What are these? http://i.imgur.com/aN7rBGU.png Based on work by @argo_major, aimed for MCPC 1.10 and MCPE 0.15.0” – @jeb_，2016年4月11日
+↑ https://twitter.com/_tomcc/status/700486491898654720
+↑ https://twitter.com/jeb_/status/717703877525692420
+↑ http://www.reddit.com/r/MCPE/comments/1v8ooc/whats_happening_with_old_biomes_in_090/ceq11d2?context=1
+↑ 15.0 15.1 15.2 https://www.youtube.com/watch?v=opppP_RTJmo
+↑ https://twitter.com/_tomcc/status/462274819623772160
+↑ 17.0 17.1 17.2 https://twitter.com/_tomcc/status/507806426040111104
+↑ http://www.reddit.com/r/MCPE/comments/24vm8t/twitter_tomcc_minersneo_id_like_to_level_up_mobs/chb6qtr?context=1
+↑ http://www.reddit.com/r/MCPE/comments/1wxgjz/what_will_the_limited_world_sizes_be/cf7wuql?context=1
+↑ https://www.youtube.com/watch?v=szAKnJLmCKU
+↑ @marc_irl683714240771915776
+↑ https://twitter.com/jeb_/status/433256007830343680
+↑ http://www.reddit.com/r/MCPE/comments/1ssgsu/bug_can_only_craft_red_carpet_in_survival/cf2lzm0?context=1
+↑ 24.0 24.1 24.2 24.3 https://www.youtube.com/watch?v=NiBgKbRfjlg
+↑ 25.00 25.01 25.02 25.03 25.04 25.05 25.06 25.07 25.08 25.09 25.10 25.11 25.12 25.13 25.14 25.15 25.16 25.17 http://www.twitch.tv/mojang/v/19541608
+↑ http://www.reddit.com/r/MCPE/comments/1tzyiv/saddles_in_mcpe_not_very_sure/cedbf1?context=1
+↑ https://twitter.com/_tomcc/status/386057569979998209
+↑ https://twitter.com/_tomcc/status/467362482756255744
+↑ http://www.reddit.com/r/MCPE/comments/1ompat/cobblestone_walls_in_080
+↑ 30.0 30.1 30.2 30.3 https://www.youtube.com/watch?v=Ruf6tvqsD84
+↑ https://twitter.com/_tomcc/status/444532060687200256
+↑ https://twitter.com/_tomcc/status/359713041438359553
+↑ https://twitter.com/jbernhardsson/status/346637719629332482
+↑ http://www.reddit.com/r/MCPE/comments/1ypxfz/questions_and_strategies_for_infinite_worlds/cfmxa42?context=1
+↑ http://www.reddit.com/r/MCPE/comments/1ypxfz/questions_and_strategies_for_infinite_worlds/ci6imhe?context=1
+↑ https://twitter.com/_tomcc/status/540164172756291584
+↑ https://twitter.com/_tomcc/status/540164795333615616
+↑ https://youtube.com/watch?v=_Vy9BeSYV3Q
+
+
+
+
+
+携带版
+
+
+版本
+
+
+ 携带版
+ Windows 10版 Beta
+
+Microsoft Holo Lens
+Oculus Rift
+Gear VR
+
+
+树莓派版
+
+
+
+
+开发
+
+
+版本记录
+
+Alpha
+
+
+未来展望
+未使用特性
+独有特性
+提及特性
+预览版本
+
+
+
+
+技术性
+
+
+已知漏洞
+数据值
+硬件性能
+世界格式
+
+
+
+
+独有特性
+
+
+
+DLC
+
+
+皮肤包
+
+
+
+
+世界类型
+
+
+旧世界类型
+
+
+
+
+结构
+
+
+边境之地
+
+条纹之地
+
+
+
+
+
+村庄
+
+
+地毯桌
+木桥
+
+
+
+
+树
+
+
+濒死的树
+倒下的树
+
+
+
+
+
+
+
+方块与物品
+
+
+切石机
+无草泥土
+隐形基岩
+
+
+
+
+未使用
+
+
+更新游戏方块
+
+游戏!更新方块
+
+
+info_reserved6
+下界反应核
+发光的黑曜石
+相机
+
+
+
+
+已移除
+
+
+冻橡木
+青花
+下界反应器
+
+
+
+
+
+
+
+
+
+版本记录
+
+
+PC版
+
+
+
+版本记录
+
+
+Pre-classic
+Classic
+
+ 生存测试
+
+
+Indev
+ Infdev
+Alpha
+ Beta
+
+预发布版
+
+
+Minecraft 1.0
+
+预览版本
+
+
+
+
+
+
+
+未来展望
+提及特性
+
+天域
+Plugin API
+
+
+未使用的特性
+已移除的特性
+ 彩蛋
+
+
+
+
+携带版
+
+
+ Alpha
+未来展望
+提及特性
+已移除的特性
+未使用的特性
+独有特性
+预览版本
+
+
+
+
+主机版
+
+
+版本记录
+未来展望
+提及特性
+独有特性
+已移除的特性
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=携带版未来展望&amp;oldid=116904”					
+				分类：FutureVersion				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月17日 (星期二) 09:58。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

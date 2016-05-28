@@ -1,0 +1,974 @@
+
+
+
+
+提及特性 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			提及特性
+									
+									来自Minecraft Wiki
+								（重定向自插件API）
+												
+					跳转至：					导航、					搜索
+				
+				该文章是关于通过Mojang开发商提到的功能的。  关于目前正在增加的功能，请参阅版本记录#预览版本。
+自从Minecraft开始发展，已经有一些特征是由开发商Mojang AB提到。这些特点也正在计划在未来的更新，但没有在一个开发版本中出现，或者干脆被丢弃或遗忘。 注：该页只是记载了被提及而没有被加入到游戏中的特性。在预览版本中提到的特性在预览版本的对应页面中有描述。
+
+
+
+目录
+
+
+1 部分被加入的特性
+
+1.1 泥土台阶
+1.2 染色木板
+1.3 灯笼
+1.4 讲台
+1.5 天域
+1.6 鱼
+
+
+2 被提及过的特性
+
+2.1 循环音效
+2.2 珊瑚
+2.3 好友列表
+2.4 Lua脚本
+2.5 熊猫
+2.6 红龙
+2.7 四季
+2.8 尖刺方块
+2.9 Workbench（Plugin API）
+2.10 仅被简单提及过的特性
+
+
+3 开玩笑的特性
+4 参考
+
+
+
+部分被加入的特性[编辑 | 编辑源代码]
+这些特征已被由Mojang员工证明，但没有进一步的发展就被取消了。
+泥土台阶[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+在石台阶于Classic 0.26加入以前，Notch做过一个关于泥土台阶的测试。在测试中它们替换掉了所有的泥土方块，它们的顶部不会长草，比草方块低。此外，它们还使得悬崖和地下变得十分混乱。它们没有加入到正式游戏中，并且只被提到过一次。[1] 总的来说，它们会替换掉全部的泥土方块，顶部也不会长草。
+染色木板[编辑 | 编辑源代码]
+Dinnerbone在Twitter上曾经向大家询问过对于染色木板有什么感受。[2]他宣布的结果是 “回应仪表显示：30%的"天啊，不"和80%的"加吧"。是的，加起来是110%，我也是看不懂了。”[3] 他最终放弃了这个主意，并计划加入硬化粘土和染色粘土。在染色木板被废弃前，Dinnerbone意识到每一种颜色的木板都要制作相应颜色的台阶和楼梯。尽管这样，每种树的木板都有不同的颜色，楼梯和台阶（在1.8添加了门和栅栏）也是这样，但按钮和压力板不是。可是它们不能染色，每一种树都只有一种独占颜色。
+灯笼[编辑 | 编辑源代码]
+灯笼 是一个原本计划在万圣节更新添加的方块。 然而，灯笼由于缺乏时间而被延迟添加，并作为一个在未来实现的更新。[4]
+与灯笼一样，火把熄灭后需要使用打火石来重新点燃。灯笼将会作为夜晚的永久光源。根据 Notch 所说的话，当世界发生更新时，所有在地图上的火把都会被移除，在物品栏和箱子里的火把将会变成灯笼。为了达成这个目标，灯笼将会使用一个新的材质替换火把（以前）的方块ID。
+在2011年1月13日，Notch 宣布灯笼被“延迟添加”，[5]在2月20日时他补充说他“不确定”灯笼是否会被添加。[6] Notch 在 2011年11月18日在 Mojang Panel 举办的 MineCon 2011 中宣布由于社区内对灯笼取代火把的负面反应较大，灯笼将不会被添加到Minecraft中。灯笼被新加入的其他种类照明方块替代了，如红石灯和萤石。[7][8]
+讲台[编辑 | 编辑源代码]
+讲台是Dinnerbone的旧开发项目中的一个物品。它由一个站立支柱支撑的一本书组成，这样便于你阅读这本书。当他遇到问题并取消这个想法时，他已经完成了讲台的创建，但是他提到他将会在未来添加捡起讲台物品的代码。[9] 2013年12月18日，Dinnerbone 在他的 Reddit AMA 留言说，他已经重写了讲台的代码，但是因为“关于讲台的一些东西看起来不太对劲”而被再次废弃。 [10]
+
+
+
+
+
+
+
+讲台的第1张（共2张）图片。
+
+
+
+
+
+
+
+
+
+讲台的第2张（共2张）图片。
+
+
+
+
+天域[编辑 | 编辑源代码]
+
+主条目： 提及特性/天域
+
+
+
+
+
+一个天域中的平原。
+
+
+天域是除了下界之外Minecraft的一个计划维度，是与下界相反的一个维度。但其最终被末路之地代替。
+鱼[编辑 | 编辑源代码]
+鱼 是Notch展示的有兴趣加入的一个被动型生物。在万圣节更新中，Notch说他将会加入鱼。 [11]然而，他只是添加了鱼物品。在游戏里没有关于鱼的生物的任何代码，鱼的模型也不存在。尽管这个生物在两年前就提了出来，但是 Jon Kagstrom 留言说鱼仍在计划开发中。[12] Notch 引用了“抓鱼的能力”说明了鱼已经准备好，但是没有人提到添加模型的事。在 Reddit， Notch 的 AMA 上，当被问到他计划何时将鱼作为生物加入时，Notch 回复说，“哦，鱼！”
+被提及过的特性[编辑 | 编辑源代码]
+这些特性被提到过，但后来一度被遗弃或它们的当前状态是未知的。
+循环音效[编辑 | 编辑源代码]
+循环音效尚未添加到游戏中，但是可能玩家在一个特殊的位置（在洞穴、森林、海洋、还有瀑布里）中时播放循环音效。在1.4里添加了水和岩浆部分的环境音效。
+珊瑚[编辑 | 编辑源代码]
+Notch 计划引入珊瑚，但是他留言说：“但是将一个方块渲染成珊瑚的样子，因为珊瑚的变种和差异之多令人疯狂。但是我知道珊瑚的周围将会有许多小鱼粒子。[13]
+好友列表[编辑 | 编辑源代码]
+Notch 在他的博客 The World of Notch 提到，他将会在 Beta 1.8 之后加入好友列表。[14]由2个玩家组成的 Minecraft 纪录片团队制作并播放了一个主题路线图，包含了这些内容。[15][16] Kristoffer 在 Twitter 上提到他当前正在制作卷轴的好友列表，然后就是为其他 Mojang 游戏制作。好友列表将会向拥有 Mojang 账户的玩家开放。在 MineCon 2012 Jeb 留言说，好友列表在服务器上是一个很大的实现，并将会应用到所有 Mojang 游戏，同时这个也是一项大工程。[17][18]
+Lua脚本[编辑 | 编辑源代码]
+Lua脚本是Notch提到的一个特性，这是在服务器端做修改的一种途径。[19]
+玩家将不能在客户端以外的地方下载脚本，因此无需在客户端进行任何修改。
+服务器将能够创建自定义命令，指定某些服务器功能块，还有创建用户组。
+Notch说他想Lua成为Minecraft的一个拓展工具。他不想让Lua将Minecraft变成一个游戏引擎。本质上Lua是一个好的拓展工具，但是不会在Minecraft的游戏过程中发生巨大变革。
+熊猫[编辑 | 编辑源代码]
+Dinnerbone 在回答“如果您能加入任何生物的代码到游戏里，您希望加入哪只生物？”问题的推特上提到了熊猫。
+
+
+
+
+“
+熊猫。我已准备好试着和它们玩了，但是我仍然需要使用一些皮肤和动态画面。
+„
+
+
+
+——Dinnerbone [20]说
+
+
+
+在 2013年12月18日 Dinnerbone 在 Reddit 上回答“如果您可以没有编码和建模等一切困难并不需要请求任何人的意见的情况下，您想为 Minecraft 加入哪一个新特性？”时回答：
+
+
+“
+熊猫。
+„
+
+
+
+——Dinnerbone[21]说
+
+
+
+红龙[编辑 | 编辑源代码]
+Notch 在第8个秘密周五更新中提到他将会加入龙，一个是末影龙，另外一个是红色可驯服的龙。[22]Jeb 在他的 Reddit AMA 上通知回帖者他将会加入红龙，但不确定如何加入。[23]红龙没有在随后加入。
+在 2013年10月22日，Dinnerbone 发布了一条推特说红龙已被“搁置”，并且不在开发计划中。
+
+
+
+“
+我们从来没有承诺加入红龙，我们在此时也没有加入红龙的计划。
+„
+
+
+
+——Dinnerbone [20]说
+
+
+
+后来，在 2013年12月15日，Dinnerbone 在 Reddit 上写道他将会在某一天添加红龙到 Minecraft 中。
+
+
+“
+我相信有一天会加入红龙，但不是现在。
+„
+
+
+
+——Dinnerbone[24]说
+
+
+
+四季[编辑 | 编辑源代码]
+Dinnerbone 在 Twitter 提到他正在尝试添加季节，白天和夜晚的长短会根据季节改变。他也在 Minecon 2013 中提到[25][26]季节可能会包含树叶颜色变化，同时也可能与真实时间同步。[27][28]
+尖刺方块[编辑 | 编辑源代码]
+尖刺方块计划在Beta 1.7中加入，这个方块上的尖刺可以伸缩（这也使尖刺方块更像“带刺的活塞”），但是被粘性活塞代替。在 2012年5月28日，Dinnerbone留言他想加入尖刺方块，但是不确定如何引入它们。[29]
+Workbench（Plugin API）[编辑 | 编辑源代码]
+Plugin API[30][31]，也称作“Workbench”，是一个允许 Mod 开发者容易地向游戏添加更多内容的特性。和 Mod 相比，插件将不需要对 minecraft.jar 进行任何的修改，但是他们的权限也会有些许限制。[32][33]Bukkit 团队将会帮助开发官方插件 API。[34].
+仅被简单提及过的特性[编辑 | 编辑源代码]
+这些特性仅被简单提及，但是之后就没有关于它们的任何信息了。
+
+允许选择在保存level文件时要做的工作。[35]
+将成就和统计信息储存到服务器上。[36]
+在开关门时加入摆动动画[37]
+更好的建设分析[38]
+BUD开关，一个有方块更新感应器作用的方块，在Minecon 2012中透露会与红石电路一起使用。
+Notch 在Indev时的一篇博文里提到添加树枝。从日志中的描述看来，树枝似乎只是一个临时想法。[39]
+夺旗模式。[40]它再次被提到并在 PC 和携带版之前加入到 Xbox 360版中，但是它从未被加入到 PC 和携带版中。[41]
+樱桃树[来源请求]
+会碰撞的云[42][43]
+Dinnerbone发布了一条推特，这张推特包含了一张发射器矿车图片。[44]虽然这张图片只是展示了在下个快照13w02a中加入的自定义实体显示特性。
+
+
+
+
+
+
+
+
+一个发射器矿车。
+
+
+
+
+
+
+
+
+
+第一张发射器矿车图片由Dinnerbone发布。可以看到刷怪箱矿车推动着它。[45]
+
+
+
+
+
+
+
+
+
+上一张图片的放大。
+
+
+
+
+
+更容易实现地形的变化。[46]
+会爆炸的箭[47]
+在 Alpha 早期，Notch 提到要添加2个以上的游戏模式：团队生存模式和要塞模式[48]
+平顶山神殿[49]
+更多的动物如鱼、鸟、树上动物，以让游戏更栩栩如生。[50]
+更多的海洋生物。[51] （在 14w25a中已引入了部分的海洋生物——新增加的守卫者。）
+更多的矿石[52]
+在生物群系中有更多的结构。[46]
+更多类型的洞穴[52]
+可以去掉附魔的方法[53]
+稻草人[54]
+藏宝图[55]
+未被雕刻的南瓜[56]
+Notch 提到了鲸鱼是 Alpha 里面的一个海洋生物，除了鱿鱼。[来源请求]
+自定义的画[57]
+双重焊接物品[58]
+彩虹水晶洞穴[59]
+服务器传送门[60]
+烟火对生物有作用，例如恐吓狼。[61]
+Dinnerbone 留言说他有一个关于末路之地的“旗舰计划”，可能包含与龙蛋的互动。然而，他也提到他不想与团队里的其他人讨论这个主意。[62]
+玉米[63]
+可能会加入知识[64]
+“一些关于世界生成算法的疯狂的主意”[65]
+
+开玩笑的特性[编辑 | 编辑源代码]
+
+
+
+
+12marc40awesome快照，Marc Watson的一个开玩笑的快照。
+
+
+Notch 和其他 Mojang AB 员工在谈论关于要添加到游戏的特性的内容时经常开玩笑。
+
+热狗[66][67]
+Herobrine。在每一个新的Minecraft更新像万圣节冒险更新、冒险元素更新、骇人更新、红石更新、马匹更新、世界生成器更新和缤纷更新等时，更新日志都会写着“移除Herobrine”，但Herobrine从未实施过。[68]
+上锁的箱子 或 “史蒂夫有限公司供应木箱”是在 2011年的愚人节玩笑中临时添加的。
+当 极限模式 发布时，发布了一张关于“超极限模式”的开玩笑的快照的图片，即收费玩家如果死亡则会撤销账号。
+Jeb 开玩笑说如果社区成员 100% 达成添加何种薯条的共识的话，那么他将会添加薯条。[69]
+Marc 开玩笑说要在 1.4 中加入高帽。[70]
+一个被命名为 12marc40awesome 的快照包含了一些开玩笑的特性如火山爆发、更多的龙、珊瑚和鱼方块。[71]
+松果。[72]
+Dinnerbone当在被问到矮人时，他开玩笑说要添加矮人。[73]
+SethBling在他的一个直播流中提到了命令方块的一个缺点，Dinnerbone开玩笑说要移除命令方块来解决他说的问题。 [74]
+许多在Minecraft 2.0的特性是作为 2013年愚人节的玩笑的，例如粉红凋灵和红石漏洞。[75]
+Dinnerbone开玩笑说加入Minecraft比萨饼是一个好主意，KrisJelbring留言说比萨饼已经确定要加入。[76]
+
+参考[编辑 | 编辑源代码]
+
+
+↑ wordofnotch:220243988/half-sized-blocks-all-dirt-tiles-so-it-kinda
+↑ https://twitter.com/Dinnerbone/status/327118657698275329
+↑ https://twitter.com/Dinnerbone/status/327121694286290945
+↑ https://twitter.com/notch/status/22743846228070400
+↑ https://twitter.com/notch/status/25611065517670400
+↑ https://twitter.com/notch/status/28246272062259201
+↑ http://www.youtube.com/watch?v=1pg05j6K0fc&amp;t=14m3s
+↑ https://twitter.com/notch/status/187453842781257729
+↑ http://www.reddit.com/r/Minecraft/comments/yf5im/suggestion_storable_books/c5v03bq?context=1
+↑ http://www.reddit.com/r/Minecraft/comments/1t6qn7/i_am_dinnerbone_a_minecraft_developer_ask_me/ce4z2v5?context=3
+↑ Notch 的话，2010年10月4日
+↑ http://www.reddit.com/r/Minecraft/comments/s7ri6/i_am_jon_k%C3%A5gstr%C3%B6m_developer_of_minecraft_ask_me/c4bs6d1?context=3
+↑ wordofnotch:746938105
+↑ http://notch.tumblr.com/post/6969771554/back-in-the-office-and-some-words-on-1-7-and-1-8
+↑ http://www.youtube.com/watch?v=xdoH3kzg938&amp;t=143s
+↑ https://twitter.com/notch/status/77555436370407424
+↑ https://twitter.com/kristoffer/status/344448279569915904
+↑ http://www.youtube.com/watch?v=YG9RNyRhIow&amp;feature=youtu.be&amp;t=36m17s
+↑ http://notch.tumblr.com/post/140842759/throwing-in-many-more-hours-and-survival-mode-plans
+↑ 20.0 20.1 https://twitter.com/Dinnerbone/status/392765209217347584
+↑ http://www.reddit.com/r/Minecraft/comments/{{{1}}}/
+↑ https://twitter.com/notch/status/124154763351818240
+↑ http://www.reddit.com/r/Minecraft/comments/rsrqt/i_am_jens_bergensten_lead_designer_of_minecraft/c4a4evh?context=1
+↑ http://www.reddit.com/r/Minecraft/comments/{{{1}}}/
+↑ https://twitter.com/Dinnerbone/status/323870260560293888
+↑ https://twitter.com/Dinnerbone/status/336123928181346306
+↑ http://www.youtube.com/watch?v=wPSVJHVL6TA&amp;feature=share&amp;t=6h32m47s （私人视频）
+↑ http://www.twitch.tv/mojang/b/475864771 （在 6:17:17）
+↑ https://twitter.com/Dinnerbone/status/207253374230470657
+↑ https://twitter.com/Dinnerbone/status/184570898920112128
+↑ http://www.pcgamer.com/2012/11/11/the-future-of-minecraft
+↑ https://twitter.com/Dinnerbone/status/184585004389646336
+↑ 模块化 API: 模块化 API
+↑ 模块化 API: Bukkit 研发 API
+↑ http://notch.tumblr.com/post/2812089385/the-web-server-is-struggling-were-migrating
+↑ http://notch.tumblr.com/post/4746701552/minecraft-beta-1-5-and-some-thoughts-on-this-blog
+↑ wordofnotch:660061390
+↑ http://www.reddit.com/r/Minecraft/comments/enchanting/ce3ty31?context=1
+↑ wordofnotch:522979105
+↑ wordofnotch:121044061
+↑ http://www.youtube.com/watch?v=9f68PFL1N2k
+↑ http://www.reddit.com/r/Minecraft/comments/e7xol/this_is_how_clouds_should_work_gif_simulation/
+↑ http://getsatisfaction.com/mojang/topics/make_clouds_collide_with_blocks
+↑ https://twitter.com/Dinnerbone/status/288319336962215936
+↑ https://twitter.com/dinnerbone/status/288319336962215936
+↑ 46.0 46.1 http://www.reddit.com/r/Minecraft/comments/dinnerboneama/ce4xlds?context=1
+↑ http://www.youtube.com/watch?v=BES9EKK4Aw4
+↑ http://forums.tigsource.com/index.php?topic=6273
+↑ https://twitter.com/jeb_/status/497305989465395201
+↑ http://www.reddit.com/r/Minecraft/comments/s7ri6/i_am_jon_k%C3%A5gstr%C3%B6m_developer_of_minecraft_ask_me/c4bs6d1?context=1
+↑ http://minetimes.wordpress.com/2011/07/10/interview-mit-jeb-ihr-konntet-die-fragen-stellen/
+↑ 52.0 52.1 http://www.reddit.com/r/Minecraft/comments/dinnerboneama/ce4zbb9?context=1
+↑ https://twitter.com/Dinnerbone/status/392766846648451072
+↑ http://www.youtube.com/watch?v=xdoH3kzg938&amp;t=198s
+↑ https://twitter.com/Dinnerbone/status/435554845085679617
+↑ https://twitter.com/jeb_/status/26752023516942336
+↑ wordofnotch:4988431144
+↑ http://minetimes.wordpress.com/2011/07/10/interview-mit-jeb-ihr-konntet-die-fragen-stellen
+↑ https://web.archive.org/web/20120108050113/http://getsatisfaction.com/mojang/topics/rainbow_crystalline_caves_and_how
+↑ https://web.archive.org/web/20120204184936/http://getsatisfaction.com/mojang/topics/server_portals
+↑ https://twitter.com/jeb_/status/277075087503536128
+↑ https://twitter.com/Dinnerbone/status/444176255521681408
+↑ https://twitter.com/jeb_/status/555061989576572930
+↑ https://twitter.com/jeb_/status/565200752587448321
+↑ https://twitter.com/SeargeDP/status/569901119964626944
+↑ https://twitter.com/notch/status/62498529108697090
+↑ http://notch.tumblr.com/post/359769783
+↑ https://scrolls.com/2013/08/scrolls-changelog-0-103-0-super-friendly-edition
+↑ https://twitter.com/jeb_/status/238985586541748224
+↑ https://twitter.com/Marc_IRL/status/247743154424524800
+↑ https://twitter.com/Dinnerbone/status/253954758489038848
+↑ https://twitter.com/jeb_/status/261385374234988544
+↑ http://www.reddit.com/xlyi5
+↑ http://es-mx.twitch.tv/sethbling/b/364067137
+↑ http://mojang.com/2013/04/its-finally-coming-minecraft-2-0/
+↑ https://twitter.com/KrisJelbring/status/401476055464427520
+
+
+
+
+版本记录
+
+
+PC版
+
+
+
+版本记录
+
+
+Pre-classic
+Classic
+
+ 生存测试
+
+
+Indev
+ Infdev
+Alpha
+ Beta
+
+预发布版
+
+
+Minecraft 1.0
+
+预览版本
+
+
+
+
+
+
+
+未来展望
+提及特性
+
+天域
+Plugin API
+
+
+未使用的特性
+已移除的特性
+ 彩蛋
+
+
+
+
+携带版
+
+
+ Alpha
+未来展望
+提及特性
+已移除的特性
+未使用的特性
+独有特性
+预览版本
+
+
+
+
+主机版
+
+
+版本记录
+未来展望
+提及特性
+独有特性
+已移除的特性
+
+
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=提及特性&amp;oldid=118216”					
+				分类：来源请求VersionMinecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						EnglishEspañolFrançaisMagyar日本語한국어NederlandsPolskiРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月27日 (星期五) 10:02。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

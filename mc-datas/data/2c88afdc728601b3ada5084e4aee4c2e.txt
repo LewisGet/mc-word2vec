@@ -1,0 +1,547 @@
+
+
+
+
+版本记录/预览版本 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			版本记录/预览版本
+									
+									来自Minecraft Wiki
+								&lt; 版本记录
+												
+					跳转至：					导航、					搜索
+				
+				该文章是关于在电脑版上公开发布的预览版本的。  关于正式版本的版本记录，请参阅版本记录。  关于携带版的预览版本，请参阅携带版版本记录/预览版本。
+自从在Beta 1.7.3与Beta 1.8的阶段开始，Mojang开始公开发布正式版本的测试版本以获得有价值的反馈，特别是漏洞的报告。正式版本因此得以更加稳定。当这些版本被发布之后，这些版本不会被旧版启动器安装，在新的启动器上选中“Enable experimental development versions ('snapshots')”时被安装。
+关于安装快照的详细教程，请阅读本教程。
+符号(?)表示此版本的信息是猜测而得，并不一定正确。
+注意：本页面不用于反馈漏洞，漏洞应该在官方漏洞追踪器上被反馈。更多信息请参见漏洞。
+
+
+
+目录
+
+
+1 每周快照与预发布版
+2 1.10
+
+2.1 1.10
+
+
+3 1.9
+
+3.1 1.9.3
+3.2 1.9.1
+3.3 1.9
+
+
+4 1.8
+
+4.1 1.8.8
+4.2 1.8.2
+4.3 1.8.1
+
+
+5 1.6~1.8
+6 1.0~1.5
+7 Beta
+8 参考
+
+
+
+每周快照与预发布版
+在Beta开发阶段中，这些预览版本发布时会附带一个“Pre-Release”标签，1.0的预览版本的标签则是“RC#”。
+在1.0.0之后发布的每周快照中，命名格式变为“年份w星期x”。年份是年份的后两位数。w的意思就是“week”（工作周），星期是在这一年中星期的两位数编号，最后的x是防止重复的识别符，并且从“a”开始，这是为了防止一个星期一不止一个快照。最新的1.6启动器只会下载目前版本开发进程中的快照和预发布版。所有的旧快照会在本地储存。你能够在档案编辑器中更改到其他的快照。[1]
+2014年6月23日（星期一），Nathan Adams（Dinnerbone）宣布Mojang今后将会在星期三发布快照，而非以前的星期四。[2]
+1.10
+1.10
+
+查看全部
+
+
+16w20a
+
+1.9
+1.9.3
+
+查看全部
+
+
+1.9.3-pre1 • 1.9.3-pre2 • 1.9.3-pre3
+16w15a • 16w15b
+16w14a
+
+1.9.1
+
+查看全部
+
+
+1.9.1-pre1 • 1.9.1-pre2 • 1.9.1-pre3
+
+1.9
+
+查看全部
+
+
+1.9-pre1 • 1.9-pre2 • 1.9-pre3 • 1.9-pre4
+16w07a • 16w07b
+16w06a
+16w05a • 16w05b
+16w04a
+16w03a
+16w02a
+15w51a • 15w51b
+15w50a
+15w49a • 15w49b
+15w47a • 15w47b • 15w47c
+15w46a
+15w45a
+15w44a • 15w44b
+15w43a • 15w43b • 15w43c
+15w42a
+15w41a • 15w41b
+15w40a • 15w40b
+15w39a • 15w39b • 15w39c
+15w38a • 15w38b
+15w37a
+15w36a • 15w36b • 15w36c • 15w36d
+15w35a • 15w35b • 15w35c • 15w35d • 15w35e
+15w34a • 15w34b • 15w34c • 15w34d
+15w33a • 15w33b • 15w33c
+15w32a • 15w32b • 15w32c
+15w31a • 15w31b • 15w31c
+
+1.8
+1.8.8
+
+1.8.8-pre
+
+1.8.2
+
+1.8.2-pre1 • 1.8.2-pre2 • 1.8.2-pre3 • 1.8.2-pre4 • 1.8.2-pre5 • 1.8.2-pre6 • 1.8.2-pre7
+
+1.8.1
+
+1.8.1-pre1 • 1.8.1-pre2 • 1.8.1-pre3 • 1.8.1-pre4 • 1.8.1-pre5
+
+
+1.6~1.8
+
+
+主条目： 版本记录/预览版本/Minecraft 1.6-1.8 [编辑]
+
+
+
+
+1.0~1.5
+
+
+主条目： 版本记录/预览版本/Minecraft 1.0-1.5 [编辑]
+
+
+
+
+Beta
+
+
+主条目： 版本记录/预览版本/Beta [编辑]
+
+
+
+参考
+
+
+↑ https://twitter.com/Dinnerbone/status/331054176756977664
+↑ https://twitter.com/Dinnerbone/status/481369603281809408
+
+
+
+
+版本记录
+
+
+PC版
+
+
+
+版本记录
+
+
+Pre-classic
+Classic
+
+ 生存测试
+
+
+Indev
+ Infdev
+Alpha
+ Beta
+
+预发布版
+
+
+Minecraft 1.0
+
+预览版本
+
+
+
+
+
+
+
+未来展望
+提及特性
+
+天域
+Plugin API
+
+
+未使用的特性
+已移除的特性
+ 彩蛋
+
+
+
+
+携带版
+
+
+ Alpha
+未来展望
+提及特性
+已移除的特性
+未使用的特性
+独有特性
+预览版本
+
+
+
+
+主机版
+
+
+版本记录
+未来展望
+提及特性
+独有特性
+已移除的特性
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=版本记录/预览版本&amp;oldid=117194”					
+				分类：Version				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															查看源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançais日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月19日 (星期四) 15:14。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

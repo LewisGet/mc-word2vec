@@ -1,0 +1,757 @@
+
+
+
+
+Mods - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			Mods
+									
+									来自Minecraft Wiki
+								（重定向自Mod）
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+该页的内容尚未被Mojang、Minecraft Wiki、Minecraft IRC频道和Minecraft论坛所支持。
+
+
+该文章是关于游戏模组的。  关于服务器管理员，请参阅管理员。
+
+
+
+
+一个世界生成器 Mod 的示例（自定义 Indev 地图生成器）
+
+
+Mods（Modifications 的缩写），也叫模组，是指任何基于 Minecraft 原本游戏内容所作出的任何修改。
+
+
+
+目录
+
+
+1 用途
+2 Mod 类型
+
+2.1 客户端 Mod
+2.2 服务器 Mod
+2.3 整合包
+
+
+3 错误
+4 另见
+
+
+
+用途[编辑 | 编辑源代码]
+许多 Mod 向游戏添加更多的额外内容来改变游戏的方式和可塑性，或给予玩家更大的刺激，或给予玩家与 Minecraft 世界更多交互的方式。许多制作 Minecraft Mod 的人（也称 Mod 制作者）使用 Minecraft Coder Pack 和 ModLoader 或 Minecraft Forge 来制作 Mod。一些 Mod 可能会比较大，而其它一些 Mod 会添加更多的设置和选项来自定义游戏速度、视频渲染和游戏玩法。服务器Mod和插件则为服务器管理员提供了更多管理上的方便和选择；大多数单人模式中的Mod都提供了服务器版以在多人模式中使用。
+理想的情况下，一个 Mod 的制作者会随游戏的更新而更新 Mod——带来更多的内容、漏洞修复或优化。否则，这个 Mod 就可能不会在新游戏版本中工作。
+iOS 上的携带版可以通过越狱来启用 Mod，而在 Android 设备上则使用例如 "BlockLauncher" 之类的 App 来启用 Mod。主机版没有 Mod。
+Mod 类型[编辑 | 编辑源代码]
+客户端 Mod[编辑 | 编辑源代码]
+客户端 Mod 是对游戏客户端进行了修改的模组。它们不是独立的，它们需要修改 minecraft.jar。
+Minecraft 服务器端会忽略客户端中的自定义元素，因此多数添加新元素的Mod不会在多人模式中工作，除非服务器端也安装了相同的 Mod。一些客户端 Mod 的作者也编写了服务器版的 Mod 使得 Mod 能用于多人模式，但并不是所有。一些 API 和启动器类的 Mod（如 ModLoader 和 AudioMod）和很多功能性 Mod（如 Optifine、 Rei's Minimap、和 TooManyItems）不需要服务器的支持就能运作，并能造成影响。
+在 Minecraft 社区里的 Mod 列表
+
+服务器 Mod[编辑 | 编辑源代码]
+服务器 Mod 是对官方 Minecraft 服务器软件修改的模组。它们的设计主要是通过实现服务器权限分层限制来让服务器的管理变得更加简单（例如踢人和封人等）。它们经常以“包”的形式运行，这表明它们并不是在修改服务器的 .jar 文件，而是检测它的输出并向其发出指令。
+
+
+服务器 Mod
+
+
+名称
+描述
+版本
+链接
+最新版本
+
+
+Voidity
+
+一体化服务器 Mod，拥有强大的稳定性和许多功能。
+
+简单而高效，完全可配置
+新的战斗系统（竞技场、饥饿游戏、战斗奖励）
+新的传送系统（保存位置、返回、访客功能限制、锁）
+新的社交功能（建立箱子保护、双重信用经济、派系）
+更好的工作人员、服主和服务器 OP 处理，飞行配置重载
+带有3种塔和1个球体的结构生成器
+多世界（甚至每个世界都可以拥有不同的模式）支持
+一大堆新的聊天命令、像 backup 或 math，还有许多其它自定义功能
+
+
+1.7.2 R1.4
+Homepage
+1.7.2
+
+
+CanaryMod
+
+hMod 的分支，Canary Classic 的继承者
+
+插件系统。
+简单而高效。
+内置权限系统。
+插件几乎不会崩溃。
+多世界支持
+Java、Scala 和 Lua 插件支持
+
+
+1.8.0-1.2.0 (Bleeding)
+1.7.10-1.1.2 (Stable)
+主页
+社区
+1.8
+
+
+Bukkit
+
+一个带有自己的服务器软件的流行的 Mod API。可在 Spigot 网站上下载。
+
+插件系统
+高效
+服务器的安全更新
+基于 Minecraft 源代码构建
+多世界支持
+
+
+1.8.3-R0.1
+Homepage
+下载（Spigot 站点）
+社区
+1.8.3
+
+
+Spigot
+
+一个基于 Bukkit 的流行服务器软件
+
+插件系统
+更小延迟
+Bukkit 的所有功能
+基于 Minecraft 源代码构建
+多世界支持
+内置 X-ray 破解保护
+
+
+1.8.3-R0.1
+主页
+社区
+1.8.3
+
+
+MC Port Central
+
+修改服务端，与 Forge 和 Bukkit 一起工作，允许你在一个服务器上同时游玩 Mod 和 Bukkit 插件。
+
+当使用 Forgemodloader 时结合了 Bukkit 的功能。
+定期更新
+允许你使用 Bukkit 插件
+
+
+Build #18
+1.4.6 Ported Mod
+1.7.2
+
+
+整合包[编辑 | 编辑源代码]
+整合包是 Mod的合集，这些 Mod 都已被配置，并且可以一起工作。整合包通常以科技、探索或魔法为主题。整合包通常还带有自定义启动器或安装器，让安装和运行 Mod 包更容易。一些流行的整合包如 Feed The Beast、 Tekkit 和 Hexxit。当然也有许多更小的整合包，例如Crafting Dead 和 Blocklaunch，多数使用 Technic Pack 上的 Minecraft Technic Launcher。
+错误[编辑 | 编辑源代码]
+当你安装了一个 Mod 后，它可能会停止游戏的正常工作。如果你在使用一个 Mod 时遇到问题，并想报告它，首先移除所有 Mod，并查看问题是否仍未解决。如果问题仍未解决，可以将其报告到漏洞追踪器。否则，尝试使用最少数量的 Mod 来重现问题，然后报告问题到 Mod 的作者。
+有些mod必须和其他mod一起运行才能正常，比如NotEnoughItems必须要对应的ChickenCore，LittleBlocks必须SlimeVoid。
+Forge启动时可以自动检测安装错误。
+如果 Minecraft 崩溃，修改过的游戏会在崩溃报告里进行标记。接下来的链接解释了如何获取崩溃报告。（注意：如果你的 Minecraft 还未崩溃过，按照接下来的说明去做将不会找到任何东西。）
+崩溃报告文字将会在一行的顶部附近标注：
+
+Is Modded: Probably not. Jar signature remains and client brand is untouched
+Is Modded: Very likely
+Is Modded: Definitely: client brand changed to (present loader, such as "fml,forge" or modloader)
+
+下面是一个简短的示例崩溃报告：
+
+
+崩溃报告
+
+
+
+
+Minecraft has crashed!      
+      ----------------------      
+
+Minecraft has stopped running because it encountered a problem; Unexpected error
+--- BEGIN ERROR REPORT 1aa09c6 --------
+Generated 03/09/12 12:00
+
+- Minecraft Version: 12w34a
+- Operating System: Windows 7 (amd64) version 5.2
+- Java Version: 1.7.0_03, Oracle Corporation
+- Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+- Memory: 500000000 bytes (500 MB) / 600000000 bytes (600 MB) up to 900000000 bytes (900 MB)
+- LWJGL: 2.4.2
+- OpenGL: NVidia ABC 999 Ti/PCI/SSE2 GL version 0.9.0, NVIDIA Corporation
+- Is Modded: Probably not. Jar signature remains and client brand is untouched
+- Type: Client
+- Profiler Position: N/A (disabled)
+- World MpServer Entities: 1 total; [anx['Blockbuilder567'/1135, l='MpServer', x=8.50, y=66.62, z=8.50]]
+...
+
+
+
+检查 Mod 的代码相当简单，并且它总是不是正确的；它可能会说“probable not”，甚至当 Mod 未安装时。然而，如果你修改了 minecraft.jar 那么你将很难获取“very likely”信息，因此本质上是一个“yes”。还有一个“definitely”信息，可以看见 Bukkit 服务器崩溃，并且在其他类似的情况下，像在 Minecraft Forge API 被安装后。
+'Probably not' 会在客户端/服务器进行内部检查，检查文件是否没有变化（通常叫做“vanilla”）以及 META-INF 是否仍然还在那里。当不是 vanilla 时，“Definitely”会加上客户端名字显示。例如，你会看到像这样的：
+
+Is Modded: Definitely: Client brand changed to 'fml,forge'
+
+另见[编辑 | 编辑源代码]
+
+Plugin API，一个即将到来的特性，允许 Mod 作者可以更容易地向游戏添加内容。
+作弊的利用。
+Mod/安装，指导如何安装 Mod。
+Mod/安装 Forge Mod，指导如何使用 Forge 安装 Mod。
+Mod/制作，指导如何创建 Mod。
+辅助程序与编辑器/Mod工具，展示了安装和制作 Mod 的工具。
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Mods&amp;oldid=116555”					
+				分类：MinecraftMods				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月14日 (星期六) 15:14。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

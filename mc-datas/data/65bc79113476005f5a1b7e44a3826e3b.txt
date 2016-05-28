@@ -1,0 +1,361 @@
+
+
+
+
+辅助程序与编辑器 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根據CC BY-NC-SA 3.0協議，所有從wiki搬運的資料都必須寫上來源出處（中文Minecraft Wiki），否則將被視為侵權行為！（詳細閱讀）
+致繁體用戶：本wiki現已更新簡繁更換系統，各位用戶可以通過簡繁切換來查看正確的繁體譯名
+
+						
+						
+							
+						
+			
+
+			辅助程序与编辑器
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+该页的内容尚未被Mojang、Minecraft Wiki、Minecraft IRC频道和Minecraft论坛所支持。
+
+
+该文章是关于第三方软件的。  关于官方 Minecraft 软件，请参阅启动器。
+Minecraft的玩家社区中已经诞生了数千款辅助程序和修改软件，这些软件在增强游戏的体验中得到了广泛的应用。
+
+服务器软件列表内容十分庞大,所以我们为其单独设立了一个页面。参见服务器软件页面获取更多可以帮助您管理服务器的软件。
+有许多种旨在对地图进行修改的地图工具：
+
+地图查看工具可以使用户可以以俯视的形式查看世界地图，这类软件通常会将地形输出至一张图片或以Google地图的形式出现。
+地图阅览工具可以使用户与世界地图之间进行交互式阅览，通常地图为3D形式出现。
+地图编辑工具可以使玩家在游戏之外直接对世界地图进行修改。
+地图生成工具可以生成在正常情况下无法出现的地形和方块特征。
+
+
+Mods为Minecraft游戏添加许多新的特性和游戏玩法；当然也有许多Mod工具方便用户制作和安装MOD。
+3D建模工具可以为 Mod 制作一个新实体。
+皮肤与材质制作器，对制作玩家和生物皮肤有帮助。
+资源包制作器，帮助你制作可以改变世界样子的资源包。
+物品栏修改器，顾名思义，就是修改物品栏。
+备份工具可以使您备份自己心仪的世界，方便您在其他电脑中毫无顾忌地使用。
+帮助工具为您提供许多有用的信息，这种软件并不直接对游戏造成影响。
+3D导出工具可以使您将Minecraft的世界导出为3D文件。
+最后，还有一些专业工具。这些工具可以模拟红石电路、进行游戏的版本转换以及不在以上目录下的其他用途。
+
+在iOS系统和Android系统中也有一小部分的辅助软件。
+在Mac和Linux系统中，许多.NET应用可能会需要Mono。
+未及时更新以匹配Minecraft最新版本的软件会被移至过期软件页面。
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=辅助程序与编辑器&amp;oldid=91953”					
+				分类：自定义软件				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2015年10月7日 (星期三) 13:54。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

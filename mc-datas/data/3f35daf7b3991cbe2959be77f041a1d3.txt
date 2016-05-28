@@ -1,0 +1,701 @@
+
+
+
+
+树莓派版 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			树莓派版
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+树莓派版
+
+
+
+
+
+开发作者
+
+Mojang AB
+
+
+
+运行平台
+
+（仅ARM）树莓派
+
+
+
+编写语言
+
+C++[1]
+
+
+
+最新版本
+
+0.1.1
+
+
+
+发布日期
+
+2013年2月11日
+
+
+
+年龄分级
+
+?
+
+
+
+程序大小
+
+5 MB
+
+
+
+授权协议
+
+私有软件
+
+
+
+开源情况
+
+部分
+
+
+
+外部链接
+
+
+网站
+
+
+
+
+
+
+
+
+该页面的内容关于过时或已移除的功能。
+此版本的Minecracft不再更新
+
+
+
+Minecraft: 树莓派版Minecraft: Pi Edition为Minecraft为树莓派（Raspberry Pi）而设计的版本。该版本基于携带版但进行了些许删减，同时包含一些改进过的特性以及对多种编程语言提供支持等。树莓派版旨在为编程新手提供一种教学工具。此版本免费同时于此处提供下载。树莓派版鼓励使用者开放并通过API修改游戏的源代码。[2]
+树莓派版由携带版的开发者之一——Aron Nieminen与Daniel Frisk联手进行开发。[3].
+
+
+
+目录
+
+
+1 发展
+
+1.1 发布
+1.2 运行于Raspbian
+1.3 停止更新
+
+
+2 画廊
+3 你知道吗
+4 引用
+
+
+
+发展[编辑 | 编辑源代码]
+发布[编辑 | 编辑源代码]
+
+主条目： 树莓派版版本记录
+
+Minecraft树莓派版于2012年11月24日于Mojang官方网站中公布。[4]
+在Mojang数据库中存有标记为0.1的编译版本，但是由于正在加密，所以当前没有办法获得。在其上传的最初一段时间内由于未加以保护所以人们可以进行下载。同时也提供了如下记录：2012年12月20日Mojang或者屏蔽亦或是删除树莓派版发布的文章，在公众可以访问该文章之前均会返回404错误。
+2013年2月11日，Minecraft 树莓派版正式与Mojang官方网站中发布[5]。在Minecraft树莓派版的网站中提及在2012年12月20日，之前删除的文章被恢复也证明了之前的推断是正确的
+运行于Raspbian[编辑 | 编辑源代码]
+2014年9月15日，Raspberry Pi 基金会宣布新Raspbian操作系统将会自带Minecraft树莓派版。
+停止更新[编辑 | 编辑源代码]
+树莓派版从来没有发布任何后续版本，并且它的开发者没有任何进一步的消息，所以不知道他们是否在开发新的版本。2016年1月25日，Tommaso Checchi在Reddit上说：“开发团队已经停止支持树莓派版，并且在携带版0.9版本时就与MCPE开发团队融合成为了一个更加强大的技术团队，这也意味着，它现在更难重新支持树莓派平台。事实上，我们在2015年就删除了所有树莓派版的代码。”[1]他接下来说，“或许有一天我们会重新考虑这个项目，但我们不会不闻不问。从另一个角度来看，Windows 10可以在树莓派上运行，所以你可以运行Windows 10版的Minecraft！……让我想想那会怎么样。”
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+Mojang博客中关于树莓派版的第一张截图。
+
+
+
+
+
+
+
+
+
+在被删除的博文中的一张图片，图片显示了贪吃蛇游戏的Minecraft版本。
+
+
+
+
+你知道吗[编辑 | 编辑源代码]
+
+树莓派版连续2年没有收到一个更新的信息，这使它的版本与版本之间相隔的时间最长。
+树莓派版仍在沿用着携带版0.6.1的内容，青花和照相机也在其中。
+
+引用[编辑 | 编辑源代码]
+
+↑ danfrisktweet:272389328490082305
+↑ danfrisktweet:272323992097009665
+↑ http://pi.minecraft.net/?page_id=14
+↑ http://mojang.com/2012/11/minecraft-is-coming-to-the-raspberry-pi
+↑ http://www.mojang.com/2013/02/minecraft-pi-edition-is-available-for-download
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=树莓派版&amp;oldid=111741”					
+				分类：OutdatedMinecraft				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisItaliano한국어Русский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月14日 (星期四) 13:32。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

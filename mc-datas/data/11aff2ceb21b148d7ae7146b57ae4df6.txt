@@ -1,0 +1,696 @@
+
+
+
+
+Classic - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			Classic
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+这个版本已经过时了
+这个游戏依然是免费的
+
+
+
+
+Classic
+
+
+
+
+
+起始版本
+
+0.0.11a （2009年5月17日）
+
+
+
+最后版本
+
+0.30 （2009年11月10日）
+
+
+
+收费
+
+免费
+
+
+
+网站
+
+官网已经删除免费classic
+
+
+
+
+Classic模式是在minecraft Indev发布前的模式。它是游戏的第一个在开发阶段。这个阶段在2010年6月28日之前没有被定义名称，当时在博客里面被统称为开发阶段。[1]创造模式和生存模式在该阶段中逐渐被引入游戏。
+在Classic中生存模式最初的版本中被称为生存测试。同时测试了计分系统，玩家从一点出现，并且可以杀死一些早期的生物。2010年12月16日，Classic被淘汰，而生存测试仍然在游戏中。在该阶段通过网站受到了大量的反馈，修复了很多问题。后来这个模式被悄然撤下，官方网站仅在小通告栏提了一下。
+最新版本的Classic创造模式已经不能再在官网玩到了，它以前可以在单人模式或多人联机中玩。随着一些扩展内容加入到游戏中，游戏的可玩性越来越高。例如一些特殊的游戏扩展，如岩浆生存、TNT战争、僵尸等。
+因为版本很旧，所有它不支持很多内容。如当前版本的主要特点：合成、物品栏、光。和Beta相比，缺少潜行和染料等内容，所以也逐步过时了。但是很多玩家依然喜欢在Classic中创作，因为Beta版中只有生存模式。直到Beta1.8添加了类似Classic的创造模式。
+由于Minecraft.net更新，Classic版已经从官网移除。
+
+
+
+目录
+
+
+1 历史
+2 性价比优势
+3 你知道吗
+4 画廊
+5 另见
+6 参考
+
+
+
+历史[编辑 | 编辑源代码]
+沙子在Classic中就已经存在了。但是在此期间沙子很罕见，它只出现在海滩附近（作为一道分界线）。这些沙滩的水质和海洋的水质相同，且在一个水平线上。沙子下可以是空气，并且沙子不会下落。销毁沙柱底部沙子的时候，顶部沙子消失，而不是整体下降，这些问题直到Infdev才被完善。
+在以前的Classic中玩家可以悬空放置沙子或沙砾，直到玩家打破它。而破碎的时候它会掉落到下面相应的位置。玩家可以在悬空的沙子或沙砾上放置流体，直到在附近放置方块，这么做可以制造水灾。相关报告表明这种情况曾经发生过，后来错误被修正。
+性价比优势[编辑 | 编辑源代码]
+这个模式是免费对外开放的，而购买游戏的玩家可以享受以下两项服务：
+
+可以在单人游戏和多人联机中自定义皮肤。
+可以在线保存单人游戏下的地图。
+
+你知道吗[编辑 | 编辑源代码]
+
+在Classic的Minecraft.jar文件中发现几个生物的信息。这些是Classic中的生存测试保留的一些生物，也可以让你拥有相关类型的生命栏（或者根本没有）。
+曾经，人类可以按下G键生成。
+“Classic”中文意思是“经典”。
+
+画廊[编辑 | 编辑源代码]
+
+
+
+
+
+
+
+在早期发展阶段的Minecraft（Cave game）
+
+
+
+
+
+
+
+
+
+第一个被公开并且可以玩的版本，0.0.9a
+
+
+
+
+
+
+
+
+
+在Minecraft早期版本中的人类
+
+
+
+
+
+
+
+
+
+在早期Classic中流动的岩浆
+
+
+
+
+
+
+
+
+
+在0.30中玩家制造的像素画
+
+
+
+
+另见[编辑 | 编辑源代码]
+
+版本记录/Classic
+开发周期
+Indev
+Infdev
+Alpha
+Beta
+Minecraft 1.0
+
+参考[编辑 | 编辑源代码]
+
+↑ http://notch.tumblr.com/post/746938105/the-server-is-back-up
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=Classic&amp;oldid=118463”					
+				分类：MinecraftGame Modes				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyarItaliano日本語한국어NederlandsPolskiPortuguês do BrasilРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年5月28日 (星期六) 08:05。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

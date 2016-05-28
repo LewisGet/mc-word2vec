@@ -1,0 +1,729 @@
+
+
+
+
+开发资源 - 中文 Minecraft Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+	
+		Gamepedia
+					Help
+									
+
+			
+		
+									Sign In
+							Register
+						
+
+	
+	
+	
+		
+			
+
+							警告：根据CC BY-NC-SA 3.0协议，所有从wiki搬运的资料都必须写上来源出处（中文Minecraft Wiki），否则将被视为侵权行为！（详细阅读）
+致繁体用户：本wiki现已更新简繁更换系统，各位用户可以通过简繁切换来查看正确的繁体译名
+
+						
+						
+							
+						
+			
+
+			开发资源
+									
+									来自Minecraft Wiki
+								
+												
+					跳转至：					导航、					搜索
+				
+				Minecraft是用Java写成的，尽管其源代码经过混淆，社区成员已经了解Minecraft的大多数代码是如何运作的。Notch给出了关于Minecraft使用NBT格式的笔记。对此，社区已经得到了使用NBT格式文件的信息。
+
+
+
+目录
+
+
+1 NBT格式
+2 地图文件格式
+
+2.1 地图格式
+2.2 相关格式
+2.3 程序库
+
+
+3 Mod建立工具
+4 服务器协议
+5 资源
+
+5.1 程序
+
+
+
+
+
+NBT格式[编辑 | 编辑源代码]
+NBT格式被Minecraft中几乎所有的文件使用。它是一个由“标签”组成的经过GZip压缩的树状结构，每个标签有类型，名称和基于类型的负载。在1.2的快照12w07a及以上，一个新的标签类型被添加到原本由Indev开始已经存在的标签类型之中。
+地图文件格式[编辑 | 编辑源代码]
+每个Minecraft的版本都有自己的地图文件格式。以下的信息是介绍不同的关卡文件格式，可让软件开发者用来建立地图编辑器、服务器、关卡产生器及其他程序。 方块,物品和数据值是各地图共通的。
+地图格式[编辑 | 编辑源代码]
+
+Classic地图格式被旧的Classic版Minecraft所使用：生存模式，创造模式，以及多人。
+Indev地图格式为Indev版所使用。
+Alpha地图格式为Alpha版所使用（旧称Infdev）。
+Beta地图格式为Beta版所使用（1.3版后）。
+携带版地图格式为Minecraft携带版所使用。
+
+Notch的相关笔记：NBT格式文件。
+Schematic档案是一种基于NBT的格式，专供第三方应用程序储存地图的某段区域供之后使用。
+相关格式[编辑 | 编辑源代码]
+
+地图物品格式（Beta 1.6）
+
+程序库[编辑 | 编辑源代码]
+这些是由社区成员创建的库，用于使用各种各样的文件与Minecraft进行交互。
+
+
+名称/连接
+语言
+描述
+
+
+Yggdrasil.NET
+C#
+.NET Minecraft用户信息和登录API。
+
+
+OpenCraft
+Java
+处理大多数与Minecraft有关的事情的库。
+
+
+MCModify
+Java/C++
+允许加载、操纵和保存所有Minecraft格式的库。
+
+
+NBT类别范例
+Java
+基本强力读写NBT结构的Java类。
+
+
+/Minecraft Classic 地图类编辑示例
+Java
+读写Classic地图的类。
+
+
+Substrate
+C#
+可以用来载入和编辑关卡的C#类。
+
+
+Craft.Net
+C#
+编写服务器软件和改变世界等的C#库。
+
+
+c10t
+C++
+一个开源的制图工具。
+
+
+mNBT
+C++
+读写NBT结构的C++库。
+
+
+libnbt++
+C++
+读写NBT结构的C++库。
+
+
+CNBT
+C
+读写NBT结构的C库。
+
+
+Minecraft-Perl
+Perl
+可以用来编辑Minecraft档案的Perl库。
+
+
+Python NBT Parser
+Python
+可以用来编辑NBT结构的Python库。
+
+
+pymclevel
+Python
+可以用来编辑Minecraft关卡的Python库。MCEdit是在这个库上构建的。
+
+
+
+用于读写经典版地图的Java classes
+用于读写NBT架构的Java Class
+用于存取和编辑地图格式的C#程序库
+用于读取Minecraft档案的c++程序库，亦是c10t程序的一部分
+用于读写NBT结构的C程序库
+用于读写Minecraft档案的Perl程序库
+用于读写NBT架构的Python程序库
+用于读写编辑Alpha版本档案的Python程序库
+OpenCraft IO, JNBT, 和模型程序库，用于掌控所有东西
+
+Mod建立工具[编辑 | 编辑源代码]
+
+Minecraft编辑者包即Minecraft Coder Pack，简称MCP，用于建立和编辑所有单机或多人Mod的基本程序。
+Techne - 模型架构器：用于建立能用于游戏的自创模型，并且能使用基本模型的程序。
+FMCModeler 用于建立能用于游戏的自创模型, 亦可从Java程序代码建构出模型（有一些限制）。以Glash写成。此程序似乎已经放弃开发, 但依然可以用于CustomRenderer。
+
+服务器协议[编辑 | 编辑源代码]
+Classic服务器协议用于建立Minecraft Classic服务器。 若需要关于Minecraft Beta版的服务器协议相关信息，请参照Minecraft Coalition Wiki。
+资源[编辑 | 编辑源代码]
+程序[编辑 | 编辑源代码]
+
+
+网址
+程序
+操作系统
+备注
+
+
+http://www.delorie.com/djgpp/
+Djgpp，专供Windows系统的GCC
+Windows
+
+
+
+http://www.cygwin.com/
+Cygwin,在Windows系统的Linux模擬器 (Unix环境)
+Windows
+对Windows用户很有帮助
+
+
+http://www.microsoft.com/express/
+Microsoft Visual Studio Express
+Windows
+Visual Studio免费版, 一个用于C++、C#和Visual Basic的IDE和编译程序。
+
+
+http://java.sun.com/javase/downloads/index.jsp
+Java开发工具包下载
+跨平台
+若您需要执行Java程序代码，这是必须的。
+
+
+
+
+由 Mojang AB，4J Studios和Telltale Games开发的Minecraft
+
+
+帮助
+
+
+菜单界面
+控制
+选项
+教程
+FAQ
+
+
+
+
+技术
+
+
+漏洞
+
+PC版
+
+启动器
+Minecraft API
+
+
+携带版
+主机版
+
+
+硬件
+
+PC版硬件要求
+PC版硬件性能
+携带版 硬件性能
+
+
+方块实体值
+命令
+崩溃
+数据值
+
+Classic
+携带版
+
+
+调试屏幕
+样式代码
+键控代码
+启动器
+.minecraft
+
+minecraft.jar
+
+
+options.txt
+截屏
+种子
+统计
+刻
+出生点区块
+坐标
+
+
+
+开发资源
+
+
+Anvil文件格式
+区块格式
+结构生成格式
+世界格式
+地图（物品）格式
+方块模型
+NBT格式
+Player格式
+携带版世界格式
+Region文件格式
+Schematic文件格式
+记分板格式
+服务器列表格式
+sounds.json
+Villages.dat格式
+
+
+
+
+过去的开发资源
+
+
+Classic 地图格式
+Classic 服务器协议
+Indev 地图格式
+Alpha 地图格式
+Server_level.dat
+
+
+
+
+
+
+
+多人游戏
+
+
+服务器
+Minecraft Realms
+服务器列表
+Server.properties
+服务器需求
+
+
+
+
+游戏定制
+
+
+披风
+Mods
+
+定制服务器
+
+
+辅助程序与编辑器
+资源包
+
+混搭套件
+
+
+皮肤
+
+皮肤包
+
+
+材质包
+
+主机版材质包
+
+
+
+
+
+
+版本
+
+
+
+PC版
+
+
+演示版
+
+位置
+
+
+PC Gamer 演示版
+4k
+2013年愚人节玩笑
+2015年愚人节玩笑
+2016年愚人节玩笑
+教育版
+
+
+
+
+主机版
+
+
+
+
+Xbox 360版
+Xbox One版
+PlayStation 3版
+PlayStation 4版
+PlayStation Vita版
+
+
+Wii U版
+
+
+
+
+
+携带版
+
+Windows 10版
+
+
+树莓派版
+
+
+
+
+官方周边
+
+
+Gameband
+J!NX 商店
+乐高 Minecraft
+Mattel 商店
+Mine Chest
+Minecraft图书
+ThinkGeek商店
+Threadless商店
+
+
+
+
+其它
+
+
+彩蛋
+终末之诗
+Herobrine
+MineCon
+Minecraft: 故事模式
+Mojang的故事（The Story of Mojang）
+未命名的Minecraft电影
+
+
+
+
+
+
+
+
+
+
+
+					
+						取自“http://minecraft-zh.gamepedia.com/index.php?title=开发资源&amp;oldid=113422”					
+				分类：MinecraftDevelopment				
+							
+						
+				
+								
+									
+								
+
+				
+								
+					
+
+				
+				
+				
+					
+				
+				
+								
+									
+								
+			
+			
+						
+						
+				
+
+			
+						
+			
+						
+							
+						
+		
+		
+			导航菜单
+
+			
+								
+										
+						命名空间
+						
+															页面
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	大马简体
+																	新加坡简体
+																	台灣正體
+															
+						
+					
+										
+						分享
+						
+							
+				
+					
+				
+						
+					
+									
+				
+										
+						视图
+						
+															查看
+															编辑
+															编辑源代码
+															历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Minecraft Wiki
+
+			
+									
+						首页社区主页计划Wiki条例Wiki手册标准译名列表Wiki贡献排名最新更改随机页面管理员告示板					
+							
+		
+			
+			Minecraft
+
+			
+									
+						官方网站社区论坛Mojang博客Mojang客服漏洞追踪推特主页Facebook主页YouTube频道					
+							
+		
+			
+			常用页面
+
+			
+									
+						方块物品合成烧炼附魔药水酿造生物交易红石电路资源包Mods					
+							
+		
+			
+			Gamepedia
+
+			
+									
+						Gamepedia论坛帮助Wiki联系我们					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改特殊页面打印版本固定链接页面信息					
+							
+		
+			
+			其他语言
+
+			
+									
+						DeutschEnglishEspañolFrançaisMagyar日本語한국어NederlandsРусский					
+							
+		
+			
+			
+
+			
+				
+						
+						
+								
+		
+				
+		
+		
+							
+											 本页面最后修改于2016年4月28日 (星期四) 14:05。
+											除非另有声明，本网站内容采用CC BY-NC-SA 3.0授权。Minecraft content and materials are trademarks and copyrights of Mojang and its licensors.  All rights reserved.
+This site is a part of Curse, Inc. and is not affiliated with Mojang.
+									
+							
+											关于Minecraft Wiki
+											免责声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+	
+	
+
+		
+	
+				Gamepedia powered by Curse
+		
+			Facebook
+			Twitter
+			Youtube
+			Newsletter
+		
+					
+									Sign In
+									Register
+										Careers
+			Help
+					
+			
+					About Curse
+			Advertise
+			Terms of Service
+			Privacy Policy
+		
+		Copyright 2005-2016, Curse Inc.
+	
+			
+					
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+			
+	
+

@@ -1,0 +1,313 @@
+
+
+
+
+矮人要塞 - 维基百科，自由的百科全书
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+
+			矮人要塞
+									
+									维基百科，自由的百科全书
+								
+												
+					跳转至：					导航、					搜索
+				
+				
+
+
+
+
+
+
+矮人要塞
+
+
+
+
+
+类型
+roguelike、經營模擬
+
+
+平台
+視窗、Mac OS X、Linux
+
+
+开发
+塔恩·亞當斯（Tarn Adams）
+
+
+发行
+Bay 12 Games
+
+
+设计师
+塔恩·亞當斯
+札克·亞當斯（Zach Adams）
+
+
+模式
+單人遊戲
+
+
+发行日
+2006年8月8日
+
+
+《矮人要塞》（英语：Slaves to Armok: God of Blood Chapter II: Dwarf Fortress，全名“亞莫之奴：神與血第二章：矮人要塞”）是兼有經營模擬和rougelike特徵的獨立製作遊戲。遊戲為免費軟體，在2002年開始開發，2006年alpha版釋出，之後每隔2~3年有較大的更新。製作人是塔恩·亞當斯和札克·亞當斯兄弟，兩人只靠玩家的捐款過活。遊戲用特定演算法隨機產生奇幻世界，玩家控制一群矮人建立一個地底要塞，或是控制一個人物在這個世界中遊蕩。評論家對遊戲的極端複雜度和衍生玩法給予正面評價，但對其難度反應不一。此遊戲是我的世界的重要靈感來源，並在2012年被選入紐約現代藝術博物館的電玩史展出。
+遊戲使用延伸ASCII圖象作為介面但玩家可以用簡單的圖案取代之。遊戲是開放的，沒有特定目的。在開始玩之前，程式會先必須產生一個有海洋、陸地、氣候、生物相、歷史、人物的地圖。要塞模式讓玩家在地圖上找一個地點建立要塞，對抗自然環境和敵人，創造財富，並照顧矮人的食衣住行育樂。每個矮人有自己的個性、宗教、性向、體質、偏好、和工作技能。冒險模式是回合制的roguelike角色扮演遊戲，玩家在這個世界中自由探索、交易、接受任務，甚至可以去參觀要塞。戰鬥過程包括解剖學細節，可以刺穿各個內臟、挫傷脂肪、割斷血管造成失血、或砍斷四肢。
+在矮人要塞之前，塔恩·亞當斯做的是「亞莫之奴：神與血」，是一個等角立體的遊戲。到2004年，遊戲太難維持，亞當斯把重心轉到矮人要塞。亞當斯稱矮人要塞是他的畢生事業，並在2011年說遊戲的1.0版可能要再過20年才會完成，而且就算到那時候他也會繼續開發。矮人要塞有一群小眾支持者和活躍的網路社群。因為遊戲沒有最終目標，幾乎每一場遊戲最後都會滅亡，因此社群中有個非官方的口號：輸了才好玩（losing is fun）。
+
+
+
+目录
+
+
+1 遊戲內容
+
+1.1 產生世界
+1.2 要塞模式
+1.3 冒險模式
+
+
+2 開發
+3 評價
+4 影響
+5 參考資料
+6 外部連結
+
+
+
+遊戲內容[编辑]
+遊戲背景是一個有魔法和怪物的奇幻世界。遊戲發生在一個用演算法產生的世界，玩家可以經營一個由矮人居住的要塞，或是控制單一人物在這個世界中遊盪。
+產生世界[编辑]
+玩矮人要塞的第一步是產生一個用來進行遊戲的世界。一個世界一次只能進行一場遊戲。[1]
+玩家可以設定世界的大小、蠻荒程度、礦物豐富度、歷史長度等參數[2]。程式用隨機中點位移法（midpoint displacement algorithm）產生三維地形[1]（包括地下洞窟和上百種礦石的分佈）及各地的雨量，然後依此模擬河流、瀑布和湖泊、以及侵蝕作用。河流和地下水接近海邊時，還要考慮鹽度。接下來程式考量的是季風、地形雨等更複雜的氣候現象，調整各地的雨量。再來，依據緯度和更多亂數及碎形，各地圖有了氣溫，並隨機分為善良、中性或邪惡，有了氣候和善惡之後，就可以依此區分為不同的生態群落（biome），並填入動植物相：善良的溫帶草原會有獨角獸、鴿子、蘋果樹和野草苺，邪惡的熱帶沼澤會有鳥妖、老虎、莎草和紅樹林。再來各地會產生人類、精靈、矮人、或哥布林的文明。河流和群落會被隨機取名，用的是系統預先存好的人類、精靈、矮人或哥布林語字典。電腦接著會模擬文明的歷史，包括國家領土和宗教的勢力的範團、糧食產量、人口、人物的生死和互動、各種物品的製作和轉手、城市的建立、外交和戰爭等等。[3][4][5] [6][1][2]
+要塞模式[编辑]
+要塞模式是最主要的模式，玩家指揮一支由7個矮人組成的小隊，要在剛產生的地圖上選一個地點建立要塞。這7個矮人必須先挖出一個洞穴供棲身，然後一邊在外砍樹、採集食物、打獵，一邊在洞穴裡造床給大家睡、料理食物、釀酒、製造桶子來裝食物。挖洞穴產生的各種石頭有的可以用來蓋工作坊以進行上述工作、或是製造門來分隔房間、或是做成衣櫃等家具給每個房間用，有的是金屬礦石可以在熔爐熔成金條、鐵條、鋁條，或甚至青銅和鋼等合金，做成金幣、鐵門、鋁鍊、青銅雕像和鋼刀等器具，但是要能用熔爐之前，要先把一些砍來的木頭燒成木炭當作燃料，或是先挖到岩漿以便用地熱取代燃料，另外如果挖到的是寶石，在切割研磨後可以鑲嵌在前面製作的家具和工具上。
+冒險模式[编辑]
+冒險模式是rouguelike的角色扮演遊戲。
+開發[编辑]
+遊戲最初的版本在2006年釋出，持續開發至今。遊戲全部由塔恩·亞當斯和他的弟弟開發。兩人靠玩家的捐款生活。[7]
+亞當斯曾表示這是個永遠開發不完的遊戲，他永遠會有新的東西想要加入。[8]
+評價[编辑]
+矮人要塞因為複雜的細節、自動產生的世界、開放世界（open world）、新生玩法（emergent gameplay）、困難的介面而受到矚目。[9][10][11][12]有人將矮人要塞和模擬城市、模擬人生、Dungeon Keeper和NetHack等遊戲並列比較[6][11][13]。
+純文字的界面是遊戲難以上手的原因之一，但也強迫玩家必須靠自己的想像，而使遊戲更吸引人。[11][14]
+影響[编辑]
+矮人要塞影響了我的世界，有些評論者認為我的世界是界面比較友善的矮人要塞[15][11][16]。亞當斯表示他很感激我的世界的開發者有提到他的遊戲，而吸引更多玩家接觸[7]。魔獸世界中有出現向矮人要塞致敬的內容[11]。
+2013年3月，紐約現代藝術博物館展出了矮人要塞[17]。館長表示他對遊戲的漂亮的美感和難以置信的複雜度感到驚奇[11]。
+FTL:超光速（FTL: Faster Than Light）和發條帝國（Clockwork Empires）等遊戲都受到矮人要塞的啟發。[18] [19]
+參考資料[编辑]
+
+
+^ 1.0 1.1 1.2 Graham Smith. Dwarf Fortress: The Detailed Roguelike That's Easy To Play. Rock, Paper, Shotgun. 16 April 2014 [14 May 2014]. （原始内容存档于2014-07-09）.&#160;
+^ 2.0 2.1 Tyson 2012, pp.&#160;9–14.
+^ Moore, Bo. Now You Can Play Dwarf Fortress in Real-Time 3-D. Wired. July 2014 [24 July 2014].&#160;
+^ Hall, Charlie. Dwarf Fortress will crush your CPU because creating history is hard. Polygon. 23 July 2014 [30 July 2014]. （原始内容存档于2014-09-08）.&#160;
+^ Josh Harris. Interview: The Making Of Dwarf Fortress. Gamasutra. 27 February 2008 [17 April 2014]. （原始内容存档于2014-05-11）.&#160;
+^ 6.0 6.1 Steve Hogarty. Dwarf Fortress diary: How seven drunks opened a portal to Hell p:1. PC Gamer. August 2011 [17 April 2014]. （原始内容存档于2014-07-27）.&#160;
+^ 7.0 7.1 Mike Rose. Dwarf Fortress in 2013. Gamasutra. 2 July 2013 [18 April 2014]. （原始内容存档于2014-05-11）.&#160;
+^ Ellsworth, Craig. Dwarf Fortress: A game that will live forever?. IndieGames.com. 24 March 2013 [24 July 2014]. （原始内容存档于2013-06-02）.&#160;
+^ Johnston, Casey. Dwarf Fortress: Ten hours with the most inscrutable video game of all time. Ars Technica. 25 February 2013 [12 May 2014]. （原始内容存档于2014-08-12）.&#160;
+^ Alex Spencer. A History of Roguelikes in 6 Free Games. IGN. 26 Dec 2013 [15 May 2014]. （原始内容存档于2014-04-13）.&#160;
+^ 11.0 11.1 11.2 11.3 11.4 11.5 Johah Weiner. The Brilliance of Dwarf Fortress. The New York Times. 21 July 2011 [27 May 2012].&#160;
+^ Meeks, Elijah. Procedural Humanities - An Interview with Tarn Adams, Creator of Dwarf Fortress. HASTAC. 11 May 2010 [19 June 2014]. （原始内容存档于2014-02-01）.&#160;
+^ Mastrapa, Gus. Elaborate, Sprawling Freeware Dwarf Fortress Updated. Wired. April 2010 [14 May 2014]. （原始内容存档于2014-08-15）.&#160;
+^ Senior, Tom. Explore your Dwarf Fortress dungeon in Minecraft. PC Gamer. September 2010 [14 May 2014].&#160;
+^ Daniel Goldberg; Linus Larsson. The Amazingly Unlikely Story of How Minecraft Was Born. Wired. September 2013 [10 June 2014].&#160;
+^ Luke Plunkett. The PC's Best Free Games Right Now. Kotaku. 12 November 2010 [15 May 2014].&#160;
+^ Eddie Makuch. Museum of Modern Art opening game gallery. Gamespot. 29 November 2012 [10 June 2014].&#160;
+^ Pearson, Dan. Where I'm @: A Brief Look At The Resurgence of Roguelikes. GameIndustry.biz. 31 January 2013 [24 July 2014]. （原始内容存档于2014-09-03）.&#160;
+^ Lahti, Evan. Interview: Gaslamp Games' mad, incredible vision for Clockwork Empires. PC Gamer. August 2012 [25 July 2014]. （原始内容存档于2014-03-27）.&#160;
+
+
+
+Tyson, Peter. Getting Started with Dwarf Fortress: Learn to play the most complex video game ever made. "O'Reilly Media, Inc.". 2012. ISBN&#160;978-1-4493-1494-1.&#160;
+
+外部連結[编辑]
+
+官方網站
+
+
+
+
+
+
+
+
+					
+						取自“https://zh.wikipedia.org/w/index.php?title=矮人要塞&amp;oldid=38972593”					
+				分类：2006年电子游戏奇幻电子游戏免費遊戲独立游戏Linux遊戲OS X遊戲Roguelike游戏Windows游戏建造與經營模擬遊戲僅有單人模式的電子遊戲開放世界遊戲				
+							
+		
+		
+			导航菜单
+
+			
+									
+						个人工具
+						
+							没有登录讨论贡献创建账户登录						
+					
+									
+										
+						命名空间
+						
+															条目
+															讨论
+													
+					
+										
+												
+							不转换
+						
+
+						
+							
+																	不转换
+																	简体
+																	繁體
+																	大陆简体
+																	香港繁體
+																	澳門繁體
+																	马新简体
+																	台灣正體
+															
+						
+					
+									
+				
+										
+						视图
+						
+															阅读
+															编辑
+															查看历史
+													
+					
+										
+						更多
+
+						
+							
+															
+						
+					
+										
+						
+							搜索
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			导航
+
+			
+									
+						首页分类索引特色内容新闻动态最近更改随机条目					
+							
+		
+			
+			帮助
+
+			
+									
+						帮助维基社群方针与指引互助客栈知识问答字词转换IRC即时聊天联络我们关于维基百科资助维基百科					
+							
+		
+			
+			在其他项目中
+
+			
+									
+						维基共享资源					
+							
+		
+			
+			工具
+
+			
+									
+						链入页面相关更改上传文件特殊页面打印页面固定链接页面信息维基数据项引用本页					
+							
+		
+			
+			其他语言
+
+			
+									
+						ČeštinaDeutschEnglishEspañolSuomiFrançaisÍslenskaItalianoქართულიLietuviųPolskiРусскийУкраїнська					
+				编辑链接			
+		
+				
+		
+		
+							
+											 本页面最后修订于2016年2月4日 (星期四) 06:36。
+											本站的全部文字在知识共享 署名-相同方式共享 3.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+Wikipedia&reg;和维基百科标志是维基媒体基金会的注册商标；维基&trade;是维基媒体基金会的商标。
+维基媒体基金会是在美国佛罗里达州登记的501(c)(3)免税、非营利、慈善机构。
+									
+							
+											隐私政策
+											关于维基百科
+											免责声明
+											开发者
+											Cookie声明
+											手机版视图
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+

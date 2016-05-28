@@ -1,0 +1,758 @@
+
+
+
+
+Amazon Fire TV - Wikipedia, the free encyclopedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+			
+
+							
+						
+
+			Amazon Fire TV
+									
+									From Wikipedia, the free encyclopedia
+								
+												
+					Jump to:					navigation, 					search
+				
+				
+Amazon Fire TV
+
+
+
+
+
+Amazon Fire TV with remote
+
+
+
+Developer
+Amazon.com
+
+
+Manufacturer
+Amazon.com
+
+
+Type
+Digital media player, microconsole
+
+
+Release date
+
+
+USA April 12, 2014
+DE September 25, 2014[1]
+UK October 23, 2014[1]
+JP October 28, 2015[2]
+
+
+
+
+Introductory price
+US$99[3]
+
+
+Operating system
+Fire OS 3.0 "Mojito"[4]
+
+
+System-on-chip used
+Qualcomm Snapdragon 600 APQ8064T[5]
+
+
+CPU
+Qualcomm Krait 300, quad-core to 1.7 Ghz[5]
+
+
+Memory
+2&#160;GB LPDDR2 RAM[5]
+
+
+Storage
+8&#160;GB internal[5]
+
+
+Display
+1080p and 4K[5]
+
+
+Graphics
+Qualcomm Adreno 320[5]
+
+
+Sound
+Dolby Digital Plus 7.1 surround sound[5]
+
+
+Connectivity
+HDMI, Bluetooth 4.0, USB 2.0, Wi-Fi (802.11a/b/g/n/ac), 10/100 Ethernet, Optical audio, Fire game controller[5]
+
+
+Power
+5.5&#160;mm DC[5] (6.25&#160;V 2.5&#160;A power adapter[6])
+
+
+Dimensions
+115&#160;×&#160;115&#160;×&#160;17.5&#160;mm (4.53&#160;×&#160;4.53&#160;×&#160;0.69&#160;in)[5]
+
+
+Weight
+281&#160;g (9.9&#160;oz)[5]
+
+
+Related articles
+Roku, Apple TV, Chromecast, Ouya
+
+
+Website
+Amazon Fire TV
+
+
+Amazon Fire TV refers to two generations of digital media players and microconsoles developed by Amazon.com.[7][8] It is a small network appliance and entertainment device designed to stream digital audio/video content to a high-definition television. The device also allows users to play video games with the included remote, via a mobile app, or with an optional game controller. The first-generation device featured 2&#160;GB of RAM, MIMO dual-band Wi-Fi, and a Bluetooth remote control with a microphone for voice search. It supported 1080p streaming and Dolby Digital Plus 7.1 surround sound but was dependent on internet bandwidth of the user. Unveiled on April 2, 2014, the Amazon Fire TV (1st Generation) was made available for purchase in the US the same day for US$99 and was launched with a video game called Sev Zero.[3] In 2015, the Amazon Fire TV (2nd Generation) was released with improved processor speed and 4K UHD support.[9] Amazon Fire TV is also available in the United Kingdom, Germany, and Japan.
+
+
+
+Contents
+
+
+1 Design
+2 Hardware
+
+2.1 Fire TV Stick
+
+
+3 Software
+
+3.1 Updates
+
+
+4 Reception
+5 2nd Generation
+6 See also
+7 References
+8 External links
+
+
+
+Design[edit]
+The developmental code name of the Fire TV was Bueller, named after the eponymous character from Ferris Bueller's Day Off.[10]
+Hardware[edit]
+The Fire TV offers HDMI and optical audio, with support for Dolby Digital Plus and 7.1 surround sound pass-through, along with an Ethernet port and a USB 2.0 port. According to Amazon, the Fire TV is designed to outpace competitors like the Apple TV and Roku in performance: The 0.7-inch-thick box features a 1.7&#160;GHz quad-core CPU, 2&#160;GB of RAM and 8&#160;GB of internal storage, along with a dual-band wireless radio for 1080p streaming over 802.11a/b/g/n Wi-Fi. The Fire TV now supports 4K Ultra High Definition streaming quality when used with compatible 4K Ultra HD TVs.[11] The company said that it does not intend the Fire TV to compete with gaming consoles; instead, its gaming capabilities are geared toward people who don't already own a console but may play games on a smartphone or tablet. It has a dedicated controller accessory.[4]
+Fire TV Stick[edit]
+On November 19, 2014, Amazon released a smaller version of the Fire TV called the Fire TV Stick. It is a HDMI-port plug-in device that replicates much of the functionality of the larger Fire TV.[12] Its hardware is slightly different, it has 1 GB of RAM, 8 GB of storage, weighs 0.9 oz. (25.1g) and it uses a BCM28145 1.2 GHz Cortex-A9 processor[13] The Fire TV Stick is bundled with a TV remote, a model with voice search on the remote and one without.
+Software[edit]
+The device initially ran Fire OS 3.0, based on Android Jelly Bean 4.2. According to Amazon, that made it "simple for developers to port their services and games over to Fire TV."[4]
+Updates[edit]
+On March 24, 2015, Amazon announced an update to the Fire TV software to provide the following additional features which address some of the concerns raised in early reviews:[14]
+
+Expandable USB storage on Amazon Fire TV, the user can connect a USB mass storage device to expand the Fire TV storage.
+Connect to the user's hotel or dorm room Wi-Fi with captive portal support, which enables the user to connect to Wi-Fi that requires web authentication—this includes Wi-Fi at most major hotels, as well as some universities.
+Private listening on Fire TV, adds support for wireless Bluetooth headphones to Fire TV.
+Browse and search Prime Playlists—Prime members can now take advantage of Prime Music playlists from Fire TV with hundreds of expertly curated Prime Playlists to pick between.
+Hidden PIN entry, the PIN entry screen hides the numbers selected.
+New shortcuts puts the users' Fire TV to sleep or enable display mirroring by pressing and holding the Home button on the remote.
+
+Reception[edit]
+Dan Seifert from The Verge reviewed Fire TV on April 4, 2014, giving it an 8.8/10 and largely praising its current functionality and future potential.[15] Dave Smith from ReadWrite wrote: "Fire TV aims to be the cure for what ails TV set-top boxes."[16] GeekWire editor Andy Liu's review is headlined "Amazon's Fire TV sets a new bar for streaming boxes."[17] Ars Technica praised the device specs that are better than the competition, the build quality was high, and if you use Amazon content, the microphone works very well. However, the reviewer did not like that media browsing puts Amazon content in the front thus making other apps less convenient, the game selection is limited and many games are unoptimized, and its free space is only 5.16GB, limiting the amount of games that can be installed.[18]
+2nd Generation[edit]
+Amazon released a 2nd Generation Fire TV in late-2015. The 2nd generation features 4K UHD support, improved processor performance and a MediaTek chipset to support the H.265 (HEVC) codec.[19]
+See also[edit]
+
+Comparison of set-top boxes
+Smart TV
+
+References[edit]
+
+
+^ a b "Amazon Fire TV now available for pre-order in the UK and Germany".&#160;
+^ "Amazon Fire TV &amp; Fire TV Stick Coming to Japan".&#160;
+^ a b Horn, Leslie (April 2, 2014). "Fire TV: Everything You Need to Know About Amazon's $100 Streaming Box". Gizmodo. Gawker Media. Retrieved April 2, 2014.&#160;
+^ a b c "Amazon unveils $99 Fire TV, set-top box for games and streaming video". Polygon.com. Retrieved April 2, 2014.&#160;
+^ a b c d e f g h i j k "Amazon Fire TV&#160;–Streaming Media Player&#160;–Shop Now". Amazon.com. Retrieved April 2, 2014.&#160;
+^ https://s3-us-west-2.amazonaws.com/customerdocumentation/Amazon_Fire_TV_User_Guide.pdf
+^ Solomon, Kate. "Amazon Fire TV is Amazon's powerful new streaming box". Techradar.com. Retrieved April 2, 2014.&#160;
+^ Tam, Donna. "Amazon unveils Amazon Fire TV for streaming video". CNET. Retrieved April 2, 2014.&#160;
+^ James, Dave. "Amazon Fire TV review". techradar. Retrieved 17 May 2016.&#160;
+^ "Amazon's Fire TV Piles Into the Living Room". Businessweek. 2014-04-02. Retrieved 2014-04-17.&#160;
+^ "Amazon Fire TV". Amazon.com. Retrieved September 17, 2015.&#160;
+^ "How Amazon's Fire TV Stick Compares to Other Streaming Dongles - WIRED". WIRED.&#160;
+^ Fire TV Stick - Official Site. Retrieved 8 July 2015.
+^ "Amazon Announces New Features for Amazon Fire TV and Fire TV Stick". Amazon. 2015-03-24. Retrieved 2015-05-27.&#160;
+^ Seifert, Dan (2014-04-04). "Amazon Fire TV review". The Verge. Retrieved 2014-04-21.&#160;
+^ "Review: The Amazon Fire TV Is Kind Of A Mess – ReadWrite".&#160;
+^ Liu, Andy. "Review: Amazon's Fire TV sets a new bar for streaming boxes". GeekWire. Retrieved 2014-04-21.&#160;
+^ Amazon Fire TV misses the same marks as Ouya, other media boxes. Ars Technica. Retrieved 1 July 2014.
+^ James, Dave. "Amazon Fire TV review". techradar. Retrieved 17 May 2016.&#160;
+
+
+External links[edit]
+
+Amazon Fire TV on Amazon.com
+For the First Time Ever, X-Ray for Movies and TV Shows Now Available Directly on Your TV
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Home theater PC software, devices, and related articles
+
+
+
+
+
+
+Windows
+
+
+
+Beyond TV
+DVBViewer
+NextPVR (formerly GB-PVR)
+JRiver Media Center
+MediaPortal
+ShowShifter
+Windows Media Center
+
+
+
+
+
+
+
+
+OS X
+
+
+
+Front Row
+
+
+
+
+
+
+
+
+Linux
+
+
+
+GeeXboX
+LinuxMCE
+MythTV
+Mythbuntu
+OpenELEC
+Video Disk Recorder
+
+
+
+
+
+
+
+
+Cross-platform
+
+
+
+Kodi (formerly XBMC)
+Plex
+SageTV
+Serviio
+
+
+
+
+
+
+
+
+Set-top boxes,
+Digital media receivers
+
+
+
+Android TV
+Apple TV
+Boxee Box
+Chromecast
+Dreambox
+Ericsson Mediaroom
+Google TV
+Hauppauge MediaMVP
+HP MediaSmart Connect
+Netgear Digital Entertainer
+ReplayTV
+Roku
+TiVo
+WD TV
+Windows Media Center Extender
+
+
+
+
+
+
+
+
+Related hardware
+
+
+
+ATI Theater Cards
+Elgato EyeTV devices
+Hauppauge Computer Works WinTV PVR Cards
+HDHomeRun
+Mac Mini
+Quiet PC
+Touchscreen remote control
+VBox Home TV Gateway
+
+
+
+
+
+
+
+
+Related articles
+
+
+
+10-foot user interface
+Comparison of audio player software
+Comparison of video player software
+Digital Living Network Alliance
+Digital media receiver
+Home cinema
+Home theater PC
+Hybrid IPTV
+Internet television
+Media server
+Set-top box
+Smart TV
+Video player
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Video game consoles (Eighth generation)
+
+
+
+
+
+
+Types
+
+
+
+Home video game console
+
+list
+
+
+Handheld game console
+
+list
+
+
+Microconsole
+
+list
+
+
+Dedicated console
+
+list
+
+
+
+
+
+
+
+
+
+
+Generations
+
+
+
+First (1972–80)
+Second (1976–92)
+Third (1983–2003)
+Fourth (1987–2003)
+Fifth (1993–2005)
+Sixth (1998–2013)
+Seventh (2005–)
+Eighth (2012–)
+
+
+
+
+
+
+
+
+Eighth
+generation
+
+
+
+
+Home
+
+
+
+PlayStation 4
+Wii U
+Xbox One
+
+
+
+
+
+
+
+
+Handheld
+
+
+
+Nintendo 3DS family
+
+Nintendo 3DS
+2DS
+New 3DS
+
+
+PlayStation Vita
+
+
+
+
+
+
+
+
+Micro
+
+
+
+Amazon Fire TV
+GamePop
+GameStick
+MOJO
+Nexus Player
+OnLive
+Ouya
+PlayStation TV
+Razer ForgeTV
+Shield Android TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+← Seventh generation
+Other generation →
+
+Emulator
+Game
+List
+Manufacturer
+Timeline
+War
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Microconsoles
+
+
+
+
+
+
+2010
+
+
+
+OnLive
+
+
+
+
+
+
+
+
+2013
+
+
+
+GameStick
+MOJO
+Ouya
+PlayStation TV
+
+
+
+
+
+
+
+
+2014
+
+
+
+Amazon Fire TV
+Nexus Player
+
+
+
+
+
+
+
+
+2015
+
+
+
+Apple TV (4th Gen)
+GamePop
+Razer ForgeTV
+Shield Android TV
+
+
+
+
+
+
+
+
+
+List
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Amazon_Fire_TV&amp;oldid=720755514"					
+				Categories: Amazon.comProducts introduced in 2014Streaming media systemsNetworking hardwareDigital media playersMicroconsolesEighth-generation video game consolesSmart TV				
+							
+		
+		
+			Navigation menu
+
+			
+									
+						Personal tools
+						
+							Not logged inTalkContributionsCreate accountLog in						
+					
+									
+										
+						Namespaces
+						
+															Article
+															Talk
+													
+					
+										
+												
+							Variants
+						
+
+						
+							
+															
+						
+					
+									
+				
+										
+						Views
+						
+															Read
+															Edit
+															View history
+													
+					
+										
+						More
+
+						
+							
+															
+						
+					
+										
+						
+							Search
+						
+
+						
+							
+														
+						
+					
+									
+			
+			
+				
+						
+			Navigation
+
+			
+									
+						Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store					
+							
+		
+			
+			Interaction
+
+			
+									
+						HelpAbout WikipediaCommunity portalRecent changesContact page					
+							
+		
+			
+			Tools
+
+			
+									
+						What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page					
+							
+		
+			
+			Print/export
+
+			
+									
+						Create a bookDownload as PDFPrintable version					
+							
+		
+			
+			Languages
+
+			
+									
+						Português					
+				Edit links			
+		
+				
+		
+		
+							
+											 This page was last modified on 17 May 2016, at 19:49.
+											Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+									
+							
+											Privacy policy
+											About Wikipedia
+											Disclaimers
+											Contact Wikipedia
+											Developers
+											Cookie statement
+											Mobile view
+									
+										
+											
+													
+											
+													
+									
+						
+		
+		
+	
+
